@@ -1,0 +1,12 @@
+metric  pearson  spearman
+final         +0.415699  +0.494095
+peak          +0.272670  +0.439609
+auc           +0.372681  +0.482023
+radius        +0.360334  +0.459102
+survival      +0.190697  +0.286666
+interaction   +0.410140  +0.522448
+
+Interpretation boundary:
+- dynamical propagation/nonlinearity correlate better with remote untrained-probe geometry than the simple local truth-table descriptors tested in Experiment 014;
+- they are still not sufficient explanations;
+- the target phenomenon is not equivalent to generic damage growth or generic chaos.
