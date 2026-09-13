@@ -1,0 +1,32 @@
+rule=14 second_order_cases=8 training_patterns=001,010,011,101
+rule=113 second_order_cases=9 training_patterns=001,010,011,101,111
+rule=142 second_order_cases=9 training_patterns=001,010,011,101,111
+rule=143 second_order_cases=3 training_patterns=010,100,110
+rule=159 second_order_cases=5 training_patterns=010,101
+rule=226 second_order_cases=1 training_patterns=011
+rule=126 second_order_cases=2 training_patterns=010,011
+rule=129 second_order_cases=2 training_patterns=010,011
+rule=98 second_order_cases=0 training_patterns=-
+rule=110 second_order_cases=0 training_patterns=-
+rule=151 second_order_cases=0 training_patterns=-
+
+Representative sensitivity case:
+Rule 14, train=001, bridge=010
+single-history bridge transition: same
+repeat-history bridge transition: coarsen
+base quotient:   {000} {001} {010,011} {100,110,111} {101}
+single after:    {000} {001} {010,011} {100,110,111} {101}
+repeat after:    {000} {001,010,011,100,110,111} {101}
+
+Representative stabilization case:
+Rule 126, train=010, bridge=010
+single-history bridge transition: coarsen
+repeat-history bridge transition: same
+base quotient:   {000} {001} {010} {011} {100} {101} {110} {111}
+single after:    {000} {001,011} {010} {100} {101} {110} {111}
+repeat after:    {000} {001} {010} {011} {100} {101} {110} {111}
+
+Rule 129 gives the same qualitative stabilization pattern for train=010 or 011 with bridge=101: the one-shot history coarsens the {100,110} probes while the repeated history remains fully separated.
+
+Interpretation boundary:
+The quotient and bridge assay are observer-defined. These are second-order operational distinctions, not a claim of metacognition or a mutable internal learning rule.
