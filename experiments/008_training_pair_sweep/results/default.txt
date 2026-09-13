@@ -1,0 +1,32 @@
+Default Rule 129 pair sweep summary:
+
+pairs=28
+min_L1_geometry_change=0.0986328125
+max_L1_geometry_change=0.70166015625
+pairs_with_L1_below_0.01=0
+
+Counts of untrained probe patterns with |geometry change| > 0.01:
+
+- 6/6: 10 training pairs
+- 5/6: 10 training pairs
+- 4/6: 4 training pairs
+- 3/6: 3 training pairs
+- 2/6: 1 training pair
+
+Top training pairs by L1 response-geometry change:
+
+- 011 vs 101: L1=0.70166015625, untrained 6/6
+- 001 vs 101: L1=0.6474609375, untrained 6/6
+- 000 vs 101: L1=0.61865234375, untrained 5/6
+- 101 vs 110: L1=0.56005859375, untrained 6/6
+- 010 vs 101: L1=0.55126953125, untrained 6/6
+
+Interpretation:
+
+The distributed response-geometry effect is not unique to the original 011/101 training pair. Every unordered 3-bit pair tested produced a nontrivial repetition-induced geometry change under the default assay.
+
+For most pairs, the effect also changes the response to at least four of the six probe patterns never used in training.
+
+This strengthens the interpretation that Rule 129 history is modulating a broad operational context rather than merely preserving one literal familiar bit pattern.
+
+It still does not distinguish a useful adaptive context from deterministic phase/domain dynamics. The next step should test whether this modulation has a lower-dimensional reusable structure or is essentially arbitrary high-dimensional residue.
