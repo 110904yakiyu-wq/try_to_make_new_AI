@@ -1,0 +1,45 @@
+Command:
+
+python run.py
+
+Selected transfer gains (repeat score - one-shot score):
+
+Rule 195:
+- offset 0:  +0.029785156
+- offsets 4..40: 0.0 (apart from an equal single/repeat effect at offset 32)
+
+Rule 153:
+- offset 0:  +0.029785156
+- offsets 4..40: 0.0
+
+Rule 203:
+- offset 0:  +0.011718750
+- offsets 4..40: 0.0
+
+Rule 129:
+- offset 0:  +0.018066406
+- offset 4:  +0.023437500
+- offset 8:  +0.003540039
+- offset 12: +0.008178711
+- offset 16: +0.017272949
+- offset 20: +0.017944336
+- offset 24: +0.010253906
+- offset 28: +0.015686035
+- offset 32: -0.015014648
+- offset 36: +0.000915527
+- offset 40: +0.000244141
+
+Rule 110:
+small mixed effects near offsets 0..8, approximately zero beyond that in this setup.
+
+Interpretation:
+
+The largest rule-sweep effects are not all alike.
+
+Rules 195, 153, and 203 look mostly like local residue / local phase memory under this assay: the repetition-specific component is concentrated at the training position.
+
+Rule 129 is qualitatively different. Its repetition-specific effect is distributed over a much wider causal region and changes sign near the advancing boundary.
+
+Rule 129 therefore becomes the first candidate worth inspecting beyond simple local residue.
+
+This is still not evidence of learning. Propagating deterministic phase information is an obvious alternative explanation.
