@@ -1,0 +1,35 @@
+Command:
+
+python run.py
+
+Top rules by absolute repetition gain:
+
+rule  repetition_gain  single_score  repeat_score
+ 195  +0.105468750  -0.050781250  +0.054687500
+ 153  +0.105468750  -0.050781250  +0.054687500
+ 129  +0.070312500  +0.005859375  +0.076171875
+ 203  +0.046875000  -0.007812500  +0.039062500
+ 118  -0.043945312  +0.038085938  -0.005859375
+ 181  -0.042968750  +0.031738281  -0.011230469
+ 145  -0.034667969  +0.012207031  -0.022460938
+ 167  -0.034179688  +0.034179688  +0.000000000
+ 199  +0.033203125  +0.000000000  +0.033203125
+ 151  +0.033203125  -0.000488281  +0.032714844
+ 219  +0.031250000  +0.000000000  +0.031250000
+ 133  +0.028808594  +0.007812500  +0.036621094
+  62  -0.026855469  +0.017578125  -0.009277344
+ 149  -0.026367188  -0.006835938  -0.033203125
+ 121  +0.024902344  +0.000488281  +0.025390625
+ 137  +0.024902344  -0.010253906  +0.014648438
+ 131  -0.024414062  +0.013183594  -0.011230469
+ 110  +0.021972656  -0.001464844  +0.020507812
+
+Interpretation:
+
+Rule 110 is not representative. Several completely fixed ECA rules show much larger repeat-count-dependent persistent effects under this assay.
+
+Therefore the inference "fixed local law is insufficient, so add a mutable rule field" is rejected for now.
+
+The next task is to determine whether the leading effects are only trivial local residue / phase memory or whether they alter later interactions in a distributed, transferable way.
+
+This sweep is exploratory and uses a small default ring with strided training positions. Rankings are not being treated as statistical evidence or as a claim of learning.
