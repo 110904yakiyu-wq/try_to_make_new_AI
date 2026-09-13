@@ -1,0 +1,32 @@
+Default Rule 129 mode-transfer result:
+
+Captured variance in target condition using source condition's top-two axes:
+
+source\target      baseline   offset12_t48   offset20_t40   offset20_t56
+baseline          0.877903      0.453754       0.404239       0.737236
+offset12_t48      0.457309      0.874320       0.369432       0.603404
+offset20_t40      0.445612      0.395552       0.857790       0.452362
+offset20_t56      0.599411      0.604514       0.490895       0.907773
+
+Relative capture compared with each target's own optimal top-two axes:
+
+source\target      baseline   offset12_t48   offset20_t40   offset20_t56
+baseline          1.000000      0.518979       0.471256       0.812137
+offset12_t48      0.520910      1.000000       0.430679       0.664709
+offset20_t40      0.507587      0.452411       1.000000       0.498321
+offset20_t56      0.682776      0.691411       0.572279       1.000000
+
+Interpretation:
+
+Every condition is strongly low-dimensional when allowed to choose its own top-two axes, but axes fitted in one condition often recover only about 43% to 69% of another condition's optimal two-mode variance. The closest pair here is baseline -> later probe time, at about 81% relative capture.
+
+Therefore the observed low-dimensional structure is not well described as one rigid two-dimensional latent coordinate system that is merely read out at different times/locations.
+
+A better observer-level description is currently:
+
+- low-dimensional organization repeatedly emerges;
+- its orientation is context-dependent;
+- some continuity exists across nearby conditions;
+- the organization is reconstructed rather than fixed.
+
+This is compatible with the working metastability metaphor, but it remains deterministic CA dynamics rather than evidence of cognition.
