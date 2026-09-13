@@ -1,0 +1,36 @@
+rule=98 same=6 refine=2 coarsen=0 reorganize=0
+rule=14 same=5 refine=1 coarsen=1 reorganize=1
+rule=113 same=6 refine=1 coarsen=0 reorganize=1
+rule=142 same=6 refine=1 coarsen=0 reorganize=1
+rule=226 same=7 refine=1 coarsen=0 reorganize=0
+rule=143 same=1 refine=4 coarsen=0 reorganize=3
+rule=126 same=8 refine=0 coarsen=0 reorganize=0
+rule=129 same=8 refine=0 coarsen=0 reorganize=0
+rule=110 same=8 refine=0 coarsen=0 reorganize=0
+rule=151 same=7 refine=0 coarsen=0 reorganize=1
+rule=159 same=3 refine=4 coarsen=0 reorganize=1
+
+Representative non-monotonic transitions:
+
+Rule 14, train=001, reorganize
+before: {000,100,110} {001,010,011} {101} {111}
+after : {000,100,101} {001,011} {010} {110} {111}
+
+Rule 113, train=001, reorganize
+before: {000} {001,010,011} {100} {101} {110} {111}
+after : {000} {001,011} {010} {100,101} {110} {111}
+
+Rule 143, train=010, reorganize
+before: {000,001,011,111} {010,100,101,110}
+after : {000} {001} {010,011,100,110,111} {101}
+
+Rule 151, train=011, reorganize
+before: {000,100} {001} {010} {011} {101} {110} {111}
+after : {000,001} {010} {011} {100} {101} {110} {111}
+
+Rule 159, train=101, reorganize
+before: {000,001,011,100,111} {010} {101} {110}
+after : {000,010,100} {001} {011,111} {101} {110}
+
+Interpretation boundary:
+The assay is fixed and only substrate history changes. The resulting quotient change is therefore history-induced, but the quotient is still an external observer construct. No metacognitive claim is made.
