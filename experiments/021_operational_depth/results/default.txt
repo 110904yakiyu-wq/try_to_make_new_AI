@@ -1,0 +1,94 @@
+Legend for exact_delay strings:
+  '=' current fixed quotient is equal under one-shot/repeated history
+  '!' current fixed quotient differs
+Positions correspond to exact delays 1..16.
+
+rule=98 eligible=6 first_depths=d1:3,d2:1,d3:1,d5:1 censored_gt_16=0
+  train=000 first=5   exact_delay=====!=======!===
+  train=001 first=3   exact_delay===!=!=!===!=!=!=
+  train=010 first=2   exact_delay==!==!!===!==!!==
+  train=100 first=1   exact_delay=!===!===!===!===
+  train=101 first=1   exact_delay=!=!=!=!=!=!=!=!=
+  train=110 first=1   exact_delay=!=!=!=!=!=!=!=!=
+
+rule=14 eligible=5 first_depths=d1:5 censored_gt_16=0
+  train=010 first=1   exact_delay=!!!!!!!!!!!!=!!!
+  train=011 first=1   exact_delay=!!!!!!!!!!!!=!!!
+  train=100 first=1   exact_delay=!!!!!!!=!!!=!!!=
+  train=110 first=1   exact_delay=!!!!!!!=!!!=!!!=
+  train=111 first=1   exact_delay=!!!!!!!=!!!=!!!=
+
+rule=113 eligible=6 first_depths=d1:6 censored_gt_16=0
+  train=000 first=1   exact_delay=!!==!!==!!==!!==
+  train=010 first=1   exact_delay=!!!!!!!!!!!!!!!!
+  train=011 first=1   exact_delay=!!!!!!!!!!!!!!!!
+  train=100 first=1   exact_delay=!!!=!!!=!!!=!!!=
+  train=110 first=1   exact_delay=!!!=!!!=!!!=!!!=
+  train=111 first=1   exact_delay=!!!!!!!!!!!!!!!!
+
+rule=142 eligible=6 first_depths=d1:6 censored_gt_16=0
+  train=000 first=1   exact_delay=!!==!!==!!==!!==
+  train=010 first=1   exact_delay=!!!!!!!!!!!!!!!!
+  train=011 first=1   exact_delay=!!!!!!!!!!!!!!!!
+  train=100 first=1   exact_delay=!!!=!!!=!!!=!!!=
+  train=110 first=1   exact_delay=!!!=!!!=!!!=!!!=
+  train=111 first=1   exact_delay=!!!!!!!!!!!!!!!!
+
+rule=226 eligible=7 first_depths=d1:4,d2:1,d3:1 censored_gt_16=1
+  train=000 first=>16 exact_delay=================
+  train=001 first=3   exact_delay===!===!===!===!=
+  train=010 first=2   exact_delay==!===!===!===!==
+  train=100 first=1   exact_delay=!===!===!===!===
+  train=101 first=1   exact_delay=!=!=!=!=!=!=!=!=
+  train=110 first=1   exact_delay=!=!=!=!=!=!=!=!=
+  train=111 first=1   exact_delay=!=!=!=!=!=!=!=!=
+
+rule=143 eligible=1 first_depths=d3:1 censored_gt_16=0
+  train=111 first=3   exact_delay===!=!====!!=!===
+
+rule=126 eligible=8 first_depths=d1:1 censored_gt_16=7
+  train=000 first=>16 exact_delay=================
+  train=001 first=>16 exact_delay=================
+  train=010 first=>16 exact_delay=================
+  train=011 first=>16 exact_delay=================
+  train=100 first=1   exact_delay=!===============
+  train=101 first=>16 exact_delay=================
+  train=110 first=>16 exact_delay=================
+  train=111 first=>16 exact_delay=================
+
+rule=129 eligible=8 first_depths=d1:1,d8:1 censored_gt_16=6
+  train=000 first=>16 exact_delay=================
+  train=001 first=>16 exact_delay=================
+  train=010 first=>16 exact_delay=================
+  train=011 first=>16 exact_delay=================
+  train=100 first=1   exact_delay=!===============
+  train=101 first=>16 exact_delay=================
+  train=110 first=>16 exact_delay=================
+  train=111 first=8   exact_delay========!========
+
+rule=110 eligible=8 first_depths=- censored_gt_16=8
+  train=000 first=>16 exact_delay=================
+  train=001 first=>16 exact_delay=================
+  train=010 first=>16 exact_delay=================
+  train=011 first=>16 exact_delay=================
+  train=100 first=>16 exact_delay=================
+  train=101 first=>16 exact_delay=================
+  train=110 first=>16 exact_delay=================
+  train=111 first=>16 exact_delay=================
+
+rule=151 eligible=7 first_depths=d1:3,d2:2 censored_gt_16=2
+  train=000 first=>16 exact_delay=================
+  train=001 first=1   exact_delay=!==!=!=!!!!!=!!!
+  train=010 first=1   exact_delay=!=!===!=!===!===
+  train=100 first=2   exact_delay==!!!=!=!!=!=!!!=
+  train=101 first=1   exact_delay=!==!!!!!!===!!==
+  train=110 first=2   exact_delay==!!!!!!==!!!!!!=
+  train=111 first=>16 exact_delay=================
+
+rule=159 eligible=3 first_depths=d1:2,d2:1 censored_gt_16=0
+  train=100 first=1   exact_delay=!!!!!!!!!!!!=!!!
+  train=110 first=2   exact_delay==!!!!!!!!!!!!=!!
+  train=111 first=1   exact_delay=!!==============
+
+Audit note:
+Exact-delay distinguishability is often transient and can re-merge. The first distinguishing depth is used only for the cumulative observer family "all delays <= D", not as a claim that the exact-delay quotient stays split afterward.
