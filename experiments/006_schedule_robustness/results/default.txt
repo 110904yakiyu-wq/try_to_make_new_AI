@@ -1,0 +1,36 @@
+Default scan summary (five exposures, fixed probe time 48):
+
+Rule 129 repetition gain:
+
+spacing  offset 0    offset 20
+2       -0.0179     +0.0117
+3       -0.0191     +0.0160
+4       +0.0139     +0.0276
+5       -0.0208     +0.0013
+6       -0.0061     +0.0130
+7       +0.0007     +0.0134
+8       +0.0074     +0.0201
+
+Rule 195:
+- local gain stays near +0.028 across spacings
+- remote offset-20 gain is approximately zero except small boundary effects
+
+Rule 153:
+- local gain stays near +0.028 across spacings
+- remote offset-20 gain remains zero
+
+Rule 203:
+- local gain stays near +0.0117 across spacings
+- remote offset-20 gain remains zero
+
+Rule 110:
+- small, sign-changing local effects
+- remote offset-20 effect approximately zero
+
+Interpretation:
+
+Rule 129 is not just a single 4-step resonance. Its local effect is strongly schedule dependent, but the repetition-specific influence at offset 20 remains mostly positive across spacings 2..8.
+
+This makes Rule 129 qualitatively more interesting than the strongest purely local rules from experiment 004.
+
+However, the effect can still be explained by deterministic propagation of training-induced phase/domain information. The next test should ask whether the history changes the response geometry for probe patterns that were never used during exposure, rather than only the trained A/B pair.
