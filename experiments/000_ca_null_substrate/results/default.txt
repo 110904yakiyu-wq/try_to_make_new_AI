@@ -1,0 +1,21 @@
+Command:
+
+python run.py
+
+Output:
+
+checkpoint  contexts  classes  newly_split_pairs  partition
+         0        17        5  -                             {000,001} {010,011,101} {100} {110} {111}
+         1        31        7  000!=001,010!=011,010!=101    {000} {001} {010} {011,101} {100} {110} {111}
+         2        43        7  -                             {000} {001} {010} {011,101} {100} {110} {111}
+         4        64        8  011!=101                      {000} {001} {010} {011} {100} {101} {110} {111}
+         8        64        8  -                             {000} {001} {010} {011} {100} {101} {110} {111}
+        16        64        8  -                             {000} {001} {010} {011} {100} {101} {110} {111}
+
+Interpretation:
+
+- With the default single-1 seed, the naturally encountered context repertoire expands from 17 to the configured cap of 64.
+- Under this observer assay, the quotient over 3-bit cores refines from 5 classes to 8 classes.
+- Specific pairs that were provisionally indistinguishable at an earlier checkpoint become distinguishable later.
+
+This is only a measurement sanity check. It does not demonstrate learning or intelligence: the refinement is expected to become possible as more contexts are encountered.
