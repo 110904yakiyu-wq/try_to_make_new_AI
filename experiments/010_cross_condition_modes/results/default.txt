@@ -1,0 +1,27 @@
+Default Rule 129 comparison:
+
+condition       offset  probe_time  top2_explained
+baseline            20          48  0.877902989
+offset12_t48        12          48  0.874320082
+offset20_t40        20          40  0.857790433
+offset20_t56        20          56  0.907772575
+
+Pairwise centered-probe covariance Frobenius cosine:
+
+                 baseline  offset12_t48  offset20_t40  offset20_t56
+baseline         1.000000      0.591476      0.567460      0.823061
+offset12_t48     0.591476      1.000000      0.400072      0.606848
+offset20_t40     0.567460      0.400072      1.000000      0.466828
+offset20_t56     0.823061      0.606848      0.466828      1.000000
+
+Interpretation:
+
+Low dimensionality is robust to these changes in probe position and time: the top two response modes explain about 85.8% to 90.8% of centered variance in all four conditions.
+
+The mode geometry itself is not rigid. Covariance similarity is only moderate for several cross-condition comparisons (about 0.40 to 0.82).
+
+This is more consistent with an observer-visible family of low-dimensional, context-dependent organizations than with one fixed latent representation.
+
+Do not reify the modes into substrate variables. Rule 129 still has only its fixed local physical law; the modes are descriptions of how many different histories alter later interactions.
+
+No learning or metacognition claim is made.
