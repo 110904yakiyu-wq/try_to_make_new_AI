@@ -1,0 +1,30 @@
+Command:
+
+python run.py
+
+Key output:
+
+t  assays  classes  transition
+0     128        5  -
+1     128        7  split_pairs=3,merged_pairs=0
+2     128        7  same
+3     128        7  same
+4     128        8  split_pairs=1,merged_pairs=0
+5     128        8  same
+6     128        8  same
+7     128        8  same
+8     128        8  same
+9     128        7  split_pairs=0,merged_pairs=1
+10    128        7  same
+11    128        8  split_pairs=1,merged_pairs=0
+12+   128        8  stable for the remainder of the default 64-step run
+
+Interpretation:
+
+- The observer performs exactly 128 assays at every timestep with fixed radius=3 and horizon=3.
+- The operational quotient changes from 5 to 7 to 8 classes under the same assay budget.
+- It also temporarily coarsens from 8 back to 7 at t=9, then refines again at t=11.
+
+This is a useful sanity result for the theory: operational identity can be transient and reversible even when the physical update rule and observer budget are fixed.
+
+It is still not evidence of learning. The next experiment must distinguish mere state-dependent context variation from a persistent history-dependent reduction in the cost of exposing a consequential difference.
