@@ -1,0 +1,37 @@
+eligible_same_now=1846
+autonomous_divergence_cases=230
+rules_with_cases=64/256
+
+Earliest divergence offsets among the 230 cases:
+delta=1  : 168
+delta=2  : 42
+delta=4  : 13
+delta=8  : 5
+delta=12 : 0
+delta=16 : 2
+
+Selected rule summaries:
+rule=98  cases=4   train/delta: 010/2, 100/1, 101/1, 110/1
+rule=14  cases=5   train/delta: 010/1, 011/1, 100/1, 110/1, 111/1
+rule=113 cases=6   train/delta: 000/1, 010/1, 011/1, 100/1, 110/1, 111/1
+rule=142 cases=6   train/delta: 000/1, 010/1, 011/1, 100/1, 110/1, 111/1
+rule=226 cases=5   train/delta: 010/2, 100/1, 101/1, 110/1, 111/1
+rule=143 cases=0
+rule=126 cases=1   train/delta: 100/1
+rule=129 cases=2   train/delta: 100/1, 111/8
+rule=110 cases=0
+rule=151 cases=5   train/delta: 001/1, 010/1, 100/2, 101/1, 110/2
+rule=159 cases=3   train/delta: 100/1, 110/2, 111/1
+
+Representative delayed case:
+Rule 129, train=111
+now (single == repeat):
+{000} {001} {010} {011} {100} {101} {110} {111}
+
+after 8 autonomous steps, one-shot:
+{000} {001} {010} {011} {100} {101} {110} {111}
+
+after 8 autonomous steps, repeated-history:
+{000} {001,011} {010} {100} {101} {110} {111}
+
+No intervention is applied between the current and future quotient assays.
