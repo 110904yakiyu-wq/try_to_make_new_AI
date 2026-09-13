@@ -1,0 +1,28 @@
+feature  pearson  spearman
+ones               +0.008296  -0.002141
+balance_distance   -0.108110  -0.121412
+degree             +0.089455  +0.083156
+sensitivity        +0.209504  +0.294597
+permutive_count    -0.059502  +0.043763
+perm_left          -0.050036  -0.019558
+perm_center        -0.123957  -0.144826
+perm_right         +0.052050  +0.121183
+
+top_rules=30
+distinct_reflection_conjugation_orbits=21
+
+Top-rule orbit examples:
+98  -> 56,98,185,227
+159 -> 6,20,159,215
+151 -> 22,151
+143 -> 14,84,143,213
+142 -> 142,212
+113 -> 43,113
+226 -> 184,226
+117 -> 11,47,81,117
+25  -> 25,61,67,103
+121 -> 41,97,107,121
+193 -> 110,124,137,193
+129 -> 126,129
+
+Interpretation: the tested simple local truth-table descriptors are weak predictors of the remote untrained-probe geometry score. The top rules are spread over many standard ECA symmetry classes, so the next explanatory variables should be dynamical rather than purely local-static.
