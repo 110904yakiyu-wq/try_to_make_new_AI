@@ -1,0 +1,30 @@
+Command:
+
+python run.py
+
+Summary:
+
+positions=128
+A=011 B=101
+schedule=[0, 4, 8, 12, 16] probe_time=24 probe_steps=8
+mean_cross_over_score=0.000518799
+stdev=0.013693793
+stderr=0.001210372
+mean_over_stderr=0.428628
+
+Interpretation:
+
+The mean cross-over effect is tiny relative to position-to-position variation and is well below one standard error from zero in this default run.
+
+Under this assay, repeated exposure to A versus B does not produce a clear, consistent experience-specific modulation of later probe impact.
+
+This is the first useful negative result in the sequence:
+
+- Experiment 000: context repertoire can expand and split provisional equivalence classes.
+- Experiment 001: recurring discriminators are far too common to count as learning.
+- Experiment 002: operational identity can refine and coarsen under a fixed observer budget.
+- Experiment 003: a fixed Rule 110 substrate does not show a robust simple familiarity-specific response under the default cross-over assay.
+
+This suggests that fixed local dynamics can provide rich state/history dependence, but some additional endogenous plasticity may be required if we want experience to modify the medium's future response tendencies in a systematic way.
+
+Do not overclaim this result: it is one toy assay and one pair of patterns, not a proof that fixed-rule cellular automata cannot support adaptation.
