@@ -1,0 +1,26 @@
+Command:
+
+python scan.py
+
+Summary:
+
+baseline partition: {000,001} {010,011,101} {100} {110} {111}
+baseline equivalent pairs: 4
+reusable discriminators: 236
+
+Top examples:
+
+gain  times  count  first  left|right             split_pairs
+   3      8      8      6  00000000|11100110      000!=001,010!=011,010!=101
+   3      8      8      8  00000000|11111110      000!=001,010!=011,010!=101
+   3      7      7      4  00000000|11111000      000!=001,010!=011,010!=101
+   3      7      7      9  00000000|11000001      000!=001,010!=011,010!=101
+   3      6      6      1  00000000|11000000      000!=001,010!=011,010!=101
+
+Interpretation:
+
+The criterion is far too easy. Hundreds of later contexts both recur and split pairs that were equivalent under the t=0 context repertoire.
+
+This is useful as a negative design result: recurrence + discriminating power alone is not selective enough to deserve words such as learning, understanding, tool, or memory.
+
+The next experiment must hold a resource budget fixed and ask whether history makes a consequential distinction cheaper to expose.
