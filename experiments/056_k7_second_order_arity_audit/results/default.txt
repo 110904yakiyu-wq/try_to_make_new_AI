@@ -1,0 +1,15 @@
+Default: size=20, key_width=5, core_width=3, max_arity=4, event_budget=3, position_stride=5, backgrounds=8
+
+mode=arity_only
+initial_equal=147
+bridge_trials=1176
+postbridge_equal=793
+same_full_event=8
+postevent_divergence=2
+
+mode=full_relation_repertoire
+initial_equal=2
+bridge_trials=16
+postbridge_equal=1
+same_full_event=1
+postevent_divergence=0
