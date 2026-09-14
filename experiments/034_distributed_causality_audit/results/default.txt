@@ -1,0 +1,6 @@
+eligible=1312
+minimum_regions_1=1179
+minimum_regions_2=2
+minimum_regions_3=0
+minimum_regions_4=0
+unreproduced=131
