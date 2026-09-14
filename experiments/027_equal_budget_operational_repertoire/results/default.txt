@@ -1,0 +1,16 @@
+cases=1024
+operational_same=602
+operational_reorganize=209
+operational_seq1_superset=104
+operational_seq2_superset=109
+operational_changed=422
+operational_changed_fraction=0.412109375
+
+phys_same_op_same=342
+phys_same_op_changed=29
+phys_changed_op_same=260
+phys_changed_op_changed=393
+
+exclusive_patch_operational_novelty_cases=366
+seq1_exclusive_operational_types=622
+seq2_exclusive_operational_types=601
