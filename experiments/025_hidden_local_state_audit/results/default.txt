@@ -1,0 +1,5 @@
+eligible_future_divergence_cases=247
+center: repeat_to_single=240 single_to_repeat=240 bidirectional=235
+annulus: repeat_to_single=4 single_to_repeat=3 bidirectional=1
+expanded: repeat_to_single=243 single_to_repeat=245 bidirectional=242
+distant_annulus: repeat_to_single=0 single_to_repeat=0 bidirectional=0
