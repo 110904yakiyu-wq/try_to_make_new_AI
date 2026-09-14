@@ -1,0 +1,10 @@
+width=5
+capacity=4 k7_subset_candidates=255 k8_prefix_checks=60 ratio=4.250000
+capacity=5 k7_subset_candidates=1105 k8_prefix_checks=100 ratio=11.050000
+capacity=6 k7_subset_candidates=4581 k8_prefix_checks=150 ratio=30.540000
+capacity=7 k7_subset_candidates=18772 k8_prefix_checks=210 ratio=89.390476
+capacity=8 k7_subset_candidates=76683 k8_prefix_checks=280 ratio=273.867857
+capacity=9 k7_subset_candidates=312959 k8_prefix_checks=360 ratio=869.330556
+capacity=10 k7_subset_candidates=1276890 k8_prefix_checks=450 ratio=2837.533333
+capacity=11 k7_subset_candidates=5209352 k8_prefix_checks=550 ratio=9471.549091
+capacity=12 k7_subset_candidates=21252215 k8_prefix_checks=660 ratio=32200.325758
