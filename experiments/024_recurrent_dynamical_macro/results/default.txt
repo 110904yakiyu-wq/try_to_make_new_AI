@@ -1,0 +1,11 @@
+samples=32768
+radius=2
+delays=0,1,2,4,8
+cross_history_coverage=0.918426514
+trajectory_accuracy=0.898288752
+rule_only_accuracy=0.684967041
+null_trials=100
+null_mean_accuracy=0.666415116
+null_min_accuracy=0.662229980
+null_max_accuracy=0.670427276
+null_mean_coverage=0.978911133
