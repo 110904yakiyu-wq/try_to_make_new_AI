@@ -1,0 +1,10 @@
+cases=256
+same=122
+seq1_superset=8
+seq2_superset=1
+reorganize=125
+future_trace_diff=205
+event_endpoint_overlap_3=493
+event_endpoint_overlap_2=0
+event_endpoint_overlap_1=9
+event_endpoint_overlap_0=10
