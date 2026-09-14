@@ -1,0 +1,5 @@
+directed_trace_diff_cases=410
+minimum_1_endpoint=30
+minimum_2_endpoints=10
+minimum_3_endpoints=8
+not_reproduced_by_selected_triple=362
