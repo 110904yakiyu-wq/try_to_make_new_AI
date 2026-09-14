@@ -1,0 +1,14 @@
+valid_states=3199
+selected_a_and_b_nonzero=104
+normal_vs_frozen_m_grammar_diff=61
+normal_vs_frozen_m_future_trace_diff=104
+rand0=320,6,3,6
+rand1=320,5,3,5
+rand2=320,8,5,8
+rand3=320,18,13,18
+rand4=320,24,15,24
+rand5=320,14,5,14
+rand6=320,9,4,9
+rand7=320,8,5,8
+alt01=320,5,3,5
+alt10=319,7,5,7
