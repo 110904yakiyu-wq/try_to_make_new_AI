@@ -1,0 +1,9 @@
+fifo: same=503 reorganize=351 seq1_superset=93 seq2_superset=77 changed=521 update_count_changed=682
+lifo: same=429 reorganize=337 seq1_superset=201 seq2_superset=57 changed=595 update_count_changed=773
+min: same=566 reorganize=144 seq1_superset=260 seq2_superset=54 changed=458 update_count_changed=231
+
+changed_all_three=290
+changed_any_scheduler=727
+overlap_fifo_lifo=414 jaccard=0.589743590
+overlap_fifo_min=351 jaccard=0.558917197
+overlap_lifo_min=372 jaccard=0.546255507
