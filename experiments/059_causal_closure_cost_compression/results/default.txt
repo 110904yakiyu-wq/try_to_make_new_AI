@@ -1,0 +1,22 @@
+Default: key_width=4, window_capacity=6, size=24, core_width=3, event_budget=3, backgrounds=64
+
+start_comparisons=73728
+equal_cost=43372
+seq1_cheaper=16087
+seq2_cheaper=14269
+same_seed_and_field=453
+same_seed_field_equal_cost=390
+strict_cost_difference=63
+causal_restore=63
+one_bit_break_destroys_restore=63
+
+depth_transition=3->2 count=7
+depth_transition=4->2 count=8
+depth_transition=5->2 count=1
+depth_transition=6->2 count=10
+depth_transition=4->3 count=12
+depth_transition=5->3 count=4
+depth_transition=6->3 count=1
+depth_transition=5->4 count=11
+depth_transition=6->4 count=4
+depth_transition=6->5 count=5
