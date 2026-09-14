@@ -1,0 +1,10 @@
+valid_histories=3199
+same_or_cross_background_covered=3080
+same_or_cross_background_triple_accuracy=0.978246753
+same_or_cross_background_pair_accuracy=0.832142857
+cross_background_covered=1648
+cross_background_triple_accuracy=0.964805825
+cross_background_pair_accuracy=0.809466019
+null_trials=100
+cross_background_null_mean_accuracy=0.642496295
+cross_background_null_max_accuracy=0.686792453
