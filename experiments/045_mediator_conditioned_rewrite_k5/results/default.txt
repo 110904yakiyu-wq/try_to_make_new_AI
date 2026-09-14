@@ -1,0 +1,11 @@
+cases=32
+same=6
+seq1_superset=17
+seq2_superset=4
+reorganize=5
+future_trace_diff=16
+isolated_directed_transfers=6
+same_endpoint_relation_after_m_transfer=6
+exact_first_event_after_m_transfer=4
+future_trace_improved=4
+exact_future_trace_transfer=4
