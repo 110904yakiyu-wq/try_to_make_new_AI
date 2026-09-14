@@ -1,0 +1,12 @@
+Experiment 031 default summary
+
+eligible_total=1529
+local_patch_improved=1023
+local_patch_improved_fraction=0.669064748
+local_patch_exact_transfer=998
+local_patch_exact_transfer_fraction=0.652714192
+antipodal_control_improved=59
+antipodal_control_improved_fraction=0.038587312
+
+Interpretation:
+A 7-bit history-generated local context frequently transfers the recipient's next 32 event slots toward, or exactly onto, the donor execution trace. An equal-width transplant 32 cells away rarely does so.
