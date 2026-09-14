@@ -1,0 +1,9 @@
+samples=320
+covered=320
+triple_accuracy=1.000000000
+pair_only_accuracy=0.931250000
+policy=min samples=160 covered=160 triple_accuracy=1.000000000 pair_accuracy=0.887500000
+policy=max samples=160 covered=160 triple_accuracy=1.000000000 pair_accuracy=0.975000000
+null_trials=200
+null_mean_accuracy=0.941984375
+null_max_accuracy=0.962500000
