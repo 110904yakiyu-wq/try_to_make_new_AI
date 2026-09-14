@@ -1,0 +1,6 @@
+eligible=1312
+p_exact=1156
+q_exact=11
+joint_exact=1172
+joint_better_than_both=6
+strict_joint_only_exact=5
