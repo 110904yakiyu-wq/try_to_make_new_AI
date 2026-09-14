@@ -1,0 +1,15 @@
+cases=256
+same=19
+seq1_superset=14
+seq2_superset=20
+reorganize=203
+future_trace_diff=234
+event_endpoint_overlap_3=322
+event_endpoint_overlap_2=20
+event_endpoint_overlap_1=52
+event_endpoint_overlap_0=118
+directed_trace_diff_cases=468
+minimum_1_endpoint=20
+minimum_2_endpoints=5
+minimum_3_endpoints=48
+not_reproduced_by_selected_triple=395
