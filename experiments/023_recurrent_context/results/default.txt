@@ -1,0 +1,10 @@
+samples=32768
+radius=2
+cross_history_coverage=0.918426514
+cross_history_accuracy=0.963050341
+rule_only_accuracy=0.758911133
+null_trials=100
+null_mean_accuracy=0.752398648
+null_min_accuracy=0.745565635
+null_max_accuracy=0.757756228
+null_mean_coverage=0.978911133
