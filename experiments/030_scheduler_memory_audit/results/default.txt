@@ -1,0 +1,8 @@
+Experiment 030 default summary
+
+cases=1024
+reset_fifo_enabled_repertoire_changed=525
+stateless_min_enabled_repertoire_changed=483
+
+Interpretation:
+Persistent scheduler/queue memory is not required for the K1 history-dependent enabled-event repertoire effect. The effect survives when the scheduler is derived anew from ring state at each block and when it is fully stateless at every work slot.
