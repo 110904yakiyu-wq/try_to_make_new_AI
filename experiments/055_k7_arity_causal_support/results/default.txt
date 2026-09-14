@@ -1,0 +1,22 @@
+Default: size=20, key_width=5, core_width=3, max_arity=4, event_budget=3, future_budget=2, position_stride=5, backgrounds=8
+
+directed_trace_diff_cases=508
+donor_has_no_enabled_event=40
+
+arity_2_cases=300
+arity_2_minimum_0=238
+arity_2_minimum_1=7
+arity_2_minimum_2=55
+
+arity_3_cases=159
+arity_3_minimum_0=150
+arity_3_minimum_1=0
+arity_3_minimum_2=0
+arity_3_minimum_3=9
+
+arity_4_cases=9
+arity_4_minimum_0=0
+arity_4_minimum_1=0
+arity_4_minimum_2=1
+arity_4_minimum_3=1
+arity_4_minimum_4=7
