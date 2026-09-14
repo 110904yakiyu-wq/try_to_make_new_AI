@@ -1,0 +1,9 @@
+baseline_changed=202
+repeat_to_single=197
+single_to_repeat=191
+bidirectional=187
+distant_repeat_to_single=0
+distant_single_to_repeat=0
+
+repeat_to_single_minimal_radius=r0:0,r1:49,r2:103,r4:32,r8:13
+single_to_repeat_minimal_radius=r0:0,r1:45,r2:117,r4:28,r8:1
