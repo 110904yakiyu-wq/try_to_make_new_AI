@@ -1,0 +1,9 @@
+equal_budget_order_cases=64
+relation_repertoire_diff=52
+future_trace_diff=46
+causal_eligible=83
+first_endpoint_exact=4
+second_endpoint_exact=5
+both_endpoints_exact=26
+both_only_exact=17
+joint_better_than_both_singles=47
