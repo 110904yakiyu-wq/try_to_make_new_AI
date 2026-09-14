@@ -1,0 +1,11 @@
+cases=1024
+same=371
+reorganize=373
+seq1_superset=140
+seq2_superset=140
+changed=653
+changed_fraction=0.637695312
+mean_seq1_repertoire=24.198242188
+mean_seq2_repertoire=23.758789062
+mean_seq1_only=4.290039062
+mean_seq2_only=3.850585938
