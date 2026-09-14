@@ -15,7 +15,7 @@ A strict adaptation cross-over would mean:
 
 ## Raw-state result
 
-Using Hamming distance from each state's own pre-test bit state after three recovery events, 16 backgrounds produced:
+Using Hamming distance from each state's own pre-test bit state after three recovery events, 16 backgrounds and five training exposures produced:
 
 - comparisons: **1152**
 - net matching-training advantage: **627**
@@ -27,9 +27,7 @@ The raw-state signal survives long autonomous washout periods. With 24 washout e
 
 It also weakly transfers spatially, but decays: at a shift of two key windows the raw net advantage is approximately **541 vs 535**, close to null.
 
-At first sight this looks adaptation-like.
-
-## Stronger operational readout
+## Stronger operational readout at one dose
 
 The same assay was repeated using an observer-side operational distance between the pre- and post-test K8 access-cost landscapes:
 
@@ -37,35 +35,22 @@ The same assay was repeated using an observer-side operational distance between 
 
 with penalties for both lost/gained transformation identities and changed minimum closure depths.
 
-Using 8 backgrounds and six autonomous washout events:
+At the original **five-exposure, six-washout** condition and 8 backgrounds:
 
 - same-position test: **281 matching vs 282 mismatching**
 - one-window shift: **286 vs 277**
 - two-window shift: **293 vs 282**
 
-These are approximately balanced. The apparent raw-state adaptation disappears under the stronger operational readout.
+So the raw-state signal does **not** imply operational adaptation at this particular dose/washout condition.
 
-## Interpretation
+## Important correction
 
-This is a corrective negative result.
+A later dose sweep showed that this null is **condition-specific**, not a global negative result.
 
-Repeated perturbation can place deterministic K8 dynamics on trajectories that return closer to their own prior **bit state** after a familiar disturbance. But that does not robustly imply recovery of the same operational capability/cost structure.
+At higher repeated-exposure counts (especially 8–12), the same operational metric develops a clear matching-experience advantage that survives several washout events. That phenomenon is separated into Experiment 068 rather than retrofitted into this experiment.
 
-Therefore the raw Hamming recovery signal should be treated as attractor/orbit hysteresis, not as evidence of learning.
+Therefore Experiment 066 supports only the narrower statement:
 
-## Boundary reached
+> apparent raw-state adaptation can be misleading, and operational adaptation must be assayed directly; five exposures are insufficient under the tested six-event washout condition.
 
-K8 now has strong evidence for:
-
-- history dependence;
-- reusable operational context;
-- operational coarse-graining across different micro-contexts;
-- history-dependent possibility/cost landscapes.
-
-It still lacks robust evidence for:
-
-- selective learning from repetition;
-- consequence-driven operational adaptation;
-- stable experience-specific compilation.
-
-The next substrate should couple continuation or persistence to **operational consequences**, not merely to repetition, raw trace deposition, or bit-state return.
+It does **not** support the stronger statement that K8 can never develop perturbation-specific operational adaptation.
