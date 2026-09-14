@@ -1,0 +1,41 @@
+key_width=3
+history_pairs=6144
+same_effect_set=123
+same_cost_map=112
+pairs_with_common_cost_diff=2933
+same_effect_set_cost_reorg=11
+seq1_cost_dominates=7
+seq2_cost_dominates=4
+cost_incomparable=0
+common_effects=8477
+common_effects_with_cost_diff=5046
+common_effect_cost_diff_fraction=0.595256576
+cost_delta_seq2_minus_seq1=-4 count=114
+cost_delta_seq2_minus_seq1=-3 count=251
+cost_delta_seq2_minus_seq1=-2 count=700
+cost_delta_seq2_minus_seq1=-1 count=1473
+cost_delta_seq2_minus_seq1=1 count=1429
+cost_delta_seq2_minus_seq1=2 count=684
+cost_delta_seq2_minus_seq1=3 count=278
+cost_delta_seq2_minus_seq1=4 count=117
+
+key_width=4
+history_pairs=6144
+same_effect_set=134
+same_cost_map=133
+pairs_with_common_cost_diff=831
+same_effect_set_cost_reorg=1
+seq1_cost_dominates=1
+seq2_cost_dominates=0
+cost_incomparable=0
+common_effects=3500
+common_effects_with_cost_diff=1084
+common_effect_cost_diff_fraction=0.309714286
+cost_delta_seq2_minus_seq1=-4 count=48
+cost_delta_seq2_minus_seq1=-3 count=64
+cost_delta_seq2_minus_seq1=-2 count=107
+cost_delta_seq2_minus_seq1=-1 count=311
+cost_delta_seq2_minus_seq1=1 count=342
+cost_delta_seq2_minus_seq1=2 count=101
+cost_delta_seq2_minus_seq1=3 count=64
+cost_delta_seq2_minus_seq1=4 count=47
