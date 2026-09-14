@@ -1,0 +1,28 @@
+Default: window_capacity=6, core_width=3, event_budget=3, future_budget=6, backgrounds=8
+
+key_width=4 size=24
+cases=384
+same=12
+seq1_superset=49
+seq2_superset=27
+reorganize=296
+arity_repertoire_diff=351
+future_trace_diff=353
+
+key_width=5 size=30
+cases=384
+same=74
+seq1_superset=102
+seq2_superset=69
+reorganize=139
+arity_repertoire_diff=298
+future_trace_diff=309
+
+key_width=6 size=36
+cases=384
+same=178
+seq1_superset=95
+seq2_superset=61
+reorganize=50
+arity_repertoire_diff=184
+future_trace_diff=200
