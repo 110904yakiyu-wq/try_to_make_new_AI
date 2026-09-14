@@ -1,0 +1,38 @@
+Default sweep: size=20, core_width=3, max_arity=4, event_budget=3, future_budget=6, position_stride=5, backgrounds=8
+
+key_width=3
+cases=256
+same=4
+seq1_superset=24
+seq2_superset=19
+reorganize=209
+arity_repertoire_diff=9
+future_trace_diff=252
+
+key_width=4
+cases=256
+same=3
+seq1_superset=9
+seq2_superset=6
+reorganize=238
+arity_repertoire_diff=51
+future_trace_diff=255
+
+key_width=5
+cases=256
+same=2
+seq1_superset=33
+seq2_superset=10
+reorganize=211
+arity_repertoire_diff=109
+future_trace_diff=254
+
+Representative width-5 arity transitions:
+(2,3)->(2,3): 142
+(2,3)->(2): 26
+(2,3)->(): 23
+(2)->(2,3): 20
+(3)->(2,3): 7
+()->(2,3): 6
+(2,3)->(3): 5
+(2,3,4)->(2,3): 4
