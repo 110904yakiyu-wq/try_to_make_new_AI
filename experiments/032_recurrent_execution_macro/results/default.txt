@@ -1,0 +1,18 @@
+Experiment 032 default summary
+
+samples=4096
+covered=2071
+coverage_fraction=0.505615234
+patch_trace_correct=2001
+patch_trace_accuracy=0.966199903
+rule_only_correct_on_covered=1755
+rule_only_accuracy_on_covered=0.847416707
+null_trials=200
+null_mean_accuracy=0.873841140
+null_max_accuracy=0.890391115
+
+Scheduler split:
+min_covered=1394
+min_accuracy=0.966284075
+max_covered=677
+max_accuracy=0.966026588
