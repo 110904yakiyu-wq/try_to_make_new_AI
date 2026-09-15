@@ -1,0 +1,16 @@
+full width=3 size=36 events=24.238125 overlap=0.810330 hamming=18.043750 roles=21.168750 role_jaccard=0.082394 prop_bits=17.937500 prop_maxdist=17.562500 arity_ge6=0.465279
+full width=4 size=48 events=22.190625 overlap=0.854665 hamming=23.886250 roles=20.905000 role_jaccard=0.021686 prop_bits=24.062500 prop_maxdist=23.250000 arity_ge6=0.540600
+full width=5 size=60 events=17.018750 overlap=0.881967 hamming=29.830625 roles=16.599375 role_jaccard=0.006027 prop_bits=30.875000 prop_maxdist=28.875000 arity_ge6=0.593169
+cap width=4 max_arity=2 events=0.955000 overlap=0.230886 hamming=0.478750 role_jaccard=0.902732 prop_bits=2.250000 prop_maxdist=2.187500 active_final=4/16
+cap width=4 max_arity=3 events=0.301875 overlap=0.034705 hamming=0.606875 role_jaccard=0.941621 prop_bits=5.000000 prop_maxdist=5.375000 active_final=0/16
+cap width=4 max_arity=4 events=2.394375 overlap=0.301222 hamming=4.736875 role_jaccard=0.697796 prop_bits=7.812500 prop_maxdist=9.000000 active_final=3/16
+cap width=4 max_arity=6 events=11.544375 overlap=0.672646 hamming=21.034375 role_jaccard=0.079934 prop_bits=14.375000 prop_maxdist=17.312500 active_final=16/16
+cap width=4 max_arity=8 events=15.821250 overlap=0.757534 hamming=23.631250 role_jaccard=0.026965 prop_bits=23.500000 prop_maxdist=23.250000 active_final=16/16
+cap width=4 max_arity=12 events=22.190625 overlap=0.854665 hamming=23.886250 role_jaccard=0.021686 prop_bits=24.062500 prop_maxdist=23.250000 active_final=16/16
+resolution mode=xor events=22.190625 hamming=23.886250 role_jaccard=0.021686 prop_bits=24.062500 prop_maxdist=23.250000
+resolution mode=exclusive_events events=24.000000 hamming=0.000000 role_jaccard=1.000000 prop_bits=1.000000 prop_maxdist=0.000000
+resolution mode=unique_support_bits events=24.000000 hamming=0.000000 role_jaccard=1.000000 prop_bits=1.000000 prop_maxdist=0.000000
+delta_resolution mode=unique_delta events=27.606875 hamming=0.025000 role_jaccard=0.994256 prop_bits=3.187500 prop_maxdist=13.000000 active_final=16/16
+delta_resolution mode=maxcount:2 events=33.619375 hamming=0.357500 role_jaccard=0.957020 prop_bits=7.312500 prop_maxdist=18.062500 active_final=16/16
+delta_resolution mode=maxcount:3 events=35.526250 hamming=1.348125 role_jaccard=0.824664 prop_bits=12.250000 prop_maxdist=22.000000 active_final=16/16
+delta_resolution mode=maxcount:4 events=37.828750 hamming=3.014375 role_jaccard=0.848520 prop_bits=15.750000 prop_maxdist=22.687500 active_final=16/16
