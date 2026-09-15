@@ -1,0 +1,13 @@
+direction=left products=102 null_repeats=10
+internal_localized=73/102
+boundary_localized=98/102
+internal_exact_microcycle=0/102
+boundary_exact_microcycle=0/102
+internal_matched_null_localized=99/1020
+boundary_matched_null_localized=77/1020
+
+right_rotation_actual_symmetry_check:
+internal_localized=73/102
+boundary_localized=98/102
+internal_exact_microcycle=0/102
+boundary_exact_microcycle=0/102
