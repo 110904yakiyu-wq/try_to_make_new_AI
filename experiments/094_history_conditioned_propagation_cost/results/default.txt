@@ -1,0 +1,11 @@
+kernel=093_finite_speed_mutual_modulation width=4 windows=12 rotation=left backgrounds=64 histories=AABBA_vs_BBAAA all_A_labels=16 cases=12288 horizon=18 final_probe_value_identical=true
+propagation_cost_diff distance=1 count=4932/12288 seq1_faster=2468 seq2_faster=2464 tie=7356
+propagation_cost_diff distance=2 count=6901/12288 seq1_faster=3505 seq2_faster=3396 tie=5387
+propagation_cost_diff distance=3 count=8945/12288 seq1_faster=4505 seq2_faster=4440 tie=3343
+propagation_cost_diff distance=4 count=8308/12288 seq1_faster=4221 seq2_faster=4087 tie=3980
+propagation_cost_diff distance=5 count=8685/12288 seq1_faster=4391 seq2_faster=4294 tie=3603
+propagation_cost_diff distance=6 count=10270/12288 seq1_faster=5187 seq2_faster=5083 tie=2018
+same_next_tick_activity_support cases=6979 distance6_cost_diff=5767/6979 mean_raw_hamming_between_histories=21.679467
+same_probe_radius1_raw_patch cases=64 distance6_cost_diff=53/64 mean_raw_hamming_between_histories=17.812500
+same_probe_radius1_and_same_activity_support cases=42 distance6_cost_diff=34/42 mean_raw_hamming_between_histories=17.690476
+rotation=right backgrounds=32 cases=6144 distance6_seq1_faster=2570 distance6_seq2_faster=2533 distance6_tie=1041
