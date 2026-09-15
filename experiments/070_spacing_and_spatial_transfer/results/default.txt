@@ -1,0 +1,11 @@
+spacing constant3 total_training_events=48 cases=576 recent=315 old=238 tie=23 strict=85
+spacing jitterA total_training_events=54 cases=576 recent=324 old=229 tie=23 strict=95
+spacing jitterB total_training_events=55 cases=576 recent=326 old=230 tie=20 strict=88
+spacing alt15 total_training_events=48 cases=576 recent=285 old=238 tie=53 strict=98
+
+shift=0 cases=1152 recent=621 old=485 tie=46 strict=184
+shift=3 cases=1152 recent=568 old=545 tie=39 strict=185
+shift=6 cases=1152 recent=589 old=528 tie=35 strict=189
+shift=9 cases=1152 recent=572 old=536 tie=44 strict=172
+shift=12 cases=1152 recent=546 old=557 tie=49 strict=209
+shift=15 cases=1152 recent=582 old=516 tie=54 strict=186
