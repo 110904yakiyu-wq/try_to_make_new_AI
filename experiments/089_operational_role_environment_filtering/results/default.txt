@@ -1,0 +1,14 @@
+backgrounds=32
+variant_cases=1312
+distinct_roles=383
+roles_with_occurrences_ge_20=84
+mean_survival_L3=0.027614
+mean_survival_R3=0.032834
+variant_L3_advantage=91
+variant_R3_advantage=100
+variant_tie=1121
+observed_max_abs_role_difference=0.192308
+observed_weighted_rms_role_difference=0.049982
+null_permutations=1000
+max_abs_difference_empirical_p=0.065
+weighted_rms_empirical_p=0.407
