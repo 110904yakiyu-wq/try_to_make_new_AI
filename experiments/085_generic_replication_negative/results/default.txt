@@ -1,0 +1,2 @@
+baseline pre_p2=90.035625 pre_p3=9.047500 post_p2=113.074375 post_p3=0.000000
+replication pre_p2=104.503125 pre_p3=0.001250 post_p2=112.595625 post_p3=0.000000
