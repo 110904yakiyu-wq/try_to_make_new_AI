@@ -1,0 +1,10 @@
+noise=0 mode=sequential mean_active_pairs=1.000000 mean_dominant_pair_fraction=1.000000 mean_pairset_jaccard=1.000000 mean_events=0.000000
+noise=0 mode=parallel mean_active_pairs=5.843750 mean_dominant_pair_fraction=0.385000 mean_pairset_jaccard=1.000000 mean_events=6.500000
+noise=1 mode=sequential mean_active_pairs=1.862812 mean_dominant_pair_fraction=0.991000 mean_pairset_jaccard=0.428000 mean_events=1.754687
+noise=1 mode=parallel mean_active_pairs=9.335625 mean_dominant_pair_fraction=0.331000 mean_pairset_jaccard=0.903000 mean_events=14.808281
+noise=2 mode=sequential mean_active_pairs=2.601719 mean_dominant_pair_fraction=0.982000 mean_pairset_jaccard=0.326000 mean_events=3.622187
+noise=2 mode=parallel mean_active_pairs=11.288906 mean_dominant_pair_fraction=0.252000 mean_pairset_jaccard=0.871000 mean_events=17.121094
+noise=4 mode=sequential mean_active_pairs=3.866250 mean_dominant_pair_fraction=0.964000 mean_pairset_jaccard=0.288000 mean_events=7.102500
+noise=4 mode=parallel mean_active_pairs=13.180469 mean_dominant_pair_fraction=0.209000 mean_pairset_jaccard=0.829000 mean_events=19.172656
+two_domain_initial={(0, 1): 46, (2, 3): 46}
+two_domain_final={(0, 1): 46, (2, 3): 46}
