@@ -1,0 +1,41 @@
+jitter recent=568 old=551 tie=33 strict=150
+
+train_event_budget_sweep
+budget=1 recent=286 old=267 tie=23 strict=98
+budget=2 recent=290 old=265 tie=21 strict=86
+budget=3 recent=315 old=238 tie=23 strict=85
+budget=4 recent=293 old=257 tie=26 strict=92
+budget=5 recent=341 old=205 tie=30 strict=95
+budget=6 recent=306 old=235 tie=35 strict=89
+
+final_run_length_sweep
+run=1 schedule=QPQPQPQPQPQPQPQP recent=287 old=274 tie=15 strict=75
+run=2 schedule=QPQPQPQPQPQPQQPP recent=279 old=282 tie=15 strict=89
+run=3 schedule=QPQPQPQPQPQQQPPP recent=306 old=256 tie=14 strict=94
+run=4 schedule=QPQPQPQPQQQQPPPP recent=314 old=245 tie=17 strict=77
+run=5 schedule=QPQPQPQQQQQPPPPP recent=320 old=238 tie=18 strict=107
+run=6 schedule=QPQPQQQQQQPPPPPP recent=294 old=263 tie=19 strict=88
+run=7 schedule=QPQQQQQQQPPPPPPP recent=328 old=230 tie=18 strict=96
+run=8 schedule=QQQQQQQQPPPPPPPP recent=315 old=238 tie=23 strict=85
+
+random_equal_count_schedules
+schedule=PPPQPQQPQPQPQQQP recent=151 old=133 strict=42
+schedule=PQQQPPQPQQPQQPPP recent=137 old=146 strict=41
+schedule=QQPPPPQPQQPPQQQP recent=134 old=145 strict=44
+schedule=QQPPPQQQQPPQPQPP recent=142 old=137 strict=48
+schedule=QPPPQQQQPPQQPQPP recent=163 old=119 strict=49
+schedule=PPQQPPQQPQPQPQQP recent=133 old=150 strict=47
+schedule=PQQQQPPPQQQPPQPP recent=138 old=141 strict=34
+schedule=QPQQPPPPQQPQQPQP recent=134 old=139 strict=46
+schedule=QPPQPPQQQPQPQPQP recent=137 old=139 strict=39
+schedule=QQPPQQQPPQPPPQQP recent=148 old=125 strict=49
+schedule=PQQPQQQPPQQPPQPP recent=142 old=135 strict=36
+schedule=QPPPPQPPQPQQQQQP recent=157 old=120 strict=56
+schedule=PPQPPQQPPQQQPQQP recent=136 old=140 strict=39
+schedule=QQQQQPQQPQPPPPPP recent=157 old=122 strict=36
+schedule=QQQQPPQPQPQPPPQP recent=133 old=147 strict=24
+schedule=PQQPQPPQQQQQPPPP recent=145 old=134 strict=46
+aggregate_recent=2287
+aggregate_old=2172
+positive_schedules=8
+negative_schedules=8
