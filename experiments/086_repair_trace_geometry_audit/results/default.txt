@@ -1,0 +1,12 @@
+L=2 pre_p3=1.213750 post_p3=0.008750
+L=3 pre_p3=10.948750 post_p3=0.186250
+L=4 pre_p3=1.034375 post_p3=0.001875
+L=5 pre_p3=1.593125 post_p3=0.000000
+L=6 pre_p3=5.656250 post_p3=2.628125
+L=7 pre_p3=1.025000 post_p3=0.000000
+L=8 pre_p3=1.514375 post_p3=0.000000
+L=9 pre_p3=5.551875 post_p3=0.000000
+L=10 pre_p3=0.990000 post_p3=0.042500
+L6 environment=none late_p2=120.000000 late_p3=0.000000
+L6 environment=E2 late_p2=120.000000 late_p3=0.000000
+L6 environment=E3 late_p2=110.703750 late_p3=3.865000
