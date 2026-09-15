@@ -1,0 +1,26 @@
+washout6 backgrounds=16
+n=1 cases=1152 recent=554 old=524 tie=74 strict=184
+n=3 cases=1152 recent=615 old=508 tie=29 strict=196
+n=5 cases=1152 recent=608 old=505 tie=39 strict=182
+n=8 cases=1152 recent=621 old=485 tie=46 strict=184
+n=12 cases=1152 recent=635 old=460 tie=57 strict=187
+
+washout_sweep backgrounds=16
+n=1 wash=0 recent=568 old=514 tie=70 strict=179
+n=1 wash=6 recent=554 old=524 tie=74 strict=184
+n=1 wash=12 recent=561 old=518 tie=73 strict=201
+n=1 wash=24 recent=556 old=515 tie=81 strict=176
+n=8 wash=0 recent=622 old=476 tie=54 strict=194
+n=8 wash=6 recent=621 old=485 tie=46 strict=184
+n=8 wash=12 recent=621 old=485 tie=46 strict=184
+n=8 wash=24 recent=619 old=487 tie=46 strict=181
+n=12 wash=0 recent=626 old=478 tie=48 strict=171
+n=12 wash=6 recent=635 old=460 tie=57 strict=187
+n=12 wash=12 recent=639 old=457 tie=56 strict=189
+n=12 wash=24 recent=642 old=453 tie=57 strict=190
+
+long_washout_n8 backgrounds=8
+wash=24 recent=321 old=234 tie=21 strict=92
+wash=48 recent=322 old=235 tie=19 strict=89
+wash=96 recent=321 old=236 tie=19 strict=92
+wash=192 recent=320 old=237 tie=19 strict=91
