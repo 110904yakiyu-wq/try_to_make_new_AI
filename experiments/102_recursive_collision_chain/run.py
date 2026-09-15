@@ -46,15 +46,35 @@ def key_of(info):
     return exp101.orbit_key_phase(info)
 
 
+def interaction_time(frame, pair, start, direction, horizon=1000):
+    parent = exp100.seed_state(pair, start)
+    combined = add_parent(frame, pair, start)
+    if combined is None:
+        return None
+
+    left = tuple(frame)
+    right = tuple(parent)
+    joint = tuple(combined)
+
+    for age in range(horizon):
+        phase = age % 3
+        left = exp100.step(left, phase, direction)
+        right = exp100.step(right, phase, direction)
+        joint = exp100.step(joint, phase, direction)
+
+        if any(a and b for a, b in zip(left, right)):
+            return age + 1
+        if joint != tuple(a | b for a, b in zip(left, right)):
+            return age + 1
+    return None
+
+
 def collide_from_phase0(frame, pair, start, direction):
     combined = add_parent(frame, pair, start)
     if combined is None:
         return "initial_overlap", None
-    parent = exp100.seed_state(pair, start)
-    if exp100.collision_time is not None:
-        # Collision is guaranteed locally in the accepted recursive cases; outcome
-        # classification is the primary observable here.
-        pass
+    if interaction_time(frame, pair, start, direction) is None:
+        return "independent", None
     result = exp101.orbit_from_phase(combined, 0, direction, max_ticks=3000)
     return result[0], result
 
