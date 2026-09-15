@@ -1,0 +1,4 @@
+seeds=32
+union pre_p3=0.000000 post_p3=0.000000
+intersection pre_p3=0.000000 post_p3=0.000000
+one_block pre_p3=7.313125 post_p3=0.760000
