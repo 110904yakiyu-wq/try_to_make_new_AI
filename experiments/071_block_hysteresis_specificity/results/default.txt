@@ -1,0 +1,26 @@
+local_erase_control backgrounds=8
+no_erase cases=576 recent=315 old=238 tie=23 strict=85
+erase_training_window_3bit cases=576 recent=307 old=247 tie=22 strict=94
+erase_3_adjacent_windows_9bit cases=576 recent=290 old=268 tie=18 strict=95
+erase_5_adjacent_windows_15bit cases=576 recent=219 old=271 tie=86 strict=72
+
+single_window_restore_by_offset backgrounds=8
+offset_windows=0 recent=307 old=247 tie=22 strict=94
+offset_windows=1 recent=279 old=271 tie=26 strict=110
+offset_windows=2 recent=299 old=259 tie=18 strict=93
+offset_windows=3 recent=253 old=299 tie=24 strict=85
+offset_windows=4 recent=281 old=279 tie=16 strict=97
+offset_windows=5 recent=268 old=288 tie=20 strict=75
+
+held_out_R_specificity backgrounds=16
+cases=1152
+P_specific=567
+P_wrong=524
+P_tie=61
+Q_specific=579
+Q_wrong=514
+Q_tie=59
+strict_PQ=184
+R_favors_P_recent=531
+R_favors_Q_recent=551
+R_tie=70
