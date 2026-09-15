@@ -1,0 +1,8 @@
+fixed_domains environment=E2 interval=5 p2=54.800000 p3=26.000000
+fixed_domains environment=E3 interval=5 p2=18.150000 p3=51.535000
+turnover environment=E2 interval=1 p2=91.487813 p3=5.232500
+turnover environment=E3 interval=1 p2=56.429375 p3=41.649375
+turnover environment=E2 interval=2 p2=79.705313 p3=8.694688
+turnover environment=E3 interval=2 p2=57.756875 p3=47.173750
+turnover environment=E2 interval=5 p2=93.010938 p3=4.445000
+turnover environment=E3 interval=5 p2=82.287500 p3=25.893750
