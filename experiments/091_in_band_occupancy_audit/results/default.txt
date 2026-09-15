@@ -1,0 +1,6 @@
+active_claim width=3 seeds=16 sweeps=200 candidates_per_sweep=24.139375 executed_per_sweep=3.018125 changed_bits_per_sweep=17.551875 role_jaccard=0.082586 active_final=16/16
+active_claim width=4 seeds=16 sweeps=200 candidates_per_sweep=22.230000 executed_per_sweep=1.359375 changed_bits_per_sweep=21.301875 role_jaccard=0.024941 active_final=14/16
+active_claim width=5 seeds=16 sweeps=200 candidates_per_sweep=16.826875 executed_per_sweep=0.588750 changed_bits_per_sweep=20.723125 role_jaccard=0.016429 active_final=7/16
+passive_token width=3 seeds=32 sweeps=500 mean_exec=0.083250 mean_changed_bits=0.418750 role_jaccard=0.972686 ever_active=31/32 active_final50=0/32
+passive_token width=4 seeds=32 sweeps=500 mean_exec=0.010188 mean_changed_bits=0.099188 role_jaccard=0.994426 ever_active=27/32 active_final50=0/32
+passive_token width=5 seeds=32 sweeps=500 mean_exec=0.002188 mean_changed_bits=0.031375 role_jaccard=0.998309 ever_active=17/32 active_final50=0/32
