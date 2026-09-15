@@ -1,0 +1,12 @@
+block cases=1152 recent=575 old=564 tie=13 strict=222
+jitter cases=1152 recent=582 old=554 tie=16 strict=226
+
+cycle_sample backgrounds=4 trained_states=576
+period_2=261
+period_4=196
+period_8=52
+period_24=42
+period_6=20
+period_89=3
+period_10=1
+period_5=1
