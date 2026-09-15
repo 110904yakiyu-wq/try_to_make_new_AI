@@ -1,0 +1,10 @@
+cases=12288
+distance6_cost_diff=10315
+seq1_faster=5109
+seq2_faster=5206
+same_next_activity_support=6942
+same_support_but_cost_diff=5781
+same_local_three_windows=11
+same_local_but_cost_diff=10
+same_support_and_local=5
+same_support_and_local_but_cost_diff=4
