@@ -1,0 +1,7 @@
+full_local_write width=3 seeds=32 sweeps=200 events=24.185000 changed_bits=16.679063 write_overlap=0.123029 roles=21.095000 role_jaccard=0.084676 active_final=32/32 prop_bits=13.406250 prop_maxdist=17.031250
+full_local_write width=4 seeds=32 sweeps=200 events=22.316406 changed_bits=19.708281 write_overlap=0.156822 roles=21.076094 role_jaccard=0.022767 active_final=32/32 prop_bits=18.093750 prop_maxdist=22.312500
+full_local_write width=5 seeds=32 sweeps=200 events=16.545313 changed_bits=18.382500 write_overlap=0.204851 roles=16.173438 role_jaccard=0.007071 active_final=32/32 prop_bits=16.750000 prop_maxdist=27.375000
+cap_local_write width=4 max_arity=5 seeds=64 sweeps=500 events=1.414156 changed_bits=0.970719 roles=1.320750 role_jaccard=0.879698 active_final=17/64
+cap_local_write width=4 max_arity=6 seeds=64 sweeps=500 events=5.539594 changed_bits=5.653313 roles=5.195906 role_jaccard=0.540436 active_final=28/64
+cap_local_write width=4 max_arity=7 seeds=64 sweeps=500 events=12.105813 changed_bits=13.056094 roles=11.462000 role_jaccard=0.125175 active_final=54/64
+cap_local_write width=4 max_arity=8 seeds=64 sweeps=500 events=15.484281 changed_bits=16.153438 roles=14.694375 role_jaccard=0.039343 active_final=61/64
