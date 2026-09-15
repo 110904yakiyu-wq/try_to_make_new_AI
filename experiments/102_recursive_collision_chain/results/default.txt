@@ -1,0 +1,11 @@
+direction=left
+g0_catalog=126 g1_novel=102
+g1_plus_parent_at17={'initial_overlap': 32, 'localized': 70} g2_novel=70 distinct_g2=70
+g2_plus_parent_at14={'localized': 38, 'expansive_cycle': 32} g3_novel=38 distinct_g3=38
+g3_plus_parent_at26={'expansive_cycle': 38} g4_novel=0
+
+direction=right
+g0_catalog=126 g1_novel=102
+g1_plus_parent_at17={'initial_overlap': 32, 'localized': 70} g2_novel=70 distinct_g2=70
+g2_plus_parent_at14={'localized': 38, 'expansive_cycle': 32} g3_novel=38 distinct_g3=38
+g3_plus_parent_at26={'expansive_cycle': 38} g4_novel=0
