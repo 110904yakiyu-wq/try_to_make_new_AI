@@ -1,0 +1,9 @@
+one_bit
+K8 return_same=8 total=1152 rate=0.006944444
+K9 return_same=87 total=1152 rate=0.075520833
+K10 return_same=244 total=1152 rate=0.211805556
+
+two_bit
+K8 return_same=55 total=4896 rate=0.011233660
+K9 return_same=351 total=4896 rate=0.071691176
+K10 return_same=470 total=4896 rate=0.095996732
