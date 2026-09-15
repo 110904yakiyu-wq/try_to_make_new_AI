@@ -1,0 +1,11 @@
+width=4 rotation=left seeds=64 ticks=2000 events_per_tick=3.040375 changed_windows_per_tick=5.168711 active_final100=63/64 cycles_detected=52/64 cycle_median=48 cycle_max=876
+width=4 rotation=right seeds=64 ticks=2000 events_per_tick=2.847594 changed_windows_per_tick=5.033188 active_final100=64/64 cycles_detected=51/64 cycle_median=36 cycle_max=1284
+width=4 rotation=none seeds=64 ticks=2000 events_per_tick=0.016453 changed_windows_per_tick=0.033961 active_final100=0/64 cycles_detected=64/64 cycle_median=3 cycle_max=3
+causal_cone rotation=left width=4 tick=1 differing_windows=2.125000 max_window_distance=1.218750
+causal_cone rotation=left width=4 tick=2 differing_windows=3.562500 max_window_distance=2.234375
+causal_cone rotation=left width=4 tick=3 differing_windows=4.812500 max_window_distance=3.140625
+causal_cone rotation=left width=4 tick=6 differing_windows=8.609375 max_window_distance=5.046875
+causal_cone rotation=left width=4 tick=12 differing_windows=10.906250 max_window_distance=5.843750
+support_persistence rotation=left width=4 seeds=128 ticks=1000 adjacent_observed=0.762430 adjacent_matched_null=0.715526 lag3_observed=0.820734 lag3_matched_null=0.721665 lag3_observed_gt_null=127/128
+support_persistence rotation=right width=4 seeds=128 ticks=1000 adjacent_observed=0.752415 adjacent_matched_null=0.702734 lag3_observed=0.830444 lag3_matched_null=0.716019
+perturbation rotation=left width=4 seeds=128 warmup=100 window=25-48 support_control_vs_perturbed=0.805067 support_control_vs_independent=0.754123 raw_hamming_control_vs_perturbed=22.403971 paired_positive=88 paired_negative=38 paired_tie=2 sign_test_two_sided_p=0.000009848
