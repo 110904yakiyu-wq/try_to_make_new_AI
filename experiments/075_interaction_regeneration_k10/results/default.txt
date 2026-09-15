@@ -1,0 +1,2 @@
+block cases=1152 recent=586 old=542 tie=24 strict=203
+jitter cases=1152 recent=563 old=561 tie=28 strict=208
