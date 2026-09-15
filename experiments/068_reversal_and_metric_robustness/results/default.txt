@@ -1,0 +1,20 @@
+block_reversal
+cases=1152
+recent=621
+old=485
+tie=46
+strict=184
+pair=1,2 recent=105 old=75 tie=12 strict=30
+pair=1,4 recent=98 old=87 tie=7 strict=37
+pair=2,4 recent=110 old=74 tie=8 strict=31
+pair=3,5 recent=96 old=91 tie=5 strict=26
+pair=3,6 recent=114 old=71 tie=7 strict=34
+pair=5,6 recent=98 old=87 tie=7 strict=26
+
+metric_penalty_sweep
+penalty=1 recent=291 old=235 tie=50 strict=73
+penalty=2 recent=309 old=232 tie=35 strict=76
+penalty=4 recent=315 old=233 tie=28 strict=83
+penalty=7 recent=315 old=238 tie=23 strict=85
+penalty=10 recent=317 old=237 tie=22 strict=87
+penalty=20 recent=317 old=237 tie=22 strict=87
