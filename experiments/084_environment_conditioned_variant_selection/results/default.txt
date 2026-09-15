@@ -1,0 +1,30 @@
+environment=none noise=1
+p2=114.000000
+p3=0.000000
+max_p3=0.000000
+p3_births=0.000000
+mean_p3_lifetime=0.000000
+max_p3_lifetime=0.000000
+first_p3=600.000000
+environment=E2 noise=1
+p2=114.000000
+p3=0.000000
+max_p3=0.000000
+p3_births=0.000000
+mean_p3_lifetime=0.000000
+max_p3_lifetime=0.000000
+first_p3=600.000000
+environment=E3 noise=1
+p2=108.318125
+p3=2.449375
+max_p3=25.625000
+p3_births=6.562500
+mean_p3_lifetime=19.570800
+max_p3_lifetime=69.375000
+first_p3=42.375000
+environment=E3 noise=0
+p3=0.000000
+p3_births=0.000000
+switch=E2->E3 before_p2=114.000000 before_p3=0.000000 after_p2=102.202188 after_p3=4.581875
+switch=E3->E2 before_p2=99.744375 before_p3=5.672813 after_p2=112.911250 after_p3=0.000000
+switch=E3->none before_p2=99.744375 before_p3=5.672813 after_p2=113.103750 after_p3=0.000000
