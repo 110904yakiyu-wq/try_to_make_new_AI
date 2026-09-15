@@ -1,0 +1,7 @@
+cases=2304
+baseline net_match=1129 net_mismatch=1112 tie=63 strict=354
+repair_trace net_match=1149 net_mismatch=1086 tie=69 strict=355
+repair_trace mean_deposits_per_trained_state=4.448351
+repair_trace states_with_deposit_fraction=0.936198
+repair_trace_direction_normal_z=1.332606
+repair_trace_direction_two_sided_p_normal=0.182661
