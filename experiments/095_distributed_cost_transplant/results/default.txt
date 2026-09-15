@@ -1,0 +1,8 @@
+distance6_cases=4951
+distance6_min_regions_1=2074
+distance6_min_regions_2=1374
+distance6_min_regions_3=1503
+profile_cases=6022
+profile_min_regions_1=594
+profile_min_regions_2=1284
+profile_min_regions_3=4144
