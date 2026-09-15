@@ -1,0 +1,25 @@
+direction=left localized_seed_count=130 catalog_cycles=126
+same sep=3 independent=0 static=12 localized=102 expansive_cycle=0 expansive_noncycle=16 localized_known_catalog=0 localized_novel_catalog=102
+same sep=4 independent=0 static=0 localized=30 expansive_cycle=4 expansive_noncycle=96 localized_known_catalog=0 localized_novel_catalog=30
+same sep=5 independent=66 static=0 localized=48 expansive_cycle=0 expansive_noncycle=16 localized_known_catalog=0 localized_novel_catalog=48
+same sep=6 independent=114 static=0 localized=0 expansive_cycle=0 expansive_noncycle=16 localized_known_catalog=0 localized_novel_catalog=0
+same sep=8 independent=114 static=0 localized=0 expansive_cycle=0 expansive_noncycle=16 localized_known_catalog=0 localized_novel_catalog=0
+same sep=10 independent=114 static=0 localized=0 expansive_cycle=0 expansive_noncycle=16 localized_known_catalog=0 localized_novel_catalog=0
+hetero sep=3 independent=0 static=0 localized=57 expansive_cycle=8 expansive_noncycle=65 localized_novel_catalog=57
+hetero sep=4 independent=3 static=1 localized=74 expansive_cycle=7 expansive_noncycle=45 localized_novel_catalog=74
+hetero sep=5 independent=51 static=0 localized=40 expansive_cycle=3 expansive_noncycle=36 localized_novel_catalog=40
+hetero sep=6 independent=74 static=0 localized=28 expansive_cycle=5 expansive_noncycle=22 localized_novel_catalog=28
+hetero sep=8 independent=103 static=0 localized=1 expansive_cycle=1 expansive_noncycle=25 localized_novel_catalog=1
+
+direction=right localized_seed_count=130 catalog_cycles=126
+same sep=3 independent=0 static=12 localized=102 expansive_cycle=0 expansive_noncycle=16 localized_known_catalog=0 localized_novel_catalog=102
+same sep=4 independent=0 static=0 localized=30 expansive_cycle=4 expansive_noncycle=96 localized_known_catalog=0 localized_novel_catalog=30
+same sep=5 independent=66 static=0 localized=48 expansive_cycle=0 expansive_noncycle=16 localized_known_catalog=0 localized_novel_catalog=48
+same sep=6 independent=114 static=0 localized=0 expansive_cycle=0 expansive_noncycle=16 localized_known_catalog=0 localized_novel_catalog=0
+same sep=8 independent=114 static=0 localized=0 expansive_cycle=0 expansive_noncycle=16 localized_known_catalog=0 localized_novel_catalog=0
+same sep=10 independent=114 static=0 localized=0 expansive_cycle=0 expansive_noncycle=16 localized_known_catalog=0 localized_novel_catalog=0
+hetero sep=3 independent=0 static=0 localized=57 expansive_cycle=6 expansive_noncycle=67 localized_novel_catalog=57
+hetero sep=4 independent=5 static=2 localized=70 expansive_cycle=5 expansive_noncycle=48 localized_novel_catalog=70
+hetero sep=5 independent=50 static=0 localized=44 expansive_cycle=1 expansive_noncycle=35 localized_novel_catalog=44
+hetero sep=6 independent=74 static=0 localized=25 expansive_cycle=3 expansive_noncycle=27 localized_novel_catalog=25
+hetero sep=8 independent=102 static=0 localized=2 expansive_cycle=0 expansive_noncycle=26 localized_novel_catalog=2
