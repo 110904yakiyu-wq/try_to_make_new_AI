@@ -1,0 +1,10 @@
+noise=0 rule=0 mean_active_motifs=10.343750 mean_active_pairs=7.656250 mean_events=0.000000
+noise=0 rule=1 mean_active_motifs=96.000000 mean_active_pairs=1.000000 mean_events=0.000000
+noise=1 rule=0 mean_active_motifs=10.558594 mean_active_pairs=7.926563 mean_events=0.000000
+noise=1 rule=1 mean_active_motifs=93.862813 mean_active_pairs=1.862812 mean_events=1.754687
+noise=2 rule=0 mean_active_motifs=10.575625 mean_active_pairs=7.854844 mean_events=0.000000
+noise=2 rule=1 mean_active_motifs=91.755313 mean_active_pairs=2.601719 mean_events=3.622187
+noise=4 rule=0 mean_active_motifs=10.417813 mean_active_pairs=7.787656 mean_events=0.000000
+noise=4 rule=1 mean_active_motifs=87.750312 mean_active_pairs=3.866250 mean_events=7.102500
+permutation_equivariance=512/512
+single_defect_motif_repair=16128/16128
