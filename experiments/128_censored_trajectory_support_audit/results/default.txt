@@ -1,0 +1,41 @@
+{
+  "G0": {
+    "ever_30_simultaneously_active": 143,
+    "full_ring_union_10000": 143,
+    "full_ring_union_2000": 143,
+    "full_ring_union_500": 129,
+    "full_ring_union_50000": 143,
+    "mean_occupied_windows_over_50000": 55.11580055944056,
+    "median_first_full_union_tick": 364,
+    "nonfull_cases": [],
+    "parents_with_censored_cases": 23,
+    "records": 143
+  },
+  "control": {
+    "ever_30_simultaneously_active": 393,
+    "full_ring_union_10000": 393,
+    "full_ring_union_2000": 393,
+    "full_ring_union_500": 367,
+    "full_ring_union_50000": 393,
+    "mean_occupied_windows_over_50000": 55.00099243654822,
+    "median_first_full_union_tick": 364,
+    "nonfull_cases": [
+      {
+        "first_union60": -1,
+        "parent_id": 80,
+        "raw": 15,
+        "side": 0,
+        "union_50000": 12
+      }
+    ],
+    "parents_with_censored_cases": 46,
+    "records": 394
+  },
+  "overall": {
+    "censored_unique_physical_states": 528,
+    "full_ring_union_500": 496,
+    "full_ring_union_50000": 536,
+    "parents_with_censored_cases": 50,
+    "records": 537
+  }
+}
