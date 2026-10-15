@@ -1,0 +1,48 @@
+{
+  "control_microstates": 87,
+  "endpoints": {
+    "10": {
+      "any_choice_can_control_win_parents": 41,
+      "any_choice_can_g0_win_parents": 16,
+      "arbitrary_per_parent_choice_sensitivity_envelope": [
+        -0.2018181818181818,
+        -0.11454545454545455
+      ],
+      "multi_candidate_parents_with_both_strict_signs_possible": 6,
+      "multi_candidate_parents_with_control_outcome_variation": 20,
+      "original_first_choice_bounds": [
+        -0.16969696969696968,
+        -0.16969696969696968
+      ],
+      "original_guaranteed_control_positive_parents": 37,
+      "original_guaranteed_g0_positive_parents": 11,
+      "within_parent_uniform_candidate_mean_bounds": [
+        -0.15677777777777777,
+        -0.15677777777777777
+      ]
+    },
+    "60": {
+      "any_choice_can_control_win_parents": 41,
+      "any_choice_can_g0_win_parents": 14,
+      "arbitrary_per_parent_choice_sensitivity_envelope": [
+        -0.17939393939393938,
+        -0.10424242424242423
+      ],
+      "multi_candidate_parents_with_both_strict_signs_possible": 5,
+      "multi_candidate_parents_with_control_outcome_variation": 20,
+      "original_first_choice_bounds": [
+        -0.15333333333333332,
+        -0.1527272727272727
+      ],
+      "original_guaranteed_control_positive_parents": 37,
+      "original_guaranteed_g0_positive_parents": 10,
+      "within_parent_uniform_candidate_mean_bounds": [
+        -0.1407171717171717,
+        -0.1401111111111111
+      ]
+    }
+  },
+  "extra_control_probe_rows": 960,
+  "parent_count": 55,
+  "parents_with_multiple_eligible": 22
+}
