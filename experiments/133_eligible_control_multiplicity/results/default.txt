@@ -1,0 +1,23 @@
+{
+  "accepted_histogram": {
+    "0": 75,
+    "1": 33,
+    "2": 16,
+    "3": 3,
+    "4": 2,
+    "5": 1
+  },
+  "eligible_parents": 55,
+  "parents_inspected": 130,
+  "parents_with_multiple_distinct_controls": 22,
+  "parents_with_multiple_eligible": 22,
+  "total_accepted_candidates": 87,
+  "unique_state_histogram": {
+    "0": 75,
+    "1": 33,
+    "2": 16,
+    "3": 3,
+    "4": 2,
+    "5": 1
+  }
+}
