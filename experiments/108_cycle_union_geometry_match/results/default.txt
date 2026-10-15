@@ -1,0 +1,10 @@
+matched=55/130 attempts=100 horizon=500
+matching=period+exact_cycle_union_support+phase0_occupancy+phase0_scheduler
+category_order=strict_fission,fragmented_not_independent,active_connected,static,timeout
+G0=2,15,1486,4,143
+G0_daughters=4
+control=2,28,1215,7,398
+control_daughters=4
+active_connected G0_higher=37 null_higher=11 tie=7 mean_diff_per_parent=4.927273
+timeout G0_higher=10 null_higher=37 tie=8 mean_diff_per_parent=-4.636364
+accepted_attempt_median=32
