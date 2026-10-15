@@ -1,0 +1,2166 @@
+{
+  "design": "exact nonidentical raw-bit alternatives under nested post-transplant physical-feature constraints",
+  "experiment": 113,
+  "inventory": {
+    "informative_parents": 8,
+    "matched_parents": 20,
+    "width1_g0_mask_eligible": 35,
+    "width1_mask_eligible": 34,
+    "width1_pop_and_eligible": 23,
+    "width1_pop_and_flips_eligible": 23,
+    "width1_popcount_eligible": 31,
+    "width2_g0_mask_eligible": 16,
+    "width2_mask_eligible": 16,
+    "width2_pop_and_eligible": 14,
+    "width2_pop_and_flips_eligible": 14,
+    "width2_popcount_eligible": 16,
+    "width3_g0_mask_eligible": 20,
+    "width3_mask_eligible": 20,
+    "width3_pop_and_eligible": 20,
+    "width3_pop_and_flips_eligible": 20,
+    "width3_popcount_eligible": 20
+  },
+  "parameters": {
+    "census_only": true,
+    "cohort_limit": null,
+    "features": [
+      "popcount",
+      "neighbor_and",
+      "first_tick_flips"
+    ],
+    "horizon": 500,
+    "mask": "exact first autonomous changed-site set, phase 0",
+    "null_pool": "exhaustive nonzero assignments differing at every edited site; exclude donor patch identity; filter exact features before response assays",
+    "null_repeats_per_eligible_patch": 4,
+    "reference": "112 results/default.json",
+    "tiers": [
+      "mask",
+      "popcount",
+      "pop_and",
+      "pop_and_flips"
+    ],
+    "widths": [
+      1,
+      2,
+      3
+    ]
+  },
+  "patch_records": [
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 1,
+        "popcount": 4
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 2,
+      "patch": [
+        29
+      ],
+      "pool_sizes": {
+        "mask": 13,
+        "pop_and": 2,
+        "pop_and_flips": 2,
+        "popcount": 3
+      },
+      "width": 1
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 1,
+        "popcount": 6
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 2,
+      "patch": [
+        31
+      ],
+      "pool_sizes": {
+        "mask": 2,
+        "pop_and": 1,
+        "pop_and_flips": 1,
+        "popcount": 1
+      },
+      "width": 1
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 2,
+        "popcount": 6
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 8,
+      "patch": [
+        29
+      ],
+      "pool_sizes": {
+        "mask": 13,
+        "pop_and": 1,
+        "pop_and_flips": 1,
+        "popcount": 3
+      },
+      "width": 1
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 2,
+        "popcount": 5
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 8,
+      "patch": [
+        30,
+        31,
+        32
+      ],
+      "pool_sizes": {
+        "mask": 159,
+        "pop_and": 5,
+        "pop_and_flips": 5,
+        "popcount": 8
+      },
+      "width": 3
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 1,
+        "popcount": 6
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": false,
+        "pop_and_flips": false,
+        "popcount": true
+      },
+      "informative_probes": 1,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 9,
+      "patch": [
+        29
+      ],
+      "pool_sizes": {
+        "mask": 13,
+        "pop_and": 0,
+        "pop_and_flips": 0,
+        "popcount": 2
+      },
+      "width": 1
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 1,
+        "popcount": 6
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 1,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 9,
+      "patch": [
+        31,
+        32
+      ],
+      "pool_sizes": {
+        "mask": 8,
+        "pop_and": 3,
+        "pop_and_flips": 3,
+        "popcount": 4
+      },
+      "width": 2
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 2,
+        "popcount": 5
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 1,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 9,
+      "patch": [
+        30,
+        31,
+        32
+      ],
+      "pool_sizes": {
+        "mask": 138,
+        "pop_and": 20,
+        "pop_and_flips": 20,
+        "popcount": 43
+      },
+      "width": 3
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 1,
+        "popcount": 4
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 2,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 17,
+      "patch": [
+        32
+      ],
+      "pool_sizes": {
+        "mask": 5,
+        "pop_and": 2,
+        "pop_and_flips": 2,
+        "popcount": 2
+      },
+      "width": 1
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 1,
+        "popcount": 5
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 2,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 17,
+      "patch": [
+        30,
+        31,
+        32
+      ],
+      "pool_sizes": {
+        "mask": 158,
+        "pop_and": 24,
+        "pop_and_flips": 24,
+        "popcount": 43
+      },
+      "width": 3
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 3,
+        "neighbor_and": 3,
+        "popcount": 8
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 1,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 19,
+      "patch": [
+        29
+      ],
+      "pool_sizes": {
+        "mask": 13,
+        "pop_and": 1,
+        "pop_and_flips": 1,
+        "popcount": 2
+      },
+      "width": 1
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 3,
+        "neighbor_and": 4,
+        "popcount": 8
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 1,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 19,
+      "patch": [
+        33
+      ],
+      "pool_sizes": {
+        "mask": 13,
+        "pop_and": 1,
+        "pop_and_flips": 1,
+        "popcount": 2
+      },
+      "width": 1
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 2,
+        "neighbor_and": 3,
+        "popcount": 7
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 1,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 19,
+      "patch": [
+        31,
+        32
+      ],
+      "pool_sizes": {
+        "mask": 13,
+        "pop_and": 1,
+        "pop_and_flips": 1,
+        "popcount": 1
+      },
+      "width": 2
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 2,
+        "neighbor_and": 3,
+        "popcount": 7
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 1,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 19,
+      "patch": [
+        30,
+        31,
+        32
+      ],
+      "pool_sizes": {
+        "mask": 220,
+        "pop_and": 36,
+        "pop_and_flips": 36,
+        "popcount": 53
+      },
+      "width": 3
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 2,
+        "neighbor_and": 3,
+        "popcount": 7
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 1,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 19,
+      "patch": [
+        31,
+        32,
+        33
+      ],
+      "pool_sizes": {
+        "mask": 195,
+        "pop_and": 3,
+        "pop_and_flips": 3,
+        "popcount": 5
+      },
+      "width": 3
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 2,
+        "popcount": 6
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 22,
+      "patch": [
+        29
+      ],
+      "pool_sizes": {
+        "mask": 13,
+        "pop_and": 1,
+        "pop_and_flips": 1,
+        "popcount": 3
+      },
+      "width": 1
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 2,
+        "popcount": 7
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": false,
+        "pop_and_flips": false,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 22,
+      "patch": [
+        30
+      ],
+      "pool_sizes": {
+        "mask": 4,
+        "pop_and": 0,
+        "pop_and_flips": 0,
+        "popcount": 1
+      },
+      "width": 1
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 1,
+        "popcount": 6
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 22,
+      "patch": [
+        29,
+        30
+      ],
+      "pool_sizes": {
+        "mask": 69,
+        "pop_and": 6,
+        "pop_and_flips": 6,
+        "popcount": 17
+      },
+      "width": 2
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 2,
+        "popcount": 7
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 22,
+      "patch": [
+        30,
+        31,
+        32
+      ],
+      "pool_sizes": {
+        "mask": 138,
+        "pop_and": 33,
+        "pop_and_flips": 33,
+        "popcount": 62
+      },
+      "width": 3
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 2,
+        "popcount": 5
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": false,
+        "pop_and_flips": false,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 24,
+      "patch": [
+        29
+      ],
+      "pool_sizes": {
+        "mask": 13,
+        "pop_and": 0,
+        "pop_and_flips": 0,
+        "popcount": 3
+      },
+      "width": 1
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 1,
+        "popcount": 6
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": false,
+        "pop_and_flips": false,
+        "popcount": false
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 24,
+      "patch": [
+        30
+      ],
+      "pool_sizes": {
+        "mask": 4,
+        "pop_and": 0,
+        "pop_and_flips": 0,
+        "popcount": 0
+      },
+      "width": 1
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 1,
+        "popcount": 5
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 24,
+      "patch": [
+        29,
+        30
+      ],
+      "pool_sizes": {
+        "mask": 69,
+        "pop_and": 2,
+        "pop_and_flips": 2,
+        "popcount": 3
+      },
+      "width": 2
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 1,
+        "popcount": 5
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": false,
+        "pop_and_flips": false,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 24,
+      "patch": [
+        30,
+        31
+      ],
+      "pool_sizes": {
+        "mask": 27,
+        "pop_and": 0,
+        "pop_and_flips": 0,
+        "popcount": 1
+      },
+      "width": 2
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 1,
+        "popcount": 4
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 24,
+      "patch": [
+        29,
+        30,
+        31
+      ],
+      "pool_sizes": {
+        "mask": 391,
+        "pop_and": 5,
+        "pop_and_flips": 5,
+        "popcount": 7
+      },
+      "width": 3
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 1,
+        "popcount": 5
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 24,
+      "patch": [
+        30,
+        31,
+        32
+      ],
+      "pool_sizes": {
+        "mask": 134,
+        "pop_and": 1,
+        "pop_and_flips": 1,
+        "popcount": 6
+      },
+      "width": 3
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 1,
+        "popcount": 4
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 25,
+      "patch": [
+        29
+      ],
+      "pool_sizes": {
+        "mask": 13,
+        "pop_and": 2,
+        "pop_and_flips": 2,
+        "popcount": 3
+      },
+      "width": 1
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 1,
+        "popcount": 5
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 25,
+      "patch": [
+        32
+      ],
+      "pool_sizes": {
+        "mask": 5,
+        "pop_and": 1,
+        "pop_and_flips": 1,
+        "popcount": 1
+      },
+      "width": 1
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 2,
+        "popcount": 6
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 25,
+      "patch": [
+        30,
+        31,
+        32
+      ],
+      "pool_sizes": {
+        "mask": 132,
+        "pop_and": 23,
+        "pop_and_flips": 23,
+        "popcount": 36
+      },
+      "width": 3
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 1,
+        "popcount": 6
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 34,
+      "patch": [
+        29
+      ],
+      "pool_sizes": {
+        "mask": 13,
+        "pop_and": 1,
+        "pop_and_flips": 1,
+        "popcount": 2
+      },
+      "width": 1
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 1,
+        "popcount": 4
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 34,
+      "patch": [
+        32
+      ],
+      "pool_sizes": {
+        "mask": 5,
+        "pop_and": 2,
+        "pop_and_flips": 2,
+        "popcount": 2
+      },
+      "width": 1
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 2,
+        "popcount": 5
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 34,
+      "patch": [
+        30,
+        31,
+        32
+      ],
+      "pool_sizes": {
+        "mask": 162,
+        "pop_and": 18,
+        "pop_and_flips": 18,
+        "popcount": 44
+      },
+      "width": 3
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 2,
+        "popcount": 5
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 2,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 35,
+      "patch": [
+        29
+      ],
+      "pool_sizes": {
+        "mask": 13,
+        "pop_and": 2,
+        "pop_and_flips": 2,
+        "popcount": 5
+      },
+      "width": 1
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 2,
+        "neighbor_and": 4,
+        "popcount": 8
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": false,
+        "pop_and_flips": false,
+        "popcount": true
+      },
+      "informative_probes": 2,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 35,
+      "patch": [
+        30,
+        31
+      ],
+      "pool_sizes": {
+        "mask": 29,
+        "pop_and": 0,
+        "pop_and_flips": 0,
+        "popcount": 12
+      },
+      "width": 2
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 2,
+        "neighbor_and": 2,
+        "popcount": 7
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 2,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 35,
+      "patch": [
+        29,
+        30,
+        31
+      ],
+      "pool_sizes": {
+        "mask": 419,
+        "pop_and": 63,
+        "pop_and_flips": 11,
+        "popcount": 127
+      },
+      "width": 3
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 2,
+        "neighbor_and": 4,
+        "popcount": 9
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 2,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 35,
+      "patch": [
+        30,
+        31,
+        32
+      ],
+      "pool_sizes": {
+        "mask": 132,
+        "pop_and": 13,
+        "pop_and_flips": 13,
+        "popcount": 23
+      },
+      "width": 3
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 2,
+        "popcount": 6
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 36,
+      "patch": [
+        29
+      ],
+      "pool_sizes": {
+        "mask": 13,
+        "pop_and": 1,
+        "pop_and_flips": 1,
+        "popcount": 2
+      },
+      "width": 1
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 2,
+        "popcount": 6
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 36,
+      "patch": [
+        30,
+        31,
+        32
+      ],
+      "pool_sizes": {
+        "mask": 138,
+        "pop_and": 32,
+        "pop_and_flips": 31,
+        "popcount": 62
+      },
+      "width": 3
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 2,
+        "popcount": 4
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": false,
+        "pop_and_flips": false,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 38,
+      "patch": [
+        29
+      ],
+      "pool_sizes": {
+        "mask": 13,
+        "pop_and": 0,
+        "pop_and_flips": 0,
+        "popcount": 2
+      },
+      "width": 1
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 2,
+        "popcount": 6
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 38,
+      "patch": [
+        30,
+        31,
+        32
+      ],
+      "pool_sizes": {
+        "mask": 132,
+        "pop_and": 28,
+        "pop_and_flips": 23,
+        "popcount": 61
+      },
+      "width": 3
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 2,
+        "neighbor_and": 2,
+        "popcount": 8
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 42,
+      "patch": [
+        29
+      ],
+      "pool_sizes": {
+        "mask": 13,
+        "pop_and": 2,
+        "pop_and_flips": 2,
+        "popcount": 3
+      },
+      "width": 1
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 2,
+        "neighbor_and": 2,
+        "popcount": 10
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": false,
+        "pop_and_flips": false,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 42,
+      "patch": [
+        30
+      ],
+      "pool_sizes": {
+        "mask": 4,
+        "pop_and": 0,
+        "pop_and_flips": 0,
+        "popcount": 2
+      },
+      "width": 1
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 2,
+        "neighbor_and": 2,
+        "popcount": 9
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": false,
+        "pop_and_flips": false,
+        "popcount": false
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 42,
+      "patch": [
+        32
+      ],
+      "pool_sizes": {
+        "mask": 4,
+        "pop_and": 0,
+        "pop_and_flips": 0,
+        "popcount": 0
+      },
+      "width": 1
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 2,
+        "neighbor_and": 2,
+        "popcount": 8
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 42,
+      "patch": [
+        33
+      ],
+      "pool_sizes": {
+        "mask": 13,
+        "pop_and": 2,
+        "pop_and_flips": 2,
+        "popcount": 3
+      },
+      "width": 1
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 2,
+        "neighbor_and": 2,
+        "popcount": 9
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 42,
+      "patch": [
+        29,
+        30
+      ],
+      "pool_sizes": {
+        "mask": 69,
+        "pop_and": 6,
+        "pop_and_flips": 6,
+        "popcount": 16
+      },
+      "width": 2
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 2,
+        "neighbor_and": 2,
+        "popcount": 8
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 42,
+      "patch": [
+        32,
+        33
+      ],
+      "pool_sizes": {
+        "mask": 69,
+        "pop_and": 2,
+        "pop_and_flips": 2,
+        "popcount": 3
+      },
+      "width": 2
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 2,
+        "popcount": 5
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": false,
+        "pop_and_flips": false,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 46,
+      "patch": [
+        29
+      ],
+      "pool_sizes": {
+        "mask": 13,
+        "pop_and": 0,
+        "pop_and_flips": 0,
+        "popcount": 2
+      },
+      "width": 1
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 1,
+        "popcount": 6
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 46,
+      "patch": [
+        30
+      ],
+      "pool_sizes": {
+        "mask": 4,
+        "pop_and": 1,
+        "pop_and_flips": 1,
+        "popcount": 2
+      },
+      "width": 1
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 1,
+        "popcount": 6
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 46,
+      "patch": [
+        29,
+        30
+      ],
+      "pool_sizes": {
+        "mask": 69,
+        "pop_and": 4,
+        "pop_and_flips": 4,
+        "popcount": 14
+      },
+      "width": 2
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 1,
+        "popcount": 5
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 46,
+      "patch": [
+        30,
+        31
+      ],
+      "pool_sizes": {
+        "mask": 27,
+        "pop_and": 8,
+        "pop_and_flips": 8,
+        "popcount": 8
+      },
+      "width": 2
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 1,
+        "popcount": 5
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 46,
+      "patch": [
+        29,
+        30,
+        31
+      ],
+      "pool_sizes": {
+        "mask": 391,
+        "pop_and": 17,
+        "pop_and_flips": 17,
+        "popcount": 38
+      },
+      "width": 3
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 1,
+        "popcount": 5
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 46,
+      "patch": [
+        30,
+        31,
+        32
+      ],
+      "pool_sizes": {
+        "mask": 134,
+        "pop_and": 18,
+        "pop_and_flips": 18,
+        "popcount": 39
+      },
+      "width": 3
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 2,
+        "neighbor_and": 2,
+        "popcount": 8
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 49,
+      "patch": [
+        28
+      ],
+      "pool_sizes": {
+        "mask": 1,
+        "pop_and": 1,
+        "pop_and_flips": 1,
+        "popcount": 1
+      },
+      "width": 1
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 2,
+        "neighbor_and": 1,
+        "popcount": 8
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": false,
+        "pop_and_flips": false,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 49,
+      "patch": [
+        29
+      ],
+      "pool_sizes": {
+        "mask": 1,
+        "pop_and": 0,
+        "pop_and_flips": 0,
+        "popcount": 1
+      },
+      "width": 1
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 2,
+        "neighbor_and": 1,
+        "popcount": 7
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 49,
+      "patch": [
+        28,
+        29
+      ],
+      "pool_sizes": {
+        "mask": 44,
+        "pop_and": 5,
+        "pop_and_flips": 5,
+        "popcount": 11
+      },
+      "width": 2
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 2,
+        "neighbor_and": 2,
+        "popcount": 10
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 49,
+      "patch": [
+        30,
+        31,
+        32
+      ],
+      "pool_sizes": {
+        "mask": 236,
+        "pop_and": 47,
+        "pop_and_flips": 41,
+        "popcount": 103
+      },
+      "width": 3
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 2,
+        "neighbor_and": 1,
+        "popcount": 9
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": false,
+        "pop_and_flips": false,
+        "popcount": false
+      },
+      "informative_probes": 1,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 75,
+      "patch": [
+        31
+      ],
+      "pool_sizes": {
+        "mask": 2,
+        "pop_and": 0,
+        "pop_and_flips": 0,
+        "popcount": 0
+      },
+      "width": 1
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 2,
+        "neighbor_and": 2,
+        "popcount": 7
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 1,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 75,
+      "patch": [
+        28,
+        29
+      ],
+      "pool_sizes": {
+        "mask": 44,
+        "pop_and": 5,
+        "pop_and_flips": 5,
+        "popcount": 11
+      },
+      "width": 2
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 2,
+        "neighbor_and": 2,
+        "popcount": 9
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 1,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 75,
+      "patch": [
+        30,
+        31
+      ],
+      "pool_sizes": {
+        "mask": 27,
+        "pop_and": 6,
+        "pop_and_flips": 6,
+        "popcount": 8
+      },
+      "width": 2
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 1,
+        "popcount": 4
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 85,
+      "patch": [
+        29
+      ],
+      "pool_sizes": {
+        "mask": 13,
+        "pop_and": 2,
+        "pop_and_flips": 2,
+        "popcount": 3
+      },
+      "width": 1
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 2,
+        "popcount": 6
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 85,
+      "patch": [
+        30
+      ],
+      "pool_sizes": {
+        "mask": 2,
+        "pop_and": 1,
+        "pop_and_flips": 1,
+        "popcount": 1
+      },
+      "width": 1
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 1,
+        "popcount": 5
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 85,
+      "patch": [
+        32
+      ],
+      "pool_sizes": {
+        "mask": 5,
+        "pop_and": 1,
+        "pop_and_flips": 1,
+        "popcount": 1
+      },
+      "width": 1
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 1,
+        "popcount": 5
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 85,
+      "patch": [
+        29,
+        30
+      ],
+      "pool_sizes": {
+        "mask": 41,
+        "pop_and": 3,
+        "pop_and_flips": 3,
+        "popcount": 7
+      },
+      "width": 2
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 1,
+        "popcount": 6
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 85,
+      "patch": [
+        31,
+        32
+      ],
+      "pool_sizes": {
+        "mask": 8,
+        "pop_and": 3,
+        "pop_and_flips": 3,
+        "popcount": 3
+      },
+      "width": 2
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 2,
+        "popcount": 7
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 0,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 85,
+      "patch": [
+        30,
+        31,
+        32
+      ],
+      "pool_sizes": {
+        "mask": 132,
+        "pop_and": 35,
+        "pop_and_flips": 33,
+        "popcount": 61
+      },
+      "width": 3
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 2,
+        "popcount": 6
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": false,
+        "pop_and_flips": false,
+        "popcount": true
+      },
+      "informative_probes": 1,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 102,
+      "patch": [
+        29
+      ],
+      "pool_sizes": {
+        "mask": 13,
+        "pop_and": 0,
+        "pop_and_flips": 0,
+        "popcount": 3
+      },
+      "width": 1
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 2,
+        "popcount": 6
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 1,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 102,
+      "patch": [
+        30,
+        31,
+        32
+      ],
+      "pool_sizes": {
+        "mask": 162,
+        "pop_and": 29,
+        "pop_and_flips": 29,
+        "popcount": 44
+      },
+      "width": 3
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 1,
+        "popcount": 5
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 1,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 104,
+      "patch": [
+        29
+      ],
+      "pool_sizes": {
+        "mask": 13,
+        "pop_and": 1,
+        "pop_and_flips": 1,
+        "popcount": 2
+      },
+      "width": 1
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 1,
+        "popcount": 6
+      },
+      "eligible": {
+        "mask": false,
+        "pop_and": false,
+        "pop_and_flips": false,
+        "popcount": false
+      },
+      "informative_probes": 1,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 104,
+      "patch": [
+        31
+      ],
+      "pool_sizes": {
+        "mask": 0,
+        "pop_and": 0,
+        "pop_and_flips": 0,
+        "popcount": 0
+      },
+      "width": 1
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 1,
+        "popcount": 4
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 1,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 104,
+      "patch": [
+        32
+      ],
+      "pool_sizes": {
+        "mask": 5,
+        "pop_and": 2,
+        "pop_and_flips": 2,
+        "popcount": 2
+      },
+      "width": 1
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 1,
+        "popcount": 5
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 1,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 104,
+      "patch": [
+        31,
+        32
+      ],
+      "pool_sizes": {
+        "mask": 10,
+        "pop_and": 5,
+        "pop_and_flips": 5,
+        "popcount": 5
+      },
+      "width": 2
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 2,
+        "popcount": 6
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 1,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 104,
+      "patch": [
+        30,
+        31,
+        32
+      ],
+      "pool_sizes": {
+        "mask": 158,
+        "pop_and": 36,
+        "pop_and_flips": 30,
+        "popcount": 72
+      },
+      "width": 3
+    },
+    {
+      "donor_censored": null,
+      "donor_confirmed": null,
+      "donor_features": {
+        "first_tick_flips": 1,
+        "neighbor_and": 1,
+        "popcount": 4
+      },
+      "eligible": {
+        "mask": true,
+        "pop_and": true,
+        "pop_and_flips": true,
+        "popcount": true
+      },
+      "informative_probes": 1,
+      "null_censored": {},
+      "null_confirmed": {},
+      "parent_id": 106,
+      "patch": [
+        32
+      ],
+      "pool_sizes": {
+        "mask": 5,
+        "pop_and": 2,
+        "pop_and_flips": 2,
+        "popcount": 2
+      },
+      "width": 1
+    }
+  ],
+  "summary": {}
+}
