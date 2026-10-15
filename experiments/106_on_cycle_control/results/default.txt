@@ -1,0 +1,10 @@
+eligible_parent_pairs=116/130 preintervention_selection=yes matched_phase0=yes
+geometry_matches(period_equal,support_size_equal)={(False, False): 82, (False, True): 6, (True, False): 24, (True, True): 4}
+category_order=strict_fission,fragmented_not_independent,active_connected,static,timeout
+actual=12,71,3088,56,253
+actual_daughters=24
+oncycle_control=167,304,2376,11,622
+oncycle_control_daughters=336
+paired strict_fission actual_higher=3 control_higher=24 tie=89 mean=-1.336207
+paired active_connected actual_higher=78 control_higher=24 tie=14 mean=6.137931
+paired timeout actual_higher=22 control_higher=68 tie=26 mean=-3.181034
