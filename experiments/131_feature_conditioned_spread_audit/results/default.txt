@@ -1,0 +1,15 @@
+all paired_probes 1650 parents 55
+  threshold 10 G0 {'no': 1477, 'yes': 173} control {'no': 1197, 'yes': 453} pooled_bounds [-0.1696969696969697, -0.1696969696969697] parent_equal_bounds [-0.16969696969696968, -0.16969696969696968] parent_signs {'G0_certain': 11, 'control_certain': 37, 'unidentified_or_tied': 7}
+  threshold 60 G0 {'no': 1507, 'yes': 143} control {'no': 1254, 'unknown': 1, 'yes': 395} pooled_bounds [-0.15333333333333332, -0.15272727272727274] parent_equal_bounds [-0.15333333333333332, -0.1527272727272727] parent_signs {'G0_certain': 10, 'control_certain': 37, 'unidentified_or_tied': 8}
+popcount paired_probes 450 parents 15
+  threshold 10 G0 {'no': 403, 'yes': 47} control {'no': 341, 'yes': 109} pooled_bounds [-0.13777777777777778, -0.13777777777777778] parent_equal_bounds [-0.13777777777777778, -0.13777777777777778] parent_signs {'G0_certain': 3, 'control_certain': 8, 'unidentified_or_tied': 4}
+  threshold 60 G0 {'no': 409, 'yes': 41} control {'no': 355, 'unknown': 1, 'yes': 94} pooled_bounds [-0.12, -0.11777777777777777] parent_equal_bounds [-0.12, -0.11777777777777777] parent_signs {'G0_certain': 2, 'control_certain': 8, 'unidentified_or_tied': 5}
+pop_and paired_probes 168 parents 14
+  threshold 10 G0 {'no': 142, 'yes': 26} control {'no': 146, 'yes': 22} pooled_bounds [0.023809523809523808, 0.023809523809523808] parent_equal_bounds [0.015571531642960212, 0.015571531642960212] parent_signs {'G0_certain': 3, 'control_certain': 4, 'unidentified_or_tied': 7}
+  threshold 60 G0 {'no': 146, 'yes': 22} control {'no': 150, 'unknown': 1, 'yes': 17} pooled_bounds [0.023809523809523808, 0.02976190476190476] parent_equal_bounds [0.019694392908678627, 0.024796433725005153] parent_signs {'G0_certain': 3, 'control_certain': 4, 'unidentified_or_tied': 7}
+pop_and_flips paired_probes 126 parents 10
+  threshold 10 G0 {'no': 103, 'yes': 23} control {'no': 106, 'yes': 20} pooled_bounds [0.023809523809523808, 0.023809523809523808] parent_equal_bounds [-0.04903318903318904, -0.04903318903318904] parent_signs {'G0_certain': 2, 'control_certain': 3, 'unidentified_or_tied': 5}
+  threshold 60 G0 {'no': 107, 'yes': 19} control {'no': 110, 'unknown': 1, 'yes': 15} pooled_bounds [0.023809523809523808, 0.031746031746031744] parent_equal_bounds [-0.04326118326118326, -0.03611832611832612] parent_signs {'G0_certain': 2, 'control_certain': 3, 'unidentified_or_tied': 5}
+first_changed_mask paired_probes 102 parents 6
+  threshold 10 G0 {'no': 79, 'yes': 23} control {'no': 92, 'yes': 10} pooled_bounds [0.12745098039215685, 0.12745098039215685] parent_equal_bounds [0.10875420875420876, 0.10875420875420876] parent_signs {'G0_certain': 2, 'control_certain': 1, 'unidentified_or_tied': 3}
+  threshold 60 G0 {'no': 83, 'yes': 19} control {'no': 93, 'yes': 9} pooled_bounds [0.09803921568627451, 0.09803921568627451] parent_equal_bounds [0.08265993265993266, 0.08265993265993266] parent_signs {'G0_certain': 2, 'control_certain': 1, 'unidentified_or_tied': 3}
