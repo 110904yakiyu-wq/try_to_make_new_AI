@@ -1,0 +1,89 @@
+{
+  "inventory": {
+    "G0_checked": 130,
+    "equal_first_mask_pairs": 20,
+    "exact108_pairs": 55,
+    "mask_different108_pairs": 35,
+    "nonmatching108_pairs": 75
+  },
+  "parameters": {
+    "attempts": 100,
+    "center": 30,
+    "direction": "left",
+    "legacy_probes_per_side": [
+      1,
+      7,
+      15
+    ],
+    "max_parents": null,
+    "probes_per_side": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "scheduler_phase": 0,
+    "selection": "preintervention 108 exact match + same unperturbed first-tick mask",
+    "ticks": 500
+  },
+  "summary": {
+    "all30": {
+      "aggregate": {
+        "actual_censored": 81,
+        "actual_connected": 516,
+        "at_least_one_censored": 180,
+        "both_censored": 13,
+        "both_connected": 410,
+        "both_resolved": 420,
+        "class_disagreement": 10,
+        "control_censored": 112,
+        "control_connected": 477,
+        "resolved_period_disagreement": 283,
+        "resolved_support_disagreement": 263
+      },
+      "parents_with_any": {
+        "both_resolved": 20,
+        "class_disagreement": 8,
+        "resolved_period_disagreement": 20,
+        "resolved_support_disagreement": 20
+      },
+      "probe_pair_rows": 600
+    },
+    "comparison": {
+      "additional_class_informative_parents": 6
+    },
+    "six": {
+      "aggregate": {
+        "actual_censored": 23,
+        "actual_connected": 95,
+        "at_least_one_censored": 49,
+        "both_censored": 7,
+        "both_connected": 69,
+        "both_resolved": 71,
+        "class_disagreement": 2,
+        "control_censored": 33,
+        "control_connected": 86,
+        "resolved_period_disagreement": 46,
+        "resolved_support_disagreement": 32
+      },
+      "parents_with_any": {
+        "both_resolved": 20,
+        "class_disagreement": 2,
+        "resolved_period_disagreement": 20,
+        "resolved_support_disagreement": 18
+      },
+      "probe_pair_rows": 120
+    }
+  }
+}
