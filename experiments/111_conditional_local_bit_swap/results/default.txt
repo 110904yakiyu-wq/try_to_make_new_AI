@@ -1,0 +1,81 @@
+{
+  "inventory": {
+    "108_pairs": 55,
+    "G0_parents_checked": 130,
+    "same_first_mask_pairs": 20,
+    "width1_candidates": 77,
+    "width1_donor_mask_pass": 35,
+    "width1_matched_patches": 35,
+    "width1_null_attempts": 358,
+    "width2_candidates": 54,
+    "width2_donor_mask_pass": 16,
+    "width2_matched_patches": 16,
+    "width2_null_attempts": 660,
+    "width3_candidates": 35,
+    "width3_donor_mask_pass": 20,
+    "width3_matched_patches": 20,
+    "width3_null_attempts": 1087
+  },
+  "parameters": {
+    "attempts": 100,
+    "direction": "left",
+    "max_parents": null,
+    "null": "fixed changed sites and occupancy, first-tick mask retained",
+    "null_proposal_budget": 256,
+    "null_repeats": 4,
+    "patch_widths": [
+      1,
+      2,
+      3
+    ],
+    "phase": 0,
+    "probes_per_side": [
+      1,
+      7,
+      15
+    ],
+    "selection": "same first-tick mask in G0/control pair; transplant retains it",
+    "ticks": 500
+  },
+  "summary": {
+    "1": {
+      "donor_censored_on_informative_probes": 1,
+      "mask_matched_patches": 35,
+      "mean_donor_confirmed_fraction": 0.0,
+      "mean_null_confirmed_fraction": 0.0,
+      "null_censored_on_informative_probes": 8,
+      "parent_mean_donor_minus_null": 0.0,
+      "parents_donor_higher": 0,
+      "parents_null_higher": 0,
+      "parents_tied": 2,
+      "parents_with_informative_resolved_probes": 2,
+      "parents_with_matched_patches": 20
+    },
+    "2": {
+      "donor_censored_on_informative_probes": 0,
+      "mask_matched_patches": 16,
+      "mean_donor_confirmed_fraction": 0.5,
+      "mean_null_confirmed_fraction": 0.0,
+      "null_censored_on_informative_probes": 4,
+      "parent_mean_donor_minus_null": 0.5,
+      "parents_donor_higher": 1,
+      "parents_null_higher": 0,
+      "parents_tied": 1,
+      "parents_with_informative_resolved_probes": 2,
+      "parents_with_matched_patches": 11
+    },
+    "3": {
+      "donor_censored_on_informative_probes": 2,
+      "mask_matched_patches": 20,
+      "mean_donor_confirmed_fraction": 0.0,
+      "mean_null_confirmed_fraction": 0.125,
+      "null_censored_on_informative_probes": 6,
+      "parent_mean_donor_minus_null": -0.125,
+      "parents_donor_higher": 0,
+      "parents_null_higher": 1,
+      "parents_tied": 1,
+      "parents_with_informative_resolved_probes": 2,
+      "parents_with_matched_patches": 16
+    }
+  }
+}
