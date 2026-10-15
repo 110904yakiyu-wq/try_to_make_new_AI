@@ -1,0 +1,10 @@
+parents_total=130 parents_matched=116 parents_no_viable_null=14 attempts_per_parent=12
+selection_without_material_test=yes
+viable_null_period_median=12.0 support_median=8.0
+categories=strict_fission,fragmented_not_independent,active_connected,static,timeout
+actual_matched=12,71,3088,56,253
+viability_control=60,119,1065,15,2221
+parent_diff strict_fission greater=3 lower=34 ties=79 mean=-0.413793
+parent_diff active_connected greater=113 lower=2 ties=1 mean=17.439655
+parent_diff timeout greater=0 lower=113 ties=3 mean=-16.965517
+daughters actual= 24 control= 122
