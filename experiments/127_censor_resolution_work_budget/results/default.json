@@ -1,0 +1,960 @@
+{
+  "aggregate": {
+    "1000": {
+      "G0": {
+        "censored": 143,
+        "connected": 1486,
+        "fragmented": 17,
+        "static": 4
+      },
+      "additional_orbit_steps": 265985,
+      "control": {
+        "censored": 397,
+        "connected": 1216,
+        "fragmented": 30,
+        "static": 7
+      },
+      "gain_rate_bound_width": 0.0006060606060606061,
+      "horizon": 1000,
+      "lower_delta_count": -127,
+      "lower_rate": -0.07696969696969697,
+      "newly_resolved_G0": 0,
+      "newly_resolved_control": 1,
+      "observed_confirmed_difference": 270,
+      "robust_G0_parents": 11,
+      "robust_control_parents": 1,
+      "sign_indeterminate_parents": 43,
+      "unique_orbit_steps_cumulative": 599329,
+      "upper_delta_count": 413,
+      "upper_rate": 0.2503030303030303
+    },
+    "16000": {
+      "G0": {
+        "censored": 143,
+        "connected": 1486,
+        "fragmented": 17,
+        "static": 4
+      },
+      "additional_orbit_steps": 4232000,
+      "control": {
+        "censored": 395,
+        "connected": 1218,
+        "fragmented": 30,
+        "static": 7
+      },
+      "gain_rate_bound_width": 0.0,
+      "horizon": 16000,
+      "lower_delta_count": -127,
+      "lower_rate": -0.07696969696969697,
+      "newly_resolved_G0": 0,
+      "newly_resolved_control": 0,
+      "observed_confirmed_difference": 268,
+      "robust_G0_parents": 11,
+      "robust_control_parents": 1,
+      "sign_indeterminate_parents": 43,
+      "unique_orbit_steps_cumulative": 8534913,
+      "upper_delta_count": 411,
+      "upper_rate": 0.24909090909090909
+    },
+    "2000": {
+      "G0": {
+        "censored": 143,
+        "connected": 1486,
+        "fragmented": 17,
+        "static": 4
+      },
+      "additional_orbit_steps": 529584,
+      "control": {
+        "censored": 395,
+        "connected": 1218,
+        "fragmented": 30,
+        "static": 7
+      },
+      "gain_rate_bound_width": 0.0012121212121212121,
+      "horizon": 2000,
+      "lower_delta_count": -127,
+      "lower_rate": -0.07696969696969697,
+      "newly_resolved_G0": 0,
+      "newly_resolved_control": 2,
+      "observed_confirmed_difference": 268,
+      "robust_G0_parents": 11,
+      "robust_control_parents": 1,
+      "sign_indeterminate_parents": 43,
+      "unique_orbit_steps_cumulative": 1128913,
+      "upper_delta_count": 411,
+      "upper_rate": 0.24909090909090909
+    },
+    "32000": {
+      "G0": {
+        "censored": 143,
+        "connected": 1486,
+        "fragmented": 17,
+        "static": 4
+      },
+      "additional_orbit_steps": 8464000,
+      "control": {
+        "censored": 395,
+        "connected": 1218,
+        "fragmented": 30,
+        "static": 7
+      },
+      "gain_rate_bound_width": 0.0,
+      "horizon": 32000,
+      "lower_delta_count": -127,
+      "lower_rate": -0.07696969696969697,
+      "newly_resolved_G0": 0,
+      "newly_resolved_control": 0,
+      "observed_confirmed_difference": 268,
+      "robust_G0_parents": 11,
+      "robust_control_parents": 1,
+      "sign_indeterminate_parents": 43,
+      "unique_orbit_steps_cumulative": 16998913,
+      "upper_delta_count": 411,
+      "upper_rate": 0.24909090909090909
+    },
+    "4000": {
+      "G0": {
+        "censored": 143,
+        "connected": 1486,
+        "fragmented": 17,
+        "static": 4
+      },
+      "additional_orbit_steps": 1058000,
+      "control": {
+        "censored": 395,
+        "connected": 1218,
+        "fragmented": 30,
+        "static": 7
+      },
+      "gain_rate_bound_width": 0.0,
+      "horizon": 4000,
+      "lower_delta_count": -127,
+      "lower_rate": -0.07696969696969697,
+      "newly_resolved_G0": 0,
+      "newly_resolved_control": 0,
+      "observed_confirmed_difference": 268,
+      "robust_G0_parents": 11,
+      "robust_control_parents": 1,
+      "sign_indeterminate_parents": 43,
+      "unique_orbit_steps_cumulative": 2186913,
+      "upper_delta_count": 411,
+      "upper_rate": 0.24909090909090909
+    },
+    "500": {
+      "G0": {
+        "censored": 143,
+        "connected": 1486,
+        "fragmented": 17,
+        "static": 4
+      },
+      "control": {
+        "censored": 398,
+        "connected": 1215,
+        "fragmented": 30,
+        "static": 7
+      },
+      "horizon": 500,
+      "lower_delta_count": -127,
+      "lower_rate": -0.07696969696969697,
+      "observed_confirmed_difference": 271,
+      "robust_G0_parents": 11,
+      "robust_control_parents": 1,
+      "sign_indeterminate_parents": 43,
+      "unique_orbit_steps_cumulative": 333344,
+      "upper_delta_count": 414,
+      "upper_rate": 0.2509090909090909
+    },
+    "50000": {
+      "G0": {
+        "censored": 143,
+        "connected": 1486,
+        "fragmented": 17,
+        "static": 4
+      },
+      "additional_orbit_steps": 9520672,
+      "control": {
+        "censored": 394,
+        "connected": 1218,
+        "fragmented": 31,
+        "static": 7
+      },
+      "gain_rate_bound_width": 0.0006060606060606061,
+      "horizon": 50000,
+      "lower_delta_count": -126,
+      "lower_rate": -0.07636363636363637,
+      "newly_resolved_G0": 0,
+      "newly_resolved_control": 1,
+      "observed_confirmed_difference": 268,
+      "robust_G0_parents": 12,
+      "robust_control_parents": 1,
+      "sign_indeterminate_parents": 42,
+      "unique_orbit_steps_cumulative": 26519585,
+      "upper_delta_count": 411,
+      "upper_rate": 0.24909090909090909
+    },
+    "8000": {
+      "G0": {
+        "censored": 143,
+        "connected": 1486,
+        "fragmented": 17,
+        "static": 4
+      },
+      "additional_orbit_steps": 2116000,
+      "control": {
+        "censored": 395,
+        "connected": 1218,
+        "fragmented": 30,
+        "static": 7
+      },
+      "gain_rate_bound_width": 0.0,
+      "horizon": 8000,
+      "lower_delta_count": -127,
+      "lower_rate": -0.07696969696969697,
+      "newly_resolved_G0": 0,
+      "newly_resolved_control": 0,
+      "observed_confirmed_difference": 268,
+      "robust_G0_parents": 11,
+      "robust_control_parents": 1,
+      "sign_indeterminate_parents": 43,
+      "unique_orbit_steps_cumulative": 4302913,
+      "upper_delta_count": 411,
+      "upper_rate": 0.24909090909090909
+    }
+  },
+  "censoring": "right-censored until full-state and next-phase exact recurrence; no assumptions on eventual fate",
+  "cohort_size": 55,
+  "distinct_initial_states": 3270,
+  "experiment": 127,
+  "horizons": [
+    500,
+    1000,
+    2000,
+    4000,
+    8000,
+    16000,
+    32000,
+    50000
+  ],
+  "max_horizon": 50000,
+  "observations_each_arm": 1650,
+  "parent_records_at_max_horizon": [
+    {
+      "G0": {
+        "connected": 30
+      },
+      "control": {
+        "censored": 4,
+        "connected": 26
+      },
+      "lower": 0,
+      "parent_id": 2,
+      "upper": 4
+    },
+    {
+      "G0": {
+        "censored": 7,
+        "connected": 23
+      },
+      "control": {
+        "censored": 11,
+        "connected": 19
+      },
+      "lower": -7,
+      "parent_id": 4,
+      "upper": 11
+    },
+    {
+      "G0": {
+        "connected": 29,
+        "fragmented": 1
+      },
+      "control": {
+        "censored": 9,
+        "connected": 21
+      },
+      "lower": -1,
+      "parent_id": 5,
+      "upper": 8
+    },
+    {
+      "G0": {
+        "censored": 6,
+        "connected": 22,
+        "fragmented": 2
+      },
+      "control": {
+        "censored": 12,
+        "connected": 14,
+        "fragmented": 2,
+        "static": 2
+      },
+      "lower": -4,
+      "parent_id": 6,
+      "upper": 14
+    },
+    {
+      "G0": {
+        "connected": 30
+      },
+      "control": {
+        "connected": 30
+      },
+      "lower": 0,
+      "parent_id": 8,
+      "upper": 0
+    },
+    {
+      "G0": {
+        "censored": 7,
+        "connected": 23
+      },
+      "control": {
+        "censored": 4,
+        "connected": 25,
+        "fragmented": 1
+      },
+      "lower": -6,
+      "parent_id": 9,
+      "upper": 5
+    },
+    {
+      "G0": {
+        "connected": 29,
+        "fragmented": 1
+      },
+      "control": {
+        "censored": 12,
+        "connected": 16,
+        "fragmented": 2
+      },
+      "lower": 1,
+      "parent_id": 11,
+      "upper": 13
+    },
+    {
+      "G0": {
+        "connected": 30
+      },
+      "control": {
+        "censored": 7,
+        "connected": 23
+      },
+      "lower": 0,
+      "parent_id": 12,
+      "upper": 7
+    },
+    {
+      "G0": {
+        "censored": 6,
+        "connected": 22,
+        "fragmented": 2
+      },
+      "control": {
+        "censored": 7,
+        "connected": 23
+      },
+      "lower": -8,
+      "parent_id": 13,
+      "upper": 5
+    },
+    {
+      "G0": {
+        "censored": 7,
+        "connected": 23
+      },
+      "control": {
+        "censored": 3,
+        "connected": 25,
+        "fragmented": 2
+      },
+      "lower": -5,
+      "parent_id": 17,
+      "upper": 5
+    },
+    {
+      "G0": {
+        "censored": 6,
+        "connected": 24
+      },
+      "control": {
+        "censored": 14,
+        "connected": 14,
+        "fragmented": 2
+      },
+      "lower": -4,
+      "parent_id": 19,
+      "upper": 16
+    },
+    {
+      "G0": {
+        "censored": 4,
+        "connected": 25,
+        "fragmented": 1
+      },
+      "control": {
+        "censored": 11,
+        "connected": 18,
+        "fragmented": 1
+      },
+      "lower": -4,
+      "parent_id": 22,
+      "upper": 11
+    },
+    {
+      "G0": {
+        "censored": 8,
+        "connected": 22
+      },
+      "control": {
+        "censored": 11,
+        "connected": 18,
+        "fragmented": 1
+      },
+      "lower": -7,
+      "parent_id": 23,
+      "upper": 12
+    },
+    {
+      "G0": {
+        "connected": 30
+      },
+      "control": {
+        "censored": 15,
+        "connected": 14,
+        "fragmented": 1
+      },
+      "lower": 1,
+      "parent_id": 24,
+      "upper": 16
+    },
+    {
+      "G0": {
+        "connected": 30
+      },
+      "control": {
+        "censored": 4,
+        "connected": 26
+      },
+      "lower": 0,
+      "parent_id": 25,
+      "upper": 4
+    },
+    {
+      "G0": {
+        "censored": 7,
+        "connected": 23
+      },
+      "control": {
+        "censored": 3,
+        "connected": 27
+      },
+      "lower": -7,
+      "parent_id": 26,
+      "upper": 3
+    },
+    {
+      "G0": {
+        "connected": 29,
+        "fragmented": 1
+      },
+      "control": {
+        "censored": 9,
+        "connected": 21
+      },
+      "lower": -1,
+      "parent_id": 28,
+      "upper": 8
+    },
+    {
+      "G0": {
+        "connected": 30
+      },
+      "control": {
+        "connected": 30
+      },
+      "lower": 0,
+      "parent_id": 29,
+      "upper": 0
+    },
+    {
+      "G0": {
+        "connected": 30
+      },
+      "control": {
+        "censored": 4,
+        "connected": 26
+      },
+      "lower": 0,
+      "parent_id": 32,
+      "upper": 4
+    },
+    {
+      "G0": {
+        "connected": 30
+      },
+      "control": {
+        "censored": 11,
+        "connected": 17,
+        "fragmented": 2
+      },
+      "lower": 2,
+      "parent_id": 33,
+      "upper": 13
+    },
+    {
+      "G0": {
+        "connected": 30
+      },
+      "control": {
+        "censored": 10,
+        "connected": 20
+      },
+      "lower": 0,
+      "parent_id": 34,
+      "upper": 10
+    },
+    {
+      "G0": {
+        "connected": 30
+      },
+      "control": {
+        "censored": 8,
+        "connected": 20,
+        "static": 2
+      },
+      "lower": 2,
+      "parent_id": 35,
+      "upper": 10
+    },
+    {
+      "G0": {
+        "censored": 7,
+        "connected": 23
+      },
+      "control": {
+        "censored": 7,
+        "connected": 23
+      },
+      "lower": -7,
+      "parent_id": 36,
+      "upper": 7
+    },
+    {
+      "G0": {
+        "connected": 30
+      },
+      "control": {
+        "censored": 4,
+        "connected": 25,
+        "fragmented": 1
+      },
+      "lower": 1,
+      "parent_id": 37,
+      "upper": 5
+    },
+    {
+      "G0": {
+        "censored": 7,
+        "connected": 23
+      },
+      "control": {
+        "connected": 30
+      },
+      "lower": -7,
+      "parent_id": 38,
+      "upper": 0
+    },
+    {
+      "G0": {
+        "connected": 30
+      },
+      "control": {
+        "censored": 5,
+        "connected": 24,
+        "fragmented": 1
+      },
+      "lower": 1,
+      "parent_id": 39,
+      "upper": 6
+    },
+    {
+      "G0": {
+        "connected": 30
+      },
+      "control": {
+        "connected": 30
+      },
+      "lower": 0,
+      "parent_id": 42,
+      "upper": 0
+    },
+    {
+      "G0": {
+        "censored": 5,
+        "connected": 24,
+        "fragmented": 1
+      },
+      "control": {
+        "censored": 9,
+        "connected": 20,
+        "fragmented": 1
+      },
+      "lower": -5,
+      "parent_id": 45,
+      "upper": 9
+    },
+    {
+      "G0": {
+        "censored": 7,
+        "connected": 23
+      },
+      "control": {
+        "censored": 7,
+        "connected": 23
+      },
+      "lower": -7,
+      "parent_id": 46,
+      "upper": 7
+    },
+    {
+      "G0": {
+        "connected": 30
+      },
+      "control": {
+        "censored": 10,
+        "connected": 18,
+        "fragmented": 1,
+        "static": 1
+      },
+      "lower": 2,
+      "parent_id": 48,
+      "upper": 12
+    },
+    {
+      "G0": {
+        "censored": 8,
+        "connected": 22
+      },
+      "control": {
+        "connected": 30
+      },
+      "lower": -8,
+      "parent_id": 49,
+      "upper": 0
+    },
+    {
+      "G0": {
+        "connected": 30
+      },
+      "control": {
+        "connected": 30
+      },
+      "lower": 0,
+      "parent_id": 52,
+      "upper": 0
+    },
+    {
+      "G0": {
+        "censored": 5,
+        "connected": 24,
+        "fragmented": 1
+      },
+      "control": {
+        "censored": 8,
+        "connected": 22
+      },
+      "lower": -6,
+      "parent_id": 59,
+      "upper": 7
+    },
+    {
+      "G0": {
+        "connected": 30
+      },
+      "control": {
+        "censored": 3,
+        "connected": 27
+      },
+      "lower": 0,
+      "parent_id": 61,
+      "upper": 3
+    },
+    {
+      "G0": {
+        "connected": 29,
+        "fragmented": 1
+      },
+      "control": {
+        "censored": 11,
+        "connected": 19
+      },
+      "lower": -1,
+      "parent_id": 62,
+      "upper": 10
+    },
+    {
+      "G0": {
+        "connected": 30
+      },
+      "control": {
+        "connected": 30
+      },
+      "lower": 0,
+      "parent_id": 63,
+      "upper": 0
+    },
+    {
+      "G0": {
+        "connected": 29,
+        "fragmented": 1
+      },
+      "control": {
+        "censored": 9,
+        "connected": 21
+      },
+      "lower": -1,
+      "parent_id": 66,
+      "upper": 8
+    },
+    {
+      "G0": {
+        "connected": 30
+      },
+      "control": {
+        "censored": 11,
+        "connected": 19
+      },
+      "lower": 0,
+      "parent_id": 73,
+      "upper": 11
+    },
+    {
+      "G0": {
+        "censored": 5,
+        "connected": 24,
+        "fragmented": 1
+      },
+      "control": {
+        "censored": 9,
+        "connected": 20,
+        "fragmented": 1
+      },
+      "lower": -5,
+      "parent_id": 75,
+      "upper": 9
+    },
+    {
+      "G0": {
+        "censored": 8,
+        "connected": 22
+      },
+      "control": {
+        "censored": 16,
+        "connected": 12,
+        "fragmented": 2
+      },
+      "lower": -6,
+      "parent_id": 76,
+      "upper": 18
+    },
+    {
+      "G0": {
+        "connected": 30
+      },
+      "control": {
+        "censored": 7,
+        "connected": 23
+      },
+      "lower": 0,
+      "parent_id": 77,
+      "upper": 7
+    },
+    {
+      "G0": {
+        "connected": 30
+      },
+      "control": {
+        "censored": 17,
+        "connected": 10,
+        "fragmented": 2,
+        "static": 1
+      },
+      "lower": 3,
+      "parent_id": 79,
+      "upper": 20
+    },
+    {
+      "G0": {
+        "connected": 30
+      },
+      "control": {
+        "censored": 13,
+        "connected": 14,
+        "fragmented": 3
+      },
+      "lower": 3,
+      "parent_id": 80,
+      "upper": 16
+    },
+    {
+      "G0": {
+        "censored": 7,
+        "connected": 23
+      },
+      "control": {
+        "censored": 4,
+        "connected": 26
+      },
+      "lower": -7,
+      "parent_id": 85,
+      "upper": 4
+    },
+    {
+      "G0": {
+        "connected": 30
+      },
+      "control": {
+        "censored": 7,
+        "connected": 22,
+        "static": 1
+      },
+      "lower": 1,
+      "parent_id": 86,
+      "upper": 8
+    },
+    {
+      "G0": {
+        "censored": 5,
+        "connected": 25
+      },
+      "control": {
+        "connected": 30
+      },
+      "lower": -5,
+      "parent_id": 90,
+      "upper": 0
+    },
+    {
+      "G0": {
+        "connected": 30
+      },
+      "control": {
+        "censored": 5,
+        "connected": 24,
+        "fragmented": 1
+      },
+      "lower": 1,
+      "parent_id": 91,
+      "upper": 6
+    },
+    {
+      "G0": {
+        "censored": 5,
+        "connected": 24,
+        "fragmented": 1
+      },
+      "control": {
+        "censored": 3,
+        "connected": 26,
+        "fragmented": 1
+      },
+      "lower": -5,
+      "parent_id": 92,
+      "upper": 3
+    },
+    {
+      "G0": {
+        "connected": 30
+      },
+      "control": {
+        "censored": 9,
+        "connected": 20,
+        "fragmented": 1
+      },
+      "lower": 1,
+      "parent_id": 99,
+      "upper": 10
+    },
+    {
+      "G0": {
+        "censored": 7,
+        "connected": 23
+      },
+      "control": {
+        "censored": 5,
+        "connected": 24,
+        "fragmented": 1
+      },
+      "lower": -6,
+      "parent_id": 102,
+      "upper": 6
+    },
+    {
+      "G0": {
+        "censored": 4,
+        "connected": 25,
+        "fragmented": 1
+      },
+      "control": {
+        "connected": 30
+      },
+      "lower": -5,
+      "parent_id": 104,
+      "upper": -1
+    },
+    {
+      "G0": {
+        "censored": 5,
+        "connected": 25
+      },
+      "control": {
+        "censored": 5,
+        "connected": 24,
+        "fragmented": 1
+      },
+      "lower": -4,
+      "parent_id": 106,
+      "upper": 6
+    },
+    {
+      "G0": {
+        "connected": 30
+      },
+      "control": {
+        "censored": 10,
+        "connected": 20
+      },
+      "lower": 0,
+      "parent_id": 108,
+      "upper": 10
+    },
+    {
+      "G0": {
+        "connected": 30
+      },
+      "control": {
+        "censored": 11,
+        "connected": 19
+      },
+      "lower": 0,
+      "parent_id": 111,
+      "upper": 11
+    },
+    {
+      "G0": {
+        "connected": 24,
+        "fragmented": 2,
+        "static": 4
+      },
+      "control": {
+        "censored": 20,
+        "connected": 10
+      },
+      "lower": -6,
+      "parent_id": 126,
+      "upper": 14
+    }
+  ],
+  "physics": "exact 104/108 left-rotation phase0 three-phase 60x4-bit updates; C++ port checked against 125/126 results at 500 and 2000",
+  "reference": "Exp126 full 55-pair frozen roster, 30 material probes per parent per arm"
+}
