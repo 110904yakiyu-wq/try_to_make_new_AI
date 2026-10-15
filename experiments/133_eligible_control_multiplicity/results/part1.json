@@ -1,0 +1,682 @@
+{
+  "contract": {
+    "attempts": 100,
+    "catalog_start": 30,
+    "catalog_stop": 60,
+    "eligibility": "autonomous cycle period, exact cycle-union support positions, phase-zero instantaneous occupancy and scheduler phase",
+    "kernel": "original finite-speed 104/108 phase0 left-rotation; size 60 center 30",
+    "original_control": "first accepted exact candidate, independently compared to 127 frozen manifest",
+    "parents": 30,
+    "selection": "No injected outcomes used; entire frozen attempt budget enumerated"
+  },
+  "experiment": 133,
+  "parent_records": [
+    {
+      "accepted_attempts": [],
+      "accepted_microstate_sha256": [],
+      "num_eligible_candidates": 0,
+      "num_unique_phase0_microstates": 0,
+      "parent_id": 30,
+      "period": 12,
+      "seed": [
+        4,
+        14
+      ],
+      "union_support": [
+        29,
+        30,
+        31,
+        32,
+        33
+      ]
+    },
+    {
+      "accepted_attempts": [],
+      "accepted_microstate_sha256": [],
+      "num_eligible_candidates": 0,
+      "num_unique_phase0_microstates": 0,
+      "parent_id": 31,
+      "period": 12,
+      "seed": [
+        4,
+        15
+      ],
+      "union_support": [
+        29,
+        30,
+        31,
+        32,
+        33
+      ]
+    },
+    {
+      "accepted_attempts": [
+        55,
+        97
+      ],
+      "accepted_microstate_sha256": [
+        "38bf45ecdc02682e6535a98a246b7c3a0cf3659ce11bf25c37e13dad3f73c1cb",
+        "c8eaa73942d985eb5a1e62d3eb43c5f2af2ff5748a622d75b3d49c2d6dc97e47"
+      ],
+      "num_eligible_candidates": 2,
+      "num_unique_phase0_microstates": 2,
+      "parent_id": 32,
+      "period": 6,
+      "seed": [
+        5,
+        1
+      ],
+      "union_support": [
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "accepted_attempts": [
+        39
+      ],
+      "accepted_microstate_sha256": [
+        "003e88fcd4f02a4324cd465ea67eec3001264b908fe203008984367f13c74fcc"
+      ],
+      "num_eligible_candidates": 1,
+      "num_unique_phase0_microstates": 1,
+      "parent_id": 33,
+      "period": 12,
+      "seed": [
+        5,
+        3
+      ],
+      "union_support": [
+        29,
+        30,
+        31,
+        32,
+        33
+      ]
+    },
+    {
+      "accepted_attempts": [
+        9
+      ],
+      "accepted_microstate_sha256": [
+        "35bfa259515b9e4176b2c66f7f4c66b1c6cb2309df5d84619666e067e8246125"
+      ],
+      "num_eligible_candidates": 1,
+      "num_unique_phase0_microstates": 1,
+      "parent_id": 34,
+      "period": 6,
+      "seed": [
+        5,
+        4
+      ],
+      "union_support": [
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "accepted_attempts": [
+        6
+      ],
+      "accepted_microstate_sha256": [
+        "54f56815928760165dcb5722eaddb7b2408981cba252f063b185cd36943a8a2b"
+      ],
+      "num_eligible_candidates": 1,
+      "num_unique_phase0_microstates": 1,
+      "parent_id": 35,
+      "period": 6,
+      "seed": [
+        5,
+        5
+      ],
+      "union_support": [
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "accepted_attempts": [
+        2,
+        9
+      ],
+      "accepted_microstate_sha256": [
+        "7c6df55bfe11b5d19c730874797b643170a49835624450a6bd305da7a3dda215",
+        "2816479ad85597d7683abe2d00d442c6f6d6a2aa12b510a446d9e07225641c96"
+      ],
+      "num_eligible_candidates": 2,
+      "num_unique_phase0_microstates": 2,
+      "parent_id": 36,
+      "period": 6,
+      "seed": [
+        5,
+        6
+      ],
+      "union_support": [
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "accepted_attempts": [
+        83
+      ],
+      "accepted_microstate_sha256": [
+        "d97bf7d9664a8f7f6ff1d8ceefea5c1d967114313c984bb5412cf95bea23ee68"
+      ],
+      "num_eligible_candidates": 1,
+      "num_unique_phase0_microstates": 1,
+      "parent_id": 37,
+      "period": 12,
+      "seed": [
+        5,
+        7
+      ],
+      "union_support": [
+        29,
+        30,
+        31,
+        32,
+        33
+      ]
+    },
+    {
+      "accepted_attempts": [
+        30,
+        52
+      ],
+      "accepted_microstate_sha256": [
+        "77578ebdceb200fd06422f047c3ee40268658e6ca95ea1cee713bbdb9ce6169d",
+        "3d59c4647a5861873c36dafad4031b0aacc0922006a12e5c46979762043592e0"
+      ],
+      "num_eligible_candidates": 2,
+      "num_unique_phase0_microstates": 2,
+      "parent_id": 38,
+      "period": 6,
+      "seed": [
+        5,
+        9
+      ],
+      "union_support": [
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "accepted_attempts": [
+        8
+      ],
+      "accepted_microstate_sha256": [
+        "e3b687e85b274f1340ec9251684047dd893caec10a34de6306db53e66a1d547d"
+      ],
+      "num_eligible_candidates": 1,
+      "num_unique_phase0_microstates": 1,
+      "parent_id": 39,
+      "period": 12,
+      "seed": [
+        5,
+        11
+      ],
+      "union_support": [
+        29,
+        30,
+        31,
+        32,
+        33
+      ]
+    },
+    {
+      "accepted_attempts": [],
+      "accepted_microstate_sha256": [],
+      "num_eligible_candidates": 0,
+      "num_unique_phase0_microstates": 0,
+      "parent_id": 40,
+      "period": 12,
+      "seed": [
+        5,
+        12
+      ],
+      "union_support": [
+        29,
+        30,
+        31,
+        32,
+        33
+      ]
+    },
+    {
+      "accepted_attempts": [],
+      "accepted_microstate_sha256": [],
+      "num_eligible_candidates": 0,
+      "num_unique_phase0_microstates": 0,
+      "parent_id": 41,
+      "period": 12,
+      "seed": [
+        5,
+        13
+      ],
+      "union_support": [
+        29,
+        30,
+        31,
+        32,
+        33
+      ]
+    },
+    {
+      "accepted_attempts": [
+        35
+      ],
+      "accepted_microstate_sha256": [
+        "37e8b5f4b8b13347698cb4ccc76717ee09187559fecbd7d3caa51599771826f1"
+      ],
+      "num_eligible_candidates": 1,
+      "num_unique_phase0_microstates": 1,
+      "parent_id": 42,
+      "period": 12,
+      "seed": [
+        5,
+        14
+      ],
+      "union_support": [
+        29,
+        30,
+        31,
+        32,
+        33
+      ]
+    },
+    {
+      "accepted_attempts": [],
+      "accepted_microstate_sha256": [],
+      "num_eligible_candidates": 0,
+      "num_unique_phase0_microstates": 0,
+      "parent_id": 43,
+      "period": 3,
+      "seed": [
+        5,
+        15
+      ],
+      "union_support": [
+        29,
+        30,
+        31,
+        32,
+        33
+      ]
+    },
+    {
+      "accepted_attempts": [],
+      "accepted_microstate_sha256": [],
+      "num_eligible_candidates": 0,
+      "num_unique_phase0_microstates": 0,
+      "parent_id": 44,
+      "period": 12,
+      "seed": [
+        6,
+        2
+      ],
+      "union_support": [
+        28,
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "accepted_attempts": [
+        58
+      ],
+      "accepted_microstate_sha256": [
+        "eb1012fc6d43acba9a90989a1e9487cebdafba9e88bb86044981063265d40ae9"
+      ],
+      "num_eligible_candidates": 1,
+      "num_unique_phase0_microstates": 1,
+      "parent_id": 45,
+      "period": 12,
+      "seed": [
+        6,
+        3
+      ],
+      "union_support": [
+        28,
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "accepted_attempts": [
+        79,
+        95
+      ],
+      "accepted_microstate_sha256": [
+        "59be7d5d414704a751a728eb07ad1ca217f577b79f0d0f7c21d9aa51aee94e2c",
+        "8b8ba029bbd3689145af634693ef552f595aa3261090fa1638542671f184030b"
+      ],
+      "num_eligible_candidates": 2,
+      "num_unique_phase0_microstates": 2,
+      "parent_id": 46,
+      "period": 6,
+      "seed": [
+        6,
+        4
+      ],
+      "union_support": [
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "accepted_attempts": [],
+      "accepted_microstate_sha256": [],
+      "num_eligible_candidates": 0,
+      "num_unique_phase0_microstates": 0,
+      "parent_id": 47,
+      "period": 6,
+      "seed": [
+        6,
+        5
+      ],
+      "union_support": [
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "accepted_attempts": [
+        67
+      ],
+      "accepted_microstate_sha256": [
+        "36f6f718320936c8f8f6355cb4b0884dafb82bec108a28c2be178074f0dacc77"
+      ],
+      "num_eligible_candidates": 1,
+      "num_unique_phase0_microstates": 1,
+      "parent_id": 48,
+      "period": 12,
+      "seed": [
+        6,
+        10
+      ],
+      "union_support": [
+        28,
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "accepted_attempts": [
+        24
+      ],
+      "accepted_microstate_sha256": [
+        "216b6d24668ce91e1b61da528ad3d802396c5e9513b6399ca2d4d769ba123edf"
+      ],
+      "num_eligible_candidates": 1,
+      "num_unique_phase0_microstates": 1,
+      "parent_id": 49,
+      "period": 12,
+      "seed": [
+        6,
+        11
+      ],
+      "union_support": [
+        28,
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "accepted_attempts": [],
+      "accepted_microstate_sha256": [],
+      "num_eligible_candidates": 0,
+      "num_unique_phase0_microstates": 0,
+      "parent_id": 50,
+      "period": 12,
+      "seed": [
+        6,
+        12
+      ],
+      "union_support": [
+        29,
+        30,
+        31,
+        32,
+        33
+      ]
+    },
+    {
+      "accepted_attempts": [],
+      "accepted_microstate_sha256": [],
+      "num_eligible_candidates": 0,
+      "num_unique_phase0_microstates": 0,
+      "parent_id": 51,
+      "period": 18,
+      "seed": [
+        6,
+        14
+      ],
+      "union_support": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ]
+    },
+    {
+      "accepted_attempts": [
+        41,
+        49
+      ],
+      "accepted_microstate_sha256": [
+        "a5954aa0b87349ce3a14e9777642d6f17cc2fbecec6ade920b5ce57c00c5796f",
+        "edf67d9c71162834bcb4ca90577c7197d51cd6b5e2653dd9d532b5e8292b0711"
+      ],
+      "num_eligible_candidates": 2,
+      "num_unique_phase0_microstates": 2,
+      "parent_id": 52,
+      "period": 12,
+      "seed": [
+        7,
+        1
+      ],
+      "union_support": [
+        28,
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "accepted_attempts": [],
+      "accepted_microstate_sha256": [],
+      "num_eligible_candidates": 0,
+      "num_unique_phase0_microstates": 0,
+      "parent_id": 53,
+      "period": 12,
+      "seed": [
+        7,
+        2
+      ],
+      "union_support": [
+        28,
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "accepted_attempts": [],
+      "accepted_microstate_sha256": [],
+      "num_eligible_candidates": 0,
+      "num_unique_phase0_microstates": 0,
+      "parent_id": 54,
+      "period": 6,
+      "seed": [
+        7,
+        4
+      ],
+      "union_support": [
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "accepted_attempts": [],
+      "accepted_microstate_sha256": [],
+      "num_eligible_candidates": 0,
+      "num_unique_phase0_microstates": 0,
+      "parent_id": 55,
+      "period": 12,
+      "seed": [
+        7,
+        5
+      ],
+      "union_support": [
+        28,
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "accepted_attempts": [],
+      "accepted_microstate_sha256": [],
+      "num_eligible_candidates": 0,
+      "num_unique_phase0_microstates": 0,
+      "parent_id": 56,
+      "period": 12,
+      "seed": [
+        7,
+        7
+      ],
+      "union_support": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39
+      ]
+    },
+    {
+      "accepted_attempts": [],
+      "accepted_microstate_sha256": [],
+      "num_eligible_candidates": 0,
+      "num_unique_phase0_microstates": 0,
+      "parent_id": 57,
+      "period": 12,
+      "seed": [
+        7,
+        10
+      ],
+      "union_support": [
+        28,
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "accepted_attempts": [],
+      "accepted_microstate_sha256": [],
+      "num_eligible_candidates": 0,
+      "num_unique_phase0_microstates": 0,
+      "parent_id": 58,
+      "period": 24,
+      "seed": [
+        7,
+        11
+      ],
+      "union_support": [
+        26,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37
+      ]
+    },
+    {
+      "accepted_attempts": [
+        29,
+        52
+      ],
+      "accepted_microstate_sha256": [
+        "0a58e33ce6c310e688063ba2d30041712498064fb00d5d595297f7880e228ae8",
+        "b0aa68ffdec988e5bdd6a19eaafb77b9ca799e7e8106447ceb1bfa925bd65a4d"
+      ],
+      "num_eligible_candidates": 2,
+      "num_unique_phase0_microstates": 2,
+      "parent_id": 59,
+      "period": 12,
+      "seed": [
+        7,
+        12
+      ],
+      "union_support": [
+        29,
+        30,
+        31,
+        32,
+        33
+      ]
+    }
+  ],
+  "summary": {
+    "accepted_histogram": {
+      "0": 15,
+      "1": 9,
+      "2": 6
+    },
+    "eligible_parents": 15,
+    "parents_inspected": 30,
+    "parents_with_multiple_distinct_controls": 6,
+    "parents_with_multiple_eligible": 6,
+    "total_accepted_candidates": 21,
+    "unique_state_histogram": {
+      "0": 15,
+      "1": 9,
+      "2": 6
+    }
+  }
+}
