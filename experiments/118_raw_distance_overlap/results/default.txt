@@ -1,0 +1,122 @@
+{
+  "inventory": {
+    "parents": 20,
+    "w1_null_microstates": 33,
+    "w1_physical_patches": 23,
+    "w2_null_microstates": 59,
+    "w2_physical_patches": 14,
+    "w3_null_microstates": 414,
+    "w3_physical_patches": 20
+  },
+  "raw_gap_histogram": {
+    "2": 151,
+    "4": 147,
+    "6": 135,
+    "8": 64,
+    "10": 9
+  },
+  "summary": {
+    "1": {
+      "compensated": {
+        "raw_distance": {
+          "parents_with_any": 15,
+          "patches_with_any": 20,
+          "total_unique_per_patch": 106
+        },
+        "raw_distance_mask": {
+          "parents_with_any": 12,
+          "patches_with_any": 15,
+          "total_unique_per_patch": 32
+        },
+        "raw_distance_mask_full": {
+          "parents_with_any": 9,
+          "patches_with_any": 10,
+          "total_unique_per_patch": 17
+        },
+        "raw_distance_mask_popcount": {
+          "parents_with_any": 11,
+          "patches_with_any": 13,
+          "total_unique_per_patch": 26
+        },
+        "raw_distance_mask_popcount_and": {
+          "parents_with_any": 9,
+          "patches_with_any": 10,
+          "total_unique_per_patch": 17
+        }
+      },
+      "matched_physical_nulls": 33,
+      "median_min_extra_distance": 2,
+      "min_extra_raw_distance": 2,
+      "physical_patches": 23,
+      "same_patch_raw_distance_overlap": 0
+    },
+    "2": {
+      "compensated": {
+        "raw_distance": {
+          "parents_with_any": 10,
+          "patches_with_any": 12,
+          "total_unique_per_patch": 90
+        },
+        "raw_distance_mask": {
+          "parents_with_any": 9,
+          "patches_with_any": 9,
+          "total_unique_per_patch": 30
+        },
+        "raw_distance_mask_full": {
+          "parents_with_any": 9,
+          "patches_with_any": 9,
+          "total_unique_per_patch": 21
+        },
+        "raw_distance_mask_popcount": {
+          "parents_with_any": 9,
+          "patches_with_any": 9,
+          "total_unique_per_patch": 27
+        },
+        "raw_distance_mask_popcount_and": {
+          "parents_with_any": 9,
+          "patches_with_any": 9,
+          "total_unique_per_patch": 21
+        }
+      },
+      "matched_physical_nulls": 59,
+      "median_min_extra_distance": 2.0,
+      "min_extra_raw_distance": 2,
+      "physical_patches": 14,
+      "same_patch_raw_distance_overlap": 0
+    },
+    "3": {
+      "compensated": {
+        "raw_distance": {
+          "parents_with_any": 12,
+          "patches_with_any": 15,
+          "total_unique_per_patch": 95
+        },
+        "raw_distance_mask": {
+          "parents_with_any": 12,
+          "patches_with_any": 15,
+          "total_unique_per_patch": 94
+        },
+        "raw_distance_mask_full": {
+          "parents_with_any": 6,
+          "patches_with_any": 9,
+          "total_unique_per_patch": 35
+        },
+        "raw_distance_mask_popcount": {
+          "parents_with_any": 12,
+          "patches_with_any": 15,
+          "total_unique_per_patch": 92
+        },
+        "raw_distance_mask_popcount_and": {
+          "parents_with_any": 6,
+          "patches_with_any": 9,
+          "total_unique_per_patch": 35
+        }
+      },
+      "matched_physical_nulls": 414,
+      "median_min_extra_distance": 2.0,
+      "min_extra_raw_distance": 2,
+      "physical_patches": 20,
+      "same_patch_raw_distance_overlap": 0
+    }
+  }
+}
