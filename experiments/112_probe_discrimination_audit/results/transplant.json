@@ -1,0 +1,1859 @@
+{
+  "experiment": 112,
+  "inventory": {
+    "informative_parents": 8,
+    "same_first_mask_pairs": 20,
+    "width1_candidates": 77,
+    "width1_donor_mask_pass": 35,
+    "width1_matched_patches": 35,
+    "width1_null_proposals": 358,
+    "width2_candidates": 54,
+    "width2_donor_mask_pass": 16,
+    "width2_matched_patches": 16,
+    "width2_null_proposals": 660,
+    "width3_candidates": 35,
+    "width3_donor_mask_pass": 20,
+    "width3_matched_patches": 20,
+    "width3_null_proposals": 1087
+  },
+  "parameters": {
+    "matching_attempts": 100,
+    "null": "same sites and first-tick changed mask (with replacement)",
+    "null_proposal_budget": 256,
+    "null_repeats": 4,
+    "panel": "predeclared all 15 nonzero values x two boundaries",
+    "ticks": 500,
+    "widths": [
+      1,
+      2,
+      3
+    ]
+  },
+  "parent_records": [
+    {
+      "informative_probes": 0,
+      "parent_id": 2,
+      "seed": [
+        1,
+        5
+      ]
+    },
+    {
+      "informative_probes": 0,
+      "parent_id": 8,
+      "seed": [
+        2,
+        2
+      ]
+    },
+    {
+      "informative_probes": 1,
+      "parent_id": 9,
+      "seed": [
+        2,
+        3
+      ]
+    },
+    {
+      "informative_probes": 2,
+      "parent_id": 17,
+      "seed": [
+        3,
+        2
+      ]
+    },
+    {
+      "informative_probes": 1,
+      "parent_id": 19,
+      "seed": [
+        3,
+        6
+      ]
+    },
+    {
+      "informative_probes": 0,
+      "parent_id": 22,
+      "seed": [
+        3,
+        10
+      ]
+    },
+    {
+      "informative_probes": 0,
+      "parent_id": 24,
+      "seed": [
+        4,
+        4
+      ]
+    },
+    {
+      "informative_probes": 0,
+      "parent_id": 25,
+      "seed": [
+        4,
+        5
+      ]
+    },
+    {
+      "informative_probes": 0,
+      "parent_id": 34,
+      "seed": [
+        5,
+        4
+      ]
+    },
+    {
+      "informative_probes": 2,
+      "parent_id": 35,
+      "seed": [
+        5,
+        5
+      ]
+    },
+    {
+      "informative_probes": 0,
+      "parent_id": 36,
+      "seed": [
+        5,
+        6
+      ]
+    },
+    {
+      "informative_probes": 0,
+      "parent_id": 38,
+      "seed": [
+        5,
+        9
+      ]
+    },
+    {
+      "informative_probes": 0,
+      "parent_id": 42,
+      "seed": [
+        5,
+        14
+      ]
+    },
+    {
+      "informative_probes": 0,
+      "parent_id": 46,
+      "seed": [
+        6,
+        4
+      ]
+    },
+    {
+      "informative_probes": 0,
+      "parent_id": 49,
+      "seed": [
+        6,
+        11
+      ]
+    },
+    {
+      "informative_probes": 1,
+      "parent_id": 75,
+      "seed": [
+        9,
+        12
+      ]
+    },
+    {
+      "informative_probes": 0,
+      "parent_id": 85,
+      "seed": [
+        10,
+        12
+      ]
+    },
+    {
+      "informative_probes": 1,
+      "parent_id": 102,
+      "seed": [
+        12,
+        8
+      ]
+    },
+    {
+      "informative_probes": 1,
+      "parent_id": 104,
+      "seed": [
+        12,
+        10
+      ]
+    },
+    {
+      "informative_probes": 1,
+      "parent_id": 106,
+      "seed": [
+        13,
+        1
+      ]
+    }
+  ],
+  "part": "exploratory 30-probe response transfer",
+  "patch_records": [
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 2,
+      "patch": [
+        29
+      ],
+      "width": 1
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 2,
+      "patch": [
+        31
+      ],
+      "width": 1
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 8,
+      "patch": [
+        29
+      ],
+      "width": 1
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 8,
+      "patch": [
+        30,
+        31,
+        32
+      ],
+      "width": 3
+    },
+    {
+      "donor_censored": 1,
+      "donor_confirmed": 0,
+      "informative_probes": 1,
+      "null_censored": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 9,
+      "patch": [
+        29
+      ],
+      "width": 1
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 1,
+      "informative_probes": 1,
+      "null_censored": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 9,
+      "patch": [
+        31,
+        32
+      ],
+      "width": 2
+    },
+    {
+      "donor_censored": 1,
+      "donor_confirmed": 0,
+      "informative_probes": 1,
+      "null_censored": [
+        1,
+        1,
+        0,
+        1
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "parent_id": 9,
+      "patch": [
+        30,
+        31,
+        32
+      ],
+      "width": 3
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 2,
+      "informative_probes": 2,
+      "null_censored": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "null_confirmed": [
+        2,
+        2,
+        0,
+        1
+      ],
+      "parent_id": 17,
+      "patch": [
+        32
+      ],
+      "width": 1
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 2,
+      "informative_probes": 2,
+      "null_censored": [
+        0,
+        2,
+        1,
+        2
+      ],
+      "null_confirmed": [
+        2,
+        0,
+        1,
+        0
+      ],
+      "parent_id": 17,
+      "patch": [
+        30,
+        31,
+        32
+      ],
+      "width": 3
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 1,
+      "informative_probes": 1,
+      "null_censored": [
+        1,
+        0,
+        1,
+        1
+      ],
+      "null_confirmed": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "parent_id": 19,
+      "patch": [
+        29
+      ],
+      "width": 1
+    },
+    {
+      "donor_censored": 1,
+      "donor_confirmed": 0,
+      "informative_probes": 1,
+      "null_censored": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 19,
+      "patch": [
+        33
+      ],
+      "width": 1
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 1,
+      "informative_probes": 1,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "parent_id": 19,
+      "patch": [
+        31,
+        32
+      ],
+      "width": 2
+    },
+    {
+      "donor_censored": 1,
+      "donor_confirmed": 0,
+      "informative_probes": 1,
+      "null_censored": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "parent_id": 19,
+      "patch": [
+        30,
+        31,
+        32
+      ],
+      "width": 3
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 1,
+      "informative_probes": 1,
+      "null_censored": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 19,
+      "patch": [
+        31,
+        32,
+        33
+      ],
+      "width": 3
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 22,
+      "patch": [
+        29
+      ],
+      "width": 1
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 22,
+      "patch": [
+        30
+      ],
+      "width": 1
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 22,
+      "patch": [
+        29,
+        30
+      ],
+      "width": 2
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 22,
+      "patch": [
+        30,
+        31,
+        32
+      ],
+      "width": 3
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 24,
+      "patch": [
+        29
+      ],
+      "width": 1
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 24,
+      "patch": [
+        30
+      ],
+      "width": 1
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 24,
+      "patch": [
+        29,
+        30
+      ],
+      "width": 2
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 24,
+      "patch": [
+        30,
+        31
+      ],
+      "width": 2
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 24,
+      "patch": [
+        29,
+        30,
+        31
+      ],
+      "width": 3
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 24,
+      "patch": [
+        30,
+        31,
+        32
+      ],
+      "width": 3
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 25,
+      "patch": [
+        29
+      ],
+      "width": 1
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 25,
+      "patch": [
+        32
+      ],
+      "width": 1
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 25,
+      "patch": [
+        30,
+        31,
+        32
+      ],
+      "width": 3
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 34,
+      "patch": [
+        29
+      ],
+      "width": 1
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 34,
+      "patch": [
+        32
+      ],
+      "width": 1
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 34,
+      "patch": [
+        30,
+        31,
+        32
+      ],
+      "width": 3
+    },
+    {
+      "donor_censored": 2,
+      "donor_confirmed": 0,
+      "informative_probes": 2,
+      "null_censored": [
+        2,
+        0,
+        2,
+        1
+      ],
+      "null_confirmed": [
+        0,
+        2,
+        0,
+        1
+      ],
+      "parent_id": 35,
+      "patch": [
+        29
+      ],
+      "width": 1
+    },
+    {
+      "donor_censored": 1,
+      "donor_confirmed": 0,
+      "informative_probes": 2,
+      "null_censored": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 35,
+      "patch": [
+        30,
+        31
+      ],
+      "width": 2
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 2,
+      "informative_probes": 2,
+      "null_censored": [
+        2,
+        0,
+        1,
+        1
+      ],
+      "null_confirmed": [
+        0,
+        1,
+        1,
+        1
+      ],
+      "parent_id": 35,
+      "patch": [
+        29,
+        30,
+        31
+      ],
+      "width": 3
+    },
+    {
+      "donor_censored": 2,
+      "donor_confirmed": 0,
+      "informative_probes": 2,
+      "null_censored": [
+        2,
+        2,
+        2,
+        1
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "parent_id": 35,
+      "patch": [
+        30,
+        31,
+        32
+      ],
+      "width": 3
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 36,
+      "patch": [
+        29
+      ],
+      "width": 1
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 36,
+      "patch": [
+        30,
+        31,
+        32
+      ],
+      "width": 3
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 38,
+      "patch": [
+        29
+      ],
+      "width": 1
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 38,
+      "patch": [
+        30,
+        31,
+        32
+      ],
+      "width": 3
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 42,
+      "patch": [
+        29
+      ],
+      "width": 1
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 42,
+      "patch": [
+        30
+      ],
+      "width": 1
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 42,
+      "patch": [
+        32
+      ],
+      "width": 1
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 42,
+      "patch": [
+        33
+      ],
+      "width": 1
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 42,
+      "patch": [
+        29,
+        30
+      ],
+      "width": 2
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 42,
+      "patch": [
+        32,
+        33
+      ],
+      "width": 2
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 46,
+      "patch": [
+        29
+      ],
+      "width": 1
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 46,
+      "patch": [
+        30
+      ],
+      "width": 1
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 46,
+      "patch": [
+        29,
+        30
+      ],
+      "width": 2
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 46,
+      "patch": [
+        30,
+        31
+      ],
+      "width": 2
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 46,
+      "patch": [
+        29,
+        30,
+        31
+      ],
+      "width": 3
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 46,
+      "patch": [
+        30,
+        31,
+        32
+      ],
+      "width": 3
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 49,
+      "patch": [
+        28
+      ],
+      "width": 1
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 49,
+      "patch": [
+        29
+      ],
+      "width": 1
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 49,
+      "patch": [
+        28,
+        29
+      ],
+      "width": 2
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 49,
+      "patch": [
+        30,
+        31,
+        32
+      ],
+      "width": 3
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 1,
+      "informative_probes": 1,
+      "null_censored": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "parent_id": 75,
+      "patch": [
+        31
+      ],
+      "width": 1
+    },
+    {
+      "donor_censored": 1,
+      "donor_confirmed": 0,
+      "informative_probes": 1,
+      "null_censored": [
+        1,
+        1,
+        1,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "parent_id": 75,
+      "patch": [
+        28,
+        29
+      ],
+      "width": 2
+    },
+    {
+      "donor_censored": 1,
+      "donor_confirmed": 0,
+      "informative_probes": 1,
+      "null_censored": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 75,
+      "patch": [
+        30,
+        31
+      ],
+      "width": 2
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 85,
+      "patch": [
+        29
+      ],
+      "width": 1
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 85,
+      "patch": [
+        30
+      ],
+      "width": 1
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 85,
+      "patch": [
+        32
+      ],
+      "width": 1
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 85,
+      "patch": [
+        29,
+        30
+      ],
+      "width": 2
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 85,
+      "patch": [
+        31,
+        32
+      ],
+      "width": 2
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 0,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 85,
+      "patch": [
+        30,
+        31,
+        32
+      ],
+      "width": 3
+    },
+    {
+      "donor_censored": 1,
+      "donor_confirmed": 0,
+      "informative_probes": 1,
+      "null_censored": [
+        0,
+        1,
+        1,
+        1
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 102,
+      "patch": [
+        29
+      ],
+      "width": 1
+    },
+    {
+      "donor_censored": 1,
+      "donor_confirmed": 0,
+      "informative_probes": 1,
+      "null_censored": [
+        1,
+        0,
+        0,
+        1
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "parent_id": 102,
+      "patch": [
+        30,
+        31,
+        32
+      ],
+      "width": 3
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 1,
+      "null_censored": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 104,
+      "patch": [
+        29
+      ],
+      "width": 1
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 1,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 104,
+      "patch": [
+        31
+      ],
+      "width": 1
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 1,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 104,
+      "patch": [
+        32
+      ],
+      "width": 1
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 0,
+      "informative_probes": 1,
+      "null_censored": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 104,
+      "patch": [
+        31,
+        32
+      ],
+      "width": 2
+    },
+    {
+      "donor_censored": 1,
+      "donor_confirmed": 0,
+      "informative_probes": 1,
+      "null_censored": [
+        0,
+        1,
+        1,
+        1
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "parent_id": 104,
+      "patch": [
+        30,
+        31,
+        32
+      ],
+      "width": 3
+    },
+    {
+      "donor_censored": 0,
+      "donor_confirmed": 1,
+      "informative_probes": 1,
+      "null_censored": [
+        1,
+        1,
+        0,
+        1
+      ],
+      "null_confirmed": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "parent_id": 106,
+      "patch": [
+        32
+      ],
+      "width": 1
+    }
+  ],
+  "summary": {
+    "1": {
+      "donor_censored_probes": 5,
+      "donor_parent_mean_confirmed_fraction": 0.4375,
+      "informative_parents_with_matched_patches": 8,
+      "matched_patches": 35,
+      "null_censored_probes": 30,
+      "null_parent_mean_confirmed_fraction": 0.234375,
+      "parent_losses": 1,
+      "parent_mean_difference": 0.203125,
+      "parent_ties": 3,
+      "parent_wins": 4,
+      "parents_with_matched_patches": 20,
+      "reference_informative_probe_total_in_evaluable_parents": 10
+    },
+    "2": {
+      "donor_censored_probes": 3,
+      "donor_parent_mean_confirmed_fraction": 0.4,
+      "informative_parents_with_matched_patches": 5,
+      "matched_patches": 16,
+      "null_censored_probes": 19,
+      "null_parent_mean_confirmed_fraction": 0.225,
+      "parent_losses": 1,
+      "parent_mean_difference": 0.175,
+      "parent_ties": 3,
+      "parent_wins": 1,
+      "parents_with_matched_patches": 11,
+      "reference_informative_probe_total_in_evaluable_parents": 6
+    },
+    "3": {
+      "donor_censored_probes": 6,
+      "donor_parent_mean_confirmed_fraction": 0.3333333333333333,
+      "informative_parents_with_matched_patches": 6,
+      "matched_patches": 20,
+      "null_censored_probes": 30,
+      "null_parent_mean_confirmed_fraction": 0.22916666666666666,
+      "parent_losses": 2,
+      "parent_mean_difference": 0.10416666666666667,
+      "parent_ties": 1,
+      "parent_wins": 3,
+      "parents_with_matched_patches": 16,
+      "reference_informative_probe_total_in_evaluable_parents": 8
+    }
+  }
+}
