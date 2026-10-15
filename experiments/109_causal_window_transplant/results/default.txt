@@ -1,0 +1,7 @@
+parents=55 random_donors_per_parent=2 six_probe_signature=yes
+probes_per_side=1,7,15
+actual_min_transfer=8,6,11,13,13,4
+actual_mean_min=2.527273
+null_min_transfer=0,28,26,24,29,3
+null_mean_min=2.572727
+pairwise actual_greater=22 null_greater=24 ties=9
