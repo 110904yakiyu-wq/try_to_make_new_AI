@@ -1,0 +1,949 @@
+{
+  "experiment": 131,
+  "protocol": {
+    "cohort": "frozen 55 exact 108-matched parent pairs; 1650 paired probes, initial states from 127",
+    "conditions": [
+      "all",
+      "popcount",
+      "pop_and",
+      "pop_and_flips",
+      "first_changed_mask"
+    ],
+    "event": "eventual cumulative union ever reaches K; only exact recurrence certifies absence by 50k",
+    "horizon": 50000,
+    "limitation": "selected physical strata may be biased and small; no causal identification or equal outcome sampling",
+    "matching": "nested exact equality of post-injection initial popcount, neighbor AND, autonomous first-step Hamming flips and first-step changed-site mask",
+    "physical_kernel": "original 104/108 60-window phase0, left rotation; no new rules",
+    "selection": "physical variables at t=0 and t=1 only, no post-t1 outcome screening",
+    "thresholds": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60
+    ]
+  },
+  "strata": {
+    "all": {
+      "eligible_parents": 55,
+      "eligible_probes": 1650,
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 1477,
+            "yes": 173
+          },
+          "control": {
+            "no": 1197,
+            "yes": 453
+          },
+          "parent_equal_delta_bounds": [
+            -0.16969696969696968,
+            -0.16969696969696968
+          ],
+          "parent_signs": {
+            "G0_certain": 11,
+            "control_certain": 37,
+            "unidentified_or_tied": 7
+          },
+          "pooled_delta_bounds": [
+            -0.1696969696969697,
+            -0.1696969696969697
+          ],
+          "probe_signs": {
+            "G0_certain": 140,
+            "control_certain": 420,
+            "unidentified_or_tied": 1090
+          }
+        },
+        "20": {
+          "G0": {
+            "no": 1503,
+            "yes": 147
+          },
+          "control": {
+            "no": 1249,
+            "unknown": 1,
+            "yes": 400
+          },
+          "parent_equal_delta_bounds": [
+            -0.15393939393939393,
+            -0.15333333333333332
+          ],
+          "parent_signs": {
+            "G0_certain": 10,
+            "control_certain": 36,
+            "unidentified_or_tied": 9
+          },
+          "pooled_delta_bounds": [
+            -0.15393939393939393,
+            -0.15333333333333332
+          ],
+          "probe_signs": {
+            "G0_certain": 123,
+            "control_certain": 376,
+            "unidentified_or_tied": 1151
+          }
+        },
+        "30": {
+          "G0": {
+            "no": 1505,
+            "yes": 145
+          },
+          "control": {
+            "no": 1253,
+            "unknown": 1,
+            "yes": 396
+          },
+          "parent_equal_delta_bounds": [
+            -0.1527272727272727,
+            -0.15212121212121213
+          ],
+          "parent_signs": {
+            "G0_certain": 10,
+            "control_certain": 37,
+            "unidentified_or_tied": 8
+          },
+          "pooled_delta_bounds": [
+            -0.15272727272727274,
+            -0.15212121212121213
+          ],
+          "probe_signs": {
+            "G0_certain": 122,
+            "control_certain": 373,
+            "unidentified_or_tied": 1155
+          }
+        },
+        "40": {
+          "G0": {
+            "no": 1507,
+            "yes": 143
+          },
+          "control": {
+            "no": 1254,
+            "unknown": 1,
+            "yes": 395
+          },
+          "parent_equal_delta_bounds": [
+            -0.15333333333333332,
+            -0.1527272727272727
+          ],
+          "parent_signs": {
+            "G0_certain": 10,
+            "control_certain": 37,
+            "unidentified_or_tied": 8
+          },
+          "pooled_delta_bounds": [
+            -0.15333333333333332,
+            -0.15272727272727274
+          ],
+          "probe_signs": {
+            "G0_certain": 120,
+            "control_certain": 372,
+            "unidentified_or_tied": 1158
+          }
+        },
+        "50": {
+          "G0": {
+            "no": 1507,
+            "yes": 143
+          },
+          "control": {
+            "no": 1254,
+            "unknown": 1,
+            "yes": 395
+          },
+          "parent_equal_delta_bounds": [
+            -0.15333333333333332,
+            -0.1527272727272727
+          ],
+          "parent_signs": {
+            "G0_certain": 10,
+            "control_certain": 37,
+            "unidentified_or_tied": 8
+          },
+          "pooled_delta_bounds": [
+            -0.15333333333333332,
+            -0.15272727272727274
+          ],
+          "probe_signs": {
+            "G0_certain": 120,
+            "control_certain": 372,
+            "unidentified_or_tied": 1158
+          }
+        },
+        "60": {
+          "G0": {
+            "no": 1507,
+            "yes": 143
+          },
+          "control": {
+            "no": 1254,
+            "unknown": 1,
+            "yes": 395
+          },
+          "parent_equal_delta_bounds": [
+            -0.15333333333333332,
+            -0.1527272727272727
+          ],
+          "parent_signs": {
+            "G0_certain": 10,
+            "control_certain": 37,
+            "unidentified_or_tied": 8
+          },
+          "pooled_delta_bounds": [
+            -0.15333333333333332,
+            -0.15272727272727274
+          ],
+          "probe_signs": {
+            "G0_certain": 120,
+            "control_certain": 372,
+            "unidentified_or_tied": 1158
+          }
+        }
+      },
+      "parent_probe_histogram": {
+        "30": 55
+      }
+    },
+    "first_changed_mask": {
+      "eligible_parents": 6,
+      "eligible_probes": 102,
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 79,
+            "yes": 23
+          },
+          "control": {
+            "no": 92,
+            "yes": 10
+          },
+          "parent_equal_delta_bounds": [
+            0.10875420875420876,
+            0.10875420875420876
+          ],
+          "parent_signs": {
+            "G0_certain": 2,
+            "control_certain": 1,
+            "unidentified_or_tied": 3
+          },
+          "pooled_delta_bounds": [
+            0.12745098039215685,
+            0.12745098039215685
+          ],
+          "probe_signs": {
+            "G0_certain": 21,
+            "control_certain": 8,
+            "unidentified_or_tied": 73
+          }
+        },
+        "20": {
+          "G0": {
+            "no": 83,
+            "yes": 19
+          },
+          "control": {
+            "no": 93,
+            "yes": 9
+          },
+          "parent_equal_delta_bounds": [
+            0.08265993265993266,
+            0.08265993265993266
+          ],
+          "parent_signs": {
+            "G0_certain": 2,
+            "control_certain": 1,
+            "unidentified_or_tied": 3
+          },
+          "pooled_delta_bounds": [
+            0.09803921568627451,
+            0.09803921568627451
+          ],
+          "probe_signs": {
+            "G0_certain": 17,
+            "control_certain": 7,
+            "unidentified_or_tied": 78
+          }
+        },
+        "30": {
+          "G0": {
+            "no": 83,
+            "yes": 19
+          },
+          "control": {
+            "no": 93,
+            "yes": 9
+          },
+          "parent_equal_delta_bounds": [
+            0.08265993265993266,
+            0.08265993265993266
+          ],
+          "parent_signs": {
+            "G0_certain": 2,
+            "control_certain": 1,
+            "unidentified_or_tied": 3
+          },
+          "pooled_delta_bounds": [
+            0.09803921568627451,
+            0.09803921568627451
+          ],
+          "probe_signs": {
+            "G0_certain": 17,
+            "control_certain": 7,
+            "unidentified_or_tied": 78
+          }
+        },
+        "40": {
+          "G0": {
+            "no": 83,
+            "yes": 19
+          },
+          "control": {
+            "no": 93,
+            "yes": 9
+          },
+          "parent_equal_delta_bounds": [
+            0.08265993265993266,
+            0.08265993265993266
+          ],
+          "parent_signs": {
+            "G0_certain": 2,
+            "control_certain": 1,
+            "unidentified_or_tied": 3
+          },
+          "pooled_delta_bounds": [
+            0.09803921568627451,
+            0.09803921568627451
+          ],
+          "probe_signs": {
+            "G0_certain": 17,
+            "control_certain": 7,
+            "unidentified_or_tied": 78
+          }
+        },
+        "50": {
+          "G0": {
+            "no": 83,
+            "yes": 19
+          },
+          "control": {
+            "no": 93,
+            "yes": 9
+          },
+          "parent_equal_delta_bounds": [
+            0.08265993265993266,
+            0.08265993265993266
+          ],
+          "parent_signs": {
+            "G0_certain": 2,
+            "control_certain": 1,
+            "unidentified_or_tied": 3
+          },
+          "pooled_delta_bounds": [
+            0.09803921568627451,
+            0.09803921568627451
+          ],
+          "probe_signs": {
+            "G0_certain": 17,
+            "control_certain": 7,
+            "unidentified_or_tied": 78
+          }
+        },
+        "60": {
+          "G0": {
+            "no": 83,
+            "yes": 19
+          },
+          "control": {
+            "no": 93,
+            "yes": 9
+          },
+          "parent_equal_delta_bounds": [
+            0.08265993265993266,
+            0.08265993265993266
+          ],
+          "parent_signs": {
+            "G0_certain": 2,
+            "control_certain": 1,
+            "unidentified_or_tied": 3
+          },
+          "pooled_delta_bounds": [
+            0.09803921568627451,
+            0.09803921568627451
+          ],
+          "probe_signs": {
+            "G0_certain": 17,
+            "control_certain": 7,
+            "unidentified_or_tied": 78
+          }
+        }
+      },
+      "parent_probe_histogram": {
+        "14": 3,
+        "18": 1,
+        "20": 1,
+        "22": 1
+      }
+    },
+    "pop_and": {
+      "eligible_parents": 14,
+      "eligible_probes": 168,
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 142,
+            "yes": 26
+          },
+          "control": {
+            "no": 146,
+            "yes": 22
+          },
+          "parent_equal_delta_bounds": [
+            0.015571531642960212,
+            0.015571531642960212
+          ],
+          "parent_signs": {
+            "G0_certain": 3,
+            "control_certain": 4,
+            "unidentified_or_tied": 7
+          },
+          "pooled_delta_bounds": [
+            0.023809523809523808,
+            0.023809523809523808
+          ],
+          "probe_signs": {
+            "G0_certain": 24,
+            "control_certain": 20,
+            "unidentified_or_tied": 124
+          }
+        },
+        "20": {
+          "G0": {
+            "no": 146,
+            "yes": 22
+          },
+          "control": {
+            "no": 149,
+            "unknown": 1,
+            "yes": 18
+          },
+          "parent_equal_delta_bounds": [
+            0.014592352092352092,
+            0.019694392908678627
+          ],
+          "parent_signs": {
+            "G0_certain": 3,
+            "control_certain": 4,
+            "unidentified_or_tied": 7
+          },
+          "pooled_delta_bounds": [
+            0.017857142857142856,
+            0.023809523809523808
+          ],
+          "probe_signs": {
+            "G0_certain": 20,
+            "control_certain": 16,
+            "unidentified_or_tied": 132
+          }
+        },
+        "30": {
+          "G0": {
+            "no": 146,
+            "yes": 22
+          },
+          "control": {
+            "no": 149,
+            "unknown": 1,
+            "yes": 18
+          },
+          "parent_equal_delta_bounds": [
+            0.014592352092352092,
+            0.019694392908678627
+          ],
+          "parent_signs": {
+            "G0_certain": 3,
+            "control_certain": 4,
+            "unidentified_or_tied": 7
+          },
+          "pooled_delta_bounds": [
+            0.017857142857142856,
+            0.023809523809523808
+          ],
+          "probe_signs": {
+            "G0_certain": 20,
+            "control_certain": 16,
+            "unidentified_or_tied": 132
+          }
+        },
+        "40": {
+          "G0": {
+            "no": 146,
+            "yes": 22
+          },
+          "control": {
+            "no": 150,
+            "unknown": 1,
+            "yes": 17
+          },
+          "parent_equal_delta_bounds": [
+            0.019694392908678627,
+            0.024796433725005153
+          ],
+          "parent_signs": {
+            "G0_certain": 3,
+            "control_certain": 4,
+            "unidentified_or_tied": 7
+          },
+          "pooled_delta_bounds": [
+            0.023809523809523808,
+            0.02976190476190476
+          ],
+          "probe_signs": {
+            "G0_certain": 20,
+            "control_certain": 15,
+            "unidentified_or_tied": 133
+          }
+        },
+        "50": {
+          "G0": {
+            "no": 146,
+            "yes": 22
+          },
+          "control": {
+            "no": 150,
+            "unknown": 1,
+            "yes": 17
+          },
+          "parent_equal_delta_bounds": [
+            0.019694392908678627,
+            0.024796433725005153
+          ],
+          "parent_signs": {
+            "G0_certain": 3,
+            "control_certain": 4,
+            "unidentified_or_tied": 7
+          },
+          "pooled_delta_bounds": [
+            0.023809523809523808,
+            0.02976190476190476
+          ],
+          "probe_signs": {
+            "G0_certain": 20,
+            "control_certain": 15,
+            "unidentified_or_tied": 133
+          }
+        },
+        "60": {
+          "G0": {
+            "no": 146,
+            "yes": 22
+          },
+          "control": {
+            "no": 150,
+            "unknown": 1,
+            "yes": 17
+          },
+          "parent_equal_delta_bounds": [
+            0.019694392908678627,
+            0.024796433725005153
+          ],
+          "parent_signs": {
+            "G0_certain": 3,
+            "control_certain": 4,
+            "unidentified_or_tied": 7
+          },
+          "pooled_delta_bounds": [
+            0.023809523809523808,
+            0.02976190476190476
+          ],
+          "probe_signs": {
+            "G0_certain": 20,
+            "control_certain": 15,
+            "unidentified_or_tied": 133
+          }
+        }
+      },
+      "parent_probe_histogram": {
+        "4": 3,
+        "6": 1,
+        "8": 1,
+        "12": 1,
+        "14": 5,
+        "18": 1,
+        "20": 1,
+        "22": 1
+      }
+    },
+    "pop_and_flips": {
+      "eligible_parents": 10,
+      "eligible_probes": 126,
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 103,
+            "yes": 23
+          },
+          "control": {
+            "no": 106,
+            "yes": 20
+          },
+          "parent_equal_delta_bounds": [
+            -0.04903318903318904,
+            -0.04903318903318904
+          ],
+          "parent_signs": {
+            "G0_certain": 2,
+            "control_certain": 3,
+            "unidentified_or_tied": 5
+          },
+          "pooled_delta_bounds": [
+            0.023809523809523808,
+            0.023809523809523808
+          ],
+          "probe_signs": {
+            "G0_certain": 21,
+            "control_certain": 18,
+            "unidentified_or_tied": 87
+          }
+        },
+        "20": {
+          "G0": {
+            "no": 107,
+            "yes": 19
+          },
+          "control": {
+            "no": 109,
+            "unknown": 1,
+            "yes": 16
+          },
+          "parent_equal_delta_bounds": [
+            -0.0504040404040404,
+            -0.04326118326118326
+          ],
+          "parent_signs": {
+            "G0_certain": 2,
+            "control_certain": 3,
+            "unidentified_or_tied": 5
+          },
+          "pooled_delta_bounds": [
+            0.015873015873015872,
+            0.023809523809523808
+          ],
+          "probe_signs": {
+            "G0_certain": 17,
+            "control_certain": 14,
+            "unidentified_or_tied": 95
+          }
+        },
+        "30": {
+          "G0": {
+            "no": 107,
+            "yes": 19
+          },
+          "control": {
+            "no": 109,
+            "unknown": 1,
+            "yes": 16
+          },
+          "parent_equal_delta_bounds": [
+            -0.0504040404040404,
+            -0.04326118326118326
+          ],
+          "parent_signs": {
+            "G0_certain": 2,
+            "control_certain": 3,
+            "unidentified_or_tied": 5
+          },
+          "pooled_delta_bounds": [
+            0.015873015873015872,
+            0.023809523809523808
+          ],
+          "probe_signs": {
+            "G0_certain": 17,
+            "control_certain": 14,
+            "unidentified_or_tied": 95
+          }
+        },
+        "40": {
+          "G0": {
+            "no": 107,
+            "yes": 19
+          },
+          "control": {
+            "no": 110,
+            "unknown": 1,
+            "yes": 15
+          },
+          "parent_equal_delta_bounds": [
+            -0.04326118326118326,
+            -0.03611832611832612
+          ],
+          "parent_signs": {
+            "G0_certain": 2,
+            "control_certain": 3,
+            "unidentified_or_tied": 5
+          },
+          "pooled_delta_bounds": [
+            0.023809523809523808,
+            0.031746031746031744
+          ],
+          "probe_signs": {
+            "G0_certain": 17,
+            "control_certain": 13,
+            "unidentified_or_tied": 96
+          }
+        },
+        "50": {
+          "G0": {
+            "no": 107,
+            "yes": 19
+          },
+          "control": {
+            "no": 110,
+            "unknown": 1,
+            "yes": 15
+          },
+          "parent_equal_delta_bounds": [
+            -0.04326118326118326,
+            -0.03611832611832612
+          ],
+          "parent_signs": {
+            "G0_certain": 2,
+            "control_certain": 3,
+            "unidentified_or_tied": 5
+          },
+          "pooled_delta_bounds": [
+            0.023809523809523808,
+            0.031746031746031744
+          ],
+          "probe_signs": {
+            "G0_certain": 17,
+            "control_certain": 13,
+            "unidentified_or_tied": 96
+          }
+        },
+        "60": {
+          "G0": {
+            "no": 107,
+            "yes": 19
+          },
+          "control": {
+            "no": 110,
+            "unknown": 1,
+            "yes": 15
+          },
+          "parent_equal_delta_bounds": [
+            -0.04326118326118326,
+            -0.03611832611832612
+          ],
+          "parent_signs": {
+            "G0_certain": 2,
+            "control_certain": 3,
+            "unidentified_or_tied": 5
+          },
+          "pooled_delta_bounds": [
+            0.023809523809523808,
+            0.031746031746031744
+          ],
+          "probe_signs": {
+            "G0_certain": 17,
+            "control_certain": 13,
+            "unidentified_or_tied": 96
+          }
+        }
+      },
+      "parent_probe_histogram": {
+        "2": 1,
+        "4": 2,
+        "14": 4,
+        "18": 1,
+        "20": 1,
+        "22": 1
+      }
+    },
+    "popcount": {
+      "eligible_parents": 15,
+      "eligible_probes": 450,
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 403,
+            "yes": 47
+          },
+          "control": {
+            "no": 341,
+            "yes": 109
+          },
+          "parent_equal_delta_bounds": [
+            -0.13777777777777778,
+            -0.13777777777777778
+          ],
+          "parent_signs": {
+            "G0_certain": 3,
+            "control_certain": 8,
+            "unidentified_or_tied": 4
+          },
+          "pooled_delta_bounds": [
+            -0.13777777777777778,
+            -0.13777777777777778
+          ],
+          "probe_signs": {
+            "G0_certain": 43,
+            "control_certain": 105,
+            "unidentified_or_tied": 302
+          }
+        },
+        "20": {
+          "G0": {
+            "no": 409,
+            "yes": 41
+          },
+          "control": {
+            "no": 353,
+            "unknown": 1,
+            "yes": 96
+          },
+          "parent_equal_delta_bounds": [
+            -0.12444444444444444,
+            -0.12222222222222222
+          ],
+          "parent_signs": {
+            "G0_certain": 2,
+            "control_certain": 8,
+            "unidentified_or_tied": 5
+          },
+          "pooled_delta_bounds": [
+            -0.12444444444444444,
+            -0.12222222222222222
+          ],
+          "probe_signs": {
+            "G0_certain": 37,
+            "control_certain": 92,
+            "unidentified_or_tied": 321
+          }
+        },
+        "30": {
+          "G0": {
+            "no": 409,
+            "yes": 41
+          },
+          "control": {
+            "no": 354,
+            "unknown": 1,
+            "yes": 95
+          },
+          "parent_equal_delta_bounds": [
+            -0.12222222222222222,
+            -0.12
+          ],
+          "parent_signs": {
+            "G0_certain": 2,
+            "control_certain": 8,
+            "unidentified_or_tied": 5
+          },
+          "pooled_delta_bounds": [
+            -0.12222222222222222,
+            -0.12
+          ],
+          "probe_signs": {
+            "G0_certain": 37,
+            "control_certain": 91,
+            "unidentified_or_tied": 322
+          }
+        },
+        "40": {
+          "G0": {
+            "no": 409,
+            "yes": 41
+          },
+          "control": {
+            "no": 355,
+            "unknown": 1,
+            "yes": 94
+          },
+          "parent_equal_delta_bounds": [
+            -0.12,
+            -0.11777777777777777
+          ],
+          "parent_signs": {
+            "G0_certain": 2,
+            "control_certain": 8,
+            "unidentified_or_tied": 5
+          },
+          "pooled_delta_bounds": [
+            -0.12,
+            -0.11777777777777777
+          ],
+          "probe_signs": {
+            "G0_certain": 37,
+            "control_certain": 90,
+            "unidentified_or_tied": 323
+          }
+        },
+        "50": {
+          "G0": {
+            "no": 409,
+            "yes": 41
+          },
+          "control": {
+            "no": 355,
+            "unknown": 1,
+            "yes": 94
+          },
+          "parent_equal_delta_bounds": [
+            -0.12,
+            -0.11777777777777777
+          ],
+          "parent_signs": {
+            "G0_certain": 2,
+            "control_certain": 8,
+            "unidentified_or_tied": 5
+          },
+          "pooled_delta_bounds": [
+            -0.12,
+            -0.11777777777777777
+          ],
+          "probe_signs": {
+            "G0_certain": 37,
+            "control_certain": 90,
+            "unidentified_or_tied": 323
+          }
+        },
+        "60": {
+          "G0": {
+            "no": 409,
+            "yes": 41
+          },
+          "control": {
+            "no": 355,
+            "unknown": 1,
+            "yes": 94
+          },
+          "parent_equal_delta_bounds": [
+            -0.12,
+            -0.11777777777777777
+          ],
+          "parent_signs": {
+            "G0_certain": 2,
+            "control_certain": 8,
+            "unidentified_or_tied": 5
+          },
+          "pooled_delta_bounds": [
+            -0.12,
+            -0.11777777777777777
+          ],
+          "probe_signs": {
+            "G0_certain": 37,
+            "control_certain": 90,
+            "unidentified_or_tied": 323
+          }
+        }
+      },
+      "parent_probe_histogram": {
+        "30": 15
+      }
+    }
+  }
+}
