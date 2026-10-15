@@ -1,0 +1,8 @@
+500 G0 1486 C 1215 G0cens 143 Ccens 398 bounds [-7.697%,25.091%] signs 11 1 43 kernel_work 333344
+1000 G0 1486 C 1216 G0cens 143 Ccens 397 bounds [-7.697%,25.030%] signs 11 1 43 kernel_work 599329
+2000 G0 1486 C 1218 G0cens 143 Ccens 395 bounds [-7.697%,24.909%] signs 11 1 43 kernel_work 1128913
+4000 G0 1486 C 1218 G0cens 143 Ccens 395 bounds [-7.697%,24.909%] signs 11 1 43 kernel_work 2186913
+8000 G0 1486 C 1218 G0cens 143 Ccens 395 bounds [-7.697%,24.909%] signs 11 1 43 kernel_work 4302913
+16000 G0 1486 C 1218 G0cens 143 Ccens 395 bounds [-7.697%,24.909%] signs 11 1 43 kernel_work 8534913
+32000 G0 1486 C 1218 G0cens 143 Ccens 395 bounds [-7.697%,24.909%] signs 11 1 43 kernel_work 16998913
+50000 G0 1486 C 1218 G0cens 143 Ccens 394 bounds [-7.636%,24.909%] signs 12 1 42 kernel_work 26519585
