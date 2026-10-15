@@ -1,0 +1,63 @@
+{
+  "summary": {
+    "G0_newly_resolved": 0,
+    "cohort_parents": 55,
+    "control_newly_resolved": 3,
+    "horizon2000": {
+      "G0": {
+        "censored": 143,
+        "connected": 1486,
+        "fragmented": 17,
+        "static": 4
+      },
+      "control": {
+        "censored": 395,
+        "connected": 1218,
+        "fragmented": 30,
+        "static": 7
+      },
+      "lower_connected_delta": -127,
+      "lower_rate_delta": -0.07696969696969697,
+      "n_per_arm": 1650,
+      "observed_connected_delta": 268,
+      "observed_rate_delta": 0.16242424242424242,
+      "parent_robust_sign": {
+        "indeterminate": 43,
+        "negative": 1,
+        "positive": 11
+      },
+      "upper_connected_delta": 411,
+      "upper_rate_delta": 0.24909090909090909
+    },
+    "horizon500": {
+      "G0": {
+        "censored": 143,
+        "connected": 1486,
+        "fragmented": 17,
+        "static": 4
+      },
+      "control": {
+        "censored": 398,
+        "connected": 1215,
+        "fragmented": 30,
+        "static": 7
+      },
+      "lower_connected_delta": -127,
+      "lower_rate_delta": -0.07696969696969697,
+      "n_per_arm": 1650,
+      "observed_connected_delta": 271,
+      "observed_rate_delta": 0.16424242424242425,
+      "parent_robust_sign": {
+        "indeterminate": 43,
+        "negative": 1,
+        "positive": 11
+      },
+      "upper_connected_delta": 414,
+      "upper_rate_delta": 0.2509090909090909
+    },
+    "memoized_orbit_calls": {
+      "orbit2000_unique": 532,
+      "orbit500_unique": 3270
+    }
+  }
+}
