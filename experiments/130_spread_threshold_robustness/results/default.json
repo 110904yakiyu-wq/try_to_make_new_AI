@@ -1,0 +1,396 @@
+{
+  "experiment": 130,
+  "protocol": {
+    "endpoint_independence": "this post-hoc threshold family and previous 60-position endpoint share the same physical trajectories",
+    "event": "ever touches at least K distinct physical window positions in historical nonzero union",
+    "horizons": [
+      500,
+      2000,
+      50000
+    ],
+    "independence": "55 matched parent pairs; 30 correlated probes per arm",
+    "negative_certificate": "exact full-state plus next-phase recurrence before reaching K",
+    "physics": "unchanged 104/108/127 ring and material probes",
+    "thresholds": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60
+    ]
+  },
+  "results": {
+    "10": {
+      "2000": {
+        "G0": {
+          "certified_no": 1477,
+          "yes": 173
+        },
+        "control": {
+          "certified_no": 1197,
+          "yes": 453
+        },
+        "lower_count": -280,
+        "lower_fraction": -0.1696969696969697,
+        "parent_bound_signs": {
+          "G0_greater": 11,
+          "control_greater": 37,
+          "undetermined_or_tied": 7
+        },
+        "upper_count": -280,
+        "upper_fraction": -0.1696969696969697
+      },
+      "500": {
+        "G0": {
+          "certified_no": 1477,
+          "yes": 173
+        },
+        "control": {
+          "certified_no": 1197,
+          "yes": 453
+        },
+        "lower_count": -280,
+        "lower_fraction": -0.1696969696969697,
+        "parent_bound_signs": {
+          "G0_greater": 11,
+          "control_greater": 37,
+          "undetermined_or_tied": 7
+        },
+        "upper_count": -280,
+        "upper_fraction": -0.1696969696969697
+      },
+      "50000": {
+        "G0": {
+          "certified_no": 1477,
+          "yes": 173
+        },
+        "control": {
+          "certified_no": 1197,
+          "yes": 453
+        },
+        "lower_count": -280,
+        "lower_fraction": -0.1696969696969697,
+        "parent_bound_signs": {
+          "G0_greater": 11,
+          "control_greater": 37,
+          "undetermined_or_tied": 7
+        },
+        "upper_count": -280,
+        "upper_fraction": -0.1696969696969697
+      }
+    },
+    "20": {
+      "2000": {
+        "G0": {
+          "certified_no": 1503,
+          "yes": 147
+        },
+        "control": {
+          "certified_no": 1249,
+          "unknown": 1,
+          "yes": 400
+        },
+        "lower_count": -254,
+        "lower_fraction": -0.15393939393939393,
+        "parent_bound_signs": {
+          "G0_greater": 10,
+          "control_greater": 36,
+          "undetermined_or_tied": 9
+        },
+        "upper_count": -253,
+        "upper_fraction": -0.15333333333333332
+      },
+      "500": {
+        "G0": {
+          "certified_no": 1503,
+          "yes": 147
+        },
+        "control": {
+          "certified_no": 1248,
+          "unknown": 2,
+          "yes": 400
+        },
+        "lower_count": -255,
+        "lower_fraction": -0.15454545454545454,
+        "parent_bound_signs": {
+          "G0_greater": 10,
+          "control_greater": 36,
+          "undetermined_or_tied": 9
+        },
+        "upper_count": -253,
+        "upper_fraction": -0.15333333333333332
+      },
+      "50000": {
+        "G0": {
+          "certified_no": 1503,
+          "yes": 147
+        },
+        "control": {
+          "certified_no": 1249,
+          "unknown": 1,
+          "yes": 400
+        },
+        "lower_count": -254,
+        "lower_fraction": -0.15393939393939393,
+        "parent_bound_signs": {
+          "G0_greater": 10,
+          "control_greater": 36,
+          "undetermined_or_tied": 9
+        },
+        "upper_count": -253,
+        "upper_fraction": -0.15333333333333332
+      }
+    },
+    "30": {
+      "2000": {
+        "G0": {
+          "certified_no": 1505,
+          "yes": 145
+        },
+        "control": {
+          "certified_no": 1253,
+          "unknown": 1,
+          "yes": 396
+        },
+        "lower_count": -252,
+        "lower_fraction": -0.15272727272727274,
+        "parent_bound_signs": {
+          "G0_greater": 10,
+          "control_greater": 37,
+          "undetermined_or_tied": 8
+        },
+        "upper_count": -251,
+        "upper_fraction": -0.15212121212121213
+      },
+      "500": {
+        "G0": {
+          "certified_no": 1505,
+          "yes": 145
+        },
+        "control": {
+          "certified_no": 1250,
+          "unknown": 4,
+          "yes": 396
+        },
+        "lower_count": -255,
+        "lower_fraction": -0.15454545454545454,
+        "parent_bound_signs": {
+          "G0_greater": 10,
+          "control_greater": 37,
+          "undetermined_or_tied": 8
+        },
+        "upper_count": -251,
+        "upper_fraction": -0.15212121212121213
+      },
+      "50000": {
+        "G0": {
+          "certified_no": 1505,
+          "yes": 145
+        },
+        "control": {
+          "certified_no": 1253,
+          "unknown": 1,
+          "yes": 396
+        },
+        "lower_count": -252,
+        "lower_fraction": -0.15272727272727274,
+        "parent_bound_signs": {
+          "G0_greater": 10,
+          "control_greater": 37,
+          "undetermined_or_tied": 8
+        },
+        "upper_count": -251,
+        "upper_fraction": -0.15212121212121213
+      }
+    },
+    "40": {
+      "2000": {
+        "G0": {
+          "certified_no": 1507,
+          "yes": 143
+        },
+        "control": {
+          "certified_no": 1254,
+          "unknown": 1,
+          "yes": 395
+        },
+        "lower_count": -253,
+        "lower_fraction": -0.15333333333333332,
+        "parent_bound_signs": {
+          "G0_greater": 10,
+          "control_greater": 37,
+          "undetermined_or_tied": 8
+        },
+        "upper_count": -252,
+        "upper_fraction": -0.15272727272727274
+      },
+      "500": {
+        "G0": {
+          "certified_no": 1507,
+          "yes": 143
+        },
+        "control": {
+          "certified_no": 1251,
+          "unknown": 4,
+          "yes": 395
+        },
+        "lower_count": -256,
+        "lower_fraction": -0.15515151515151515,
+        "parent_bound_signs": {
+          "G0_greater": 10,
+          "control_greater": 37,
+          "undetermined_or_tied": 8
+        },
+        "upper_count": -252,
+        "upper_fraction": -0.15272727272727274
+      },
+      "50000": {
+        "G0": {
+          "certified_no": 1507,
+          "yes": 143
+        },
+        "control": {
+          "certified_no": 1254,
+          "unknown": 1,
+          "yes": 395
+        },
+        "lower_count": -253,
+        "lower_fraction": -0.15333333333333332,
+        "parent_bound_signs": {
+          "G0_greater": 10,
+          "control_greater": 37,
+          "undetermined_or_tied": 8
+        },
+        "upper_count": -252,
+        "upper_fraction": -0.15272727272727274
+      }
+    },
+    "50": {
+      "2000": {
+        "G0": {
+          "certified_no": 1507,
+          "yes": 143
+        },
+        "control": {
+          "certified_no": 1254,
+          "unknown": 1,
+          "yes": 395
+        },
+        "lower_count": -253,
+        "lower_fraction": -0.15333333333333332,
+        "parent_bound_signs": {
+          "G0_greater": 10,
+          "control_greater": 37,
+          "undetermined_or_tied": 8
+        },
+        "upper_count": -252,
+        "upper_fraction": -0.15272727272727274
+      },
+      "500": {
+        "G0": {
+          "certified_no": 1507,
+          "unknown": 3,
+          "yes": 140
+        },
+        "control": {
+          "certified_no": 1251,
+          "unknown": 8,
+          "yes": 391
+        },
+        "lower_count": -259,
+        "lower_fraction": -0.15696969696969698,
+        "parent_bound_signs": {
+          "G0_greater": 10,
+          "control_greater": 37,
+          "undetermined_or_tied": 8
+        },
+        "upper_count": -248,
+        "upper_fraction": -0.1503030303030303
+      },
+      "50000": {
+        "G0": {
+          "certified_no": 1507,
+          "yes": 143
+        },
+        "control": {
+          "certified_no": 1254,
+          "unknown": 1,
+          "yes": 395
+        },
+        "lower_count": -253,
+        "lower_fraction": -0.15333333333333332,
+        "parent_bound_signs": {
+          "G0_greater": 10,
+          "control_greater": 37,
+          "undetermined_or_tied": 8
+        },
+        "upper_count": -252,
+        "upper_fraction": -0.15272727272727274
+      }
+    },
+    "60": {
+      "2000": {
+        "G0": {
+          "certified_no": 1507,
+          "yes": 143
+        },
+        "control": {
+          "certified_no": 1254,
+          "unknown": 1,
+          "yes": 395
+        },
+        "lower_count": -253,
+        "lower_fraction": -0.15333333333333332,
+        "parent_bound_signs": {
+          "G0_greater": 10,
+          "control_greater": 37,
+          "undetermined_or_tied": 8
+        },
+        "upper_count": -252,
+        "upper_fraction": -0.15272727272727274
+      },
+      "500": {
+        "G0": {
+          "certified_no": 1507,
+          "unknown": 14,
+          "yes": 129
+        },
+        "control": {
+          "certified_no": 1251,
+          "unknown": 30,
+          "yes": 369
+        },
+        "lower_count": -270,
+        "lower_fraction": -0.16363636363636364,
+        "parent_bound_signs": {
+          "G0_greater": 10,
+          "control_greater": 37,
+          "undetermined_or_tied": 8
+        },
+        "upper_count": -226,
+        "upper_fraction": -0.13696969696969696
+      },
+      "50000": {
+        "G0": {
+          "certified_no": 1507,
+          "yes": 143
+        },
+        "control": {
+          "certified_no": 1254,
+          "unknown": 1,
+          "yes": 395
+        },
+        "lower_count": -253,
+        "lower_fraction": -0.15333333333333332,
+        "parent_bound_signs": {
+          "G0_greater": 10,
+          "control_greater": 37,
+          "undetermined_or_tied": 8
+        },
+        "upper_count": -252,
+        "upper_fraction": -0.15272727272727274
+      }
+    }
+  }
+}
