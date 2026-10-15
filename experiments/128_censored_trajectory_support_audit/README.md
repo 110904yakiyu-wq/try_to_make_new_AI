@@ -40,7 +40,7 @@ python analyze.py > results/default.txt
 python test_smoke.py
 ```
 
-All 537 per-condition physical geometry measurements are in `results/censored_trace.csv` and mirrored into `results/default.json`. Python smoke independently checks 500/2,000 historical-union counts for 10 traces against the raw physical update.
+All 537 per-condition physical geometry measurements are in `results/censored_trace.csv`; `results/default.json` contains the summary, without duplicating the CSV rows. Python smoke independently checks 500/2,000 historical-union counts for 10 traces against the raw physical update.
 
 ## Boundaries / next hypothesis test
 
