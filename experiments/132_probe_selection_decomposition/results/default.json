@@ -1,0 +1,2554 @@
+{
+  "decomposition": {
+    "all": {
+      "components": {
+        "feature_eligible_probes": {
+          "by_threshold": {
+            "10": {
+              "parent_equal": {
+                "lower_fraction": -0.16969696969696968,
+                "parents": 55,
+                "upper_fraction": -0.16969696969696968
+              },
+              "pooled": {
+                "control": {
+                  "no": 1197,
+                  "yes": 453
+                },
+                "g0": {
+                  "no": 1477,
+                  "yes": 173
+                },
+                "lower_fraction": -0.1696969696969697,
+                "n": 1650,
+                "upper_fraction": -0.1696969696969697
+              }
+            },
+            "20": {
+              "parent_equal": {
+                "lower_fraction": -0.15393939393939393,
+                "parents": 55,
+                "upper_fraction": -0.15333333333333332
+              },
+              "pooled": {
+                "control": {
+                  "no": 1249,
+                  "unknown": 1,
+                  "yes": 400
+                },
+                "g0": {
+                  "no": 1503,
+                  "yes": 147
+                },
+                "lower_fraction": -0.15393939393939393,
+                "n": 1650,
+                "upper_fraction": -0.15333333333333332
+              }
+            },
+            "30": {
+              "parent_equal": {
+                "lower_fraction": -0.1527272727272727,
+                "parents": 55,
+                "upper_fraction": -0.15212121212121213
+              },
+              "pooled": {
+                "control": {
+                  "no": 1253,
+                  "unknown": 1,
+                  "yes": 396
+                },
+                "g0": {
+                  "no": 1505,
+                  "yes": 145
+                },
+                "lower_fraction": -0.15272727272727274,
+                "n": 1650,
+                "upper_fraction": -0.15212121212121213
+              }
+            },
+            "40": {
+              "parent_equal": {
+                "lower_fraction": -0.15333333333333332,
+                "parents": 55,
+                "upper_fraction": -0.1527272727272727
+              },
+              "pooled": {
+                "control": {
+                  "no": 1254,
+                  "unknown": 1,
+                  "yes": 395
+                },
+                "g0": {
+                  "no": 1507,
+                  "yes": 143
+                },
+                "lower_fraction": -0.15333333333333332,
+                "n": 1650,
+                "upper_fraction": -0.15272727272727274
+              }
+            },
+            "50": {
+              "parent_equal": {
+                "lower_fraction": -0.15333333333333332,
+                "parents": 55,
+                "upper_fraction": -0.1527272727272727
+              },
+              "pooled": {
+                "control": {
+                  "no": 1254,
+                  "unknown": 1,
+                  "yes": 395
+                },
+                "g0": {
+                  "no": 1507,
+                  "yes": 143
+                },
+                "lower_fraction": -0.15333333333333332,
+                "n": 1650,
+                "upper_fraction": -0.15272727272727274
+              }
+            },
+            "60": {
+              "parent_equal": {
+                "lower_fraction": -0.15333333333333332,
+                "parents": 55,
+                "upper_fraction": -0.1527272727272727
+              },
+              "pooled": {
+                "control": {
+                  "no": 1254,
+                  "unknown": 1,
+                  "yes": 395
+                },
+                "g0": {
+                  "no": 1507,
+                  "yes": 143
+                },
+                "lower_fraction": -0.15333333333333332,
+                "n": 1650,
+                "upper_fraction": -0.15272727272727274
+              }
+            }
+          },
+          "parents": 55,
+          "probes": 1650
+        },
+        "full_55_parent_cohort": {
+          "by_threshold": {
+            "10": {
+              "parent_equal": {
+                "lower_fraction": -0.16969696969696968,
+                "parents": 55,
+                "upper_fraction": -0.16969696969696968
+              },
+              "pooled": {
+                "control": {
+                  "no": 1197,
+                  "yes": 453
+                },
+                "g0": {
+                  "no": 1477,
+                  "yes": 173
+                },
+                "lower_fraction": -0.1696969696969697,
+                "n": 1650,
+                "upper_fraction": -0.1696969696969697
+              }
+            },
+            "20": {
+              "parent_equal": {
+                "lower_fraction": -0.15393939393939393,
+                "parents": 55,
+                "upper_fraction": -0.15333333333333332
+              },
+              "pooled": {
+                "control": {
+                  "no": 1249,
+                  "unknown": 1,
+                  "yes": 400
+                },
+                "g0": {
+                  "no": 1503,
+                  "yes": 147
+                },
+                "lower_fraction": -0.15393939393939393,
+                "n": 1650,
+                "upper_fraction": -0.15333333333333332
+              }
+            },
+            "30": {
+              "parent_equal": {
+                "lower_fraction": -0.1527272727272727,
+                "parents": 55,
+                "upper_fraction": -0.15212121212121213
+              },
+              "pooled": {
+                "control": {
+                  "no": 1253,
+                  "unknown": 1,
+                  "yes": 396
+                },
+                "g0": {
+                  "no": 1505,
+                  "yes": 145
+                },
+                "lower_fraction": -0.15272727272727274,
+                "n": 1650,
+                "upper_fraction": -0.15212121212121213
+              }
+            },
+            "40": {
+              "parent_equal": {
+                "lower_fraction": -0.15333333333333332,
+                "parents": 55,
+                "upper_fraction": -0.1527272727272727
+              },
+              "pooled": {
+                "control": {
+                  "no": 1254,
+                  "unknown": 1,
+                  "yes": 395
+                },
+                "g0": {
+                  "no": 1507,
+                  "yes": 143
+                },
+                "lower_fraction": -0.15333333333333332,
+                "n": 1650,
+                "upper_fraction": -0.15272727272727274
+              }
+            },
+            "50": {
+              "parent_equal": {
+                "lower_fraction": -0.15333333333333332,
+                "parents": 55,
+                "upper_fraction": -0.1527272727272727
+              },
+              "pooled": {
+                "control": {
+                  "no": 1254,
+                  "unknown": 1,
+                  "yes": 395
+                },
+                "g0": {
+                  "no": 1507,
+                  "yes": 143
+                },
+                "lower_fraction": -0.15333333333333332,
+                "n": 1650,
+                "upper_fraction": -0.15272727272727274
+              }
+            },
+            "60": {
+              "parent_equal": {
+                "lower_fraction": -0.15333333333333332,
+                "parents": 55,
+                "upper_fraction": -0.1527272727272727
+              },
+              "pooled": {
+                "control": {
+                  "no": 1254,
+                  "unknown": 1,
+                  "yes": 395
+                },
+                "g0": {
+                  "no": 1507,
+                  "yes": 143
+                },
+                "lower_fraction": -0.15333333333333332,
+                "n": 1650,
+                "upper_fraction": -0.15272727272727274
+              }
+            }
+          },
+          "parents": 55,
+          "probes": 1650
+        },
+        "same_eligible_parents_all_30": {
+          "by_threshold": {
+            "10": {
+              "parent_equal": {
+                "lower_fraction": -0.16969696969696968,
+                "parents": 55,
+                "upper_fraction": -0.16969696969696968
+              },
+              "pooled": {
+                "control": {
+                  "no": 1197,
+                  "yes": 453
+                },
+                "g0": {
+                  "no": 1477,
+                  "yes": 173
+                },
+                "lower_fraction": -0.1696969696969697,
+                "n": 1650,
+                "upper_fraction": -0.1696969696969697
+              }
+            },
+            "20": {
+              "parent_equal": {
+                "lower_fraction": -0.15393939393939393,
+                "parents": 55,
+                "upper_fraction": -0.15333333333333332
+              },
+              "pooled": {
+                "control": {
+                  "no": 1249,
+                  "unknown": 1,
+                  "yes": 400
+                },
+                "g0": {
+                  "no": 1503,
+                  "yes": 147
+                },
+                "lower_fraction": -0.15393939393939393,
+                "n": 1650,
+                "upper_fraction": -0.15333333333333332
+              }
+            },
+            "30": {
+              "parent_equal": {
+                "lower_fraction": -0.1527272727272727,
+                "parents": 55,
+                "upper_fraction": -0.15212121212121213
+              },
+              "pooled": {
+                "control": {
+                  "no": 1253,
+                  "unknown": 1,
+                  "yes": 396
+                },
+                "g0": {
+                  "no": 1505,
+                  "yes": 145
+                },
+                "lower_fraction": -0.15272727272727274,
+                "n": 1650,
+                "upper_fraction": -0.15212121212121213
+              }
+            },
+            "40": {
+              "parent_equal": {
+                "lower_fraction": -0.15333333333333332,
+                "parents": 55,
+                "upper_fraction": -0.1527272727272727
+              },
+              "pooled": {
+                "control": {
+                  "no": 1254,
+                  "unknown": 1,
+                  "yes": 395
+                },
+                "g0": {
+                  "no": 1507,
+                  "yes": 143
+                },
+                "lower_fraction": -0.15333333333333332,
+                "n": 1650,
+                "upper_fraction": -0.15272727272727274
+              }
+            },
+            "50": {
+              "parent_equal": {
+                "lower_fraction": -0.15333333333333332,
+                "parents": 55,
+                "upper_fraction": -0.1527272727272727
+              },
+              "pooled": {
+                "control": {
+                  "no": 1254,
+                  "unknown": 1,
+                  "yes": 395
+                },
+                "g0": {
+                  "no": 1507,
+                  "yes": 143
+                },
+                "lower_fraction": -0.15333333333333332,
+                "n": 1650,
+                "upper_fraction": -0.15272727272727274
+              }
+            },
+            "60": {
+              "parent_equal": {
+                "lower_fraction": -0.15333333333333332,
+                "parents": 55,
+                "upper_fraction": -0.1527272727272727
+              },
+              "pooled": {
+                "control": {
+                  "no": 1254,
+                  "unknown": 1,
+                  "yes": 395
+                },
+                "g0": {
+                  "no": 1507,
+                  "yes": 143
+                },
+                "lower_fraction": -0.15333333333333332,
+                "n": 1650,
+                "upper_fraction": -0.15272727272727274
+              }
+            }
+          },
+          "parents": 55,
+          "probes": 1650
+        },
+        "same_parents_feature_ineligible_probes": {
+          "by_threshold": {
+            "10": {
+              "parent_equal": null,
+              "pooled": null
+            },
+            "20": {
+              "parent_equal": null,
+              "pooled": null
+            },
+            "30": {
+              "parent_equal": null,
+              "pooled": null
+            },
+            "40": {
+              "parent_equal": null,
+              "pooled": null
+            },
+            "50": {
+              "parent_equal": null,
+              "pooled": null
+            },
+            "60": {
+              "parent_equal": null,
+              "pooled": null
+            }
+          },
+          "parents": 0,
+          "probes": 0
+        }
+      },
+      "eligible_parent_ids": [
+        2,
+        4,
+        5,
+        6,
+        8,
+        9,
+        11,
+        12,
+        13,
+        17,
+        19,
+        22,
+        23,
+        24,
+        25,
+        26,
+        28,
+        29,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        42,
+        45,
+        46,
+        48,
+        49,
+        52,
+        59,
+        61,
+        62,
+        63,
+        66,
+        73,
+        75,
+        76,
+        77,
+        79,
+        80,
+        85,
+        86,
+        90,
+        91,
+        92,
+        99,
+        102,
+        104,
+        106,
+        108,
+        111,
+        126
+      ],
+      "eligible_parents": 55
+    },
+    "first_changed_mask": {
+      "components": {
+        "feature_eligible_probes": {
+          "by_threshold": {
+            "10": {
+              "parent_equal": {
+                "lower_fraction": 0.10875420875420876,
+                "parents": 6,
+                "upper_fraction": 0.10875420875420876
+              },
+              "pooled": {
+                "control": {
+                  "no": 92,
+                  "yes": 10
+                },
+                "g0": {
+                  "no": 79,
+                  "yes": 23
+                },
+                "lower_fraction": 0.12745098039215685,
+                "n": 102,
+                "upper_fraction": 0.12745098039215685
+              }
+            },
+            "20": {
+              "parent_equal": {
+                "lower_fraction": 0.08265993265993266,
+                "parents": 6,
+                "upper_fraction": 0.08265993265993266
+              },
+              "pooled": {
+                "control": {
+                  "no": 93,
+                  "yes": 9
+                },
+                "g0": {
+                  "no": 83,
+                  "yes": 19
+                },
+                "lower_fraction": 0.09803921568627451,
+                "n": 102,
+                "upper_fraction": 0.09803921568627451
+              }
+            },
+            "30": {
+              "parent_equal": {
+                "lower_fraction": 0.08265993265993266,
+                "parents": 6,
+                "upper_fraction": 0.08265993265993266
+              },
+              "pooled": {
+                "control": {
+                  "no": 93,
+                  "yes": 9
+                },
+                "g0": {
+                  "no": 83,
+                  "yes": 19
+                },
+                "lower_fraction": 0.09803921568627451,
+                "n": 102,
+                "upper_fraction": 0.09803921568627451
+              }
+            },
+            "40": {
+              "parent_equal": {
+                "lower_fraction": 0.08265993265993266,
+                "parents": 6,
+                "upper_fraction": 0.08265993265993266
+              },
+              "pooled": {
+                "control": {
+                  "no": 93,
+                  "yes": 9
+                },
+                "g0": {
+                  "no": 83,
+                  "yes": 19
+                },
+                "lower_fraction": 0.09803921568627451,
+                "n": 102,
+                "upper_fraction": 0.09803921568627451
+              }
+            },
+            "50": {
+              "parent_equal": {
+                "lower_fraction": 0.08265993265993266,
+                "parents": 6,
+                "upper_fraction": 0.08265993265993266
+              },
+              "pooled": {
+                "control": {
+                  "no": 93,
+                  "yes": 9
+                },
+                "g0": {
+                  "no": 83,
+                  "yes": 19
+                },
+                "lower_fraction": 0.09803921568627451,
+                "n": 102,
+                "upper_fraction": 0.09803921568627451
+              }
+            },
+            "60": {
+              "parent_equal": {
+                "lower_fraction": 0.08265993265993266,
+                "parents": 6,
+                "upper_fraction": 0.08265993265993266
+              },
+              "pooled": {
+                "control": {
+                  "no": 93,
+                  "yes": 9
+                },
+                "g0": {
+                  "no": 83,
+                  "yes": 19
+                },
+                "lower_fraction": 0.09803921568627451,
+                "n": 102,
+                "upper_fraction": 0.09803921568627451
+              }
+            }
+          },
+          "parents": 6,
+          "probes": 102
+        },
+        "full_55_parent_cohort": {
+          "by_threshold": {
+            "10": {
+              "parent_equal": {
+                "lower_fraction": -0.16969696969696968,
+                "parents": 55,
+                "upper_fraction": -0.16969696969696968
+              },
+              "pooled": {
+                "control": {
+                  "no": 1197,
+                  "yes": 453
+                },
+                "g0": {
+                  "no": 1477,
+                  "yes": 173
+                },
+                "lower_fraction": -0.1696969696969697,
+                "n": 1650,
+                "upper_fraction": -0.1696969696969697
+              }
+            },
+            "20": {
+              "parent_equal": {
+                "lower_fraction": -0.15393939393939393,
+                "parents": 55,
+                "upper_fraction": -0.15333333333333332
+              },
+              "pooled": {
+                "control": {
+                  "no": 1249,
+                  "unknown": 1,
+                  "yes": 400
+                },
+                "g0": {
+                  "no": 1503,
+                  "yes": 147
+                },
+                "lower_fraction": -0.15393939393939393,
+                "n": 1650,
+                "upper_fraction": -0.15333333333333332
+              }
+            },
+            "30": {
+              "parent_equal": {
+                "lower_fraction": -0.1527272727272727,
+                "parents": 55,
+                "upper_fraction": -0.15212121212121213
+              },
+              "pooled": {
+                "control": {
+                  "no": 1253,
+                  "unknown": 1,
+                  "yes": 396
+                },
+                "g0": {
+                  "no": 1505,
+                  "yes": 145
+                },
+                "lower_fraction": -0.15272727272727274,
+                "n": 1650,
+                "upper_fraction": -0.15212121212121213
+              }
+            },
+            "40": {
+              "parent_equal": {
+                "lower_fraction": -0.15333333333333332,
+                "parents": 55,
+                "upper_fraction": -0.1527272727272727
+              },
+              "pooled": {
+                "control": {
+                  "no": 1254,
+                  "unknown": 1,
+                  "yes": 395
+                },
+                "g0": {
+                  "no": 1507,
+                  "yes": 143
+                },
+                "lower_fraction": -0.15333333333333332,
+                "n": 1650,
+                "upper_fraction": -0.15272727272727274
+              }
+            },
+            "50": {
+              "parent_equal": {
+                "lower_fraction": -0.15333333333333332,
+                "parents": 55,
+                "upper_fraction": -0.1527272727272727
+              },
+              "pooled": {
+                "control": {
+                  "no": 1254,
+                  "unknown": 1,
+                  "yes": 395
+                },
+                "g0": {
+                  "no": 1507,
+                  "yes": 143
+                },
+                "lower_fraction": -0.15333333333333332,
+                "n": 1650,
+                "upper_fraction": -0.15272727272727274
+              }
+            },
+            "60": {
+              "parent_equal": {
+                "lower_fraction": -0.15333333333333332,
+                "parents": 55,
+                "upper_fraction": -0.1527272727272727
+              },
+              "pooled": {
+                "control": {
+                  "no": 1254,
+                  "unknown": 1,
+                  "yes": 395
+                },
+                "g0": {
+                  "no": 1507,
+                  "yes": 143
+                },
+                "lower_fraction": -0.15333333333333332,
+                "n": 1650,
+                "upper_fraction": -0.15272727272727274
+              }
+            }
+          },
+          "parents": 55,
+          "probes": 1650
+        },
+        "same_eligible_parents_all_30": {
+          "by_threshold": {
+            "10": {
+              "parent_equal": {
+                "lower_fraction": -0.027777777777777776,
+                "parents": 6,
+                "upper_fraction": -0.027777777777777776
+              },
+              "pooled": {
+                "control": {
+                  "no": 144,
+                  "yes": 36
+                },
+                "g0": {
+                  "no": 149,
+                  "yes": 31
+                },
+                "lower_fraction": -0.027777777777777776,
+                "n": 180,
+                "upper_fraction": -0.027777777777777776
+              }
+            },
+            "20": {
+              "parent_equal": {
+                "lower_fraction": -0.027777777777777776,
+                "parents": 6,
+                "upper_fraction": -0.027777777777777776
+              },
+              "pooled": {
+                "control": {
+                  "no": 149,
+                  "yes": 31
+                },
+                "g0": {
+                  "no": 154,
+                  "yes": 26
+                },
+                "lower_fraction": -0.027777777777777776,
+                "n": 180,
+                "upper_fraction": -0.027777777777777776
+              }
+            },
+            "30": {
+              "parent_equal": {
+                "lower_fraction": -0.022222222222222223,
+                "parents": 6,
+                "upper_fraction": -0.022222222222222223
+              },
+              "pooled": {
+                "control": {
+                  "no": 150,
+                  "yes": 30
+                },
+                "g0": {
+                  "no": 154,
+                  "yes": 26
+                },
+                "lower_fraction": -0.022222222222222223,
+                "n": 180,
+                "upper_fraction": -0.022222222222222223
+              }
+            },
+            "40": {
+              "parent_equal": {
+                "lower_fraction": -0.022222222222222223,
+                "parents": 6,
+                "upper_fraction": -0.022222222222222223
+              },
+              "pooled": {
+                "control": {
+                  "no": 150,
+                  "yes": 30
+                },
+                "g0": {
+                  "no": 154,
+                  "yes": 26
+                },
+                "lower_fraction": -0.022222222222222223,
+                "n": 180,
+                "upper_fraction": -0.022222222222222223
+              }
+            },
+            "50": {
+              "parent_equal": {
+                "lower_fraction": -0.022222222222222223,
+                "parents": 6,
+                "upper_fraction": -0.022222222222222223
+              },
+              "pooled": {
+                "control": {
+                  "no": 150,
+                  "yes": 30
+                },
+                "g0": {
+                  "no": 154,
+                  "yes": 26
+                },
+                "lower_fraction": -0.022222222222222223,
+                "n": 180,
+                "upper_fraction": -0.022222222222222223
+              }
+            },
+            "60": {
+              "parent_equal": {
+                "lower_fraction": -0.022222222222222223,
+                "parents": 6,
+                "upper_fraction": -0.022222222222222223
+              },
+              "pooled": {
+                "control": {
+                  "no": 150,
+                  "yes": 30
+                },
+                "g0": {
+                  "no": 154,
+                  "yes": 26
+                },
+                "lower_fraction": -0.022222222222222223,
+                "n": 180,
+                "upper_fraction": -0.022222222222222223
+              }
+            }
+          },
+          "parents": 6,
+          "probes": 180
+        },
+        "same_parents_feature_ineligible_probes": {
+          "by_threshold": {
+            "10": {
+              "parent_equal": {
+                "lower_fraction": -0.2833333333333333,
+                "parents": 6,
+                "upper_fraction": -0.2833333333333333
+              },
+              "pooled": {
+                "control": {
+                  "no": 52,
+                  "yes": 26
+                },
+                "g0": {
+                  "no": 70,
+                  "yes": 8
+                },
+                "lower_fraction": -0.23076923076923078,
+                "n": 78,
+                "upper_fraction": -0.23076923076923078
+              }
+            },
+            "20": {
+              "parent_equal": {
+                "lower_fraction": -0.22777777777777777,
+                "parents": 6,
+                "upper_fraction": -0.22777777777777777
+              },
+              "pooled": {
+                "control": {
+                  "no": 56,
+                  "yes": 22
+                },
+                "g0": {
+                  "no": 71,
+                  "yes": 7
+                },
+                "lower_fraction": -0.19230769230769232,
+                "n": 78,
+                "upper_fraction": -0.19230769230769232
+              }
+            },
+            "30": {
+              "parent_equal": {
+                "lower_fraction": -0.20694444444444446,
+                "parents": 6,
+                "upper_fraction": -0.20694444444444446
+              },
+              "pooled": {
+                "control": {
+                  "no": 57,
+                  "yes": 21
+                },
+                "g0": {
+                  "no": 71,
+                  "yes": 7
+                },
+                "lower_fraction": -0.1794871794871795,
+                "n": 78,
+                "upper_fraction": -0.1794871794871795
+              }
+            },
+            "40": {
+              "parent_equal": {
+                "lower_fraction": -0.20694444444444446,
+                "parents": 6,
+                "upper_fraction": -0.20694444444444446
+              },
+              "pooled": {
+                "control": {
+                  "no": 57,
+                  "yes": 21
+                },
+                "g0": {
+                  "no": 71,
+                  "yes": 7
+                },
+                "lower_fraction": -0.1794871794871795,
+                "n": 78,
+                "upper_fraction": -0.1794871794871795
+              }
+            },
+            "50": {
+              "parent_equal": {
+                "lower_fraction": -0.20694444444444446,
+                "parents": 6,
+                "upper_fraction": -0.20694444444444446
+              },
+              "pooled": {
+                "control": {
+                  "no": 57,
+                  "yes": 21
+                },
+                "g0": {
+                  "no": 71,
+                  "yes": 7
+                },
+                "lower_fraction": -0.1794871794871795,
+                "n": 78,
+                "upper_fraction": -0.1794871794871795
+              }
+            },
+            "60": {
+              "parent_equal": {
+                "lower_fraction": -0.20694444444444446,
+                "parents": 6,
+                "upper_fraction": -0.20694444444444446
+              },
+              "pooled": {
+                "control": {
+                  "no": 57,
+                  "yes": 21
+                },
+                "g0": {
+                  "no": 71,
+                  "yes": 7
+                },
+                "lower_fraction": -0.1794871794871795,
+                "n": 78,
+                "upper_fraction": -0.1794871794871795
+              }
+            }
+          },
+          "parents": 6,
+          "probes": 78
+        }
+      },
+      "eligible_parent_ids": [
+        2,
+        17,
+        25,
+        36,
+        46,
+        106
+      ],
+      "eligible_parents": 6
+    },
+    "pop_and": {
+      "components": {
+        "feature_eligible_probes": {
+          "by_threshold": {
+            "10": {
+              "parent_equal": {
+                "lower_fraction": 0.015571531642960212,
+                "parents": 14,
+                "upper_fraction": 0.015571531642960212
+              },
+              "pooled": {
+                "control": {
+                  "no": 146,
+                  "yes": 22
+                },
+                "g0": {
+                  "no": 142,
+                  "yes": 26
+                },
+                "lower_fraction": 0.023809523809523808,
+                "n": 168,
+                "upper_fraction": 0.023809523809523808
+              }
+            },
+            "20": {
+              "parent_equal": {
+                "lower_fraction": 0.014592352092352092,
+                "parents": 14,
+                "upper_fraction": 0.019694392908678627
+              },
+              "pooled": {
+                "control": {
+                  "no": 149,
+                  "unknown": 1,
+                  "yes": 18
+                },
+                "g0": {
+                  "no": 146,
+                  "yes": 22
+                },
+                "lower_fraction": 0.017857142857142856,
+                "n": 168,
+                "upper_fraction": 0.023809523809523808
+              }
+            },
+            "30": {
+              "parent_equal": {
+                "lower_fraction": 0.014592352092352092,
+                "parents": 14,
+                "upper_fraction": 0.019694392908678627
+              },
+              "pooled": {
+                "control": {
+                  "no": 149,
+                  "unknown": 1,
+                  "yes": 18
+                },
+                "g0": {
+                  "no": 146,
+                  "yes": 22
+                },
+                "lower_fraction": 0.017857142857142856,
+                "n": 168,
+                "upper_fraction": 0.023809523809523808
+              }
+            },
+            "40": {
+              "parent_equal": {
+                "lower_fraction": 0.019694392908678627,
+                "parents": 14,
+                "upper_fraction": 0.024796433725005153
+              },
+              "pooled": {
+                "control": {
+                  "no": 150,
+                  "unknown": 1,
+                  "yes": 17
+                },
+                "g0": {
+                  "no": 146,
+                  "yes": 22
+                },
+                "lower_fraction": 0.023809523809523808,
+                "n": 168,
+                "upper_fraction": 0.02976190476190476
+              }
+            },
+            "50": {
+              "parent_equal": {
+                "lower_fraction": 0.019694392908678627,
+                "parents": 14,
+                "upper_fraction": 0.024796433725005153
+              },
+              "pooled": {
+                "control": {
+                  "no": 150,
+                  "unknown": 1,
+                  "yes": 17
+                },
+                "g0": {
+                  "no": 146,
+                  "yes": 22
+                },
+                "lower_fraction": 0.023809523809523808,
+                "n": 168,
+                "upper_fraction": 0.02976190476190476
+              }
+            },
+            "60": {
+              "parent_equal": {
+                "lower_fraction": 0.019694392908678627,
+                "parents": 14,
+                "upper_fraction": 0.024796433725005153
+              },
+              "pooled": {
+                "control": {
+                  "no": 150,
+                  "unknown": 1,
+                  "yes": 17
+                },
+                "g0": {
+                  "no": 146,
+                  "yes": 22
+                },
+                "lower_fraction": 0.023809523809523808,
+                "n": 168,
+                "upper_fraction": 0.02976190476190476
+              }
+            }
+          },
+          "parents": 14,
+          "probes": 168
+        },
+        "full_55_parent_cohort": {
+          "by_threshold": {
+            "10": {
+              "parent_equal": {
+                "lower_fraction": -0.16969696969696968,
+                "parents": 55,
+                "upper_fraction": -0.16969696969696968
+              },
+              "pooled": {
+                "control": {
+                  "no": 1197,
+                  "yes": 453
+                },
+                "g0": {
+                  "no": 1477,
+                  "yes": 173
+                },
+                "lower_fraction": -0.1696969696969697,
+                "n": 1650,
+                "upper_fraction": -0.1696969696969697
+              }
+            },
+            "20": {
+              "parent_equal": {
+                "lower_fraction": -0.15393939393939393,
+                "parents": 55,
+                "upper_fraction": -0.15333333333333332
+              },
+              "pooled": {
+                "control": {
+                  "no": 1249,
+                  "unknown": 1,
+                  "yes": 400
+                },
+                "g0": {
+                  "no": 1503,
+                  "yes": 147
+                },
+                "lower_fraction": -0.15393939393939393,
+                "n": 1650,
+                "upper_fraction": -0.15333333333333332
+              }
+            },
+            "30": {
+              "parent_equal": {
+                "lower_fraction": -0.1527272727272727,
+                "parents": 55,
+                "upper_fraction": -0.15212121212121213
+              },
+              "pooled": {
+                "control": {
+                  "no": 1253,
+                  "unknown": 1,
+                  "yes": 396
+                },
+                "g0": {
+                  "no": 1505,
+                  "yes": 145
+                },
+                "lower_fraction": -0.15272727272727274,
+                "n": 1650,
+                "upper_fraction": -0.15212121212121213
+              }
+            },
+            "40": {
+              "parent_equal": {
+                "lower_fraction": -0.15333333333333332,
+                "parents": 55,
+                "upper_fraction": -0.1527272727272727
+              },
+              "pooled": {
+                "control": {
+                  "no": 1254,
+                  "unknown": 1,
+                  "yes": 395
+                },
+                "g0": {
+                  "no": 1507,
+                  "yes": 143
+                },
+                "lower_fraction": -0.15333333333333332,
+                "n": 1650,
+                "upper_fraction": -0.15272727272727274
+              }
+            },
+            "50": {
+              "parent_equal": {
+                "lower_fraction": -0.15333333333333332,
+                "parents": 55,
+                "upper_fraction": -0.1527272727272727
+              },
+              "pooled": {
+                "control": {
+                  "no": 1254,
+                  "unknown": 1,
+                  "yes": 395
+                },
+                "g0": {
+                  "no": 1507,
+                  "yes": 143
+                },
+                "lower_fraction": -0.15333333333333332,
+                "n": 1650,
+                "upper_fraction": -0.15272727272727274
+              }
+            },
+            "60": {
+              "parent_equal": {
+                "lower_fraction": -0.15333333333333332,
+                "parents": 55,
+                "upper_fraction": -0.1527272727272727
+              },
+              "pooled": {
+                "control": {
+                  "no": 1254,
+                  "unknown": 1,
+                  "yes": 395
+                },
+                "g0": {
+                  "no": 1507,
+                  "yes": 143
+                },
+                "lower_fraction": -0.15333333333333332,
+                "n": 1650,
+                "upper_fraction": -0.15272727272727274
+              }
+            }
+          },
+          "parents": 55,
+          "probes": 1650
+        },
+        "same_eligible_parents_all_30": {
+          "by_threshold": {
+            "10": {
+              "parent_equal": {
+                "lower_fraction": -0.11904761904761904,
+                "parents": 14,
+                "upper_fraction": -0.11904761904761904
+              },
+              "pooled": {
+                "control": {
+                  "no": 323,
+                  "yes": 97
+                },
+                "g0": {
+                  "no": 373,
+                  "yes": 47
+                },
+                "lower_fraction": -0.11904761904761904,
+                "n": 420,
+                "upper_fraction": -0.11904761904761904
+              }
+            },
+            "20": {
+              "parent_equal": {
+                "lower_fraction": -0.10952380952380952,
+                "parents": 14,
+                "upper_fraction": -0.10714285714285714
+              },
+              "pooled": {
+                "control": {
+                  "no": 333,
+                  "unknown": 1,
+                  "yes": 86
+                },
+                "g0": {
+                  "no": 379,
+                  "yes": 41
+                },
+                "lower_fraction": -0.10952380952380952,
+                "n": 420,
+                "upper_fraction": -0.10714285714285714
+              }
+            },
+            "30": {
+              "parent_equal": {
+                "lower_fraction": -0.10714285714285714,
+                "parents": 14,
+                "upper_fraction": -0.10476190476190476
+              },
+              "pooled": {
+                "control": {
+                  "no": 334,
+                  "unknown": 1,
+                  "yes": 85
+                },
+                "g0": {
+                  "no": 379,
+                  "yes": 41
+                },
+                "lower_fraction": -0.10714285714285714,
+                "n": 420,
+                "upper_fraction": -0.10476190476190476
+              }
+            },
+            "40": {
+              "parent_equal": {
+                "lower_fraction": -0.10476190476190476,
+                "parents": 14,
+                "upper_fraction": -0.10238095238095238
+              },
+              "pooled": {
+                "control": {
+                  "no": 335,
+                  "unknown": 1,
+                  "yes": 84
+                },
+                "g0": {
+                  "no": 379,
+                  "yes": 41
+                },
+                "lower_fraction": -0.10476190476190476,
+                "n": 420,
+                "upper_fraction": -0.10238095238095238
+              }
+            },
+            "50": {
+              "parent_equal": {
+                "lower_fraction": -0.10476190476190476,
+                "parents": 14,
+                "upper_fraction": -0.10238095238095238
+              },
+              "pooled": {
+                "control": {
+                  "no": 335,
+                  "unknown": 1,
+                  "yes": 84
+                },
+                "g0": {
+                  "no": 379,
+                  "yes": 41
+                },
+                "lower_fraction": -0.10476190476190476,
+                "n": 420,
+                "upper_fraction": -0.10238095238095238
+              }
+            },
+            "60": {
+              "parent_equal": {
+                "lower_fraction": -0.10476190476190476,
+                "parents": 14,
+                "upper_fraction": -0.10238095238095238
+              },
+              "pooled": {
+                "control": {
+                  "no": 335,
+                  "unknown": 1,
+                  "yes": 84
+                },
+                "g0": {
+                  "no": 379,
+                  "yes": 41
+                },
+                "lower_fraction": -0.10476190476190476,
+                "n": 420,
+                "upper_fraction": -0.10238095238095238
+              }
+            }
+          },
+          "parents": 14,
+          "probes": 420
+        },
+        "same_parents_feature_ineligible_probes": {
+          "by_threshold": {
+            "10": {
+              "parent_equal": {
+                "lower_fraction": -0.24893648018648018,
+                "parents": 14,
+                "upper_fraction": -0.24893648018648018
+              },
+              "pooled": {
+                "control": {
+                  "no": 177,
+                  "yes": 75
+                },
+                "g0": {
+                  "no": 231,
+                  "yes": 21
+                },
+                "lower_fraction": -0.21428571428571427,
+                "n": 252,
+                "upper_fraction": -0.21428571428571427
+              }
+            },
+            "20": {
+              "parent_equal": {
+                "lower_fraction": -0.21818251193251192,
+                "parents": 14,
+                "upper_fraction": -0.21818251193251192
+              },
+              "pooled": {
+                "control": {
+                  "no": 184,
+                  "yes": 68
+                },
+                "g0": {
+                  "no": 233,
+                  "yes": 19
+                },
+                "lower_fraction": -0.19444444444444445,
+                "n": 252,
+                "upper_fraction": -0.19444444444444445
+              }
+            },
+            "30": {
+              "parent_equal": {
+                "lower_fraction": -0.2092539405039405,
+                "parents": 14,
+                "upper_fraction": -0.2092539405039405
+              },
+              "pooled": {
+                "control": {
+                  "no": 185,
+                  "yes": 67
+                },
+                "g0": {
+                  "no": 233,
+                  "yes": 19
+                },
+                "lower_fraction": -0.19047619047619047,
+                "n": 252,
+                "upper_fraction": -0.19047619047619047
+              }
+            },
+            "40": {
+              "parent_equal": {
+                "lower_fraction": -0.2092539405039405,
+                "parents": 14,
+                "upper_fraction": -0.2092539405039405
+              },
+              "pooled": {
+                "control": {
+                  "no": 185,
+                  "yes": 67
+                },
+                "g0": {
+                  "no": 233,
+                  "yes": 19
+                },
+                "lower_fraction": -0.19047619047619047,
+                "n": 252,
+                "upper_fraction": -0.19047619047619047
+              }
+            },
+            "50": {
+              "parent_equal": {
+                "lower_fraction": -0.2092539405039405,
+                "parents": 14,
+                "upper_fraction": -0.2092539405039405
+              },
+              "pooled": {
+                "control": {
+                  "no": 185,
+                  "yes": 67
+                },
+                "g0": {
+                  "no": 233,
+                  "yes": 19
+                },
+                "lower_fraction": -0.19047619047619047,
+                "n": 252,
+                "upper_fraction": -0.19047619047619047
+              }
+            },
+            "60": {
+              "parent_equal": {
+                "lower_fraction": -0.2092539405039405,
+                "parents": 14,
+                "upper_fraction": -0.2092539405039405
+              },
+              "pooled": {
+                "control": {
+                  "no": 185,
+                  "yes": 67
+                },
+                "g0": {
+                  "no": 233,
+                  "yes": 19
+                },
+                "lower_fraction": -0.19047619047619047,
+                "n": 252,
+                "upper_fraction": -0.19047619047619047
+              }
+            }
+          },
+          "parents": 14,
+          "probes": 252
+        }
+      },
+      "eligible_parent_ids": [
+        2,
+        17,
+        23,
+        25,
+        26,
+        28,
+        36,
+        46,
+        48,
+        52,
+        63,
+        66,
+        80,
+        106
+      ],
+      "eligible_parents": 14
+    },
+    "pop_and_flips": {
+      "components": {
+        "feature_eligible_probes": {
+          "by_threshold": {
+            "10": {
+              "parent_equal": {
+                "lower_fraction": -0.04903318903318904,
+                "parents": 10,
+                "upper_fraction": -0.04903318903318904
+              },
+              "pooled": {
+                "control": {
+                  "no": 106,
+                  "yes": 20
+                },
+                "g0": {
+                  "no": 103,
+                  "yes": 23
+                },
+                "lower_fraction": 0.023809523809523808,
+                "n": 126,
+                "upper_fraction": 0.023809523809523808
+              }
+            },
+            "20": {
+              "parent_equal": {
+                "lower_fraction": -0.0504040404040404,
+                "parents": 10,
+                "upper_fraction": -0.04326118326118326
+              },
+              "pooled": {
+                "control": {
+                  "no": 109,
+                  "unknown": 1,
+                  "yes": 16
+                },
+                "g0": {
+                  "no": 107,
+                  "yes": 19
+                },
+                "lower_fraction": 0.015873015873015872,
+                "n": 126,
+                "upper_fraction": 0.023809523809523808
+              }
+            },
+            "30": {
+              "parent_equal": {
+                "lower_fraction": -0.0504040404040404,
+                "parents": 10,
+                "upper_fraction": -0.04326118326118326
+              },
+              "pooled": {
+                "control": {
+                  "no": 109,
+                  "unknown": 1,
+                  "yes": 16
+                },
+                "g0": {
+                  "no": 107,
+                  "yes": 19
+                },
+                "lower_fraction": 0.015873015873015872,
+                "n": 126,
+                "upper_fraction": 0.023809523809523808
+              }
+            },
+            "40": {
+              "parent_equal": {
+                "lower_fraction": -0.04326118326118326,
+                "parents": 10,
+                "upper_fraction": -0.03611832611832612
+              },
+              "pooled": {
+                "control": {
+                  "no": 110,
+                  "unknown": 1,
+                  "yes": 15
+                },
+                "g0": {
+                  "no": 107,
+                  "yes": 19
+                },
+                "lower_fraction": 0.023809523809523808,
+                "n": 126,
+                "upper_fraction": 0.031746031746031744
+              }
+            },
+            "50": {
+              "parent_equal": {
+                "lower_fraction": -0.04326118326118326,
+                "parents": 10,
+                "upper_fraction": -0.03611832611832612
+              },
+              "pooled": {
+                "control": {
+                  "no": 110,
+                  "unknown": 1,
+                  "yes": 15
+                },
+                "g0": {
+                  "no": 107,
+                  "yes": 19
+                },
+                "lower_fraction": 0.023809523809523808,
+                "n": 126,
+                "upper_fraction": 0.031746031746031744
+              }
+            },
+            "60": {
+              "parent_equal": {
+                "lower_fraction": -0.04326118326118326,
+                "parents": 10,
+                "upper_fraction": -0.03611832611832612
+              },
+              "pooled": {
+                "control": {
+                  "no": 110,
+                  "unknown": 1,
+                  "yes": 15
+                },
+                "g0": {
+                  "no": 107,
+                  "yes": 19
+                },
+                "lower_fraction": 0.023809523809523808,
+                "n": 126,
+                "upper_fraction": 0.031746031746031744
+              }
+            }
+          },
+          "parents": 10,
+          "probes": 126
+        },
+        "full_55_parent_cohort": {
+          "by_threshold": {
+            "10": {
+              "parent_equal": {
+                "lower_fraction": -0.16969696969696968,
+                "parents": 55,
+                "upper_fraction": -0.16969696969696968
+              },
+              "pooled": {
+                "control": {
+                  "no": 1197,
+                  "yes": 453
+                },
+                "g0": {
+                  "no": 1477,
+                  "yes": 173
+                },
+                "lower_fraction": -0.1696969696969697,
+                "n": 1650,
+                "upper_fraction": -0.1696969696969697
+              }
+            },
+            "20": {
+              "parent_equal": {
+                "lower_fraction": -0.15393939393939393,
+                "parents": 55,
+                "upper_fraction": -0.15333333333333332
+              },
+              "pooled": {
+                "control": {
+                  "no": 1249,
+                  "unknown": 1,
+                  "yes": 400
+                },
+                "g0": {
+                  "no": 1503,
+                  "yes": 147
+                },
+                "lower_fraction": -0.15393939393939393,
+                "n": 1650,
+                "upper_fraction": -0.15333333333333332
+              }
+            },
+            "30": {
+              "parent_equal": {
+                "lower_fraction": -0.1527272727272727,
+                "parents": 55,
+                "upper_fraction": -0.15212121212121213
+              },
+              "pooled": {
+                "control": {
+                  "no": 1253,
+                  "unknown": 1,
+                  "yes": 396
+                },
+                "g0": {
+                  "no": 1505,
+                  "yes": 145
+                },
+                "lower_fraction": -0.15272727272727274,
+                "n": 1650,
+                "upper_fraction": -0.15212121212121213
+              }
+            },
+            "40": {
+              "parent_equal": {
+                "lower_fraction": -0.15333333333333332,
+                "parents": 55,
+                "upper_fraction": -0.1527272727272727
+              },
+              "pooled": {
+                "control": {
+                  "no": 1254,
+                  "unknown": 1,
+                  "yes": 395
+                },
+                "g0": {
+                  "no": 1507,
+                  "yes": 143
+                },
+                "lower_fraction": -0.15333333333333332,
+                "n": 1650,
+                "upper_fraction": -0.15272727272727274
+              }
+            },
+            "50": {
+              "parent_equal": {
+                "lower_fraction": -0.15333333333333332,
+                "parents": 55,
+                "upper_fraction": -0.1527272727272727
+              },
+              "pooled": {
+                "control": {
+                  "no": 1254,
+                  "unknown": 1,
+                  "yes": 395
+                },
+                "g0": {
+                  "no": 1507,
+                  "yes": 143
+                },
+                "lower_fraction": -0.15333333333333332,
+                "n": 1650,
+                "upper_fraction": -0.15272727272727274
+              }
+            },
+            "60": {
+              "parent_equal": {
+                "lower_fraction": -0.15333333333333332,
+                "parents": 55,
+                "upper_fraction": -0.1527272727272727
+              },
+              "pooled": {
+                "control": {
+                  "no": 1254,
+                  "unknown": 1,
+                  "yes": 395
+                },
+                "g0": {
+                  "no": 1507,
+                  "yes": 143
+                },
+                "lower_fraction": -0.15333333333333332,
+                "n": 1650,
+                "upper_fraction": -0.15272727272727274
+              }
+            }
+          },
+          "parents": 55,
+          "probes": 1650
+        },
+        "same_eligible_parents_all_30": {
+          "by_threshold": {
+            "10": {
+              "parent_equal": {
+                "lower_fraction": -0.13999999999999999,
+                "parents": 10,
+                "upper_fraction": -0.13999999999999999
+              },
+              "pooled": {
+                "control": {
+                  "no": 227,
+                  "yes": 73
+                },
+                "g0": {
+                  "no": 269,
+                  "yes": 31
+                },
+                "lower_fraction": -0.14,
+                "n": 300,
+                "upper_fraction": -0.14
+              }
+            },
+            "20": {
+              "parent_equal": {
+                "lower_fraction": -0.12666666666666665,
+                "parents": 10,
+                "upper_fraction": -0.12333333333333334
+              },
+              "pooled": {
+                "control": {
+                  "no": 236,
+                  "unknown": 1,
+                  "yes": 63
+                },
+                "g0": {
+                  "no": 274,
+                  "yes": 26
+                },
+                "lower_fraction": -0.12666666666666668,
+                "n": 300,
+                "upper_fraction": -0.12333333333333334
+              }
+            },
+            "30": {
+              "parent_equal": {
+                "lower_fraction": -0.12333333333333334,
+                "parents": 10,
+                "upper_fraction": -0.12
+              },
+              "pooled": {
+                "control": {
+                  "no": 237,
+                  "unknown": 1,
+                  "yes": 62
+                },
+                "g0": {
+                  "no": 274,
+                  "yes": 26
+                },
+                "lower_fraction": -0.12333333333333334,
+                "n": 300,
+                "upper_fraction": -0.12
+              }
+            },
+            "40": {
+              "parent_equal": {
+                "lower_fraction": -0.12,
+                "parents": 10,
+                "upper_fraction": -0.11666666666666667
+              },
+              "pooled": {
+                "control": {
+                  "no": 238,
+                  "unknown": 1,
+                  "yes": 61
+                },
+                "g0": {
+                  "no": 274,
+                  "yes": 26
+                },
+                "lower_fraction": -0.12,
+                "n": 300,
+                "upper_fraction": -0.11666666666666667
+              }
+            },
+            "50": {
+              "parent_equal": {
+                "lower_fraction": -0.12,
+                "parents": 10,
+                "upper_fraction": -0.11666666666666667
+              },
+              "pooled": {
+                "control": {
+                  "no": 238,
+                  "unknown": 1,
+                  "yes": 61
+                },
+                "g0": {
+                  "no": 274,
+                  "yes": 26
+                },
+                "lower_fraction": -0.12,
+                "n": 300,
+                "upper_fraction": -0.11666666666666667
+              }
+            },
+            "60": {
+              "parent_equal": {
+                "lower_fraction": -0.12,
+                "parents": 10,
+                "upper_fraction": -0.11666666666666667
+              },
+              "pooled": {
+                "control": {
+                  "no": 238,
+                  "unknown": 1,
+                  "yes": 61
+                },
+                "g0": {
+                  "no": 274,
+                  "yes": 26
+                },
+                "lower_fraction": -0.12,
+                "n": 300,
+                "upper_fraction": -0.11666666666666667
+              }
+            }
+          },
+          "parents": 10,
+          "probes": 300
+        },
+        "same_parents_feature_ineligible_probes": {
+          "by_threshold": {
+            "10": {
+              "parent_equal": {
+                "lower_fraction": -0.2879258241758242,
+                "parents": 10,
+                "upper_fraction": -0.2879258241758242
+              },
+              "pooled": {
+                "control": {
+                  "no": 121,
+                  "yes": 53
+                },
+                "g0": {
+                  "no": 166,
+                  "yes": 8
+                },
+                "lower_fraction": -0.25862068965517243,
+                "n": 174,
+                "upper_fraction": -0.25862068965517243
+              }
+            },
+            "20": {
+              "parent_equal": {
+                "lower_fraction": -0.24717490842490844,
+                "parents": 10,
+                "upper_fraction": -0.24717490842490844
+              },
+              "pooled": {
+                "control": {
+                  "no": 127,
+                  "yes": 47
+                },
+                "g0": {
+                  "no": 167,
+                  "yes": 7
+                },
+                "lower_fraction": -0.22988505747126436,
+                "n": 174,
+                "upper_fraction": -0.22988505747126436
+              }
+            },
+            "30": {
+              "parent_equal": {
+                "lower_fraction": -0.23467490842490843,
+                "parents": 10,
+                "upper_fraction": -0.23467490842490843
+              },
+              "pooled": {
+                "control": {
+                  "no": 128,
+                  "yes": 46
+                },
+                "g0": {
+                  "no": 167,
+                  "yes": 7
+                },
+                "lower_fraction": -0.22413793103448276,
+                "n": 174,
+                "upper_fraction": -0.22413793103448276
+              }
+            },
+            "40": {
+              "parent_equal": {
+                "lower_fraction": -0.23467490842490843,
+                "parents": 10,
+                "upper_fraction": -0.23467490842490843
+              },
+              "pooled": {
+                "control": {
+                  "no": 128,
+                  "yes": 46
+                },
+                "g0": {
+                  "no": 167,
+                  "yes": 7
+                },
+                "lower_fraction": -0.22413793103448276,
+                "n": 174,
+                "upper_fraction": -0.22413793103448276
+              }
+            },
+            "50": {
+              "parent_equal": {
+                "lower_fraction": -0.23467490842490843,
+                "parents": 10,
+                "upper_fraction": -0.23467490842490843
+              },
+              "pooled": {
+                "control": {
+                  "no": 128,
+                  "yes": 46
+                },
+                "g0": {
+                  "no": 167,
+                  "yes": 7
+                },
+                "lower_fraction": -0.22413793103448276,
+                "n": 174,
+                "upper_fraction": -0.22413793103448276
+              }
+            },
+            "60": {
+              "parent_equal": {
+                "lower_fraction": -0.23467490842490843,
+                "parents": 10,
+                "upper_fraction": -0.23467490842490843
+              },
+              "pooled": {
+                "control": {
+                  "no": 128,
+                  "yes": 46
+                },
+                "g0": {
+                  "no": 167,
+                  "yes": 7
+                },
+                "lower_fraction": -0.22413793103448276,
+                "n": 174,
+                "upper_fraction": -0.22413793103448276
+              }
+            }
+          },
+          "parents": 10,
+          "probes": 174
+        }
+      },
+      "eligible_parent_ids": [
+        2,
+        17,
+        25,
+        28,
+        36,
+        46,
+        48,
+        63,
+        80,
+        106
+      ],
+      "eligible_parents": 10
+    },
+    "popcount": {
+      "components": {
+        "feature_eligible_probes": {
+          "by_threshold": {
+            "10": {
+              "parent_equal": {
+                "lower_fraction": -0.13777777777777778,
+                "parents": 15,
+                "upper_fraction": -0.13777777777777778
+              },
+              "pooled": {
+                "control": {
+                  "no": 341,
+                  "yes": 109
+                },
+                "g0": {
+                  "no": 403,
+                  "yes": 47
+                },
+                "lower_fraction": -0.13777777777777778,
+                "n": 450,
+                "upper_fraction": -0.13777777777777778
+              }
+            },
+            "20": {
+              "parent_equal": {
+                "lower_fraction": -0.12444444444444444,
+                "parents": 15,
+                "upper_fraction": -0.12222222222222222
+              },
+              "pooled": {
+                "control": {
+                  "no": 353,
+                  "unknown": 1,
+                  "yes": 96
+                },
+                "g0": {
+                  "no": 409,
+                  "yes": 41
+                },
+                "lower_fraction": -0.12444444444444444,
+                "n": 450,
+                "upper_fraction": -0.12222222222222222
+              }
+            },
+            "30": {
+              "parent_equal": {
+                "lower_fraction": -0.12222222222222222,
+                "parents": 15,
+                "upper_fraction": -0.12
+              },
+              "pooled": {
+                "control": {
+                  "no": 354,
+                  "unknown": 1,
+                  "yes": 95
+                },
+                "g0": {
+                  "no": 409,
+                  "yes": 41
+                },
+                "lower_fraction": -0.12222222222222222,
+                "n": 450,
+                "upper_fraction": -0.12
+              }
+            },
+            "40": {
+              "parent_equal": {
+                "lower_fraction": -0.12,
+                "parents": 15,
+                "upper_fraction": -0.11777777777777777
+              },
+              "pooled": {
+                "control": {
+                  "no": 355,
+                  "unknown": 1,
+                  "yes": 94
+                },
+                "g0": {
+                  "no": 409,
+                  "yes": 41
+                },
+                "lower_fraction": -0.12,
+                "n": 450,
+                "upper_fraction": -0.11777777777777777
+              }
+            },
+            "50": {
+              "parent_equal": {
+                "lower_fraction": -0.12,
+                "parents": 15,
+                "upper_fraction": -0.11777777777777777
+              },
+              "pooled": {
+                "control": {
+                  "no": 355,
+                  "unknown": 1,
+                  "yes": 94
+                },
+                "g0": {
+                  "no": 409,
+                  "yes": 41
+                },
+                "lower_fraction": -0.12,
+                "n": 450,
+                "upper_fraction": -0.11777777777777777
+              }
+            },
+            "60": {
+              "parent_equal": {
+                "lower_fraction": -0.12,
+                "parents": 15,
+                "upper_fraction": -0.11777777777777777
+              },
+              "pooled": {
+                "control": {
+                  "no": 355,
+                  "unknown": 1,
+                  "yes": 94
+                },
+                "g0": {
+                  "no": 409,
+                  "yes": 41
+                },
+                "lower_fraction": -0.12,
+                "n": 450,
+                "upper_fraction": -0.11777777777777777
+              }
+            }
+          },
+          "parents": 15,
+          "probes": 450
+        },
+        "full_55_parent_cohort": {
+          "by_threshold": {
+            "10": {
+              "parent_equal": {
+                "lower_fraction": -0.16969696969696968,
+                "parents": 55,
+                "upper_fraction": -0.16969696969696968
+              },
+              "pooled": {
+                "control": {
+                  "no": 1197,
+                  "yes": 453
+                },
+                "g0": {
+                  "no": 1477,
+                  "yes": 173
+                },
+                "lower_fraction": -0.1696969696969697,
+                "n": 1650,
+                "upper_fraction": -0.1696969696969697
+              }
+            },
+            "20": {
+              "parent_equal": {
+                "lower_fraction": -0.15393939393939393,
+                "parents": 55,
+                "upper_fraction": -0.15333333333333332
+              },
+              "pooled": {
+                "control": {
+                  "no": 1249,
+                  "unknown": 1,
+                  "yes": 400
+                },
+                "g0": {
+                  "no": 1503,
+                  "yes": 147
+                },
+                "lower_fraction": -0.15393939393939393,
+                "n": 1650,
+                "upper_fraction": -0.15333333333333332
+              }
+            },
+            "30": {
+              "parent_equal": {
+                "lower_fraction": -0.1527272727272727,
+                "parents": 55,
+                "upper_fraction": -0.15212121212121213
+              },
+              "pooled": {
+                "control": {
+                  "no": 1253,
+                  "unknown": 1,
+                  "yes": 396
+                },
+                "g0": {
+                  "no": 1505,
+                  "yes": 145
+                },
+                "lower_fraction": -0.15272727272727274,
+                "n": 1650,
+                "upper_fraction": -0.15212121212121213
+              }
+            },
+            "40": {
+              "parent_equal": {
+                "lower_fraction": -0.15333333333333332,
+                "parents": 55,
+                "upper_fraction": -0.1527272727272727
+              },
+              "pooled": {
+                "control": {
+                  "no": 1254,
+                  "unknown": 1,
+                  "yes": 395
+                },
+                "g0": {
+                  "no": 1507,
+                  "yes": 143
+                },
+                "lower_fraction": -0.15333333333333332,
+                "n": 1650,
+                "upper_fraction": -0.15272727272727274
+              }
+            },
+            "50": {
+              "parent_equal": {
+                "lower_fraction": -0.15333333333333332,
+                "parents": 55,
+                "upper_fraction": -0.1527272727272727
+              },
+              "pooled": {
+                "control": {
+                  "no": 1254,
+                  "unknown": 1,
+                  "yes": 395
+                },
+                "g0": {
+                  "no": 1507,
+                  "yes": 143
+                },
+                "lower_fraction": -0.15333333333333332,
+                "n": 1650,
+                "upper_fraction": -0.15272727272727274
+              }
+            },
+            "60": {
+              "parent_equal": {
+                "lower_fraction": -0.15333333333333332,
+                "parents": 55,
+                "upper_fraction": -0.1527272727272727
+              },
+              "pooled": {
+                "control": {
+                  "no": 1254,
+                  "unknown": 1,
+                  "yes": 395
+                },
+                "g0": {
+                  "no": 1507,
+                  "yes": 143
+                },
+                "lower_fraction": -0.15333333333333332,
+                "n": 1650,
+                "upper_fraction": -0.15272727272727274
+              }
+            }
+          },
+          "parents": 55,
+          "probes": 1650
+        },
+        "same_eligible_parents_all_30": {
+          "by_threshold": {
+            "10": {
+              "parent_equal": {
+                "lower_fraction": -0.13777777777777778,
+                "parents": 15,
+                "upper_fraction": -0.13777777777777778
+              },
+              "pooled": {
+                "control": {
+                  "no": 341,
+                  "yes": 109
+                },
+                "g0": {
+                  "no": 403,
+                  "yes": 47
+                },
+                "lower_fraction": -0.13777777777777778,
+                "n": 450,
+                "upper_fraction": -0.13777777777777778
+              }
+            },
+            "20": {
+              "parent_equal": {
+                "lower_fraction": -0.12444444444444444,
+                "parents": 15,
+                "upper_fraction": -0.12222222222222222
+              },
+              "pooled": {
+                "control": {
+                  "no": 353,
+                  "unknown": 1,
+                  "yes": 96
+                },
+                "g0": {
+                  "no": 409,
+                  "yes": 41
+                },
+                "lower_fraction": -0.12444444444444444,
+                "n": 450,
+                "upper_fraction": -0.12222222222222222
+              }
+            },
+            "30": {
+              "parent_equal": {
+                "lower_fraction": -0.12222222222222222,
+                "parents": 15,
+                "upper_fraction": -0.12
+              },
+              "pooled": {
+                "control": {
+                  "no": 354,
+                  "unknown": 1,
+                  "yes": 95
+                },
+                "g0": {
+                  "no": 409,
+                  "yes": 41
+                },
+                "lower_fraction": -0.12222222222222222,
+                "n": 450,
+                "upper_fraction": -0.12
+              }
+            },
+            "40": {
+              "parent_equal": {
+                "lower_fraction": -0.12,
+                "parents": 15,
+                "upper_fraction": -0.11777777777777777
+              },
+              "pooled": {
+                "control": {
+                  "no": 355,
+                  "unknown": 1,
+                  "yes": 94
+                },
+                "g0": {
+                  "no": 409,
+                  "yes": 41
+                },
+                "lower_fraction": -0.12,
+                "n": 450,
+                "upper_fraction": -0.11777777777777777
+              }
+            },
+            "50": {
+              "parent_equal": {
+                "lower_fraction": -0.12,
+                "parents": 15,
+                "upper_fraction": -0.11777777777777777
+              },
+              "pooled": {
+                "control": {
+                  "no": 355,
+                  "unknown": 1,
+                  "yes": 94
+                },
+                "g0": {
+                  "no": 409,
+                  "yes": 41
+                },
+                "lower_fraction": -0.12,
+                "n": 450,
+                "upper_fraction": -0.11777777777777777
+              }
+            },
+            "60": {
+              "parent_equal": {
+                "lower_fraction": -0.12,
+                "parents": 15,
+                "upper_fraction": -0.11777777777777777
+              },
+              "pooled": {
+                "control": {
+                  "no": 355,
+                  "unknown": 1,
+                  "yes": 94
+                },
+                "g0": {
+                  "no": 409,
+                  "yes": 41
+                },
+                "lower_fraction": -0.12,
+                "n": 450,
+                "upper_fraction": -0.11777777777777777
+              }
+            }
+          },
+          "parents": 15,
+          "probes": 450
+        },
+        "same_parents_feature_ineligible_probes": {
+          "by_threshold": {
+            "10": {
+              "parent_equal": null,
+              "pooled": null
+            },
+            "20": {
+              "parent_equal": null,
+              "pooled": null
+            },
+            "30": {
+              "parent_equal": null,
+              "pooled": null
+            },
+            "40": {
+              "parent_equal": null,
+              "pooled": null
+            },
+            "50": {
+              "parent_equal": null,
+              "pooled": null
+            },
+            "60": {
+              "parent_equal": null,
+              "pooled": null
+            }
+          },
+          "parents": 0,
+          "probes": 0
+        }
+      },
+      "eligible_parent_ids": [
+        2,
+        17,
+        23,
+        25,
+        26,
+        28,
+        36,
+        46,
+        48,
+        52,
+        63,
+        66,
+        80,
+        106,
+        108
+      ],
+      "eligible_parents": 15
+    }
+  },
+  "experiment": 132,
+  "protocol": {
+    "data": "read-only Experiment131 fixed 1650 G0-control probe-feature paired rows",
+    "design": "partition all 55 parents into those eligible for feature stratum, and within these parents partition eligible vs ineligible probes",
+    "endpoint": "ever-union-reaches-K conditional bounds at 50k; no censor-as-negative",
+    "scientific_status": "deterministic sampling-composition accounting, not causal adjustment/mediation/significance",
+    "thresholds": [
+      10,
+      20,
+      30,
+      40,
+      50,
+      60
+    ],
+    "tiers": [
+      "all",
+      "popcount",
+      "pop_and",
+      "pop_and_flips",
+      "first_changed_mask"
+    ]
+  }
+}
