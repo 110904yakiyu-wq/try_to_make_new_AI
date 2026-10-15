@@ -1,0 +1,14 @@
+direction=left
+parents=130
+trials=3900
+strict_fission=36
+fragmented_not_independent=144
+active_connected=3396
+static=56
+timeout=268
+daughters=72
+daughter_periods={6: 16, 9: 4, 12: 20, 24: 32}
+daughter_support={4: 16, 5: 16, 8: 4, 9: 32, 10: 4}
+phase_contract=CENTER%3==0
+max_ticks=2500
+status=REPRODUCED
