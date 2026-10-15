@@ -1,0 +1,11 @@
+# 034 — The frozen 55-parent global-spread association survives eligible control-choice sensitivity
+
+Experiment 134 adds the 32 extra pre-qualified distinct phase0 controls found in Experiment133 to the 55 historical first-choice controls (87 total). For each extra control, all original 30 material probes are tested on the unchanged 104/108 60-window finite-speed mutual-modulation kernel to 50,000 ticks. Original G0 and first-choice results are read, unchanged, from Experiment130.
+
+For the **same 55 parents** and equal weight per parent, the eventual event-rate G0−control contrast for cumulative union support >=10 is **−16.97 percentage points** with the original first-choice control; **−15.68 pp** if averaging uniformly over accepted controls within each parent; and **[−20.18, −11.45] pp** across any possible single-control choice per parent, even retrospectively allowing outcome-aware extrema. For >=60 it is [−15.33,−15.27] pp originally, [−14.07,−14.01] pp control-averaged, and [−17.94,−10.42] pp over the finite control-choice envelope. Residual censoring is retained. The aggregate sign stays negative for all 87 accepted controls under these 55-parent single-control-selection conventions.
+
+Yet among the 22 parents with more than one eligible control, 20 exhibit control outcome variation, and 6 (threshold10) or 5 (threshold60) have both positive and negative parent-level contrasts depending on which control is used. Per-parent attribution is consequently selection-sensitive even though the conditional cohort aggregate sign is robust.
+
+The result strengthens **only the descriptive physical spread** comparison. The pool comprises a fixed finite 100-attempt proposal design, not all valid physical nulls. The 75 G0 parents with no eligible control remain outside this estimator. Raw bit-level differences are uncontrolled beyond geometry and on-cycle criteria. The extrema are an *adversarial bound on deterministic choice*, not a deployable post-outcome selector, a confidence interval or a causal mechanism. No learning, goals, heredity, replication, SELF or uniquely autonomous organizational cause is established.
+
+Authority: `experiments/134_control_choice_spread_sensitivity/`, frozen controls `experiments/133_eligible_control_multiplicity/`, baseline Experiment130 raw probe CSV. Physics unchanged.
