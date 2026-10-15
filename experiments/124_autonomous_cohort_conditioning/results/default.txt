@@ -1,0 +1,118 @@
+{
+  "summary": {
+    "1": {
+      "both_censored": {
+        "mean_censor_difference": null,
+        "mean_connected_difference": null,
+        "parent_connected_losses": 0,
+        "parent_connected_ties": 0,
+        "parent_connected_wins": 0,
+        "parents": 0,
+        "patches": 0
+      },
+      "both_connected": {
+        "mean_censor_difference": 0.08333333333333333,
+        "mean_connected_difference": -0.0625,
+        "parent_connected_losses": 1,
+        "parent_connected_ties": 1,
+        "parent_connected_wins": 0,
+        "parents": 2,
+        "patches": 3
+      },
+      "mixed_resolved": {
+        "mean_censor_difference": null,
+        "mean_connected_difference": null,
+        "parent_connected_losses": 0,
+        "parent_connected_ties": 0,
+        "parent_connected_wins": 0,
+        "parents": 0,
+        "patches": 0
+      },
+      "other": {
+        "mean_censor_difference": null,
+        "mean_connected_difference": null,
+        "parent_connected_losses": 0,
+        "parent_connected_ties": 0,
+        "parent_connected_wins": 0,
+        "parents": 0,
+        "patches": 0
+      }
+    },
+    "2": {
+      "both_censored": {
+        "mean_censor_difference": null,
+        "mean_connected_difference": null,
+        "parent_connected_losses": 0,
+        "parent_connected_ties": 0,
+        "parent_connected_wins": 0,
+        "parents": 0,
+        "patches": 0
+      },
+      "both_connected": {
+        "mean_censor_difference": 0.041666666666666664,
+        "mean_connected_difference": -0.0625,
+        "parent_connected_losses": 1,
+        "parent_connected_ties": 3,
+        "parent_connected_wins": 0,
+        "parents": 4,
+        "patches": 5
+      },
+      "mixed_resolved": {
+        "mean_censor_difference": null,
+        "mean_connected_difference": null,
+        "parent_connected_losses": 0,
+        "parent_connected_ties": 0,
+        "parent_connected_wins": 0,
+        "parents": 0,
+        "patches": 0
+      },
+      "other": {
+        "mean_censor_difference": null,
+        "mean_connected_difference": null,
+        "parent_connected_losses": 0,
+        "parent_connected_ties": 0,
+        "parent_connected_wins": 0,
+        "parents": 0,
+        "patches": 0
+      }
+    },
+    "3": {
+      "both_censored": {
+        "mean_censor_difference": 0.0625,
+        "mean_connected_difference": -0.041666666666666664,
+        "parent_connected_losses": 1,
+        "parent_connected_ties": 1,
+        "parent_connected_wins": 0,
+        "parents": 2,
+        "patches": 3
+      },
+      "both_connected": {
+        "mean_censor_difference": -0.020833333333333332,
+        "mean_connected_difference": 0.020833333333333332,
+        "parent_connected_losses": 0,
+        "parent_connected_ties": 1,
+        "parent_connected_wins": 1,
+        "parents": 2,
+        "patches": 3
+      },
+      "mixed_resolved": {
+        "mean_censor_difference": -0.5416666666666666,
+        "mean_connected_difference": 0.5833333333333334,
+        "parent_connected_losses": 0,
+        "parent_connected_ties": 0,
+        "parent_connected_wins": 1,
+        "parents": 1,
+        "patches": 1
+      },
+      "other": {
+        "mean_censor_difference": null,
+        "mean_connected_difference": null,
+        "parent_connected_losses": 0,
+        "parent_connected_ties": 0,
+        "parent_connected_wins": 0,
+        "parents": 0,
+        "patches": 0
+      }
+    }
+  }
+}
