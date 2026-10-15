@@ -1,0 +1,507 @@
+{
+  "experiment": 114,
+  "parent_metadata": [
+    {
+      "attempt": 85,
+      "parent_id": 2,
+      "period": 6,
+      "seed": [
+        1,
+        5
+      ],
+      "union_support": [
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "attempt": 13,
+      "parent_id": 8,
+      "period": 6,
+      "seed": [
+        2,
+        2
+      ],
+      "union_support": [
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "attempt": 20,
+      "parent_id": 9,
+      "period": 6,
+      "seed": [
+        2,
+        3
+      ],
+      "union_support": [
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "attempt": 38,
+      "parent_id": 17,
+      "period": 6,
+      "seed": [
+        3,
+        2
+      ],
+      "union_support": [
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "attempt": 91,
+      "parent_id": 19,
+      "period": 12,
+      "seed": [
+        3,
+        6
+      ],
+      "union_support": [
+        29,
+        30,
+        31,
+        32,
+        33
+      ]
+    },
+    {
+      "attempt": 5,
+      "parent_id": 22,
+      "period": 6,
+      "seed": [
+        3,
+        10
+      ],
+      "union_support": [
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "attempt": 23,
+      "parent_id": 24,
+      "period": 6,
+      "seed": [
+        4,
+        4
+      ],
+      "union_support": [
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "attempt": 30,
+      "parent_id": 25,
+      "period": 6,
+      "seed": [
+        4,
+        5
+      ],
+      "union_support": [
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "attempt": 9,
+      "parent_id": 34,
+      "period": 6,
+      "seed": [
+        5,
+        4
+      ],
+      "union_support": [
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "attempt": 6,
+      "parent_id": 35,
+      "period": 6,
+      "seed": [
+        5,
+        5
+      ],
+      "union_support": [
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "attempt": 2,
+      "parent_id": 36,
+      "period": 6,
+      "seed": [
+        5,
+        6
+      ],
+      "union_support": [
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "attempt": 30,
+      "parent_id": 38,
+      "period": 6,
+      "seed": [
+        5,
+        9
+      ],
+      "union_support": [
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "attempt": 35,
+      "parent_id": 42,
+      "period": 12,
+      "seed": [
+        5,
+        14
+      ],
+      "union_support": [
+        29,
+        30,
+        31,
+        32,
+        33
+      ]
+    },
+    {
+      "attempt": 79,
+      "parent_id": 46,
+      "period": 6,
+      "seed": [
+        6,
+        4
+      ],
+      "union_support": [
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "attempt": 24,
+      "parent_id": 49,
+      "period": 12,
+      "seed": [
+        6,
+        11
+      ],
+      "union_support": [
+        28,
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "attempt": 54,
+      "parent_id": 75,
+      "period": 12,
+      "seed": [
+        9,
+        12
+      ],
+      "union_support": [
+        28,
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "attempt": 26,
+      "parent_id": 85,
+      "period": 6,
+      "seed": [
+        10,
+        12
+      ],
+      "union_support": [
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "attempt": 32,
+      "parent_id": 102,
+      "period": 6,
+      "seed": [
+        12,
+        8
+      ],
+      "union_support": [
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "attempt": 74,
+      "parent_id": 104,
+      "period": 6,
+      "seed": [
+        12,
+        10
+      ],
+      "union_support": [
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "attempt": 51,
+      "parent_id": 106,
+      "period": 6,
+      "seed": [
+        13,
+        1
+      ],
+      "union_support": [
+        29,
+        30,
+        31,
+        32
+      ]
+    }
+  ],
+  "protocol": {
+    "censoring": "right censored if no exact recurrent key by horizon",
+    "classification": "connected/fragmented/static only after recurrence; no daughter viability inference",
+    "extended_horizon": 2000,
+    "horizons": [
+      100,
+      250,
+      500,
+      1000,
+      2000
+    ],
+    "independence": "20 matched parent pairs; 600 paired probes are repeated measures",
+    "injections": "same 30 (side,raw) probes per matched parent",
+    "null": "matched on-cycle controls from Experiment108, no new control tuning",
+    "parent_cohort": "frozen 112 first-mask-matched 20 pairs",
+    "physical_kernel": "unchanged 104 phase0 left-rotate mutual modulation; SIZE60 CENTER30",
+    "recurrent_key": "full microstate + next scheduler phase",
+    "response": "position mask and Hamming bits of injected trajectory relative to its own same-phase noninjected trajectory",
+    "trace_times": [
+      1,
+      3,
+      6,
+      12,
+      24
+    ]
+  },
+  "reference": {
+    "experiment": 112,
+    "matched_parents": 20
+  },
+  "summary": {
+    "delayed": {
+      "a_censored_500": 81,
+      "a_resolved_500_to_2000": 0,
+      "a_still_censored_2000": 81,
+      "b_censored_500": 112,
+      "b_resolved_500_to_2000": 1,
+      "b_still_censored_2000": 111,
+      "both_uncertain_2000": 179,
+      "both_uncertain_500": 180
+    },
+    "early": {
+      "1": {
+        "equal_response_mask_count": 458,
+        "paired_probe_count": 600,
+        "parent_max_equal_rate": 1,
+        "parent_mean_equal_response_position_mask": 0.7633333333333333,
+        "parent_mean_mask_jaccard": 0.8822222222222222,
+        "parent_min_equal_rate": 0.4666666666666667
+      },
+      "12": {
+        "equal_response_mask_count": 224,
+        "paired_probe_count": 600,
+        "parent_max_equal_rate": 0.7666666666666667,
+        "parent_mean_equal_response_position_mask": 0.37333333333333335,
+        "parent_mean_mask_jaccard": 0.5632936762311762,
+        "parent_min_equal_rate": 0.03333333333333333
+      },
+      "24": {
+        "equal_response_mask_count": 252,
+        "paired_probe_count": 600,
+        "parent_max_equal_rate": 0.7666666666666667,
+        "parent_mean_equal_response_position_mask": 0.42,
+        "parent_mean_mask_jaccard": 0.5773185425685425,
+        "parent_min_equal_rate": 0.03333333333333333
+      },
+      "3": {
+        "equal_response_mask_count": 108,
+        "paired_probe_count": 600,
+        "parent_max_equal_rate": 0.4,
+        "parent_mean_equal_response_position_mask": 0.18,
+        "parent_mean_mask_jaccard": 0.5668888888888889,
+        "parent_min_equal_rate": 0
+      },
+      "6": {
+        "equal_response_mask_count": 71,
+        "paired_probe_count": 600,
+        "parent_max_equal_rate": 0.3,
+        "parent_mean_equal_response_position_mask": 0.11833333333333333,
+        "parent_mean_mask_jaccard": 0.4499186507936508,
+        "parent_min_equal_rate": 0
+      }
+    },
+    "equal_500_class_early_response": {
+      "1": {
+        "paired_probes": 410,
+        "same_mask_count": 299,
+        "same_mask_fraction": 0.7292682926829268
+      },
+      "12": {
+        "paired_probes": 410,
+        "same_mask_count": 223,
+        "same_mask_fraction": 0.5439024390243903
+      },
+      "24": {
+        "paired_probes": 410,
+        "same_mask_count": 251,
+        "same_mask_fraction": 0.6121951219512195
+      },
+      "3": {
+        "paired_probes": 410,
+        "same_mask_count": 78,
+        "same_mask_fraction": 0.1902439024390244
+      },
+      "6": {
+        "paired_probes": 410,
+        "same_mask_count": 67,
+        "same_mask_fraction": 0.16341463414634147
+      }
+    },
+    "horizons": {
+      "100": {
+        "aggregate": {
+          "actual_censored": 93,
+          "actual_connected": 506,
+          "both_censored": 18,
+          "both_connected": 391,
+          "both_resolved": 398,
+          "control_censored": 127,
+          "control_connected": 464,
+          "resolved_class_disagreement": 7
+        },
+        "parent_G0_higher": 10,
+        "parent_control_higher": 7,
+        "parent_mean_connected_difference": 0.07,
+        "parent_ties": 3,
+        "probe_pair_rows": 600
+      },
+      "1000": {
+        "aggregate": {
+          "actual_censored": 81,
+          "actual_connected": 516,
+          "both_censored": 13,
+          "both_connected": 411,
+          "both_resolved": 421,
+          "control_censored": 111,
+          "control_connected": 478,
+          "resolved_class_disagreement": 10
+        },
+        "parent_G0_higher": 9,
+        "parent_control_higher": 7,
+        "parent_mean_connected_difference": 0.06333333333333332,
+        "parent_ties": 4,
+        "probe_pair_rows": 600
+      },
+      "2000": {
+        "aggregate": {
+          "actual_censored": 81,
+          "actual_connected": 516,
+          "both_censored": 13,
+          "both_connected": 411,
+          "both_resolved": 421,
+          "control_censored": 111,
+          "control_connected": 478,
+          "resolved_class_disagreement": 10
+        },
+        "parent_G0_higher": 9,
+        "parent_control_higher": 7,
+        "parent_mean_connected_difference": 0.06333333333333332,
+        "parent_ties": 4,
+        "probe_pair_rows": 600
+      },
+      "250": {
+        "aggregate": {
+          "actual_censored": 81,
+          "actual_connected": 516,
+          "both_censored": 13,
+          "both_connected": 410,
+          "both_resolved": 420,
+          "control_censored": 112,
+          "control_connected": 477,
+          "resolved_class_disagreement": 10
+        },
+        "parent_G0_higher": 9,
+        "parent_control_higher": 7,
+        "parent_mean_connected_difference": 0.065,
+        "parent_ties": 4,
+        "probe_pair_rows": 600
+      },
+      "500": {
+        "aggregate": {
+          "actual_censored": 81,
+          "actual_connected": 516,
+          "both_censored": 13,
+          "both_connected": 410,
+          "both_resolved": 420,
+          "control_censored": 112,
+          "control_connected": 477,
+          "resolved_class_disagreement": 10
+        },
+        "parent_G0_higher": 9,
+        "parent_control_higher": 7,
+        "parent_mean_connected_difference": 0.065,
+        "parent_ties": 4,
+        "probe_pair_rows": 600
+      }
+    }
+  }
+}
