@@ -1,0 +1,168 @@
+{
+  "delayed": {
+    "a_censored_500": 81,
+    "a_resolved_500_to_2000": 0,
+    "a_still_censored_2000": 81,
+    "b_censored_500": 112,
+    "b_resolved_500_to_2000": 1,
+    "b_still_censored_2000": 111,
+    "both_uncertain_2000": 179,
+    "both_uncertain_500": 180
+  },
+  "early": {
+    "1": {
+      "equal_response_mask_count": 458,
+      "paired_probe_count": 600,
+      "parent_max_equal_rate": 1,
+      "parent_mean_equal_response_position_mask": 0.7633333333333333,
+      "parent_mean_mask_jaccard": 0.8822222222222222,
+      "parent_min_equal_rate": 0.4666666666666667
+    },
+    "12": {
+      "equal_response_mask_count": 224,
+      "paired_probe_count": 600,
+      "parent_max_equal_rate": 0.7666666666666667,
+      "parent_mean_equal_response_position_mask": 0.37333333333333335,
+      "parent_mean_mask_jaccard": 0.5632936762311762,
+      "parent_min_equal_rate": 0.03333333333333333
+    },
+    "24": {
+      "equal_response_mask_count": 252,
+      "paired_probe_count": 600,
+      "parent_max_equal_rate": 0.7666666666666667,
+      "parent_mean_equal_response_position_mask": 0.42,
+      "parent_mean_mask_jaccard": 0.5773185425685425,
+      "parent_min_equal_rate": 0.03333333333333333
+    },
+    "3": {
+      "equal_response_mask_count": 108,
+      "paired_probe_count": 600,
+      "parent_max_equal_rate": 0.4,
+      "parent_mean_equal_response_position_mask": 0.18,
+      "parent_mean_mask_jaccard": 0.5668888888888889,
+      "parent_min_equal_rate": 0
+    },
+    "6": {
+      "equal_response_mask_count": 71,
+      "paired_probe_count": 600,
+      "parent_max_equal_rate": 0.3,
+      "parent_mean_equal_response_position_mask": 0.11833333333333333,
+      "parent_mean_mask_jaccard": 0.4499186507936508,
+      "parent_min_equal_rate": 0
+    }
+  },
+  "equal_500_class_early_response": {
+    "1": {
+      "paired_probes": 410,
+      "same_mask_count": 299,
+      "same_mask_fraction": 0.7292682926829268
+    },
+    "12": {
+      "paired_probes": 410,
+      "same_mask_count": 223,
+      "same_mask_fraction": 0.5439024390243903
+    },
+    "24": {
+      "paired_probes": 410,
+      "same_mask_count": 251,
+      "same_mask_fraction": 0.6121951219512195
+    },
+    "3": {
+      "paired_probes": 410,
+      "same_mask_count": 78,
+      "same_mask_fraction": 0.1902439024390244
+    },
+    "6": {
+      "paired_probes": 410,
+      "same_mask_count": 67,
+      "same_mask_fraction": 0.16341463414634147
+    }
+  },
+  "horizons": {
+    "100": {
+      "aggregate": {
+        "actual_censored": 93,
+        "actual_connected": 506,
+        "both_censored": 18,
+        "both_connected": 391,
+        "both_resolved": 398,
+        "control_censored": 127,
+        "control_connected": 464,
+        "resolved_class_disagreement": 7
+      },
+      "parent_G0_higher": 10,
+      "parent_control_higher": 7,
+      "parent_mean_connected_difference": 0.07,
+      "parent_ties": 3,
+      "probe_pair_rows": 600
+    },
+    "1000": {
+      "aggregate": {
+        "actual_censored": 81,
+        "actual_connected": 516,
+        "both_censored": 13,
+        "both_connected": 411,
+        "both_resolved": 421,
+        "control_censored": 111,
+        "control_connected": 478,
+        "resolved_class_disagreement": 10
+      },
+      "parent_G0_higher": 9,
+      "parent_control_higher": 7,
+      "parent_mean_connected_difference": 0.06333333333333332,
+      "parent_ties": 4,
+      "probe_pair_rows": 600
+    },
+    "2000": {
+      "aggregate": {
+        "actual_censored": 81,
+        "actual_connected": 516,
+        "both_censored": 13,
+        "both_connected": 411,
+        "both_resolved": 421,
+        "control_censored": 111,
+        "control_connected": 478,
+        "resolved_class_disagreement": 10
+      },
+      "parent_G0_higher": 9,
+      "parent_control_higher": 7,
+      "parent_mean_connected_difference": 0.06333333333333332,
+      "parent_ties": 4,
+      "probe_pair_rows": 600
+    },
+    "250": {
+      "aggregate": {
+        "actual_censored": 81,
+        "actual_connected": 516,
+        "both_censored": 13,
+        "both_connected": 410,
+        "both_resolved": 420,
+        "control_censored": 112,
+        "control_connected": 477,
+        "resolved_class_disagreement": 10
+      },
+      "parent_G0_higher": 9,
+      "parent_control_higher": 7,
+      "parent_mean_connected_difference": 0.065,
+      "parent_ties": 4,
+      "probe_pair_rows": 600
+    },
+    "500": {
+      "aggregate": {
+        "actual_censored": 81,
+        "actual_connected": 516,
+        "both_censored": 13,
+        "both_connected": 410,
+        "both_resolved": 420,
+        "control_censored": 112,
+        "control_connected": 477,
+        "resolved_class_disagreement": 10
+      },
+      "parent_G0_higher": 9,
+      "parent_control_higher": 7,
+      "parent_mean_connected_difference": 0.065,
+      "parent_ties": 4,
+      "probe_pair_rows": 600
+    }
+  }
+}
