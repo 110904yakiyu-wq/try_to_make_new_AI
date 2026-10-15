@@ -1,0 +1,75 @@
+{
+  "inventory": {
+    "informative_parents": 8,
+    "same_first_mask_pairs": 20,
+    "width1_candidates": 77,
+    "width1_donor_mask_pass": 35,
+    "width1_matched_patches": 35,
+    "width1_null_proposals": 358,
+    "width2_candidates": 54,
+    "width2_donor_mask_pass": 16,
+    "width2_matched_patches": 16,
+    "width2_null_proposals": 660,
+    "width3_candidates": 35,
+    "width3_donor_mask_pass": 20,
+    "width3_matched_patches": 20,
+    "width3_null_proposals": 1087
+  },
+  "parameters": {
+    "matching_attempts": 100,
+    "null": "same sites and first-tick changed mask (with replacement)",
+    "null_proposal_budget": 256,
+    "null_repeats": 4,
+    "panel": "predeclared all 15 nonzero values x two boundaries",
+    "ticks": 500,
+    "widths": [
+      1,
+      2,
+      3
+    ]
+  },
+  "summary": {
+    "1": {
+      "donor_censored_probes": 5,
+      "donor_parent_mean_confirmed_fraction": 0.4375,
+      "informative_parents_with_matched_patches": 8,
+      "matched_patches": 35,
+      "null_censored_probes": 30,
+      "null_parent_mean_confirmed_fraction": 0.234375,
+      "parent_losses": 1,
+      "parent_mean_difference": 0.203125,
+      "parent_ties": 3,
+      "parent_wins": 4,
+      "parents_with_matched_patches": 20,
+      "reference_informative_probe_total_in_evaluable_parents": 10
+    },
+    "2": {
+      "donor_censored_probes": 3,
+      "donor_parent_mean_confirmed_fraction": 0.4,
+      "informative_parents_with_matched_patches": 5,
+      "matched_patches": 16,
+      "null_censored_probes": 19,
+      "null_parent_mean_confirmed_fraction": 0.225,
+      "parent_losses": 1,
+      "parent_mean_difference": 0.175,
+      "parent_ties": 3,
+      "parent_wins": 1,
+      "parents_with_matched_patches": 11,
+      "reference_informative_probe_total_in_evaluable_parents": 6
+    },
+    "3": {
+      "donor_censored_probes": 6,
+      "donor_parent_mean_confirmed_fraction": 0.3333333333333333,
+      "informative_parents_with_matched_patches": 6,
+      "matched_patches": 20,
+      "null_censored_probes": 30,
+      "null_parent_mean_confirmed_fraction": 0.22916666666666666,
+      "parent_losses": 2,
+      "parent_mean_difference": 0.10416666666666667,
+      "parent_ties": 1,
+      "parent_wins": 3,
+      "parents_with_matched_patches": 16,
+      "reference_informative_probe_total_in_evaluable_parents": 8
+    }
+  }
+}
