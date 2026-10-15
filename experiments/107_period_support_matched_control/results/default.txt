@@ -1,0 +1,11 @@
+eligible=69/130 search_attempts=100 matched_period=yes matched_union_support_size=yes matched_phase0=yes
+identical_occupied_positions=54
+attempts_median=34
+categories=strict_fission,fragmented_not_independent,active_connected,static,timeout
+actual=2,18,1866,27,157
+actual_daughters=4
+control=3,47,1519,13,488
+control_daughters=6
+paired strict_fission actual_higher=2 control_higher=3 tie=64 mean=-0.014493
+paired active_connected actual_higher=45 control_higher=15 tie=9 mean=5.028986
+paired timeout actual_higher=11 control_higher=45 tie=13 mean=-4.797101
