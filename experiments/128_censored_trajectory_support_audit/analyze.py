@@ -39,7 +39,7 @@ def main():
  'eligibility':'only Exp127 exact phase-key recurrent status censored at 50000',
  'independence':'parent clusters; repeated probes not independent',
  'interpretation':'full-ring visit within finite horizon, not proof of eventual stationary behavior'},
- 'summary':summary,'probe_records':rows}
+ 'summary':summary,'probe_file':'results/censored_trace.csv','records_count':len(rows)}
  z.output.write_text(json.dumps(payload,sort_keys=True,separators=(',',':'))+'\n')
  print(json.dumps(summary,indent=2,sort_keys=True))
 if __name__=='__main__':main()
