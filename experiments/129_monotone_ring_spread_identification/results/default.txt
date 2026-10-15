@@ -1,0 +1,6 @@
+100 G0 {'never_full_certified': 1454, 'unresolved': 196} control {'ever_full': 5, 'never_full_certified': 1214, 'unresolved': 431} lower upper -0.2642424242424242 0.11575757575757575 parent signs 0 0 55
+250 G0 {'ever_full': 12, 'never_full_certified': 1507, 'unresolved': 131} control {'ever_full': 24, 'never_full_certified': 1248, 'unresolved': 378} lower upper -0.23636363636363636 0.07212121212121213 parent signs 2 12 41
+500 G0 {'ever_full': 129, 'never_full_certified': 1507, 'unresolved': 14} control {'ever_full': 369, 'never_full_certified': 1251, 'unresolved': 30} lower upper -0.16363636363636364 -0.13696969696969696 parent signs 10 37 8
+1000 G0 {'ever_full': 143, 'never_full_certified': 1507} control {'ever_full': 395, 'never_full_certified': 1252, 'unresolved': 3} lower upper -0.15454545454545454 -0.15272727272727274 parent signs 10 37 8
+2000 G0 {'ever_full': 143, 'never_full_certified': 1507} control {'ever_full': 395, 'never_full_certified': 1254, 'unresolved': 1} lower upper -0.15333333333333332 -0.15272727272727274 parent signs 10 37 8
+50000 G0 {'ever_full': 143, 'never_full_certified': 1507} control {'ever_full': 395, 'never_full_certified': 1254, 'unresolved': 1} lower upper -0.15333333333333332 -0.15272727272727274 parent signs 10 37 8
