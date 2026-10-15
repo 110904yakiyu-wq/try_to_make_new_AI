@@ -1,0 +1,3193 @@
+{
+  "experiment": 134,
+  "parent_records": [
+    {
+      "candidate_attempts": [
+        85
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 85,
+              "count": {
+                "no": 26,
+                "unknown": 0,
+                "yes": 4
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 85,
+              "count": {
+                "no": 26,
+                "unknown": 0,
+                "yes": 4
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 1,
+      "parent_id": 2,
+      "seed": [
+        1,
+        5
+      ]
+    },
+    {
+      "candidate_attempts": [
+        47
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 22,
+            "unknown": 0,
+            "yes": 8
+          },
+          "controls": [
+            {
+              "attempt": 47,
+              "count": {
+                "no": 19,
+                "unknown": 0,
+                "yes": 11
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 23,
+            "unknown": 0,
+            "yes": 7
+          },
+          "controls": [
+            {
+              "attempt": 47,
+              "count": {
+                "no": 19,
+                "unknown": 0,
+                "yes": 11
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 1,
+      "parent_id": 4,
+      "seed": [
+        1,
+        9
+      ]
+    },
+    {
+      "candidate_attempts": [
+        61,
+        90
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 61,
+              "count": {
+                "no": 20,
+                "unknown": 0,
+                "yes": 10
+              }
+            },
+            {
+              "attempt": 90,
+              "count": {
+                "no": 12,
+                "unknown": 0,
+                "yes": 18
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 61,
+              "count": {
+                "no": 21,
+                "unknown": 0,
+                "yes": 9
+              }
+            },
+            {
+              "attempt": 90,
+              "count": {
+                "no": 15,
+                "unknown": 0,
+                "yes": 15
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 2,
+      "parent_id": 5,
+      "seed": [
+        1,
+        11
+      ]
+    },
+    {
+      "candidate_attempts": [
+        12,
+        77
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 23,
+            "unknown": 0,
+            "yes": 7
+          },
+          "controls": [
+            {
+              "attempt": 12,
+              "count": {
+                "no": 15,
+                "unknown": 0,
+                "yes": 15
+              }
+            },
+            {
+              "attempt": 77,
+              "count": {
+                "no": 26,
+                "unknown": 0,
+                "yes": 4
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 24,
+            "unknown": 0,
+            "yes": 6
+          },
+          "controls": [
+            {
+              "attempt": 12,
+              "count": {
+                "no": 18,
+                "unknown": 0,
+                "yes": 12
+              }
+            },
+            {
+              "attempt": 77,
+              "count": {
+                "no": 26,
+                "unknown": 0,
+                "yes": 4
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 2,
+      "parent_id": 6,
+      "seed": [
+        1,
+        13
+      ]
+    },
+    {
+      "candidate_attempts": [
+        13,
+        82
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 13,
+              "count": {
+                "no": 30,
+                "unknown": 0,
+                "yes": 0
+              }
+            },
+            {
+              "attempt": 82,
+              "count": {
+                "no": 18,
+                "unknown": 0,
+                "yes": 12
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 13,
+              "count": {
+                "no": 30,
+                "unknown": 0,
+                "yes": 0
+              }
+            },
+            {
+              "attempt": 82,
+              "count": {
+                "no": 19,
+                "unknown": 0,
+                "yes": 11
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 2,
+      "parent_id": 8,
+      "seed": [
+        2,
+        2
+      ]
+    },
+    {
+      "candidate_attempts": [
+        20
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 22,
+            "unknown": 0,
+            "yes": 8
+          },
+          "controls": [
+            {
+              "attempt": 20,
+              "count": {
+                "no": 23,
+                "unknown": 0,
+                "yes": 7
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 23,
+            "unknown": 0,
+            "yes": 7
+          },
+          "controls": [
+            {
+              "attempt": 20,
+              "count": {
+                "no": 26,
+                "unknown": 0,
+                "yes": 4
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 1,
+      "parent_id": 9,
+      "seed": [
+        2,
+        3
+      ]
+    },
+    {
+      "candidate_attempts": [
+        96
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 96,
+              "count": {
+                "no": 12,
+                "unknown": 0,
+                "yes": 18
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 96,
+              "count": {
+                "no": 17,
+                "unknown": 0,
+                "yes": 13
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 1,
+      "parent_id": 11,
+      "seed": [
+        2,
+        7
+      ]
+    },
+    {
+      "candidate_attempts": [
+        51
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 51,
+              "count": {
+                "no": 21,
+                "unknown": 0,
+                "yes": 9
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 51,
+              "count": {
+                "no": 23,
+                "unknown": 0,
+                "yes": 7
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 1,
+      "parent_id": 12,
+      "seed": [
+        2,
+        10
+      ]
+    },
+    {
+      "candidate_attempts": [
+        49
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 23,
+            "unknown": 0,
+            "yes": 7
+          },
+          "controls": [
+            {
+              "attempt": 49,
+              "count": {
+                "no": 21,
+                "unknown": 0,
+                "yes": 9
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 24,
+            "unknown": 0,
+            "yes": 6
+          },
+          "controls": [
+            {
+              "attempt": 49,
+              "count": {
+                "no": 23,
+                "unknown": 0,
+                "yes": 7
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 1,
+      "parent_id": 13,
+      "seed": [
+        2,
+        11
+      ]
+    },
+    {
+      "candidate_attempts": [
+        38,
+        66
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 22,
+            "unknown": 0,
+            "yes": 8
+          },
+          "controls": [
+            {
+              "attempt": 38,
+              "count": {
+                "no": 24,
+                "unknown": 0,
+                "yes": 6
+              }
+            },
+            {
+              "attempt": 66,
+              "count": {
+                "no": 18,
+                "unknown": 0,
+                "yes": 12
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 23,
+            "unknown": 0,
+            "yes": 7
+          },
+          "controls": [
+            {
+              "attempt": 38,
+              "count": {
+                "no": 27,
+                "unknown": 0,
+                "yes": 3
+              }
+            },
+            {
+              "attempt": 66,
+              "count": {
+                "no": 21,
+                "unknown": 0,
+                "yes": 9
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 2,
+      "parent_id": 17,
+      "seed": [
+        3,
+        2
+      ]
+    },
+    {
+      "candidate_attempts": [
+        91
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 23,
+            "unknown": 0,
+            "yes": 7
+          },
+          "controls": [
+            {
+              "attempt": 91,
+              "count": {
+                "no": 15,
+                "unknown": 0,
+                "yes": 15
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 24,
+            "unknown": 0,
+            "yes": 6
+          },
+          "controls": [
+            {
+              "attempt": 91,
+              "count": {
+                "no": 16,
+                "unknown": 0,
+                "yes": 14
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 1,
+      "parent_id": 19,
+      "seed": [
+        3,
+        6
+      ]
+    },
+    {
+      "candidate_attempts": [
+        5,
+        8,
+        15,
+        87,
+        94
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 23,
+            "unknown": 0,
+            "yes": 7
+          },
+          "controls": [
+            {
+              "attempt": 5,
+              "count": {
+                "no": 18,
+                "unknown": 0,
+                "yes": 12
+              }
+            },
+            {
+              "attempt": 8,
+              "count": {
+                "no": 14,
+                "unknown": 0,
+                "yes": 16
+              }
+            },
+            {
+              "attempt": 15,
+              "count": {
+                "no": 23,
+                "unknown": 0,
+                "yes": 7
+              }
+            },
+            {
+              "attempt": 87,
+              "count": {
+                "no": 16,
+                "unknown": 0,
+                "yes": 14
+              }
+            },
+            {
+              "attempt": 94,
+              "count": {
+                "no": 26,
+                "unknown": 0,
+                "yes": 4
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 26,
+            "unknown": 0,
+            "yes": 4
+          },
+          "controls": [
+            {
+              "attempt": 5,
+              "count": {
+                "no": 19,
+                "unknown": 0,
+                "yes": 11
+              }
+            },
+            {
+              "attempt": 8,
+              "count": {
+                "no": 15,
+                "unknown": 0,
+                "yes": 15
+              }
+            },
+            {
+              "attempt": 15,
+              "count": {
+                "no": 26,
+                "unknown": 0,
+                "yes": 4
+              }
+            },
+            {
+              "attempt": 87,
+              "count": {
+                "no": 16,
+                "unknown": 0,
+                "yes": 14
+              }
+            },
+            {
+              "attempt": 94,
+              "count": {
+                "no": 26,
+                "unknown": 0,
+                "yes": 4
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 5,
+      "parent_id": 22,
+      "seed": [
+        3,
+        10
+      ]
+    },
+    {
+      "candidate_attempts": [
+        4
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 22,
+            "unknown": 0,
+            "yes": 8
+          },
+          "controls": [
+            {
+              "attempt": 4,
+              "count": {
+                "no": 18,
+                "unknown": 0,
+                "yes": 12
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 22,
+            "unknown": 0,
+            "yes": 8
+          },
+          "controls": [
+            {
+              "attempt": 4,
+              "count": {
+                "no": 19,
+                "unknown": 0,
+                "yes": 11
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 1,
+      "parent_id": 23,
+      "seed": [
+        3,
+        13
+      ]
+    },
+    {
+      "candidate_attempts": [
+        23,
+        38,
+        71,
+        99
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 23,
+              "count": {
+                "no": 12,
+                "unknown": 0,
+                "yes": 18
+              }
+            },
+            {
+              "attempt": 38,
+              "count": {
+                "no": 22,
+                "unknown": 0,
+                "yes": 8
+              }
+            },
+            {
+              "attempt": 71,
+              "count": {
+                "no": 30,
+                "unknown": 0,
+                "yes": 0
+              }
+            },
+            {
+              "attempt": 99,
+              "count": {
+                "no": 20,
+                "unknown": 0,
+                "yes": 10
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 23,
+              "count": {
+                "no": 14,
+                "unknown": 0,
+                "yes": 16
+              }
+            },
+            {
+              "attempt": 38,
+              "count": {
+                "no": 23,
+                "unknown": 0,
+                "yes": 7
+              }
+            },
+            {
+              "attempt": 71,
+              "count": {
+                "no": 30,
+                "unknown": 0,
+                "yes": 0
+              }
+            },
+            {
+              "attempt": 99,
+              "count": {
+                "no": 23,
+                "unknown": 0,
+                "yes": 7
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 4,
+      "parent_id": 24,
+      "seed": [
+        4,
+        4
+      ]
+    },
+    {
+      "candidate_attempts": [
+        30,
+        58
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 30,
+              "count": {
+                "no": 26,
+                "unknown": 0,
+                "yes": 4
+              }
+            },
+            {
+              "attempt": 58,
+              "count": {
+                "no": 27,
+                "unknown": 0,
+                "yes": 3
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 30,
+              "count": {
+                "no": 26,
+                "unknown": 0,
+                "yes": 4
+              }
+            },
+            {
+              "attempt": 58,
+              "count": {
+                "no": 27,
+                "unknown": 0,
+                "yes": 3
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 2,
+      "parent_id": 25,
+      "seed": [
+        4,
+        5
+      ]
+    },
+    {
+      "candidate_attempts": [
+        16,
+        42,
+        58,
+        86
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 22,
+            "unknown": 0,
+            "yes": 8
+          },
+          "controls": [
+            {
+              "attempt": 16,
+              "count": {
+                "no": 27,
+                "unknown": 0,
+                "yes": 3
+              }
+            },
+            {
+              "attempt": 42,
+              "count": {
+                "no": 30,
+                "unknown": 0,
+                "yes": 0
+              }
+            },
+            {
+              "attempt": 58,
+              "count": {
+                "no": 30,
+                "unknown": 0,
+                "yes": 0
+              }
+            },
+            {
+              "attempt": 86,
+              "count": {
+                "no": 30,
+                "unknown": 0,
+                "yes": 0
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 23,
+            "unknown": 0,
+            "yes": 7
+          },
+          "controls": [
+            {
+              "attempt": 16,
+              "count": {
+                "no": 27,
+                "unknown": 0,
+                "yes": 3
+              }
+            },
+            {
+              "attempt": 42,
+              "count": {
+                "no": 30,
+                "unknown": 0,
+                "yes": 0
+              }
+            },
+            {
+              "attempt": 58,
+              "count": {
+                "no": 30,
+                "unknown": 0,
+                "yes": 0
+              }
+            },
+            {
+              "attempt": 86,
+              "count": {
+                "no": 30,
+                "unknown": 0,
+                "yes": 0
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 4,
+      "parent_id": 26,
+      "seed": [
+        4,
+        6
+      ]
+    },
+    {
+      "candidate_attempts": [
+        15
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 15,
+              "count": {
+                "no": 20,
+                "unknown": 0,
+                "yes": 10
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 15,
+              "count": {
+                "no": 21,
+                "unknown": 0,
+                "yes": 9
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 1,
+      "parent_id": 28,
+      "seed": [
+        4,
+        12
+      ]
+    },
+    {
+      "candidate_attempts": [
+        12,
+        87
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 12,
+              "count": {
+                "no": 30,
+                "unknown": 0,
+                "yes": 0
+              }
+            },
+            {
+              "attempt": 87,
+              "count": {
+                "no": 30,
+                "unknown": 0,
+                "yes": 0
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 12,
+              "count": {
+                "no": 30,
+                "unknown": 0,
+                "yes": 0
+              }
+            },
+            {
+              "attempt": 87,
+              "count": {
+                "no": 30,
+                "unknown": 0,
+                "yes": 0
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 2,
+      "parent_id": 29,
+      "seed": [
+        4,
+        13
+      ]
+    },
+    {
+      "candidate_attempts": [
+        55,
+        97
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 55,
+              "count": {
+                "no": 26,
+                "unknown": 0,
+                "yes": 4
+              }
+            },
+            {
+              "attempt": 97,
+              "count": {
+                "no": 30,
+                "unknown": 0,
+                "yes": 0
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 55,
+              "count": {
+                "no": 26,
+                "unknown": 0,
+                "yes": 4
+              }
+            },
+            {
+              "attempt": 97,
+              "count": {
+                "no": 30,
+                "unknown": 0,
+                "yes": 0
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 2,
+      "parent_id": 32,
+      "seed": [
+        5,
+        1
+      ]
+    },
+    {
+      "candidate_attempts": [
+        39
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 39,
+              "count": {
+                "no": 17,
+                "unknown": 0,
+                "yes": 13
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 39,
+              "count": {
+                "no": 19,
+                "unknown": 0,
+                "yes": 11
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 1,
+      "parent_id": 33,
+      "seed": [
+        5,
+        3
+      ]
+    },
+    {
+      "candidate_attempts": [
+        9
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 9,
+              "count": {
+                "no": 19,
+                "unknown": 0,
+                "yes": 11
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 9,
+              "count": {
+                "no": 20,
+                "unknown": 0,
+                "yes": 10
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 1,
+      "parent_id": 34,
+      "seed": [
+        5,
+        4
+      ]
+    },
+    {
+      "candidate_attempts": [
+        6
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 6,
+              "count": {
+                "no": 20,
+                "unknown": 0,
+                "yes": 10
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 6,
+              "count": {
+                "no": 22,
+                "unknown": 0,
+                "yes": 8
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 1,
+      "parent_id": 35,
+      "seed": [
+        5,
+        5
+      ]
+    },
+    {
+      "candidate_attempts": [
+        2,
+        9
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 22,
+            "unknown": 0,
+            "yes": 8
+          },
+          "controls": [
+            {
+              "attempt": 2,
+              "count": {
+                "no": 22,
+                "unknown": 0,
+                "yes": 8
+              }
+            },
+            {
+              "attempt": 9,
+              "count": {
+                "no": 26,
+                "unknown": 0,
+                "yes": 4
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 23,
+            "unknown": 0,
+            "yes": 7
+          },
+          "controls": [
+            {
+              "attempt": 2,
+              "count": {
+                "no": 23,
+                "unknown": 0,
+                "yes": 7
+              }
+            },
+            {
+              "attempt": 9,
+              "count": {
+                "no": 27,
+                "unknown": 0,
+                "yes": 3
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 2,
+      "parent_id": 36,
+      "seed": [
+        5,
+        6
+      ]
+    },
+    {
+      "candidate_attempts": [
+        83
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 83,
+              "count": {
+                "no": 25,
+                "unknown": 0,
+                "yes": 5
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 83,
+              "count": {
+                "no": 26,
+                "unknown": 0,
+                "yes": 4
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 1,
+      "parent_id": 37,
+      "seed": [
+        5,
+        7
+      ]
+    },
+    {
+      "candidate_attempts": [
+        30,
+        52
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 22,
+            "unknown": 0,
+            "yes": 8
+          },
+          "controls": [
+            {
+              "attempt": 30,
+              "count": {
+                "no": 30,
+                "unknown": 0,
+                "yes": 0
+              }
+            },
+            {
+              "attempt": 52,
+              "count": {
+                "no": 24,
+                "unknown": 0,
+                "yes": 6
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 23,
+            "unknown": 0,
+            "yes": 7
+          },
+          "controls": [
+            {
+              "attempt": 30,
+              "count": {
+                "no": 30,
+                "unknown": 0,
+                "yes": 0
+              }
+            },
+            {
+              "attempt": 52,
+              "count": {
+                "no": 27,
+                "unknown": 0,
+                "yes": 3
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 2,
+      "parent_id": 38,
+      "seed": [
+        5,
+        9
+      ]
+    },
+    {
+      "candidate_attempts": [
+        8
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 8,
+              "count": {
+                "no": 24,
+                "unknown": 0,
+                "yes": 6
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 8,
+              "count": {
+                "no": 25,
+                "unknown": 0,
+                "yes": 5
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 1,
+      "parent_id": 39,
+      "seed": [
+        5,
+        11
+      ]
+    },
+    {
+      "candidate_attempts": [
+        35
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 35,
+              "count": {
+                "no": 30,
+                "unknown": 0,
+                "yes": 0
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 35,
+              "count": {
+                "no": 30,
+                "unknown": 0,
+                "yes": 0
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 1,
+      "parent_id": 42,
+      "seed": [
+        5,
+        14
+      ]
+    },
+    {
+      "candidate_attempts": [
+        58
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 22,
+            "unknown": 0,
+            "yes": 8
+          },
+          "controls": [
+            {
+              "attempt": 58,
+              "count": {
+                "no": 20,
+                "unknown": 0,
+                "yes": 10
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 25,
+            "unknown": 0,
+            "yes": 5
+          },
+          "controls": [
+            {
+              "attempt": 58,
+              "count": {
+                "no": 21,
+                "unknown": 0,
+                "yes": 9
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 1,
+      "parent_id": 45,
+      "seed": [
+        6,
+        3
+      ]
+    },
+    {
+      "candidate_attempts": [
+        79,
+        95
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 22,
+            "unknown": 0,
+            "yes": 8
+          },
+          "controls": [
+            {
+              "attempt": 79,
+              "count": {
+                "no": 22,
+                "unknown": 0,
+                "yes": 8
+              }
+            },
+            {
+              "attempt": 95,
+              "count": {
+                "no": 18,
+                "unknown": 0,
+                "yes": 12
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 23,
+            "unknown": 0,
+            "yes": 7
+          },
+          "controls": [
+            {
+              "attempt": 79,
+              "count": {
+                "no": 23,
+                "unknown": 0,
+                "yes": 7
+              }
+            },
+            {
+              "attempt": 95,
+              "count": {
+                "no": 19,
+                "unknown": 0,
+                "yes": 11
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 2,
+      "parent_id": 46,
+      "seed": [
+        6,
+        4
+      ]
+    },
+    {
+      "candidate_attempts": [
+        67
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 67,
+              "count": {
+                "no": 19,
+                "unknown": 0,
+                "yes": 11
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 67,
+              "count": {
+                "no": 20,
+                "unknown": 0,
+                "yes": 10
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 1,
+      "parent_id": 48,
+      "seed": [
+        6,
+        10
+      ]
+    },
+    {
+      "candidate_attempts": [
+        24
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 22,
+            "unknown": 0,
+            "yes": 8
+          },
+          "controls": [
+            {
+              "attempt": 24,
+              "count": {
+                "no": 30,
+                "unknown": 0,
+                "yes": 0
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 22,
+            "unknown": 0,
+            "yes": 8
+          },
+          "controls": [
+            {
+              "attempt": 24,
+              "count": {
+                "no": 30,
+                "unknown": 0,
+                "yes": 0
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 1,
+      "parent_id": 49,
+      "seed": [
+        6,
+        11
+      ]
+    },
+    {
+      "candidate_attempts": [
+        41,
+        49
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 41,
+              "count": {
+                "no": 30,
+                "unknown": 0,
+                "yes": 0
+              }
+            },
+            {
+              "attempt": 49,
+              "count": {
+                "no": 30,
+                "unknown": 0,
+                "yes": 0
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 41,
+              "count": {
+                "no": 30,
+                "unknown": 0,
+                "yes": 0
+              }
+            },
+            {
+              "attempt": 49,
+              "count": {
+                "no": 30,
+                "unknown": 0,
+                "yes": 0
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 2,
+      "parent_id": 52,
+      "seed": [
+        7,
+        1
+      ]
+    },
+    {
+      "candidate_attempts": [
+        29,
+        52
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 24,
+            "unknown": 0,
+            "yes": 6
+          },
+          "controls": [
+            {
+              "attempt": 29,
+              "count": {
+                "no": 22,
+                "unknown": 0,
+                "yes": 8
+              }
+            },
+            {
+              "attempt": 52,
+              "count": {
+                "no": 30,
+                "unknown": 0,
+                "yes": 0
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 25,
+            "unknown": 0,
+            "yes": 5
+          },
+          "controls": [
+            {
+              "attempt": 29,
+              "count": {
+                "no": 22,
+                "unknown": 0,
+                "yes": 8
+              }
+            },
+            {
+              "attempt": 52,
+              "count": {
+                "no": 30,
+                "unknown": 0,
+                "yes": 0
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 2,
+      "parent_id": 59,
+      "seed": [
+        7,
+        12
+      ]
+    },
+    {
+      "candidate_attempts": [
+        58,
+        97
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 58,
+              "count": {
+                "no": 27,
+                "unknown": 0,
+                "yes": 3
+              }
+            },
+            {
+              "attempt": 97,
+              "count": {
+                "no": 30,
+                "unknown": 0,
+                "yes": 0
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 58,
+              "count": {
+                "no": 27,
+                "unknown": 0,
+                "yes": 3
+              }
+            },
+            {
+              "attempt": 97,
+              "count": {
+                "no": 30,
+                "unknown": 0,
+                "yes": 0
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 2,
+      "parent_id": 61,
+      "seed": [
+        8,
+        8
+      ]
+    },
+    {
+      "candidate_attempts": [
+        52
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 52,
+              "count": {
+                "no": 19,
+                "unknown": 0,
+                "yes": 11
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 52,
+              "count": {
+                "no": 19,
+                "unknown": 0,
+                "yes": 11
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 1,
+      "parent_id": 62,
+      "seed": [
+        8,
+        9
+      ]
+    },
+    {
+      "candidate_attempts": [
+        61
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 61,
+              "count": {
+                "no": 30,
+                "unknown": 0,
+                "yes": 0
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 61,
+              "count": {
+                "no": 30,
+                "unknown": 0,
+                "yes": 0
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 1,
+      "parent_id": 63,
+      "seed": [
+        8,
+        10
+      ]
+    },
+    {
+      "candidate_attempts": [
+        75
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 75,
+              "count": {
+                "no": 21,
+                "unknown": 0,
+                "yes": 9
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 75,
+              "count": {
+                "no": 21,
+                "unknown": 0,
+                "yes": 9
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 1,
+      "parent_id": 66,
+      "seed": [
+        8,
+        13
+      ]
+    },
+    {
+      "candidate_attempts": [
+        30
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 30,
+              "count": {
+                "no": 18,
+                "unknown": 0,
+                "yes": 12
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 30,
+              "count": {
+                "no": 19,
+                "unknown": 0,
+                "yes": 11
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 1,
+      "parent_id": 73,
+      "seed": [
+        9,
+        10
+      ]
+    },
+    {
+      "candidate_attempts": [
+        54,
+        60
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 22,
+            "unknown": 0,
+            "yes": 8
+          },
+          "controls": [
+            {
+              "attempt": 54,
+              "count": {
+                "no": 19,
+                "unknown": 0,
+                "yes": 11
+              }
+            },
+            {
+              "attempt": 60,
+              "count": {
+                "no": 22,
+                "unknown": 0,
+                "yes": 8
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 25,
+            "unknown": 0,
+            "yes": 5
+          },
+          "controls": [
+            {
+              "attempt": 54,
+              "count": {
+                "no": 21,
+                "unknown": 0,
+                "yes": 9
+              }
+            },
+            {
+              "attempt": 60,
+              "count": {
+                "no": 22,
+                "unknown": 0,
+                "yes": 8
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 2,
+      "parent_id": 75,
+      "seed": [
+        9,
+        12
+      ]
+    },
+    {
+      "candidate_attempts": [
+        26,
+        98
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 22,
+            "unknown": 0,
+            "yes": 8
+          },
+          "controls": [
+            {
+              "attempt": 26,
+              "count": {
+                "no": 12,
+                "unknown": 0,
+                "yes": 18
+              }
+            },
+            {
+              "attempt": 98,
+              "count": {
+                "no": 23,
+                "unknown": 0,
+                "yes": 7
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 22,
+            "unknown": 0,
+            "yes": 8
+          },
+          "controls": [
+            {
+              "attempt": 26,
+              "count": {
+                "no": 14,
+                "unknown": 0,
+                "yes": 16
+              }
+            },
+            {
+              "attempt": 98,
+              "count": {
+                "no": 24,
+                "unknown": 0,
+                "yes": 6
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 2,
+      "parent_id": 76,
+      "seed": [
+        9,
+        14
+      ]
+    },
+    {
+      "candidate_attempts": [
+        27,
+        60,
+        100
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 27,
+              "count": {
+                "no": 22,
+                "unknown": 0,
+                "yes": 8
+              }
+            },
+            {
+              "attempt": 60,
+              "count": {
+                "no": 26,
+                "unknown": 0,
+                "yes": 4
+              }
+            },
+            {
+              "attempt": 100,
+              "count": {
+                "no": 30,
+                "unknown": 0,
+                "yes": 0
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 27,
+              "count": {
+                "no": 23,
+                "unknown": 0,
+                "yes": 7
+              }
+            },
+            {
+              "attempt": 60,
+              "count": {
+                "no": 26,
+                "unknown": 0,
+                "yes": 4
+              }
+            },
+            {
+              "attempt": 100,
+              "count": {
+                "no": 30,
+                "unknown": 0,
+                "yes": 0
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 3,
+      "parent_id": 77,
+      "seed": [
+        10,
+        2
+      ]
+    },
+    {
+      "candidate_attempts": [
+        19
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 19,
+              "count": {
+                "no": 11,
+                "unknown": 0,
+                "yes": 19
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 19,
+              "count": {
+                "no": 13,
+                "unknown": 0,
+                "yes": 17
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 1,
+      "parent_id": 79,
+      "seed": [
+        10,
+        6
+      ]
+    },
+    {
+      "candidate_attempts": [
+        87
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 87,
+              "count": {
+                "no": 14,
+                "unknown": 0,
+                "yes": 16
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 87,
+              "count": {
+                "no": 17,
+                "unknown": 1,
+                "yes": 12
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 1,
+      "parent_id": 80,
+      "seed": [
+        10,
+        7
+      ]
+    },
+    {
+      "candidate_attempts": [
+        26,
+        56,
+        71
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 22,
+            "unknown": 0,
+            "yes": 8
+          },
+          "controls": [
+            {
+              "attempt": 26,
+              "count": {
+                "no": 26,
+                "unknown": 0,
+                "yes": 4
+              }
+            },
+            {
+              "attempt": 56,
+              "count": {
+                "no": 19,
+                "unknown": 0,
+                "yes": 11
+              }
+            },
+            {
+              "attempt": 71,
+              "count": {
+                "no": 26,
+                "unknown": 0,
+                "yes": 4
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 23,
+            "unknown": 0,
+            "yes": 7
+          },
+          "controls": [
+            {
+              "attempt": 26,
+              "count": {
+                "no": 26,
+                "unknown": 0,
+                "yes": 4
+              }
+            },
+            {
+              "attempt": 56,
+              "count": {
+                "no": 23,
+                "unknown": 0,
+                "yes": 7
+              }
+            },
+            {
+              "attempt": 71,
+              "count": {
+                "no": 27,
+                "unknown": 0,
+                "yes": 3
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 3,
+      "parent_id": 85,
+      "seed": [
+        10,
+        12
+      ]
+    },
+    {
+      "candidate_attempts": [
+        9
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 9,
+              "count": {
+                "no": 22,
+                "unknown": 0,
+                "yes": 8
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 9,
+              "count": {
+                "no": 23,
+                "unknown": 0,
+                "yes": 7
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 1,
+      "parent_id": 86,
+      "seed": [
+        10,
+        13
+      ]
+    },
+    {
+      "candidate_attempts": [
+        7,
+        12,
+        92
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 23,
+            "unknown": 0,
+            "yes": 7
+          },
+          "controls": [
+            {
+              "attempt": 7,
+              "count": {
+                "no": 30,
+                "unknown": 0,
+                "yes": 0
+              }
+            },
+            {
+              "attempt": 12,
+              "count": {
+                "no": 24,
+                "unknown": 0,
+                "yes": 6
+              }
+            },
+            {
+              "attempt": 92,
+              "count": {
+                "no": 30,
+                "unknown": 0,
+                "yes": 0
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 25,
+            "unknown": 0,
+            "yes": 5
+          },
+          "controls": [
+            {
+              "attempt": 7,
+              "count": {
+                "no": 30,
+                "unknown": 0,
+                "yes": 0
+              }
+            },
+            {
+              "attempt": 12,
+              "count": {
+                "no": 24,
+                "unknown": 0,
+                "yes": 6
+              }
+            },
+            {
+              "attempt": 92,
+              "count": {
+                "no": 30,
+                "unknown": 0,
+                "yes": 0
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 3,
+      "parent_id": 90,
+      "seed": [
+        11,
+        2
+      ]
+    },
+    {
+      "candidate_attempts": [
+        83
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 83,
+              "count": {
+                "no": 24,
+                "unknown": 0,
+                "yes": 6
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 83,
+              "count": {
+                "no": 25,
+                "unknown": 0,
+                "yes": 5
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 1,
+      "parent_id": 91,
+      "seed": [
+        11,
+        5
+      ]
+    },
+    {
+      "candidate_attempts": [
+        70
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 24,
+            "unknown": 0,
+            "yes": 6
+          },
+          "controls": [
+            {
+              "attempt": 70,
+              "count": {
+                "no": 26,
+                "unknown": 0,
+                "yes": 4
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 25,
+            "unknown": 0,
+            "yes": 5
+          },
+          "controls": [
+            {
+              "attempt": 70,
+              "count": {
+                "no": 27,
+                "unknown": 0,
+                "yes": 3
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 1,
+      "parent_id": 92,
+      "seed": [
+        11,
+        6
+      ]
+    },
+    {
+      "candidate_attempts": [
+        1
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 1,
+              "count": {
+                "no": 20,
+                "unknown": 0,
+                "yes": 10
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 1,
+              "count": {
+                "no": 21,
+                "unknown": 0,
+                "yes": 9
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 1,
+      "parent_id": 99,
+      "seed": [
+        12,
+        5
+      ]
+    },
+    {
+      "candidate_attempts": [
+        32
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 22,
+            "unknown": 0,
+            "yes": 8
+          },
+          "controls": [
+            {
+              "attempt": 32,
+              "count": {
+                "no": 24,
+                "unknown": 0,
+                "yes": 6
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 23,
+            "unknown": 0,
+            "yes": 7
+          },
+          "controls": [
+            {
+              "attempt": 32,
+              "count": {
+                "no": 25,
+                "unknown": 0,
+                "yes": 5
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 1,
+      "parent_id": 102,
+      "seed": [
+        12,
+        8
+      ]
+    },
+    {
+      "candidate_attempts": [
+        74
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 23,
+            "unknown": 0,
+            "yes": 7
+          },
+          "controls": [
+            {
+              "attempt": 74,
+              "count": {
+                "no": 30,
+                "unknown": 0,
+                "yes": 0
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 26,
+            "unknown": 0,
+            "yes": 4
+          },
+          "controls": [
+            {
+              "attempt": 74,
+              "count": {
+                "no": 30,
+                "unknown": 0,
+                "yes": 0
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 1,
+      "parent_id": 104,
+      "seed": [
+        12,
+        10
+      ]
+    },
+    {
+      "candidate_attempts": [
+        51
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 23,
+            "unknown": 0,
+            "yes": 7
+          },
+          "controls": [
+            {
+              "attempt": 51,
+              "count": {
+                "no": 24,
+                "unknown": 0,
+                "yes": 6
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 25,
+            "unknown": 0,
+            "yes": 5
+          },
+          "controls": [
+            {
+              "attempt": 51,
+              "count": {
+                "no": 25,
+                "unknown": 0,
+                "yes": 5
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 1,
+      "parent_id": 106,
+      "seed": [
+        13,
+        1
+      ]
+    },
+    {
+      "candidate_attempts": [
+        33,
+        81
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 33,
+              "count": {
+                "no": 18,
+                "unknown": 0,
+                "yes": 12
+              }
+            },
+            {
+              "attempt": 81,
+              "count": {
+                "no": 27,
+                "unknown": 0,
+                "yes": 3
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 33,
+              "count": {
+                "no": 20,
+                "unknown": 0,
+                "yes": 10
+              }
+            },
+            {
+              "attempt": 81,
+              "count": {
+                "no": 27,
+                "unknown": 0,
+                "yes": 3
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 2,
+      "parent_id": 108,
+      "seed": [
+        13,
+        4
+      ]
+    },
+    {
+      "candidate_attempts": [
+        27
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 27,
+              "count": {
+                "no": 18,
+                "unknown": 0,
+                "yes": 12
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 27,
+              "count": {
+                "no": 19,
+                "unknown": 0,
+                "yes": 11
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 1,
+      "parent_id": 111,
+      "seed": [
+        13,
+        10
+      ]
+    },
+    {
+      "candidate_attempts": [
+        5
+      ],
+      "endpoints": {
+        "10": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 5,
+              "count": {
+                "no": 9,
+                "unknown": 0,
+                "yes": 21
+              }
+            }
+          ]
+        },
+        "60": {
+          "G0": {
+            "no": 30,
+            "unknown": 0,
+            "yes": 0
+          },
+          "controls": [
+            {
+              "attempt": 5,
+              "count": {
+                "no": 10,
+                "unknown": 0,
+                "yes": 20
+              }
+            }
+          ]
+        }
+      },
+      "num_candidates": 1,
+      "parent_id": 126,
+      "seed": [
+        15,
+        4
+      ]
+    }
+  ],
+  "protocol": {
+    "candidate_average": "uniform average over all accepted candidates within each parent, then equal parent weight (a specified sensitivity estimand, not a random population)",
+    "choice_envelope": "min/max per parent across eligible controls computed retrospectively from outcomes; NOT a legitimate performance-optimized selector",
+    "control_pool": "87 distinct eligible controls, including the 55 historical first accepted and 32 additional from exp133; selection precedes all material outcomes",
+    "horizon": 50000,
+    "interpretation": "same 55 parent clusters, not 87 independent controls; not an organization-specific mechanism or statistical replication",
+    "observation": "ever union reaches 10 or 60 positions; recurrence certifies never after full microstate+next scheduler-phase repeat",
+    "physics": "unchanged 104/108 phase0 left rotation, 60 four-bit windows",
+    "probe": "30 fixed raw material inputs per parent and each accepted control, both boundaries raw1..15",
+    "same_cohort": "55 G0 parents with exact on-cycle support/period/phase0 occupancy matching in up to 100 attempts"
+  },
+  "summary": {
+    "control_microstates": 87,
+    "endpoints": {
+      "10": {
+        "any_choice_can_control_win_parents": 41,
+        "any_choice_can_g0_win_parents": 16,
+        "arbitrary_per_parent_choice_sensitivity_envelope": [
+          -0.2018181818181818,
+          -0.11454545454545455
+        ],
+        "multi_candidate_parents_with_both_strict_signs_possible": 6,
+        "multi_candidate_parents_with_control_outcome_variation": 20,
+        "original_first_choice_bounds": [
+          -0.16969696969696968,
+          -0.16969696969696968
+        ],
+        "original_guaranteed_control_positive_parents": 37,
+        "original_guaranteed_g0_positive_parents": 11,
+        "within_parent_uniform_candidate_mean_bounds": [
+          -0.15677777777777777,
+          -0.15677777777777777
+        ]
+      },
+      "60": {
+        "any_choice_can_control_win_parents": 41,
+        "any_choice_can_g0_win_parents": 14,
+        "arbitrary_per_parent_choice_sensitivity_envelope": [
+          -0.17939393939393938,
+          -0.10424242424242423
+        ],
+        "multi_candidate_parents_with_both_strict_signs_possible": 5,
+        "multi_candidate_parents_with_control_outcome_variation": 20,
+        "original_first_choice_bounds": [
+          -0.15333333333333332,
+          -0.1527272727272727
+        ],
+        "original_guaranteed_control_positive_parents": 37,
+        "original_guaranteed_g0_positive_parents": 10,
+        "within_parent_uniform_candidate_mean_bounds": [
+          -0.1407171717171717,
+          -0.1401111111111111
+        ]
+      }
+    },
+    "extra_control_probe_rows": 960,
+    "parent_count": 55,
+    "parents_with_multiple_eligible": 22
+  }
+}
