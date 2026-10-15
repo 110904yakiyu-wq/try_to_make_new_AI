@@ -1,0 +1,7 @@
+matched_pairs=55 snapshot_phase=0 outcome_horizon=500
+snapshot_popcount equal_pairs=15 G0_higher=9 control_higher=2 tie=4 mean_connected_diff=4.066667
+adjacent_AND_popcount equal_pairs=20 G0_higher=8 control_higher=7 tie=5 mean_connected_diff=2.450000
+first_tick_hamming_flips equal_pairs=29 G0_higher=16 control_higher=9 tie=4 mean_connected_diff=2.517241
+first_tick_changed_triples equal_pairs=51 G0_higher=36 control_higher=10 tie=5 mean_connected_diff=5.176471
+first_tick_exact_changed_sites equal_pairs=20 G0_higher=9 control_higher=7 tie=4 mean_connected_diff=2.450000
+NOTE exploratory conditioning on one feature at a time; no causal attribution
