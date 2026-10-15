@@ -1,0 +1,802 @@
+{
+  "certification": "ever_full if visited all 60 positions, never_full if complete full-state+next-phase recurrence was detected first with no full historical spread; otherwise right-censored",
+  "endpoint": "Ever visits all 60 ring positions by a nonzero raw window value, cumulative historical union. NOT eventual recurrent connected-cycle class.",
+  "experiment": 129,
+  "horizon_bounds": {
+    "100": {
+      "G0": {
+        "never_full_certified": 1454,
+        "unresolved": 196
+      },
+      "G0_spreads_more_guaranteed_parents": 0,
+      "control": {
+        "ever_full": 5,
+        "never_full_certified": 1214,
+        "unresolved": 431
+      },
+      "control_spreads_more_guaranteed_parents": 0,
+      "lower_count_difference": -436,
+      "lower_rate_difference": -0.2642424242424242,
+      "parent_sign_indeterminate": 55,
+      "upper_count_difference": 191,
+      "upper_rate_difference": 0.11575757575757575
+    },
+    "1000": {
+      "G0": {
+        "ever_full": 143,
+        "never_full_certified": 1507
+      },
+      "G0_spreads_more_guaranteed_parents": 10,
+      "control": {
+        "ever_full": 395,
+        "never_full_certified": 1252,
+        "unresolved": 3
+      },
+      "control_spreads_more_guaranteed_parents": 37,
+      "lower_count_difference": -255,
+      "lower_rate_difference": -0.15454545454545454,
+      "parent_sign_indeterminate": 8,
+      "upper_count_difference": -252,
+      "upper_rate_difference": -0.15272727272727274
+    },
+    "2000": {
+      "G0": {
+        "ever_full": 143,
+        "never_full_certified": 1507
+      },
+      "G0_spreads_more_guaranteed_parents": 10,
+      "control": {
+        "ever_full": 395,
+        "never_full_certified": 1254,
+        "unresolved": 1
+      },
+      "control_spreads_more_guaranteed_parents": 37,
+      "lower_count_difference": -253,
+      "lower_rate_difference": -0.15333333333333332,
+      "parent_sign_indeterminate": 8,
+      "upper_count_difference": -252,
+      "upper_rate_difference": -0.15272727272727274
+    },
+    "250": {
+      "G0": {
+        "ever_full": 12,
+        "never_full_certified": 1507,
+        "unresolved": 131
+      },
+      "G0_spreads_more_guaranteed_parents": 2,
+      "control": {
+        "ever_full": 24,
+        "never_full_certified": 1248,
+        "unresolved": 378
+      },
+      "control_spreads_more_guaranteed_parents": 12,
+      "lower_count_difference": -390,
+      "lower_rate_difference": -0.23636363636363636,
+      "parent_sign_indeterminate": 41,
+      "upper_count_difference": 119,
+      "upper_rate_difference": 0.07212121212121213
+    },
+    "500": {
+      "G0": {
+        "ever_full": 129,
+        "never_full_certified": 1507,
+        "unresolved": 14
+      },
+      "G0_spreads_more_guaranteed_parents": 10,
+      "control": {
+        "ever_full": 369,
+        "never_full_certified": 1251,
+        "unresolved": 30
+      },
+      "control_spreads_more_guaranteed_parents": 37,
+      "lower_count_difference": -270,
+      "lower_rate_difference": -0.16363636363636364,
+      "parent_sign_indeterminate": 8,
+      "upper_count_difference": -226,
+      "upper_rate_difference": -0.13696969696969696
+    },
+    "50000": {
+      "G0": {
+        "ever_full": 143,
+        "never_full_certified": 1507
+      },
+      "G0_spreads_more_guaranteed_parents": 10,
+      "control": {
+        "ever_full": 395,
+        "never_full_certified": 1254,
+        "unresolved": 1
+      },
+      "control_spreads_more_guaranteed_parents": 37,
+      "lower_count_difference": -253,
+      "lower_rate_difference": -0.15333333333333332,
+      "parent_sign_indeterminate": 8,
+      "upper_count_difference": -252,
+      "upper_rate_difference": -0.15272727272727274
+    }
+  },
+  "metadata": {
+    "max_ticks": 50000,
+    "n_parents": 55,
+    "n_per_arm": 1650,
+    "reference": "Experiment127 recurrence CSV and frozen phase0 parent/control states",
+    "unique_initial_states": 3270
+  },
+  "parent_records_at_max_horizon": [
+    {
+      "G0": {
+        "never_full_certified": 30
+      },
+      "control": {
+        "ever_full": 4,
+        "never_full_certified": 26
+      },
+      "lower_difference": -4,
+      "parent_id": 2,
+      "upper_difference": -4
+    },
+    {
+      "G0": {
+        "ever_full": 7,
+        "never_full_certified": 23
+      },
+      "control": {
+        "ever_full": 11,
+        "never_full_certified": 19
+      },
+      "lower_difference": -4,
+      "parent_id": 4,
+      "upper_difference": -4
+    },
+    {
+      "G0": {
+        "never_full_certified": 30
+      },
+      "control": {
+        "ever_full": 9,
+        "never_full_certified": 21
+      },
+      "lower_difference": -9,
+      "parent_id": 5,
+      "upper_difference": -9
+    },
+    {
+      "G0": {
+        "ever_full": 6,
+        "never_full_certified": 24
+      },
+      "control": {
+        "ever_full": 12,
+        "never_full_certified": 18
+      },
+      "lower_difference": -6,
+      "parent_id": 6,
+      "upper_difference": -6
+    },
+    {
+      "G0": {
+        "never_full_certified": 30
+      },
+      "control": {
+        "never_full_certified": 30
+      },
+      "lower_difference": 0,
+      "parent_id": 8,
+      "upper_difference": 0
+    },
+    {
+      "G0": {
+        "ever_full": 7,
+        "never_full_certified": 23
+      },
+      "control": {
+        "ever_full": 4,
+        "never_full_certified": 26
+      },
+      "lower_difference": 3,
+      "parent_id": 9,
+      "upper_difference": 3
+    },
+    {
+      "G0": {
+        "never_full_certified": 30
+      },
+      "control": {
+        "ever_full": 13,
+        "never_full_certified": 17
+      },
+      "lower_difference": -13,
+      "parent_id": 11,
+      "upper_difference": -13
+    },
+    {
+      "G0": {
+        "never_full_certified": 30
+      },
+      "control": {
+        "ever_full": 7,
+        "never_full_certified": 23
+      },
+      "lower_difference": -7,
+      "parent_id": 12,
+      "upper_difference": -7
+    },
+    {
+      "G0": {
+        "ever_full": 6,
+        "never_full_certified": 24
+      },
+      "control": {
+        "ever_full": 7,
+        "never_full_certified": 23
+      },
+      "lower_difference": -1,
+      "parent_id": 13,
+      "upper_difference": -1
+    },
+    {
+      "G0": {
+        "ever_full": 7,
+        "never_full_certified": 23
+      },
+      "control": {
+        "ever_full": 3,
+        "never_full_certified": 27
+      },
+      "lower_difference": 4,
+      "parent_id": 17,
+      "upper_difference": 4
+    },
+    {
+      "G0": {
+        "ever_full": 6,
+        "never_full_certified": 24
+      },
+      "control": {
+        "ever_full": 14,
+        "never_full_certified": 16
+      },
+      "lower_difference": -8,
+      "parent_id": 19,
+      "upper_difference": -8
+    },
+    {
+      "G0": {
+        "ever_full": 4,
+        "never_full_certified": 26
+      },
+      "control": {
+        "ever_full": 11,
+        "never_full_certified": 19
+      },
+      "lower_difference": -7,
+      "parent_id": 22,
+      "upper_difference": -7
+    },
+    {
+      "G0": {
+        "ever_full": 8,
+        "never_full_certified": 22
+      },
+      "control": {
+        "ever_full": 11,
+        "never_full_certified": 19
+      },
+      "lower_difference": -3,
+      "parent_id": 23,
+      "upper_difference": -3
+    },
+    {
+      "G0": {
+        "never_full_certified": 30
+      },
+      "control": {
+        "ever_full": 16,
+        "never_full_certified": 14
+      },
+      "lower_difference": -16,
+      "parent_id": 24,
+      "upper_difference": -16
+    },
+    {
+      "G0": {
+        "never_full_certified": 30
+      },
+      "control": {
+        "ever_full": 4,
+        "never_full_certified": 26
+      },
+      "lower_difference": -4,
+      "parent_id": 25,
+      "upper_difference": -4
+    },
+    {
+      "G0": {
+        "ever_full": 7,
+        "never_full_certified": 23
+      },
+      "control": {
+        "ever_full": 3,
+        "never_full_certified": 27
+      },
+      "lower_difference": 4,
+      "parent_id": 26,
+      "upper_difference": 4
+    },
+    {
+      "G0": {
+        "never_full_certified": 30
+      },
+      "control": {
+        "ever_full": 9,
+        "never_full_certified": 21
+      },
+      "lower_difference": -9,
+      "parent_id": 28,
+      "upper_difference": -9
+    },
+    {
+      "G0": {
+        "never_full_certified": 30
+      },
+      "control": {
+        "never_full_certified": 30
+      },
+      "lower_difference": 0,
+      "parent_id": 29,
+      "upper_difference": 0
+    },
+    {
+      "G0": {
+        "never_full_certified": 30
+      },
+      "control": {
+        "ever_full": 4,
+        "never_full_certified": 26
+      },
+      "lower_difference": -4,
+      "parent_id": 32,
+      "upper_difference": -4
+    },
+    {
+      "G0": {
+        "never_full_certified": 30
+      },
+      "control": {
+        "ever_full": 11,
+        "never_full_certified": 19
+      },
+      "lower_difference": -11,
+      "parent_id": 33,
+      "upper_difference": -11
+    },
+    {
+      "G0": {
+        "never_full_certified": 30
+      },
+      "control": {
+        "ever_full": 10,
+        "never_full_certified": 20
+      },
+      "lower_difference": -10,
+      "parent_id": 34,
+      "upper_difference": -10
+    },
+    {
+      "G0": {
+        "never_full_certified": 30
+      },
+      "control": {
+        "ever_full": 8,
+        "never_full_certified": 22
+      },
+      "lower_difference": -8,
+      "parent_id": 35,
+      "upper_difference": -8
+    },
+    {
+      "G0": {
+        "ever_full": 7,
+        "never_full_certified": 23
+      },
+      "control": {
+        "ever_full": 7,
+        "never_full_certified": 23
+      },
+      "lower_difference": 0,
+      "parent_id": 36,
+      "upper_difference": 0
+    },
+    {
+      "G0": {
+        "never_full_certified": 30
+      },
+      "control": {
+        "ever_full": 4,
+        "never_full_certified": 26
+      },
+      "lower_difference": -4,
+      "parent_id": 37,
+      "upper_difference": -4
+    },
+    {
+      "G0": {
+        "ever_full": 7,
+        "never_full_certified": 23
+      },
+      "control": {
+        "never_full_certified": 30
+      },
+      "lower_difference": 7,
+      "parent_id": 38,
+      "upper_difference": 7
+    },
+    {
+      "G0": {
+        "never_full_certified": 30
+      },
+      "control": {
+        "ever_full": 5,
+        "never_full_certified": 25
+      },
+      "lower_difference": -5,
+      "parent_id": 39,
+      "upper_difference": -5
+    },
+    {
+      "G0": {
+        "never_full_certified": 30
+      },
+      "control": {
+        "never_full_certified": 30
+      },
+      "lower_difference": 0,
+      "parent_id": 42,
+      "upper_difference": 0
+    },
+    {
+      "G0": {
+        "ever_full": 5,
+        "never_full_certified": 25
+      },
+      "control": {
+        "ever_full": 9,
+        "never_full_certified": 21
+      },
+      "lower_difference": -4,
+      "parent_id": 45,
+      "upper_difference": -4
+    },
+    {
+      "G0": {
+        "ever_full": 7,
+        "never_full_certified": 23
+      },
+      "control": {
+        "ever_full": 7,
+        "never_full_certified": 23
+      },
+      "lower_difference": 0,
+      "parent_id": 46,
+      "upper_difference": 0
+    },
+    {
+      "G0": {
+        "never_full_certified": 30
+      },
+      "control": {
+        "ever_full": 10,
+        "never_full_certified": 20
+      },
+      "lower_difference": -10,
+      "parent_id": 48,
+      "upper_difference": -10
+    },
+    {
+      "G0": {
+        "ever_full": 8,
+        "never_full_certified": 22
+      },
+      "control": {
+        "never_full_certified": 30
+      },
+      "lower_difference": 8,
+      "parent_id": 49,
+      "upper_difference": 8
+    },
+    {
+      "G0": {
+        "never_full_certified": 30
+      },
+      "control": {
+        "never_full_certified": 30
+      },
+      "lower_difference": 0,
+      "parent_id": 52,
+      "upper_difference": 0
+    },
+    {
+      "G0": {
+        "ever_full": 5,
+        "never_full_certified": 25
+      },
+      "control": {
+        "ever_full": 8,
+        "never_full_certified": 22
+      },
+      "lower_difference": -3,
+      "parent_id": 59,
+      "upper_difference": -3
+    },
+    {
+      "G0": {
+        "never_full_certified": 30
+      },
+      "control": {
+        "ever_full": 3,
+        "never_full_certified": 27
+      },
+      "lower_difference": -3,
+      "parent_id": 61,
+      "upper_difference": -3
+    },
+    {
+      "G0": {
+        "never_full_certified": 30
+      },
+      "control": {
+        "ever_full": 11,
+        "never_full_certified": 19
+      },
+      "lower_difference": -11,
+      "parent_id": 62,
+      "upper_difference": -11
+    },
+    {
+      "G0": {
+        "never_full_certified": 30
+      },
+      "control": {
+        "never_full_certified": 30
+      },
+      "lower_difference": 0,
+      "parent_id": 63,
+      "upper_difference": 0
+    },
+    {
+      "G0": {
+        "never_full_certified": 30
+      },
+      "control": {
+        "ever_full": 9,
+        "never_full_certified": 21
+      },
+      "lower_difference": -9,
+      "parent_id": 66,
+      "upper_difference": -9
+    },
+    {
+      "G0": {
+        "never_full_certified": 30
+      },
+      "control": {
+        "ever_full": 11,
+        "never_full_certified": 19
+      },
+      "lower_difference": -11,
+      "parent_id": 73,
+      "upper_difference": -11
+    },
+    {
+      "G0": {
+        "ever_full": 5,
+        "never_full_certified": 25
+      },
+      "control": {
+        "ever_full": 9,
+        "never_full_certified": 21
+      },
+      "lower_difference": -4,
+      "parent_id": 75,
+      "upper_difference": -4
+    },
+    {
+      "G0": {
+        "ever_full": 8,
+        "never_full_certified": 22
+      },
+      "control": {
+        "ever_full": 16,
+        "never_full_certified": 14
+      },
+      "lower_difference": -8,
+      "parent_id": 76,
+      "upper_difference": -8
+    },
+    {
+      "G0": {
+        "never_full_certified": 30
+      },
+      "control": {
+        "ever_full": 7,
+        "never_full_certified": 23
+      },
+      "lower_difference": -7,
+      "parent_id": 77,
+      "upper_difference": -7
+    },
+    {
+      "G0": {
+        "never_full_certified": 30
+      },
+      "control": {
+        "ever_full": 17,
+        "never_full_certified": 13
+      },
+      "lower_difference": -17,
+      "parent_id": 79,
+      "upper_difference": -17
+    },
+    {
+      "G0": {
+        "never_full_certified": 30
+      },
+      "control": {
+        "ever_full": 12,
+        "never_full_certified": 17,
+        "unresolved": 1
+      },
+      "lower_difference": -13,
+      "parent_id": 80,
+      "upper_difference": -12
+    },
+    {
+      "G0": {
+        "ever_full": 7,
+        "never_full_certified": 23
+      },
+      "control": {
+        "ever_full": 4,
+        "never_full_certified": 26
+      },
+      "lower_difference": 3,
+      "parent_id": 85,
+      "upper_difference": 3
+    },
+    {
+      "G0": {
+        "never_full_certified": 30
+      },
+      "control": {
+        "ever_full": 7,
+        "never_full_certified": 23
+      },
+      "lower_difference": -7,
+      "parent_id": 86,
+      "upper_difference": -7
+    },
+    {
+      "G0": {
+        "ever_full": 5,
+        "never_full_certified": 25
+      },
+      "control": {
+        "never_full_certified": 30
+      },
+      "lower_difference": 5,
+      "parent_id": 90,
+      "upper_difference": 5
+    },
+    {
+      "G0": {
+        "never_full_certified": 30
+      },
+      "control": {
+        "ever_full": 5,
+        "never_full_certified": 25
+      },
+      "lower_difference": -5,
+      "parent_id": 91,
+      "upper_difference": -5
+    },
+    {
+      "G0": {
+        "ever_full": 5,
+        "never_full_certified": 25
+      },
+      "control": {
+        "ever_full": 3,
+        "never_full_certified": 27
+      },
+      "lower_difference": 2,
+      "parent_id": 92,
+      "upper_difference": 2
+    },
+    {
+      "G0": {
+        "never_full_certified": 30
+      },
+      "control": {
+        "ever_full": 9,
+        "never_full_certified": 21
+      },
+      "lower_difference": -9,
+      "parent_id": 99,
+      "upper_difference": -9
+    },
+    {
+      "G0": {
+        "ever_full": 7,
+        "never_full_certified": 23
+      },
+      "control": {
+        "ever_full": 5,
+        "never_full_certified": 25
+      },
+      "lower_difference": 2,
+      "parent_id": 102,
+      "upper_difference": 2
+    },
+    {
+      "G0": {
+        "ever_full": 4,
+        "never_full_certified": 26
+      },
+      "control": {
+        "never_full_certified": 30
+      },
+      "lower_difference": 4,
+      "parent_id": 104,
+      "upper_difference": 4
+    },
+    {
+      "G0": {
+        "ever_full": 5,
+        "never_full_certified": 25
+      },
+      "control": {
+        "ever_full": 5,
+        "never_full_certified": 25
+      },
+      "lower_difference": 0,
+      "parent_id": 106,
+      "upper_difference": 0
+    },
+    {
+      "G0": {
+        "never_full_certified": 30
+      },
+      "control": {
+        "ever_full": 10,
+        "never_full_certified": 20
+      },
+      "lower_difference": -10,
+      "parent_id": 108,
+      "upper_difference": -10
+    },
+    {
+      "G0": {
+        "never_full_certified": 30
+      },
+      "control": {
+        "ever_full": 11,
+        "never_full_certified": 19
+      },
+      "lower_difference": -11,
+      "parent_id": 111,
+      "upper_difference": -11
+    },
+    {
+      "G0": {
+        "never_full_certified": 30
+      },
+      "control": {
+        "ever_full": 20,
+        "never_full_certified": 10
+      },
+      "lower_difference": -20,
+      "parent_id": 126,
+      "upper_difference": -20
+    }
+  ],
+  "population": "55 frozen exact-autonomous-matched G0/control pairs, 30 material probes per arm"
+}
