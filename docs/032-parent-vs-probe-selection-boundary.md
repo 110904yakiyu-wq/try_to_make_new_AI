@@ -1,0 +1,9 @@
+# 032 — Spread associations reverse within fixed matched parents when conditioning on physical probe features
+
+Experiment 132 decomposes Experiment 131's physical-feature conditioned 1,650 paired G0/control probe observations, without additional dynamics, control selection or material injections. Once eligible parents are fixed, compare the **whole 30-probe panel** to the subset matching initial bit density, adjacent AND, first-tick Hamming-flip count and first-tick changed-window mask.
+
+At cumulative spread K=10, AND-equal selection yields +2.38 percentage points among 168 probes, while *the same 14 parents* have −11.90 pp over all 420 probes, and −21.43 pp on 252 excluded probes. Exact first-tick changed-site mask equality yields +12.75 pp on 102 probes, while the same six parents have −2.78 pp over all 180 and −23.08 pp over the 78 excluded. The full 55-parent matched cohort remains −16.97 pp. For cumulative K=60, the same broad sign separation holds; censoring bounds remain explicit.
+
+These are exact deterministic decompositions of an observational subgroup, not separate replications, test-set generalization, statistical significance, intervention mediation or newly demonstrated G0 self-maintenance. Physical features are measured on the *post-material initial* microstate and one local update, so they may select particular material side/raw values based on mechanisms linked to propagation. Probe observations are clustered within parents, and parent-equal versus pooled estimands can disagree when eligible counts vary.
+
+The scientifically responsible next step is to retain the full 55-parent, fixed 30-probe population and seek controls that can be constructed *without selecting outcomes or dropping most probes*. Keep any impossibility/overlap failures as explicit observations. No cognitive primitive, reproduction, learning, goal or SELF follows from this audit.
