@@ -1,0 +1,133 @@
+{
+  "inventory": {
+    "parents": 20,
+    "w1_113_eligible_patches": 23,
+    "w1_candidate_states_examined": 910,
+    "w1_raw_distance_proposals": 98,
+    "w1_same_distance_mask_full_patches": 3,
+    "w1_same_distance_mask_patches": 15,
+    "w1_same_distance_mask_popcount_and_patches": 5,
+    "w1_same_distance_mask_popcount_patches": 9,
+    "w1_same_raw_distance_patches": 19,
+    "w1_swapped_site_sets": 65,
+    "w2_113_eligible_patches": 14,
+    "w2_candidate_states_examined": 11760,
+    "w2_raw_distance_proposals": 233,
+    "w2_same_distance_mask_full_patches": 5,
+    "w2_same_distance_mask_patches": 8,
+    "w2_same_distance_mask_popcount_and_patches": 5,
+    "w2_same_distance_mask_popcount_patches": 7,
+    "w2_same_raw_distance_patches": 13,
+    "w2_swapped_site_sets": 60,
+    "w3_113_eligible_patches": 20,
+    "w3_candidate_states_examined": 181104,
+    "w3_raw_distance_proposals": 252,
+    "w3_same_distance_mask_full_patches": 7,
+    "w3_same_distance_mask_patches": 13,
+    "w3_same_distance_mask_popcount_and_patches": 7,
+    "w3_same_distance_mask_popcount_patches": 10,
+    "w3_same_raw_distance_patches": 17,
+    "w3_swapped_site_sets": 66
+  },
+  "summary": {
+    "1": {
+      "eligibility": {
+        "same_distance_mask": {
+          "parents": 11,
+          "patches": 15,
+          "states_per_patch_sum": 42
+        },
+        "same_distance_mask_full": {
+          "parents": 2,
+          "patches": 3,
+          "states_per_patch_sum": 3
+        },
+        "same_distance_mask_popcount": {
+          "parents": 7,
+          "patches": 9,
+          "states_per_patch_sum": 15
+        },
+        "same_distance_mask_popcount_and": {
+          "parents": 4,
+          "patches": 5,
+          "states_per_patch_sum": 5
+        },
+        "same_raw_distance": {
+          "parents": 14,
+          "patches": 19,
+          "states_per_patch_sum": 98
+        }
+      },
+      "original_contexts": 23,
+      "parents": 15,
+      "states_examined": 910,
+      "swapped_site_sets": 65
+    },
+    "2": {
+      "eligibility": {
+        "same_distance_mask": {
+          "parents": 6,
+          "patches": 8,
+          "states_per_patch_sum": 45
+        },
+        "same_distance_mask_full": {
+          "parents": 4,
+          "patches": 5,
+          "states_per_patch_sum": 10
+        },
+        "same_distance_mask_popcount": {
+          "parents": 5,
+          "patches": 7,
+          "states_per_patch_sum": 23
+        },
+        "same_distance_mask_popcount_and": {
+          "parents": 4,
+          "patches": 5,
+          "states_per_patch_sum": 10
+        },
+        "same_raw_distance": {
+          "parents": 10,
+          "patches": 13,
+          "states_per_patch_sum": 233
+        }
+      },
+      "original_contexts": 14,
+      "parents": 10,
+      "states_examined": 11760,
+      "swapped_site_sets": 60
+    },
+    "3": {
+      "eligibility": {
+        "same_distance_mask": {
+          "parents": 11,
+          "patches": 13,
+          "states_per_patch_sum": 71
+        },
+        "same_distance_mask_full": {
+          "parents": 5,
+          "patches": 7,
+          "states_per_patch_sum": 15
+        },
+        "same_distance_mask_popcount": {
+          "parents": 8,
+          "patches": 10,
+          "states_per_patch_sum": 32
+        },
+        "same_distance_mask_popcount_and": {
+          "parents": 5,
+          "patches": 7,
+          "states_per_patch_sum": 16
+        },
+        "same_raw_distance": {
+          "parents": 14,
+          "patches": 17,
+          "states_per_patch_sum": 252
+        }
+      },
+      "original_contexts": 20,
+      "parents": 16,
+      "states_examined": 181104,
+      "swapped_site_sets": 66
+    }
+  }
+}
