@@ -1,0 +1,15 @@
+direction=left parents=130 material_conditions_per_parent=30 max_ticks=500 null_replicates=2
+category_order=strict_fission,fragmented_not_independent,active_connected,static,timeout
+actual=36,144,3396,56,268
+null_1=37,109,737,8,3009
+null_2=45,119,714,18,3004
+category=strict_fission actual=36 null_mean=41.000 null_min=37 null_max=45
+category=fragmented_not_independent actual=144 null_mean=114.000 null_min=109 null_max=119
+category=active_connected actual=3396 null_mean=725.500 null_min=714 null_max=737
+category=static actual=56 null_mean=13.000 null_min=8 null_max=18
+category=timeout actual=268 null_mean=3006.500 null_min=3004 null_max=3009
+parent_level category=strict_fission mean_diff=-0.038462 positive=8 negative=58 tie=64
+parent_level category=active_connected mean_diff=20.542308 positive=126 negative=2 tie=2
+parent_level category=timeout mean_diff=-21.065385 positive=0 negative=130 tie=0
+total_variation_between_pooled_outcome_distributions=0.703462
+daughters_actual=72 daughters_null_replicates=[77, 93]
