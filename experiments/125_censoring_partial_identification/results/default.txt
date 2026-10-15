@@ -1,0 +1,29 @@
+{
+  "summary": {
+    "G0": {
+      "censored": 143,
+      "connected": 1486,
+      "fragmented": 17,
+      "static": 4
+    },
+    "control": {
+      "censored": 398,
+      "connected": 1215,
+      "fragmented": 30,
+      "static": 7
+    },
+    "lower_bound_connected_difference": -127,
+    "lower_bound_fraction_difference": -0.07696969696969697,
+    "matched_parents": 55,
+    "material_conditions_each_arm": 1650,
+    "observed_connected_difference": 271,
+    "observed_fraction_difference": 0.16424242424242425,
+    "parent_indeterminate": 43,
+    "parent_robust_negative": 1,
+    "parent_robust_positive": 11,
+    "parents_some_negative_possible": 28,
+    "parents_some_positive_possible": 46,
+    "upper_bound_connected_difference": 414,
+    "upper_bound_fraction_difference": 0.2509090909090909
+  }
+}
