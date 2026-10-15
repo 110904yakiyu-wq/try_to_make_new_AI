@@ -1,0 +1,11 @@
+parent_index,seed_a,seed_b,site,donor_raw,recipient_raw,donor_recipient_gap,actual_gain,actual_exact_transfer,mask_null_pool,mask_null_count,mask_null_mean_gain,bitflip_null_pool,bitflip_null_count,bitflip_null_mean_gain,probe_mask_agree
+2,1,5,29,2,12,2,2,1,4,2,1.5,0,0,,6
+2,1,5,31,5,1,2,0,0,2,2,-3,1,1,-2,6
+8,2,2,29,4,10,0,-3,0,4,2,-1,0,0,,6
+9,2,3,29,4,2,4,0,0,4,2,-0.5,1,1,-1,6
+17,3,2,32,4,6,3,1,0,5,2,0,2,2,-1,6
+38,5,9,29,2,4,1,-3,0,4,2,-2,1,1,-4,6
+85,10,12,29,1,3,4,2,0,6,2,-0.5,2,2,0.5,6
+85,10,12,30,10,8,4,1,0,2,2,-0.5,1,1,0,6
+85,10,12,32,1,4,4,0,0,5,2,1,2,2,1.5,6
+106,13,1,32,2,14,2,2,1,5,2,1,2,2,1,6
