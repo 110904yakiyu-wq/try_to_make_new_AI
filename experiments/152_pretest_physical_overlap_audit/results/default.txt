@@ -1,0 +1,604 @@
+{
+  "24": {
+    "all_parent_side_contexts": 260,
+    "comparisons": {
+      "pulse7__pulse11": {
+        "bits": {
+          "eligible_contexts": 90,
+          "metrics": {
+            "reached_10": {
+              "mean_b_minus_a": 0.011029411764705883,
+              "parent_a_higher": 0,
+              "parent_b_higher": 3,
+              "parent_tied": 65
+            },
+            "reached_30": {
+              "mean_b_minus_a": -0.007352941176470588,
+              "parent_a_higher": 1,
+              "parent_b_higher": 0,
+              "parent_tied": 67
+            },
+            "union_affected_sites": {
+              "mean_b_minus_a": -0.31066176470588236,
+              "parent_a_higher": 30,
+              "parent_b_higher": 18,
+              "parent_tied": 20
+            }
+          },
+          "parent_clusters": 68
+        },
+        "both": {
+          "eligible_contexts": 76,
+          "metrics": {
+            "reached_10": {
+              "mean_b_minus_a": 0.008928571428571428,
+              "parent_a_higher": 0,
+              "parent_b_higher": 2,
+              "parent_tied": 54
+            },
+            "reached_30": {
+              "mean_b_minus_a": -0.008928571428571428,
+              "parent_a_higher": 1,
+              "parent_b_higher": 0,
+              "parent_tied": 55
+            },
+            "union_affected_sites": {
+              "mean_b_minus_a": -0.3950892857142857,
+              "parent_a_higher": 24,
+              "parent_b_higher": 15,
+              "parent_tied": 17
+            }
+          },
+          "parent_clusters": 56
+        },
+        "occupancy": {
+          "eligible_contexts": 117,
+          "metrics": {
+            "reached_10": {
+              "mean_b_minus_a": 0.005952380952380952,
+              "parent_a_higher": 0,
+              "parent_b_higher": 2,
+              "parent_tied": 82
+            },
+            "reached_30": {
+              "mean_b_minus_a": -0.008928571428571428,
+              "parent_a_higher": 2,
+              "parent_b_higher": 0,
+              "parent_tied": 82
+            },
+            "union_affected_sites": {
+              "mean_b_minus_a": -0.3586309523809524,
+              "parent_a_higher": 41,
+              "parent_b_higher": 24,
+              "parent_tied": 19
+            }
+          },
+          "parent_clusters": 84
+        },
+        "unconditional": {
+          "eligible_contexts": 228,
+          "metrics": {
+            "reached_10": {
+              "mean_b_minus_a": 0.007692307692307693,
+              "parent_a_higher": 7,
+              "parent_b_higher": 11,
+              "parent_tied": 112
+            },
+            "reached_30": {
+              "mean_b_minus_a": -0.004807692307692308,
+              "parent_a_higher": 3,
+              "parent_b_higher": 1,
+              "parent_tied": 126
+            },
+            "union_affected_sites": {
+              "mean_b_minus_a": -0.15,
+              "parent_a_higher": 66,
+              "parent_b_higher": 46,
+              "parent_tied": 18
+            }
+          },
+          "parent_clusters": 130
+        }
+      },
+      "sham__pulse11": {
+        "bits": {
+          "eligible_contexts": 9,
+          "metrics": {
+            "reached_10": {
+              "mean_b_minus_a": 0.05555555555555555,
+              "parent_a_higher": 0,
+              "parent_b_higher": 2,
+              "parent_tied": 7
+            },
+            "reached_30": {
+              "mean_b_minus_a": 0.0,
+              "parent_a_higher": 0,
+              "parent_b_higher": 0,
+              "parent_tied": 9
+            },
+            "union_affected_sites": {
+              "mean_b_minus_a": -0.4444444444444444,
+              "parent_a_higher": 4,
+              "parent_b_higher": 3,
+              "parent_tied": 2
+            }
+          },
+          "parent_clusters": 9
+        },
+        "both": {
+          "eligible_contexts": 3,
+          "metrics": {
+            "reached_10": {
+              "mean_b_minus_a": 0.16666666666666666,
+              "parent_a_higher": 0,
+              "parent_b_higher": 2,
+              "parent_tied": 1
+            },
+            "reached_30": {
+              "mean_b_minus_a": 0.0,
+              "parent_a_higher": 0,
+              "parent_b_higher": 0,
+              "parent_tied": 3
+            },
+            "union_affected_sites": {
+              "mean_b_minus_a": 0.3333333333333333,
+              "parent_a_higher": 1,
+              "parent_b_higher": 2,
+              "parent_tied": 0
+            }
+          },
+          "parent_clusters": 3
+        },
+        "occupancy": {
+          "eligible_contexts": 21,
+          "metrics": {
+            "reached_10": {
+              "mean_b_minus_a": 0.05921052631578947,
+              "parent_a_higher": 0,
+              "parent_b_higher": 5,
+              "parent_tied": 14
+            },
+            "reached_30": {
+              "mean_b_minus_a": 0.0,
+              "parent_a_higher": 0,
+              "parent_b_higher": 0,
+              "parent_tied": 19
+            },
+            "union_affected_sites": {
+              "mean_b_minus_a": 0.7960526315789473,
+              "parent_a_higher": 4,
+              "parent_b_higher": 11,
+              "parent_tied": 4
+            }
+          },
+          "parent_clusters": 19
+        },
+        "unconditional": {
+          "eligible_contexts": 228,
+          "metrics": {
+            "reached_10": {
+              "mean_b_minus_a": 0.058653846153846154,
+              "parent_a_higher": 0,
+              "parent_b_higher": 21,
+              "parent_tied": 109
+            },
+            "reached_30": {
+              "mean_b_minus_a": 0.0038461538461538464,
+              "parent_a_higher": 0,
+              "parent_b_higher": 2,
+              "parent_tied": 128
+            },
+            "union_affected_sites": {
+              "mean_b_minus_a": 1.2413461538461539,
+              "parent_a_higher": 20,
+              "parent_b_higher": 81,
+              "parent_tied": 29
+            }
+          },
+          "parent_clusters": 130
+        }
+      },
+      "sham__pulse7": {
+        "bits": {
+          "eligible_contexts": 8,
+          "metrics": {
+            "reached_10": {
+              "mean_b_minus_a": 0.03125,
+              "parent_a_higher": 0,
+              "parent_b_higher": 1,
+              "parent_tied": 7
+            },
+            "reached_30": {
+              "mean_b_minus_a": 0.0,
+              "parent_a_higher": 0,
+              "parent_b_higher": 0,
+              "parent_tied": 8
+            },
+            "union_affected_sites": {
+              "mean_b_minus_a": -0.65625,
+              "parent_a_higher": 4,
+              "parent_b_higher": 1,
+              "parent_tied": 3
+            }
+          },
+          "parent_clusters": 8
+        },
+        "both": {
+          "eligible_contexts": 2,
+          "metrics": {
+            "reached_10": {
+              "mean_b_minus_a": 0.125,
+              "parent_a_higher": 0,
+              "parent_b_higher": 1,
+              "parent_tied": 1
+            },
+            "reached_30": {
+              "mean_b_minus_a": 0.0,
+              "parent_a_higher": 0,
+              "parent_b_higher": 0,
+              "parent_tied": 2
+            },
+            "union_affected_sites": {
+              "mean_b_minus_a": -0.5,
+              "parent_a_higher": 2,
+              "parent_b_higher": 0,
+              "parent_tied": 0
+            }
+          },
+          "parent_clusters": 2
+        },
+        "occupancy": {
+          "eligible_contexts": 19,
+          "metrics": {
+            "reached_10": {
+              "mean_b_minus_a": 0.05555555555555555,
+              "parent_a_higher": 0,
+              "parent_b_higher": 4,
+              "parent_tied": 14
+            },
+            "reached_30": {
+              "mean_b_minus_a": 0.0,
+              "parent_a_higher": 0,
+              "parent_b_higher": 0,
+              "parent_tied": 18
+            },
+            "union_affected_sites": {
+              "mean_b_minus_a": 0.20833333333333334,
+              "parent_a_higher": 6,
+              "parent_b_higher": 6,
+              "parent_tied": 6
+            }
+          },
+          "parent_clusters": 18
+        },
+        "unconditional": {
+          "eligible_contexts": 228,
+          "metrics": {
+            "reached_10": {
+              "mean_b_minus_a": 0.05096153846153846,
+              "parent_a_higher": 2,
+              "parent_b_higher": 19,
+              "parent_tied": 109
+            },
+            "reached_30": {
+              "mean_b_minus_a": 0.008653846153846154,
+              "parent_a_higher": 0,
+              "parent_b_higher": 5,
+              "parent_tied": 125
+            },
+            "union_affected_sites": {
+              "mean_b_minus_a": 1.3913461538461538,
+              "parent_a_higher": 15,
+              "parent_b_higher": 89,
+              "parent_tied": 26
+            }
+          },
+          "parent_clusters": 130
+        }
+      }
+    },
+    "ineligible": 32,
+    "pretest_probe_site_eligible": 228
+  },
+  "96": {
+    "all_parent_side_contexts": 260,
+    "comparisons": {
+      "pulse7__pulse11": {
+        "bits": {
+          "eligible_contexts": 87,
+          "metrics": {
+            "reached_10": {
+              "mean_b_minus_a": 0.011538461538461539,
+              "parent_a_higher": 0,
+              "parent_b_higher": 3,
+              "parent_tied": 62
+            },
+            "reached_30": {
+              "mean_b_minus_a": 0.0,
+              "parent_a_higher": 0,
+              "parent_b_higher": 0,
+              "parent_tied": 65
+            },
+            "union_affected_sites": {
+              "mean_b_minus_a": -0.20961538461538462,
+              "parent_a_higher": 28,
+              "parent_b_higher": 18,
+              "parent_tied": 19
+            }
+          },
+          "parent_clusters": 65
+        },
+        "both": {
+          "eligible_contexts": 78,
+          "metrics": {
+            "reached_10": {
+              "mean_b_minus_a": 0.008620689655172414,
+              "parent_a_higher": 0,
+              "parent_b_higher": 2,
+              "parent_tied": 56
+            },
+            "reached_30": {
+              "mean_b_minus_a": 0.0,
+              "parent_a_higher": 0,
+              "parent_b_higher": 0,
+              "parent_tied": 58
+            },
+            "union_affected_sites": {
+              "mean_b_minus_a": -0.21336206896551724,
+              "parent_a_higher": 23,
+              "parent_b_higher": 15,
+              "parent_tied": 20
+            }
+          },
+          "parent_clusters": 58
+        },
+        "occupancy": {
+          "eligible_contexts": 112,
+          "metrics": {
+            "reached_10": {
+              "mean_b_minus_a": 0.0058823529411764705,
+              "parent_a_higher": 0,
+              "parent_b_higher": 2,
+              "parent_tied": 83
+            },
+            "reached_30": {
+              "mean_b_minus_a": 0.0,
+              "parent_a_higher": 0,
+              "parent_b_higher": 0,
+              "parent_tied": 85
+            },
+            "union_affected_sites": {
+              "mean_b_minus_a": -0.15294117647058825,
+              "parent_a_higher": 38,
+              "parent_b_higher": 24,
+              "parent_tied": 23
+            }
+          },
+          "parent_clusters": 85
+        },
+        "unconditional": {
+          "eligible_contexts": 219,
+          "metrics": {
+            "reached_10": {
+              "mean_b_minus_a": -0.000984251968503937,
+              "parent_a_higher": 4,
+              "parent_b_higher": 8,
+              "parent_tied": 115
+            },
+            "reached_30": {
+              "mean_b_minus_a": -0.005905511811023622,
+              "parent_a_higher": 2,
+              "parent_b_higher": 2,
+              "parent_tied": 123
+            },
+            "union_affected_sites": {
+              "mean_b_minus_a": -0.3671259842519685,
+              "parent_a_higher": 66,
+              "parent_b_higher": 44,
+              "parent_tied": 17
+            }
+          },
+          "parent_clusters": 127
+        }
+      },
+      "sham__pulse11": {
+        "bits": {
+          "eligible_contexts": 6,
+          "metrics": {
+            "reached_10": {
+              "mean_b_minus_a": 0.0,
+              "parent_a_higher": 0,
+              "parent_b_higher": 0,
+              "parent_tied": 6
+            },
+            "reached_30": {
+              "mean_b_minus_a": 0.0,
+              "parent_a_higher": 0,
+              "parent_b_higher": 0,
+              "parent_tied": 6
+            },
+            "union_affected_sites": {
+              "mean_b_minus_a": -0.08333333333333333,
+              "parent_a_higher": 1,
+              "parent_b_higher": 4,
+              "parent_tied": 1
+            }
+          },
+          "parent_clusters": 6
+        },
+        "both": {
+          "eligible_contexts": 2,
+          "metrics": {
+            "reached_10": {
+              "mean_b_minus_a": 0.0,
+              "parent_a_higher": 0,
+              "parent_b_higher": 0,
+              "parent_tied": 2
+            },
+            "reached_30": {
+              "mean_b_minus_a": 0.0,
+              "parent_a_higher": 0,
+              "parent_b_higher": 0,
+              "parent_tied": 2
+            },
+            "union_affected_sites": {
+              "mean_b_minus_a": 1.0,
+              "parent_a_higher": 0,
+              "parent_b_higher": 2,
+              "parent_tied": 0
+            }
+          },
+          "parent_clusters": 2
+        },
+        "occupancy": {
+          "eligible_contexts": 23,
+          "metrics": {
+            "reached_10": {
+              "mean_b_minus_a": 0.0375,
+              "parent_a_higher": 0,
+              "parent_b_higher": 3,
+              "parent_tied": 17
+            },
+            "reached_30": {
+              "mean_b_minus_a": 0.0,
+              "parent_a_higher": 0,
+              "parent_b_higher": 0,
+              "parent_tied": 20
+            },
+            "union_affected_sites": {
+              "mean_b_minus_a": 1.08125,
+              "parent_a_higher": 3,
+              "parent_b_higher": 14,
+              "parent_tied": 3
+            }
+          },
+          "parent_clusters": 20
+        },
+        "unconditional": {
+          "eligible_contexts": 219,
+          "metrics": {
+            "reached_10": {
+              "mean_b_minus_a": 0.025590551181102362,
+              "parent_a_higher": 0,
+              "parent_b_higher": 13,
+              "parent_tied": 114
+            },
+            "reached_30": {
+              "mean_b_minus_a": 0.005905511811023622,
+              "parent_a_higher": 0,
+              "parent_b_higher": 2,
+              "parent_tied": 125
+            },
+            "union_affected_sites": {
+              "mean_b_minus_a": 0.7057086614173228,
+              "parent_a_higher": 23,
+              "parent_b_higher": 75,
+              "parent_tied": 29
+            }
+          },
+          "parent_clusters": 127
+        }
+      },
+      "sham__pulse7": {
+        "bits": {
+          "eligible_contexts": 6,
+          "metrics": {
+            "reached_10": {
+              "mean_b_minus_a": 0.041666666666666664,
+              "parent_a_higher": 0,
+              "parent_b_higher": 1,
+              "parent_tied": 5
+            },
+            "reached_30": {
+              "mean_b_minus_a": 0.0,
+              "parent_a_higher": 0,
+              "parent_b_higher": 0,
+              "parent_tied": 6
+            },
+            "union_affected_sites": {
+              "mean_b_minus_a": 0.4583333333333333,
+              "parent_a_higher": 1,
+              "parent_b_higher": 4,
+              "parent_tied": 1
+            }
+          },
+          "parent_clusters": 6
+        },
+        "both": {
+          "eligible_contexts": 2,
+          "metrics": {
+            "reached_10": {
+              "mean_b_minus_a": 0.125,
+              "parent_a_higher": 0,
+              "parent_b_higher": 1,
+              "parent_tied": 1
+            },
+            "reached_30": {
+              "mean_b_minus_a": 0.0,
+              "parent_a_higher": 0,
+              "parent_b_higher": 0,
+              "parent_tied": 2
+            },
+            "union_affected_sites": {
+              "mean_b_minus_a": 2.875,
+              "parent_a_higher": 0,
+              "parent_b_higher": 2,
+              "parent_tied": 0
+            }
+          },
+          "parent_clusters": 2
+        },
+        "occupancy": {
+          "eligible_contexts": 22,
+          "metrics": {
+            "reached_10": {
+              "mean_b_minus_a": 0.0375,
+              "parent_a_higher": 0,
+              "parent_b_higher": 3,
+              "parent_tied": 17
+            },
+            "reached_30": {
+              "mean_b_minus_a": 0.0,
+              "parent_a_higher": 0,
+              "parent_b_higher": 0,
+              "parent_tied": 20
+            },
+            "union_affected_sites": {
+              "mean_b_minus_a": 0.7,
+              "parent_a_higher": 3,
+              "parent_b_higher": 11,
+              "parent_tied": 6
+            }
+          },
+          "parent_clusters": 20
+        },
+        "unconditional": {
+          "eligible_contexts": 219,
+          "metrics": {
+            "reached_10": {
+              "mean_b_minus_a": 0.0265748031496063,
+              "parent_a_higher": 2,
+              "parent_b_higher": 11,
+              "parent_tied": 114
+            },
+            "reached_30": {
+              "mean_b_minus_a": 0.011811023622047244,
+              "parent_a_higher": 0,
+              "parent_b_higher": 2,
+              "parent_tied": 125
+            },
+            "union_affected_sites": {
+              "mean_b_minus_a": 1.0728346456692914,
+              "parent_a_higher": 19,
+              "parent_b_higher": 82,
+              "parent_tied": 26
+            }
+          },
+          "parent_clusters": 127
+        }
+      }
+    },
+    "ineligible": 41,
+    "pretest_probe_site_eligible": 219
+  }
+}

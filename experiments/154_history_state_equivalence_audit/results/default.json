@@ -1,0 +1,67 @@
+{
+  "experiment": 154,
+  "integrity": {
+    "paired_probe_keys": 440,
+    "same_state_future_mismatches": 0
+  },
+  "protocol": {
+    "claims": "observed order effect does not establish adaptation, abstract memory, SELF, or learning",
+    "future": "same raw heldout input at same site and same scheduler phase",
+    "inputs": "frozen Exp153 physical states and heldout responses",
+    "same_state": "exactly equal 60-window phase0 microstate at tick72 for ordered sequences",
+    "selection": "state identity defined pre-heldout, and group outcomes are descriptive only",
+    "theorem": "same full microstate + phase + intervention implies identical deterministic future"
+  },
+  "results": {
+    "different_state": {
+      "distinct_parents": 47,
+      "eligible_site_contexts": 64,
+      "paired_heldout_probes": 256,
+      "stats": {
+        "reached_10": {
+          "parent_mean_left_minus_right": -0.010638297872340425,
+          "parent_ties": 44,
+          "parents_left_higher": 0,
+          "parents_right_higher": 3
+        },
+        "reached_30": {
+          "parent_mean_left_minus_right": 0.0,
+          "parent_ties": 38,
+          "parents_left_higher": 4,
+          "parents_right_higher": 5
+        },
+        "union_affected_sites": {
+          "parent_mean_left_minus_right": -0.8723404255319149,
+          "parent_ties": 3,
+          "parents_left_higher": 18,
+          "parents_right_higher": 26
+        }
+      }
+    },
+    "same_state": {
+      "distinct_parents": 23,
+      "eligible_site_contexts": 46,
+      "paired_heldout_probes": 184,
+      "stats": {
+        "reached_10": {
+          "parent_mean_left_minus_right": 0.0,
+          "parent_ties": 23,
+          "parents_left_higher": 0,
+          "parents_right_higher": 0
+        },
+        "reached_30": {
+          "parent_mean_left_minus_right": 0.0,
+          "parent_ties": 23,
+          "parents_left_higher": 0,
+          "parents_right_higher": 0
+        },
+        "union_affected_sites": {
+          "parent_mean_left_minus_right": 0.0,
+          "parent_ties": 23,
+          "parents_left_higher": 0,
+          "parents_right_higher": 0
+        }
+      }
+    }
+  }
+}

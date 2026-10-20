@@ -1,0 +1,100 @@
+{
+  "inventory": {
+    "catalog_parents": 130,
+    "heldout_eligible_parents": 70,
+    "heldout_eligible_side_contexts": 110,
+    "observations_per_arm": 440,
+    "parents_evaluated": 130,
+    "two_order_interventions_both_feasible": 111
+  },
+  "summary": {
+    "reached_10": {
+      "contrasts": {
+        "left_first-right_first": {
+          "mean": -0.007142857142857143,
+          "parent_a_higher": 0,
+          "parent_b_higher": 3,
+          "parent_tied": 67
+        },
+        "left_first-simultaneous": {
+          "mean": -0.005357142857142857,
+          "parent_a_higher": 1,
+          "parent_b_higher": 3,
+          "parent_tied": 66
+        },
+        "right_first-simultaneous": {
+          "mean": 0.0017857142857142857,
+          "parent_a_higher": 1,
+          "parent_b_higher": 0,
+          "parent_tied": 69
+        }
+      },
+      "parent_count": 70,
+      "per_arm_mean": {
+        "left_first": 0.6785714285714286,
+        "right_first": 0.6857142857142857,
+        "simultaneous": 0.6839285714285714
+      }
+    },
+    "reached_30": {
+      "contrasts": {
+        "left_first-right_first": {
+          "mean": 0.0,
+          "parent_a_higher": 4,
+          "parent_b_higher": 5,
+          "parent_tied": 61
+        },
+        "left_first-simultaneous": {
+          "mean": 0.0,
+          "parent_a_higher": 3,
+          "parent_b_higher": 4,
+          "parent_tied": 63
+        },
+        "right_first-simultaneous": {
+          "mean": 0.0,
+          "parent_a_higher": 3,
+          "parent_b_higher": 3,
+          "parent_tied": 64
+        }
+      },
+      "parent_count": 70,
+      "per_arm_mean": {
+        "left_first": 0.02142857142857143,
+        "right_first": 0.02142857142857143,
+        "simultaneous": 0.02142857142857143
+      }
+    },
+    "state_identity": {
+      "all_three_same": 46,
+      "both_ordered_states_same": 46
+    },
+    "union_affected_sites": {
+      "contrasts": {
+        "left_first-right_first": {
+          "mean": -0.5857142857142857,
+          "parent_a_higher": 18,
+          "parent_b_higher": 26,
+          "parent_tied": 26
+        },
+        "left_first-simultaneous": {
+          "mean": -0.4732142857142857,
+          "parent_a_higher": 15,
+          "parent_b_higher": 24,
+          "parent_tied": 31
+        },
+        "right_first-simultaneous": {
+          "mean": 0.1125,
+          "parent_a_higher": 13,
+          "parent_b_higher": 20,
+          "parent_tied": 37
+        }
+      },
+      "parent_count": 70,
+      "per_arm_mean": {
+        "left_first": 14.644642857142857,
+        "right_first": 15.230357142857143,
+        "simultaneous": 15.117857142857142
+      }
+    }
+  }
+}

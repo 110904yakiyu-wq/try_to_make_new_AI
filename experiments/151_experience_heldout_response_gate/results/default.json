@@ -1,0 +1,206 @@
+{
+  "experiment": 151,
+  "inventory": {
+    "catalog_parents": 130,
+    "context_count": 520,
+    "eligible_contexts": 447,
+    "ineligible_contexts": 73,
+    "per_arm_probe_records": 1788,
+    "processed_parents": 130,
+    "total_response_records": 5364
+  },
+  "protocol": {
+    "censor": "finite-window causal response, not asymptotic cycle or survival; no censor substitution",
+    "kernel": "unchanged 60x4bit phase0 left rotation 3-scheduler 104/139",
+    "metric": "union over 60 ticks of physical positions changed vs each arm own no-test, phase-identical orbit",
+    "parents": "original G0 parent catalog; no matched-control filter",
+    "primary": "parent-average pulse7-sham contrast in union affected sites; pulse11 same-popcount specificity negative control",
+    "scope": "a single external pulse is not learning, and lower response spread is only observer-defined utility",
+    "test": "opposite original boundary x raw (1,5,9,14), never train raw values",
+    "test_site": "must be empty before injecting for ALL three arms, pretest eligibility",
+    "timing": "start from G0 phase0; wait 24 or 96 ticks; then test starts from phase0",
+    "train": "one externally introduced raw pulse on original cycle-union boundary; sham=0, equal-popcount raw7 or raw11"
+  },
+  "summary": {
+    "24:reached_10": {
+      "arm_means": {
+        "pulse11": 0.19326923076923078,
+        "pulse7": 0.18557692307692308,
+        "sham": 0.1346153846153846
+      },
+      "contrasts": {
+        "pulse11-sham": {
+          "mean": 0.058653846153846154,
+          "parent_negative": 0,
+          "parent_positive": 21,
+          "parent_tied": 109
+        },
+        "pulse7-pulse11": {
+          "mean": -0.007692307692307693,
+          "parent_negative": 11,
+          "parent_positive": 7,
+          "parent_tied": 112
+        },
+        "pulse7-sham": {
+          "mean": 0.05096153846153846,
+          "parent_negative": 2,
+          "parent_positive": 19,
+          "parent_tied": 109
+        }
+      },
+      "eligible_parent_clusters": 130,
+      "eligible_side_contexts": 228,
+      "heldout_records_per_arm": 912
+    },
+    "24:reached_30": {
+      "arm_means": {
+        "pulse11": 0.0038461538461538464,
+        "pulse7": 0.008653846153846154,
+        "sham": 0.0
+      },
+      "contrasts": {
+        "pulse11-sham": {
+          "mean": 0.0038461538461538464,
+          "parent_negative": 0,
+          "parent_positive": 2,
+          "parent_tied": 128
+        },
+        "pulse7-pulse11": {
+          "mean": 0.004807692307692308,
+          "parent_negative": 1,
+          "parent_positive": 3,
+          "parent_tied": 126
+        },
+        "pulse7-sham": {
+          "mean": 0.008653846153846154,
+          "parent_negative": 0,
+          "parent_positive": 5,
+          "parent_tied": 125
+        }
+      },
+      "eligible_parent_clusters": 130,
+      "eligible_side_contexts": 228,
+      "heldout_records_per_arm": 912
+    },
+    "24:union_affected_sites": {
+      "arm_means": {
+        "pulse11": 7.234615384615385,
+        "pulse7": 7.384615384615385,
+        "sham": 5.993269230769231
+      },
+      "contrasts": {
+        "pulse11-sham": {
+          "mean": 1.2413461538461539,
+          "parent_negative": 20,
+          "parent_positive": 81,
+          "parent_tied": 29
+        },
+        "pulse7-pulse11": {
+          "mean": 0.15,
+          "parent_negative": 46,
+          "parent_positive": 66,
+          "parent_tied": 18
+        },
+        "pulse7-sham": {
+          "mean": 1.3913461538461538,
+          "parent_negative": 15,
+          "parent_positive": 89,
+          "parent_tied": 26
+        }
+      },
+      "eligible_parent_clusters": 130,
+      "eligible_side_contexts": 228,
+      "heldout_records_per_arm": 912
+    },
+    "96:reached_10": {
+      "arm_means": {
+        "pulse11": 0.17224409448818898,
+        "pulse7": 0.1732283464566929,
+        "sham": 0.1466535433070866
+      },
+      "contrasts": {
+        "pulse11-sham": {
+          "mean": 0.025590551181102362,
+          "parent_negative": 0,
+          "parent_positive": 13,
+          "parent_tied": 114
+        },
+        "pulse7-pulse11": {
+          "mean": 0.000984251968503937,
+          "parent_negative": 8,
+          "parent_positive": 4,
+          "parent_tied": 115
+        },
+        "pulse7-sham": {
+          "mean": 0.0265748031496063,
+          "parent_negative": 2,
+          "parent_positive": 11,
+          "parent_tied": 114
+        }
+      },
+      "eligible_parent_clusters": 127,
+      "eligible_side_contexts": 219,
+      "heldout_records_per_arm": 876
+    },
+    "96:reached_30": {
+      "arm_means": {
+        "pulse11": 0.005905511811023622,
+        "pulse7": 0.011811023622047244,
+        "sham": 0.0
+      },
+      "contrasts": {
+        "pulse11-sham": {
+          "mean": 0.005905511811023622,
+          "parent_negative": 0,
+          "parent_positive": 2,
+          "parent_tied": 125
+        },
+        "pulse7-pulse11": {
+          "mean": 0.005905511811023622,
+          "parent_negative": 2,
+          "parent_positive": 2,
+          "parent_tied": 123
+        },
+        "pulse7-sham": {
+          "mean": 0.011811023622047244,
+          "parent_negative": 0,
+          "parent_positive": 2,
+          "parent_tied": 125
+        }
+      },
+      "eligible_parent_clusters": 127,
+      "eligible_side_contexts": 219,
+      "heldout_records_per_arm": 876
+    },
+    "96:union_affected_sites": {
+      "arm_means": {
+        "pulse11": 6.899606299212598,
+        "pulse7": 7.266732283464567,
+        "sham": 6.193897637795276
+      },
+      "contrasts": {
+        "pulse11-sham": {
+          "mean": 0.7057086614173228,
+          "parent_negative": 23,
+          "parent_positive": 75,
+          "parent_tied": 29
+        },
+        "pulse7-pulse11": {
+          "mean": 0.3671259842519685,
+          "parent_negative": 44,
+          "parent_positive": 66,
+          "parent_tied": 17
+        },
+        "pulse7-sham": {
+          "mean": 1.0728346456692914,
+          "parent_negative": 19,
+          "parent_positive": 82,
+          "parent_tied": 26
+        }
+      },
+      "eligible_parent_clusters": 127,
+      "eligible_side_contexts": 219,
+      "heldout_records_per_arm": 876
+    }
+  }
+}
