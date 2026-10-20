@@ -1,0 +1,54 @@
+{
+  "inventory": {
+    "catalog_parents": 130,
+    "heldout_sequences_per_parent": 49,
+    "physical_trajectories": 14690,
+    "processed_parents": 130,
+    "train_sequences_per_parent": 64
+  },
+  "summary": {
+    "counts_balanced_accuracy": 0.4918653846153846,
+    "descriptive_function_gate": {
+      "status": "exploratory_only_not_preregistered",
+      "terminal_lower_bound_gt_chance": false,
+      "terminal_minus_input_lower_bound_gt_zero": true
+    },
+    "heldout_parents_with_cross_label_state_collision": 1,
+    "input_only_balanced_accuracy": 0.45166666666666666,
+    "parent_cluster_bootstrap_95pct": {
+      "counts_balanced_accuracy": [
+        0.4831153846153846,
+        0.5005897435897436
+      ],
+      "input_only_balanced_accuracy": [
+        0.45166666666666666,
+        0.45166666666666666
+      ],
+      "shuffled_terminal_balanced_accuracy": [
+        0.4943115384615385,
+        0.5019938141025642
+      ],
+      "terminal_balanced_accuracy": [
+        0.49260817307692306,
+        0.508961858974359
+      ],
+      "terminal_minus_counts": [
+        -0.002596153846153849,
+        0.020461858974358964
+      ],
+      "terminal_minus_input": [
+        0.04094150641025641,
+        0.05729519230769231
+      ]
+    },
+    "parent_terminal_eq_input": 10,
+    "parent_terminal_gt_input": 101,
+    "parent_terminal_lt_input": 19,
+    "parents_terminal_above_chance": 74,
+    "parents_terminal_below_chance": 56,
+    "shuffled_terminal_balanced_accuracy": 0.49824615384615384,
+    "terminal_balanced_accuracy": 0.500775641025641,
+    "terminal_minus_counts": 0.008910256410256405,
+    "terminal_minus_input": 0.049108974358974364
+  }
+}
