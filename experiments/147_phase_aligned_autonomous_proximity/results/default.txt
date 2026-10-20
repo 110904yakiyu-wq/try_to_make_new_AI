@@ -1,0 +1,341 @@
+{
+  "experiment": 147,
+  "summary": {
+    "all113": {
+      "phase0_1_3_6_12": {
+        "changed_vs_raw0": 17,
+        "parents": 113,
+        "selected_control_raw_distance_mean": 4.433628318584071,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 326,
+          "control_unknown": 0,
+          "control_yes": 608,
+          "lower_difference": -0.0831858407079646,
+          "upper_difference": -0.0831858407079646
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 240,
+          "control_unknown": 0,
+          "control_yes": 477,
+          "lower_difference": -0.06991150442477877,
+          "upper_difference": -0.06991150442477877
+        },
+        "training_distance_mean": 23.504424778761063
+      },
+      "phase0_3": {
+        "changed_vs_raw0": 18,
+        "parents": 113,
+        "selected_control_raw_distance_mean": 4.504424778761062,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 326,
+          "control_unknown": 0,
+          "control_yes": 601,
+          "lower_difference": -0.08112094395280237,
+          "upper_difference": -0.08112094395280237
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 240,
+          "control_unknown": 0,
+          "control_yes": 472,
+          "lower_difference": -0.06843657817109144,
+          "upper_difference": -0.06843657817109144
+        },
+        "training_distance_mean": 9.513274336283185
+      },
+      "phase0_3_6": {
+        "changed_vs_raw0": 21,
+        "parents": 113,
+        "selected_control_raw_distance_mean": 4.469026548672566,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 326,
+          "control_unknown": 0,
+          "control_yes": 586,
+          "lower_difference": -0.07669616519174041,
+          "upper_difference": -0.07669616519174041
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 240,
+          "control_unknown": 0,
+          "control_yes": 462,
+          "lower_difference": -0.06548672566371681,
+          "upper_difference": -0.06548672566371681
+        },
+        "training_distance_mean": 14.336283185840708
+      },
+      "phase3_6_12": {
+        "changed_vs_raw0": 21,
+        "parents": 113,
+        "selected_control_raw_distance_mean": 4.469026548672566,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 326,
+          "control_unknown": 0,
+          "control_yes": 586,
+          "lower_difference": -0.07669616519174041,
+          "upper_difference": -0.07669616519174041
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 240,
+          "control_unknown": 0,
+          "control_yes": 462,
+          "lower_difference": -0.06548672566371681,
+          "upper_difference": -0.06548672566371681
+        },
+        "training_distance_mean": 14.336283185840708
+      },
+      "raw0": {
+        "changed_vs_raw0": 0,
+        "parents": 113,
+        "selected_control_raw_distance_mean": 4.371681415929204,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 326,
+          "control_unknown": 0,
+          "control_yes": 615,
+          "lower_difference": -0.08525073746312685,
+          "upper_difference": -0.08525073746312685
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 240,
+          "control_unknown": 0,
+          "control_yes": 476,
+          "lower_difference": -0.0696165191740413,
+          "upper_difference": -0.0696165191740413
+        },
+        "training_distance_mean": 4.371681415929204
+      }
+    },
+    "new58": {
+      "phase0_1_3_6_12": {
+        "changed_vs_raw0": 9,
+        "parents": 58,
+        "selected_control_raw_distance_mean": 4.810344827586207,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 153,
+          "control_unknown": 0,
+          "control_yes": 282,
+          "lower_difference": -0.07413793103448275,
+          "upper_difference": -0.07413793103448275
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 97,
+          "control_unknown": 0,
+          "control_yes": 214,
+          "lower_difference": -0.06724137931034482,
+          "upper_difference": -0.06724137931034482
+        },
+        "training_distance_mean": 25.603448275862068
+      },
+      "phase0_3": {
+        "changed_vs_raw0": 10,
+        "parents": 58,
+        "selected_control_raw_distance_mean": 4.879310344827586,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 153,
+          "control_unknown": 0,
+          "control_yes": 290,
+          "lower_difference": -0.07873563218390804,
+          "upper_difference": -0.07873563218390804
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 97,
+          "control_unknown": 0,
+          "control_yes": 218,
+          "lower_difference": -0.06954022988505747,
+          "upper_difference": -0.06954022988505747
+        },
+        "training_distance_mean": 10.413793103448276
+      },
+      "phase0_3_6": {
+        "changed_vs_raw0": 11,
+        "parents": 58,
+        "selected_control_raw_distance_mean": 4.827586206896552,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 153,
+          "control_unknown": 0,
+          "control_yes": 281,
+          "lower_difference": -0.0735632183908046,
+          "upper_difference": -0.0735632183908046
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 97,
+          "control_unknown": 0,
+          "control_yes": 213,
+          "lower_difference": -0.06666666666666667,
+          "upper_difference": -0.06666666666666667
+        },
+        "training_distance_mean": 15.672413793103448
+      },
+      "phase3_6_12": {
+        "changed_vs_raw0": 11,
+        "parents": 58,
+        "selected_control_raw_distance_mean": 4.827586206896552,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 153,
+          "control_unknown": 0,
+          "control_yes": 281,
+          "lower_difference": -0.0735632183908046,
+          "upper_difference": -0.0735632183908046
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 97,
+          "control_unknown": 0,
+          "control_yes": 213,
+          "lower_difference": -0.06666666666666667,
+          "upper_difference": -0.06666666666666667
+        },
+        "training_distance_mean": 15.672413793103448
+      },
+      "raw0": {
+        "changed_vs_raw0": 0,
+        "parents": 58,
+        "selected_control_raw_distance_mean": 4.741379310344827,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 153,
+          "control_unknown": 0,
+          "control_yes": 286,
+          "lower_difference": -0.0764367816091954,
+          "upper_difference": -0.0764367816091954
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 97,
+          "control_unknown": 0,
+          "control_yes": 215,
+          "lower_difference": -0.067816091954023,
+          "upper_difference": -0.067816091954023
+        },
+        "training_distance_mean": 4.741379310344827
+      }
+    },
+    "old55": {
+      "phase0_1_3_6_12": {
+        "changed_vs_raw0": 8,
+        "parents": 55,
+        "selected_control_raw_distance_mean": 4.036363636363636,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 173,
+          "control_unknown": 0,
+          "control_yes": 326,
+          "lower_difference": -0.09272727272727273,
+          "upper_difference": -0.09272727272727273
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 143,
+          "control_unknown": 0,
+          "control_yes": 263,
+          "lower_difference": -0.07272727272727272,
+          "upper_difference": -0.07272727272727272
+        },
+        "training_distance_mean": 21.29090909090909
+      },
+      "phase0_3": {
+        "changed_vs_raw0": 8,
+        "parents": 55,
+        "selected_control_raw_distance_mean": 4.109090909090909,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 173,
+          "control_unknown": 0,
+          "control_yes": 311,
+          "lower_difference": -0.08363636363636363,
+          "upper_difference": -0.08363636363636363
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 143,
+          "control_unknown": 0,
+          "control_yes": 254,
+          "lower_difference": -0.06727272727272728,
+          "upper_difference": -0.06727272727272728
+        },
+        "training_distance_mean": 8.563636363636364
+      },
+      "phase0_3_6": {
+        "changed_vs_raw0": 10,
+        "parents": 55,
+        "selected_control_raw_distance_mean": 4.090909090909091,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 173,
+          "control_unknown": 0,
+          "control_yes": 305,
+          "lower_difference": -0.08,
+          "upper_difference": -0.08
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 143,
+          "control_unknown": 0,
+          "control_yes": 249,
+          "lower_difference": -0.06424242424242424,
+          "upper_difference": -0.06424242424242424
+        },
+        "training_distance_mean": 12.927272727272728
+      },
+      "phase3_6_12": {
+        "changed_vs_raw0": 10,
+        "parents": 55,
+        "selected_control_raw_distance_mean": 4.090909090909091,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 173,
+          "control_unknown": 0,
+          "control_yes": 305,
+          "lower_difference": -0.08,
+          "upper_difference": -0.08
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 143,
+          "control_unknown": 0,
+          "control_yes": 249,
+          "lower_difference": -0.06424242424242424,
+          "upper_difference": -0.06424242424242424
+        },
+        "training_distance_mean": 12.927272727272728
+      },
+      "raw0": {
+        "changed_vs_raw0": 0,
+        "parents": 55,
+        "selected_control_raw_distance_mean": 3.981818181818182,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 173,
+          "control_unknown": 0,
+          "control_yes": 329,
+          "lower_difference": -0.09454545454545454,
+          "upper_difference": -0.09454545454545454
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 143,
+          "control_unknown": 0,
+          "control_yes": 261,
+          "lower_difference": -0.07151515151515152,
+          "upper_difference": -0.07151515151515152
+        },
+        "training_distance_mean": 3.981818181818182
+      }
+    }
+  }
+}

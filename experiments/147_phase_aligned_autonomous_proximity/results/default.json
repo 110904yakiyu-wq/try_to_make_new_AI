@@ -1,0 +1,6486 @@
+{
+  "design": {
+    "censoring": "unseen spread60 and no exact recurrence is unknown",
+    "eligibility": "frozen 970 autonomous pre-material exact period/union support/phase0 occupancy matched controls",
+    "holdout": "all 30 injected side/raw material responses, 50000 tick spread10/60 from Exp140/142",
+    "independence": "113 matched parent clusters, many dependent controls/probes",
+    "physics": "unchanged Exp104/139 three-phase left-rotated 60x4bit kernel",
+    "rules": {
+      "phase0_1_3_6_12": [
+        0,
+        1,
+        3,
+        6,
+        12
+      ],
+      "phase0_3": [
+        0,
+        3
+      ],
+      "phase0_3_6": [
+        0,
+        3,
+        6
+      ],
+      "phase3_6_12": [
+        3,
+        6,
+        12
+      ],
+      "raw0": [
+        0
+      ]
+    },
+    "selection": "phase-aligned no-injection microstates at fixed ticks; fully preoutcome",
+    "times": [
+      0,
+      1,
+      3,
+      6,
+      12
+    ]
+  },
+  "experiment": 147,
+  "parent_records": [
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 788,
+          "bit_distance0": 2,
+          "training_distance": 10,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 7,
+          "yes60": 4
+        },
+        "phase0_3": {
+          "attempt": 788,
+          "bit_distance0": 2,
+          "training_distance": 4,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 7,
+          "yes60": 4
+        },
+        "phase0_3_6": {
+          "attempt": 788,
+          "bit_distance0": 2,
+          "training_distance": 6,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 7,
+          "yes60": 4
+        },
+        "phase3_6_12": {
+          "attempt": 788,
+          "bit_distance0": 2,
+          "training_distance": 6,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 7,
+          "yes60": 4
+        },
+        "raw0": {
+          "attempt": 788,
+          "bit_distance0": 2,
+          "training_distance": 2,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 7,
+          "yes60": 4
+        }
+      },
+      "control_candidates": 6,
+      "parent_id": 0
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 916,
+          "bit_distance0": 4,
+          "training_distance": 24,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 916,
+          "bit_distance0": 4,
+          "training_distance": 11,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 916,
+          "bit_distance0": 4,
+          "training_distance": 16,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 916,
+          "bit_distance0": 4,
+          "training_distance": 16,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 916,
+          "bit_distance0": 4,
+          "training_distance": 4,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 4,
+      "parent_id": 1
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 807,
+          "bit_distance0": 3,
+          "training_distance": 15,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 11,
+          "yes60": 9
+        },
+        "phase0_3": {
+          "attempt": 807,
+          "bit_distance0": 3,
+          "training_distance": 6,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 11,
+          "yes60": 9
+        },
+        "phase0_3_6": {
+          "attempt": 807,
+          "bit_distance0": 3,
+          "training_distance": 9,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 11,
+          "yes60": 9
+        },
+        "phase3_6_12": {
+          "attempt": 807,
+          "bit_distance0": 3,
+          "training_distance": 9,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 11,
+          "yes60": 9
+        },
+        "raw0": {
+          "attempt": 807,
+          "bit_distance0": 3,
+          "training_distance": 3,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 11,
+          "yes60": 9
+        }
+      },
+      "control_candidates": 15,
+      "parent_id": 2
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 246,
+          "bit_distance0": 4,
+          "training_distance": 22,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 6,
+          "yes60": 6
+        },
+        "phase0_3": {
+          "attempt": 246,
+          "bit_distance0": 4,
+          "training_distance": 10,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 6,
+          "yes60": 6
+        },
+        "phase0_3_6": {
+          "attempt": 246,
+          "bit_distance0": 4,
+          "training_distance": 13,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 6,
+          "yes60": 6
+        },
+        "phase3_6_12": {
+          "attempt": 246,
+          "bit_distance0": 4,
+          "training_distance": 13,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 6,
+          "yes60": 6
+        },
+        "raw0": {
+          "attempt": 246,
+          "bit_distance0": 4,
+          "training_distance": 4,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 6,
+          "yes60": 6
+        }
+      },
+      "control_candidates": 4,
+      "parent_id": 3
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 8,
+      "G0_yes60": 7,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 965,
+          "bit_distance0": 4,
+          "training_distance": 20,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 965,
+          "bit_distance0": 4,
+          "training_distance": 8,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 965,
+          "bit_distance0": 4,
+          "training_distance": 12,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 965,
+          "bit_distance0": 4,
+          "training_distance": 12,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 965,
+          "bit_distance0": 4,
+          "training_distance": 4,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 15,
+      "parent_id": 4
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 61,
+          "bit_distance0": 5,
+          "training_distance": 31,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 10,
+          "yes60": 9
+        },
+        "phase0_3": {
+          "attempt": 61,
+          "bit_distance0": 5,
+          "training_distance": 14,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 10,
+          "yes60": 9
+        },
+        "phase0_3_6": {
+          "attempt": 61,
+          "bit_distance0": 5,
+          "training_distance": 19,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 10,
+          "yes60": 9
+        },
+        "phase3_6_12": {
+          "attempt": 61,
+          "bit_distance0": 5,
+          "training_distance": 19,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 10,
+          "yes60": 9
+        },
+        "raw0": {
+          "attempt": 61,
+          "bit_distance0": 5,
+          "training_distance": 5,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 10,
+          "yes60": 9
+        }
+      },
+      "control_candidates": 7,
+      "parent_id": 5
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 7,
+      "G0_yes60": 6,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 259,
+          "bit_distance0": 2,
+          "training_distance": 10,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 259,
+          "bit_distance0": 2,
+          "training_distance": 4,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 259,
+          "bit_distance0": 2,
+          "training_distance": 6,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 259,
+          "bit_distance0": 2,
+          "training_distance": 6,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 259,
+          "bit_distance0": 2,
+          "training_distance": 2,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 14,
+      "parent_id": 6
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 454,
+          "bit_distance0": 6,
+          "training_distance": 30,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 5,
+          "yes60": 5
+        },
+        "phase0_3": {
+          "attempt": 454,
+          "bit_distance0": 6,
+          "training_distance": 11,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 5,
+          "yes60": 5
+        },
+        "phase0_3_6": {
+          "attempt": 454,
+          "bit_distance0": 6,
+          "training_distance": 19,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 5,
+          "yes60": 5
+        },
+        "phase3_6_12": {
+          "attempt": 454,
+          "bit_distance0": 6,
+          "training_distance": 19,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 5,
+          "yes60": 5
+        },
+        "raw0": {
+          "attempt": 454,
+          "bit_distance0": 6,
+          "training_distance": 6,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 5,
+          "yes60": 5
+        }
+      },
+      "control_candidates": 3,
+      "parent_id": 7
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 562,
+          "bit_distance0": 1,
+          "training_distance": 5,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 562,
+          "bit_distance0": 1,
+          "training_distance": 2,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 562,
+          "bit_distance0": 1,
+          "training_distance": 3,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 562,
+          "bit_distance0": 1,
+          "training_distance": 3,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 562,
+          "bit_distance0": 1,
+          "training_distance": 1,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 16,
+      "parent_id": 8
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 8,
+      "G0_yes60": 7,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 279,
+          "bit_distance0": 3,
+          "training_distance": 15,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 4,
+          "yes60": 3
+        },
+        "phase0_3": {
+          "attempt": 279,
+          "bit_distance0": 3,
+          "training_distance": 6,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 4,
+          "yes60": 3
+        },
+        "phase0_3_6": {
+          "attempt": 279,
+          "bit_distance0": 3,
+          "training_distance": 9,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 4,
+          "yes60": 3
+        },
+        "phase3_6_12": {
+          "attempt": 279,
+          "bit_distance0": 3,
+          "training_distance": 9,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 4,
+          "yes60": 3
+        },
+        "raw0": {
+          "attempt": 279,
+          "bit_distance0": 3,
+          "training_distance": 3,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 4,
+          "yes60": 3
+        }
+      },
+      "control_candidates": 16,
+      "parent_id": 9
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 295,
+          "bit_distance0": 4,
+          "training_distance": 25,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 295,
+          "bit_distance0": 4,
+          "training_distance": 10,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 295,
+          "bit_distance0": 4,
+          "training_distance": 17,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 295,
+          "bit_distance0": 4,
+          "training_distance": 17,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 295,
+          "bit_distance0": 4,
+          "training_distance": 4,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 6,
+      "parent_id": 10
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 717,
+          "bit_distance0": 6,
+          "training_distance": 32,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 575,
+          "bit_distance0": 7,
+          "training_distance": 12,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 575,
+          "bit_distance0": 7,
+          "training_distance": 19,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 575,
+          "bit_distance0": 7,
+          "training_distance": 19,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 717,
+          "bit_distance0": 6,
+          "training_distance": 6,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 4,
+      "parent_id": 11
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 842,
+          "bit_distance0": 1,
+          "training_distance": 5,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 7,
+          "yes60": 6
+        },
+        "phase0_3": {
+          "attempt": 842,
+          "bit_distance0": 1,
+          "training_distance": 2,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 7,
+          "yes60": 6
+        },
+        "phase0_3_6": {
+          "attempt": 842,
+          "bit_distance0": 1,
+          "training_distance": 3,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 7,
+          "yes60": 6
+        },
+        "phase3_6_12": {
+          "attempt": 842,
+          "bit_distance0": 1,
+          "training_distance": 3,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 7,
+          "yes60": 6
+        },
+        "raw0": {
+          "attempt": 842,
+          "bit_distance0": 1,
+          "training_distance": 1,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 7,
+          "yes60": 6
+        }
+      },
+      "control_candidates": 7,
+      "parent_id": 12
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 7,
+      "G0_yes60": 6,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 625,
+          "bit_distance0": 4,
+          "training_distance": 20,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 4,
+          "yes60": 3
+        },
+        "phase0_3": {
+          "attempt": 309,
+          "bit_distance0": 4,
+          "training_distance": 8,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 309,
+          "bit_distance0": 4,
+          "training_distance": 12,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 309,
+          "bit_distance0": 4,
+          "training_distance": 12,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 309,
+          "bit_distance0": 4,
+          "training_distance": 4,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 17,
+      "parent_id": 13
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 135,
+          "bit_distance0": 1,
+          "training_distance": 5,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 135,
+          "bit_distance0": 1,
+          "training_distance": 2,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 135,
+          "bit_distance0": 1,
+          "training_distance": 3,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 135,
+          "bit_distance0": 1,
+          "training_distance": 3,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 135,
+          "bit_distance0": 1,
+          "training_distance": 1,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 4,
+      "parent_id": 14
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 529,
+          "bit_distance0": 4,
+          "training_distance": 25,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 529,
+          "bit_distance0": 4,
+          "training_distance": 9,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 529,
+          "bit_distance0": 4,
+          "training_distance": 16,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 529,
+          "bit_distance0": 4,
+          "training_distance": 16,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 529,
+          "bit_distance0": 4,
+          "training_distance": 4,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 2,
+      "parent_id": 15
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 109,
+          "bit_distance0": 4,
+          "training_distance": 20,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 109,
+          "bit_distance0": 4,
+          "training_distance": 8,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 109,
+          "bit_distance0": 4,
+          "training_distance": 11,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 109,
+          "bit_distance0": 4,
+          "training_distance": 11,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 109,
+          "bit_distance0": 4,
+          "training_distance": 4,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 7,
+      "parent_id": 16
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 8,
+      "G0_yes60": 7,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 259,
+          "bit_distance0": 4,
+          "training_distance": 20,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 4,
+          "yes60": 2
+        },
+        "phase0_3": {
+          "attempt": 259,
+          "bit_distance0": 4,
+          "training_distance": 8,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 4,
+          "yes60": 2
+        },
+        "phase0_3_6": {
+          "attempt": 259,
+          "bit_distance0": 4,
+          "training_distance": 12,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 4,
+          "yes60": 2
+        },
+        "phase3_6_12": {
+          "attempt": 259,
+          "bit_distance0": 4,
+          "training_distance": 12,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 4,
+          "yes60": 2
+        },
+        "raw0": {
+          "attempt": 259,
+          "bit_distance0": 4,
+          "training_distance": 4,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 4,
+          "yes60": 2
+        }
+      },
+      "control_candidates": 18,
+      "parent_id": 17
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 328,
+          "bit_distance0": 2,
+          "training_distance": 14,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 8,
+          "yes60": 8
+        },
+        "phase0_3": {
+          "attempt": 328,
+          "bit_distance0": 2,
+          "training_distance": 7,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 8,
+          "yes60": 8
+        },
+        "phase0_3_6": {
+          "attempt": 328,
+          "bit_distance0": 2,
+          "training_distance": 9,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 8,
+          "yes60": 8
+        },
+        "phase3_6_12": {
+          "attempt": 328,
+          "bit_distance0": 2,
+          "training_distance": 9,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 8,
+          "yes60": 8
+        },
+        "raw0": {
+          "attempt": 328,
+          "bit_distance0": 2,
+          "training_distance": 2,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 8,
+          "yes60": 8
+        }
+      },
+      "control_candidates": 9,
+      "parent_id": 18
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 7,
+      "G0_yes60": 6,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 555,
+          "bit_distance0": 4,
+          "training_distance": 20,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 7,
+          "yes60": 5
+        },
+        "phase0_3": {
+          "attempt": 555,
+          "bit_distance0": 4,
+          "training_distance": 8,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 7,
+          "yes60": 5
+        },
+        "phase0_3_6": {
+          "attempt": 555,
+          "bit_distance0": 4,
+          "training_distance": 12,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 7,
+          "yes60": 5
+        },
+        "phase3_6_12": {
+          "attempt": 555,
+          "bit_distance0": 4,
+          "training_distance": 12,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 7,
+          "yes60": 5
+        },
+        "raw0": {
+          "attempt": 555,
+          "bit_distance0": 4,
+          "training_distance": 4,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 7,
+          "yes60": 5
+        }
+      },
+      "control_candidates": 7,
+      "parent_id": 19
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 8,
+      "G0_yes60": 5,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 216,
+          "bit_distance0": 6,
+          "training_distance": 35,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 457,
+          "bit_distance0": 8,
+          "training_distance": 13,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 5,
+          "yes60": 4
+        },
+        "phase0_3_6": {
+          "attempt": 457,
+          "bit_distance0": 8,
+          "training_distance": 19,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 5,
+          "yes60": 4
+        },
+        "phase3_6_12": {
+          "attempt": 457,
+          "bit_distance0": 8,
+          "training_distance": 19,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 5,
+          "yes60": 4
+        },
+        "raw0": {
+          "attempt": 216,
+          "bit_distance0": 6,
+          "training_distance": 6,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 7,
+      "parent_id": 21
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 7,
+      "G0_yes60": 4,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 15,
+          "bit_distance0": 0,
+          "training_distance": 0,
+          "unknown60": 0,
+          "window_distance0": 0,
+          "yes10": 7,
+          "yes60": 4
+        },
+        "phase0_3": {
+          "attempt": 15,
+          "bit_distance0": 0,
+          "training_distance": 0,
+          "unknown60": 0,
+          "window_distance0": 0,
+          "yes10": 7,
+          "yes60": 4
+        },
+        "phase0_3_6": {
+          "attempt": 15,
+          "bit_distance0": 0,
+          "training_distance": 0,
+          "unknown60": 0,
+          "window_distance0": 0,
+          "yes10": 7,
+          "yes60": 4
+        },
+        "phase3_6_12": {
+          "attempt": 15,
+          "bit_distance0": 0,
+          "training_distance": 0,
+          "unknown60": 0,
+          "window_distance0": 0,
+          "yes10": 7,
+          "yes60": 4
+        },
+        "raw0": {
+          "attempt": 15,
+          "bit_distance0": 0,
+          "training_distance": 0,
+          "unknown60": 0,
+          "window_distance0": 0,
+          "yes10": 7,
+          "yes60": 4
+        }
+      },
+      "control_candidates": 18,
+      "parent_id": 22
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 8,
+      "G0_yes60": 8,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 878,
+          "bit_distance0": 9,
+          "training_distance": 43,
+          "unknown60": 0,
+          "window_distance0": 5,
+          "yes10": 21,
+          "yes60": 17
+        },
+        "phase0_3": {
+          "attempt": 878,
+          "bit_distance0": 9,
+          "training_distance": 17,
+          "unknown60": 0,
+          "window_distance0": 5,
+          "yes10": 21,
+          "yes60": 17
+        },
+        "phase0_3_6": {
+          "attempt": 878,
+          "bit_distance0": 9,
+          "training_distance": 24,
+          "unknown60": 0,
+          "window_distance0": 5,
+          "yes10": 21,
+          "yes60": 17
+        },
+        "phase3_6_12": {
+          "attempt": 878,
+          "bit_distance0": 9,
+          "training_distance": 24,
+          "unknown60": 0,
+          "window_distance0": 5,
+          "yes10": 21,
+          "yes60": 17
+        },
+        "raw0": {
+          "attempt": 878,
+          "bit_distance0": 9,
+          "training_distance": 9,
+          "unknown60": 0,
+          "window_distance0": 5,
+          "yes10": 21,
+          "yes60": 17
+        }
+      },
+      "control_candidates": 7,
+      "parent_id": 23
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 38,
+          "bit_distance0": 1,
+          "training_distance": 5,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 8,
+          "yes60": 7
+        },
+        "phase0_3": {
+          "attempt": 38,
+          "bit_distance0": 1,
+          "training_distance": 2,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 8,
+          "yes60": 7
+        },
+        "phase0_3_6": {
+          "attempt": 38,
+          "bit_distance0": 1,
+          "training_distance": 3,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 8,
+          "yes60": 7
+        },
+        "phase3_6_12": {
+          "attempt": 38,
+          "bit_distance0": 1,
+          "training_distance": 3,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 8,
+          "yes60": 7
+        },
+        "raw0": {
+          "attempt": 38,
+          "bit_distance0": 1,
+          "training_distance": 1,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 8,
+          "yes60": 7
+        }
+      },
+      "control_candidates": 16,
+      "parent_id": 24
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 596,
+          "bit_distance0": 3,
+          "training_distance": 15,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 4,
+          "yes60": 3
+        },
+        "phase0_3": {
+          "attempt": 596,
+          "bit_distance0": 3,
+          "training_distance": 6,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 4,
+          "yes60": 3
+        },
+        "phase0_3_6": {
+          "attempt": 596,
+          "bit_distance0": 3,
+          "training_distance": 9,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 4,
+          "yes60": 3
+        },
+        "phase3_6_12": {
+          "attempt": 596,
+          "bit_distance0": 3,
+          "training_distance": 9,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 4,
+          "yes60": 3
+        },
+        "raw0": {
+          "attempt": 596,
+          "bit_distance0": 3,
+          "training_distance": 3,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 4,
+          "yes60": 3
+        }
+      },
+      "control_candidates": 14,
+      "parent_id": 25
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 8,
+      "G0_yes60": 7,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 137,
+          "bit_distance0": 3,
+          "training_distance": 15,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 4,
+          "yes60": 3
+        },
+        "phase0_3": {
+          "attempt": 137,
+          "bit_distance0": 3,
+          "training_distance": 6,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 4,
+          "yes60": 3
+        },
+        "phase0_3_6": {
+          "attempt": 137,
+          "bit_distance0": 3,
+          "training_distance": 9,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 4,
+          "yes60": 3
+        },
+        "phase3_6_12": {
+          "attempt": 137,
+          "bit_distance0": 3,
+          "training_distance": 9,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 4,
+          "yes60": 3
+        },
+        "raw0": {
+          "attempt": 137,
+          "bit_distance0": 3,
+          "training_distance": 3,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 4,
+          "yes60": 3
+        }
+      },
+      "control_candidates": 13,
+      "parent_id": 26
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 7,
+      "G0_yes60": 6,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 528,
+          "bit_distance0": 5,
+          "training_distance": 25,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 528,
+          "bit_distance0": 5,
+          "training_distance": 10,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 528,
+          "bit_distance0": 5,
+          "training_distance": 15,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 528,
+          "bit_distance0": 5,
+          "training_distance": 15,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 528,
+          "bit_distance0": 5,
+          "training_distance": 5,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 9,
+      "parent_id": 27
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 586,
+          "bit_distance0": 5,
+          "training_distance": 25,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 586,
+          "bit_distance0": 5,
+          "training_distance": 11,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 586,
+          "bit_distance0": 5,
+          "training_distance": 16,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 586,
+          "bit_distance0": 5,
+          "training_distance": 16,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 586,
+          "bit_distance0": 5,
+          "training_distance": 5,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 11,
+      "parent_id": 28
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 12,
+          "bit_distance0": 7,
+          "training_distance": 33,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 640,
+          "bit_distance0": 6,
+          "training_distance": 14,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 640,
+          "bit_distance0": 6,
+          "training_distance": 21,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 640,
+          "bit_distance0": 6,
+          "training_distance": 21,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 640,
+          "bit_distance0": 6,
+          "training_distance": 6,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 7,
+      "parent_id": 29
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 160,
+          "bit_distance0": 9,
+          "training_distance": 40,
+          "unknown60": 0,
+          "window_distance0": 5,
+          "yes10": 7,
+          "yes60": 6
+        },
+        "phase0_3": {
+          "attempt": 322,
+          "bit_distance0": 9,
+          "training_distance": 18,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 8,
+          "yes60": 6
+        },
+        "phase0_3_6": {
+          "attempt": 160,
+          "bit_distance0": 9,
+          "training_distance": 24,
+          "unknown60": 0,
+          "window_distance0": 5,
+          "yes10": 7,
+          "yes60": 6
+        },
+        "phase3_6_12": {
+          "attempt": 160,
+          "bit_distance0": 9,
+          "training_distance": 24,
+          "unknown60": 0,
+          "window_distance0": 5,
+          "yes10": 7,
+          "yes60": 6
+        },
+        "raw0": {
+          "attempt": 322,
+          "bit_distance0": 9,
+          "training_distance": 9,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 8,
+          "yes60": 6
+        }
+      },
+      "control_candidates": 6,
+      "parent_id": 30
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 820,
+          "bit_distance0": 5,
+          "training_distance": 18,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 820,
+          "bit_distance0": 5,
+          "training_distance": 7,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 820,
+          "bit_distance0": 5,
+          "training_distance": 11,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 820,
+          "bit_distance0": 5,
+          "training_distance": 11,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 820,
+          "bit_distance0": 5,
+          "training_distance": 5,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 6,
+      "parent_id": 31
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 985,
+          "bit_distance0": 1,
+          "training_distance": 5,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 8,
+          "yes60": 7
+        },
+        "phase0_3": {
+          "attempt": 985,
+          "bit_distance0": 1,
+          "training_distance": 2,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 8,
+          "yes60": 7
+        },
+        "phase0_3_6": {
+          "attempt": 985,
+          "bit_distance0": 1,
+          "training_distance": 3,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 8,
+          "yes60": 7
+        },
+        "phase3_6_12": {
+          "attempt": 985,
+          "bit_distance0": 1,
+          "training_distance": 3,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 8,
+          "yes60": 7
+        },
+        "raw0": {
+          "attempt": 985,
+          "bit_distance0": 1,
+          "training_distance": 1,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 8,
+          "yes60": 7
+        }
+      },
+      "control_candidates": 20,
+      "parent_id": 32
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 39,
+          "bit_distance0": 8,
+          "training_distance": 38,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 13,
+          "yes60": 11
+        },
+        "phase0_3": {
+          "attempt": 39,
+          "bit_distance0": 8,
+          "training_distance": 16,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 13,
+          "yes60": 11
+        },
+        "phase0_3_6": {
+          "attempt": 39,
+          "bit_distance0": 8,
+          "training_distance": 23,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 13,
+          "yes60": 11
+        },
+        "phase3_6_12": {
+          "attempt": 39,
+          "bit_distance0": 8,
+          "training_distance": 23,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 13,
+          "yes60": 11
+        },
+        "raw0": {
+          "attempt": 39,
+          "bit_distance0": 8,
+          "training_distance": 8,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 13,
+          "yes60": 11
+        }
+      },
+      "control_candidates": 6,
+      "parent_id": 33
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 298,
+          "bit_distance0": 3,
+          "training_distance": 20,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 3,
+          "yes60": 3
+        },
+        "phase0_3": {
+          "attempt": 788,
+          "bit_distance0": 6,
+          "training_distance": 8,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 298,
+          "bit_distance0": 3,
+          "training_distance": 12,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 3,
+          "yes60": 3
+        },
+        "phase3_6_12": {
+          "attempt": 298,
+          "bit_distance0": 3,
+          "training_distance": 12,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 3,
+          "yes60": 3
+        },
+        "raw0": {
+          "attempt": 298,
+          "bit_distance0": 3,
+          "training_distance": 3,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 3,
+          "yes60": 3
+        }
+      },
+      "control_candidates": 10,
+      "parent_id": 34
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 319,
+          "bit_distance0": 1,
+          "training_distance": 5,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 319,
+          "bit_distance0": 1,
+          "training_distance": 2,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 319,
+          "bit_distance0": 1,
+          "training_distance": 3,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 319,
+          "bit_distance0": 1,
+          "training_distance": 3,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 319,
+          "bit_distance0": 1,
+          "training_distance": 1,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 14,
+      "parent_id": 35
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 8,
+      "G0_yes60": 7,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 720,
+          "bit_distance0": 2,
+          "training_distance": 12,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 11,
+          "yes60": 9
+        },
+        "phase0_3": {
+          "attempt": 720,
+          "bit_distance0": 2,
+          "training_distance": 5,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 11,
+          "yes60": 9
+        },
+        "phase0_3_6": {
+          "attempt": 720,
+          "bit_distance0": 2,
+          "training_distance": 7,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 11,
+          "yes60": 9
+        },
+        "phase3_6_12": {
+          "attempt": 720,
+          "bit_distance0": 2,
+          "training_distance": 7,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 11,
+          "yes60": 9
+        },
+        "raw0": {
+          "attempt": 720,
+          "bit_distance0": 2,
+          "training_distance": 2,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 11,
+          "yes60": 9
+        }
+      },
+      "control_candidates": 13,
+      "parent_id": 36
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 140,
+          "bit_distance0": 4,
+          "training_distance": 26,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 8,
+          "yes60": 5
+        },
+        "phase0_3": {
+          "attempt": 140,
+          "bit_distance0": 4,
+          "training_distance": 10,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 8,
+          "yes60": 5
+        },
+        "phase0_3_6": {
+          "attempt": 140,
+          "bit_distance0": 4,
+          "training_distance": 15,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 8,
+          "yes60": 5
+        },
+        "phase3_6_12": {
+          "attempt": 140,
+          "bit_distance0": 4,
+          "training_distance": 15,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 8,
+          "yes60": 5
+        },
+        "raw0": {
+          "attempt": 140,
+          "bit_distance0": 4,
+          "training_distance": 4,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 8,
+          "yes60": 5
+        }
+      },
+      "control_candidates": 8,
+      "parent_id": 37
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 8,
+      "G0_yes60": 7,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 969,
+          "bit_distance0": 4,
+          "training_distance": 25,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 14,
+          "yes60": 9
+        },
+        "phase0_3": {
+          "attempt": 184,
+          "bit_distance0": 5,
+          "training_distance": 10,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 4,
+          "yes60": 4
+        },
+        "phase0_3_6": {
+          "attempt": 969,
+          "bit_distance0": 4,
+          "training_distance": 15,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 14,
+          "yes60": 9
+        },
+        "phase3_6_12": {
+          "attempt": 969,
+          "bit_distance0": 4,
+          "training_distance": 15,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 14,
+          "yes60": 9
+        },
+        "raw0": {
+          "attempt": 969,
+          "bit_distance0": 4,
+          "training_distance": 4,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 14,
+          "yes60": 9
+        }
+      },
+      "control_candidates": 16,
+      "parent_id": 38
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 310,
+          "bit_distance0": 6,
+          "training_distance": 32,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 390,
+          "bit_distance0": 7,
+          "training_distance": 12,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 8,
+          "yes60": 8
+        },
+        "phase0_3_6": {
+          "attempt": 310,
+          "bit_distance0": 6,
+          "training_distance": 21,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 310,
+          "bit_distance0": 6,
+          "training_distance": 21,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 8,
+          "bit_distance0": 6,
+          "training_distance": 6,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 6,
+          "yes60": 5
+        }
+      },
+      "control_candidates": 8,
+      "parent_id": 39
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 781,
+          "bit_distance0": 5,
+          "training_distance": 23,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 781,
+          "bit_distance0": 5,
+          "training_distance": 10,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 781,
+          "bit_distance0": 5,
+          "training_distance": 14,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 781,
+          "bit_distance0": 5,
+          "training_distance": 14,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 780,
+          "bit_distance0": 5,
+          "training_distance": 5,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 4,
+      "parent_id": 40
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 968,
+          "bit_distance0": 2,
+          "training_distance": 15,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 968,
+          "bit_distance0": 2,
+          "training_distance": 6,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 968,
+          "bit_distance0": 2,
+          "training_distance": 10,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 968,
+          "bit_distance0": 2,
+          "training_distance": 10,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 968,
+          "bit_distance0": 2,
+          "training_distance": 2,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 9,
+      "parent_id": 41
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 35,
+          "bit_distance0": 5,
+          "training_distance": 24,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 711,
+          "bit_distance0": 4,
+          "training_distance": 9,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 35,
+          "bit_distance0": 5,
+          "training_distance": 14,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 35,
+          "bit_distance0": 5,
+          "training_distance": 14,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 711,
+          "bit_distance0": 4,
+          "training_distance": 4,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 6,
+      "parent_id": 42
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 424,
+          "bit_distance0": 8,
+          "training_distance": 38,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 13,
+          "yes60": 12
+        },
+        "phase0_3": {
+          "attempt": 424,
+          "bit_distance0": 8,
+          "training_distance": 15,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 13,
+          "yes60": 12
+        },
+        "phase0_3_6": {
+          "attempt": 424,
+          "bit_distance0": 8,
+          "training_distance": 23,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 13,
+          "yes60": 12
+        },
+        "phase3_6_12": {
+          "attempt": 424,
+          "bit_distance0": 8,
+          "training_distance": 23,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 13,
+          "yes60": 12
+        },
+        "raw0": {
+          "attempt": 424,
+          "bit_distance0": 8,
+          "training_distance": 8,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 13,
+          "yes60": 12
+        }
+      },
+      "control_candidates": 4,
+      "parent_id": 44
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 8,
+      "G0_yes60": 5,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 401,
+          "bit_distance0": 4,
+          "training_distance": 24,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 12,
+          "yes60": 10
+        },
+        "phase0_3": {
+          "attempt": 401,
+          "bit_distance0": 4,
+          "training_distance": 10,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 12,
+          "yes60": 10
+        },
+        "phase0_3_6": {
+          "attempt": 401,
+          "bit_distance0": 4,
+          "training_distance": 15,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 12,
+          "yes60": 10
+        },
+        "phase3_6_12": {
+          "attempt": 401,
+          "bit_distance0": 4,
+          "training_distance": 15,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 12,
+          "yes60": 10
+        },
+        "raw0": {
+          "attempt": 401,
+          "bit_distance0": 4,
+          "training_distance": 4,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 12,
+          "yes60": 10
+        }
+      },
+      "control_candidates": 6,
+      "parent_id": 45
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 8,
+      "G0_yes60": 7,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 95,
+          "bit_distance0": 2,
+          "training_distance": 11,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 12,
+          "yes60": 11
+        },
+        "phase0_3": {
+          "attempt": 95,
+          "bit_distance0": 2,
+          "training_distance": 5,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 12,
+          "yes60": 11
+        },
+        "phase0_3_6": {
+          "attempt": 95,
+          "bit_distance0": 2,
+          "training_distance": 7,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 12,
+          "yes60": 11
+        },
+        "phase3_6_12": {
+          "attempt": 95,
+          "bit_distance0": 2,
+          "training_distance": 7,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 12,
+          "yes60": 11
+        },
+        "raw0": {
+          "attempt": 95,
+          "bit_distance0": 2,
+          "training_distance": 2,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 12,
+          "yes60": 11
+        }
+      },
+      "control_candidates": 11,
+      "parent_id": 46
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 7,
+      "G0_yes60": 4,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 670,
+          "bit_distance0": 4,
+          "training_distance": 20,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 5,
+          "yes60": 4
+        },
+        "phase0_3": {
+          "attempt": 670,
+          "bit_distance0": 4,
+          "training_distance": 8,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 5,
+          "yes60": 4
+        },
+        "phase0_3_6": {
+          "attempt": 670,
+          "bit_distance0": 4,
+          "training_distance": 12,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 5,
+          "yes60": 4
+        },
+        "phase3_6_12": {
+          "attempt": 670,
+          "bit_distance0": 4,
+          "training_distance": 12,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 5,
+          "yes60": 4
+        },
+        "raw0": {
+          "attempt": 808,
+          "bit_distance0": 4,
+          "training_distance": 4,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 11,
+      "parent_id": 47
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 771,
+          "bit_distance0": 2,
+          "training_distance": 14,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 771,
+          "bit_distance0": 2,
+          "training_distance": 6,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 771,
+          "bit_distance0": 2,
+          "training_distance": 10,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 771,
+          "bit_distance0": 2,
+          "training_distance": 10,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 771,
+          "bit_distance0": 2,
+          "training_distance": 2,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 9,
+      "parent_id": 48
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 8,
+      "G0_yes60": 8,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 194,
+          "bit_distance0": 6,
+          "training_distance": 30,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 6,
+          "yes60": 6
+        },
+        "phase0_3": {
+          "attempt": 194,
+          "bit_distance0": 6,
+          "training_distance": 13,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 6,
+          "yes60": 6
+        },
+        "phase0_3_6": {
+          "attempt": 194,
+          "bit_distance0": 6,
+          "training_distance": 19,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 6,
+          "yes60": 6
+        },
+        "phase3_6_12": {
+          "attempt": 194,
+          "bit_distance0": 6,
+          "training_distance": 19,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 6,
+          "yes60": 6
+        },
+        "raw0": {
+          "attempt": 194,
+          "bit_distance0": 6,
+          "training_distance": 6,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 6,
+          "yes60": 6
+        }
+      },
+      "control_candidates": 4,
+      "parent_id": 49
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 7,
+      "G0_yes60": 6,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 270,
+          "bit_distance0": 4,
+          "training_distance": 19,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 270,
+          "bit_distance0": 4,
+          "training_distance": 8,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 270,
+          "bit_distance0": 4,
+          "training_distance": 12,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 270,
+          "bit_distance0": 4,
+          "training_distance": 12,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 270,
+          "bit_distance0": 4,
+          "training_distance": 4,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 7,
+      "parent_id": 50
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 41,
+          "bit_distance0": 6,
+          "training_distance": 24,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 830,
+          "bit_distance0": 5,
+          "training_distance": 10,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 41,
+          "bit_distance0": 6,
+          "training_distance": 15,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 41,
+          "bit_distance0": 6,
+          "training_distance": 15,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 830,
+          "bit_distance0": 5,
+          "training_distance": 5,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 12,
+      "parent_id": 52
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 438,
+          "bit_distance0": 8,
+          "training_distance": 39,
+          "unknown60": 0,
+          "window_distance0": 5,
+          "yes10": 6,
+          "yes60": 6
+        },
+        "phase0_3": {
+          "attempt": 438,
+          "bit_distance0": 8,
+          "training_distance": 15,
+          "unknown60": 0,
+          "window_distance0": 5,
+          "yes10": 6,
+          "yes60": 6
+        },
+        "phase0_3_6": {
+          "attempt": 438,
+          "bit_distance0": 8,
+          "training_distance": 22,
+          "unknown60": 0,
+          "window_distance0": 5,
+          "yes10": 6,
+          "yes60": 6
+        },
+        "phase3_6_12": {
+          "attempt": 438,
+          "bit_distance0": 8,
+          "training_distance": 22,
+          "unknown60": 0,
+          "window_distance0": 5,
+          "yes10": 6,
+          "yes60": 6
+        },
+        "raw0": {
+          "attempt": 438,
+          "bit_distance0": 8,
+          "training_distance": 8,
+          "unknown60": 0,
+          "window_distance0": 5,
+          "yes10": 6,
+          "yes60": 6
+        }
+      },
+      "control_candidates": 6,
+      "parent_id": 53
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 7,
+      "G0_yes60": 5,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 271,
+          "bit_distance0": 4,
+          "training_distance": 22,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 15,
+          "yes60": 12
+        },
+        "phase0_3": {
+          "attempt": 271,
+          "bit_distance0": 4,
+          "training_distance": 10,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 15,
+          "yes60": 12
+        },
+        "phase0_3_6": {
+          "attempt": 271,
+          "bit_distance0": 4,
+          "training_distance": 14,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 15,
+          "yes60": 12
+        },
+        "phase3_6_12": {
+          "attempt": 271,
+          "bit_distance0": 4,
+          "training_distance": 14,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 15,
+          "yes60": 12
+        },
+        "raw0": {
+          "attempt": 271,
+          "bit_distance0": 4,
+          "training_distance": 4,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 15,
+          "yes60": 12
+        }
+      },
+      "control_candidates": 11,
+      "parent_id": 54
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 738,
+          "bit_distance0": 3,
+          "training_distance": 22,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 738,
+          "bit_distance0": 3,
+          "training_distance": 10,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 738,
+          "bit_distance0": 3,
+          "training_distance": 14,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 738,
+          "bit_distance0": 3,
+          "training_distance": 14,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 738,
+          "bit_distance0": 3,
+          "training_distance": 3,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 8,
+      "parent_id": 55
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 359,
+          "bit_distance0": 6,
+          "training_distance": 32,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 359,
+          "bit_distance0": 6,
+          "training_distance": 13,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 359,
+          "bit_distance0": 6,
+          "training_distance": 17,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 359,
+          "bit_distance0": 6,
+          "training_distance": 17,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 359,
+          "bit_distance0": 6,
+          "training_distance": 6,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 4,
+      "parent_id": 57
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 6,
+      "G0_yes60": 5,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 666,
+          "bit_distance0": 5,
+          "training_distance": 24,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 8,
+          "yes60": 8
+        },
+        "phase0_3": {
+          "attempt": 666,
+          "bit_distance0": 5,
+          "training_distance": 10,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 8,
+          "yes60": 8
+        },
+        "phase0_3_6": {
+          "attempt": 666,
+          "bit_distance0": 5,
+          "training_distance": 15,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 8,
+          "yes60": 8
+        },
+        "phase3_6_12": {
+          "attempt": 666,
+          "bit_distance0": 5,
+          "training_distance": 15,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 8,
+          "yes60": 8
+        },
+        "raw0": {
+          "attempt": 666,
+          "bit_distance0": 5,
+          "training_distance": 5,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 8,
+          "yes60": 8
+        }
+      },
+      "control_candidates": 6,
+      "parent_id": 59
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 523,
+          "bit_distance0": 1,
+          "training_distance": 5,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 523,
+          "bit_distance0": 1,
+          "training_distance": 2,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 523,
+          "bit_distance0": 1,
+          "training_distance": 3,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 523,
+          "bit_distance0": 1,
+          "training_distance": 3,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 523,
+          "bit_distance0": 1,
+          "training_distance": 1,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 14,
+      "parent_id": 61
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 225,
+          "bit_distance0": 8,
+          "training_distance": 39,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 18,
+          "yes60": 12
+        },
+        "phase0_3": {
+          "attempt": 225,
+          "bit_distance0": 8,
+          "training_distance": 15,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 18,
+          "yes60": 12
+        },
+        "phase0_3_6": {
+          "attempt": 52,
+          "bit_distance0": 9,
+          "training_distance": 22,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 11,
+          "yes60": 11
+        },
+        "phase3_6_12": {
+          "attempt": 52,
+          "bit_distance0": 9,
+          "training_distance": 22,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 11,
+          "yes60": 11
+        },
+        "raw0": {
+          "attempt": 225,
+          "bit_distance0": 8,
+          "training_distance": 8,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 18,
+          "yes60": 12
+        }
+      },
+      "control_candidates": 3,
+      "parent_id": 62
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 332,
+          "bit_distance0": 3,
+          "training_distance": 19,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 6,
+          "yes60": 6
+        },
+        "phase0_3": {
+          "attempt": 61,
+          "bit_distance0": 4,
+          "training_distance": 7,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 61,
+          "bit_distance0": 4,
+          "training_distance": 11,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 61,
+          "bit_distance0": 4,
+          "training_distance": 11,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 332,
+          "bit_distance0": 3,
+          "training_distance": 3,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 6,
+          "yes60": 6
+        }
+      },
+      "control_candidates": 12,
+      "parent_id": 63
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 507,
+          "bit_distance0": 5,
+          "training_distance": 22,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 507,
+          "bit_distance0": 5,
+          "training_distance": 10,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 507,
+          "bit_distance0": 5,
+          "training_distance": 14,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 507,
+          "bit_distance0": 5,
+          "training_distance": 14,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 304,
+          "bit_distance0": 5,
+          "training_distance": 5,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 4,
+      "parent_id": 64
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 8,
+      "G0_yes60": 7,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 662,
+          "bit_distance0": 2,
+          "training_distance": 10,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 20,
+          "yes60": 17
+        },
+        "phase0_3": {
+          "attempt": 662,
+          "bit_distance0": 2,
+          "training_distance": 4,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 20,
+          "yes60": 17
+        },
+        "phase0_3_6": {
+          "attempt": 662,
+          "bit_distance0": 2,
+          "training_distance": 6,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 20,
+          "yes60": 17
+        },
+        "phase3_6_12": {
+          "attempt": 662,
+          "bit_distance0": 2,
+          "training_distance": 6,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 20,
+          "yes60": 17
+        },
+        "raw0": {
+          "attempt": 662,
+          "bit_distance0": 2,
+          "training_distance": 2,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 20,
+          "yes60": 17
+        }
+      },
+      "control_candidates": 11,
+      "parent_id": 65
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 638,
+          "bit_distance0": 6,
+          "training_distance": 27,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 3,
+          "yes60": 3
+        },
+        "phase0_3": {
+          "attempt": 638,
+          "bit_distance0": 6,
+          "training_distance": 10,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 3,
+          "yes60": 3
+        },
+        "phase0_3_6": {
+          "attempt": 638,
+          "bit_distance0": 6,
+          "training_distance": 16,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 3,
+          "yes60": 3
+        },
+        "phase3_6_12": {
+          "attempt": 638,
+          "bit_distance0": 6,
+          "training_distance": 16,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 3,
+          "yes60": 3
+        },
+        "raw0": {
+          "attempt": 638,
+          "bit_distance0": 6,
+          "training_distance": 6,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 3,
+          "yes60": 3
+        }
+      },
+      "control_candidates": 6,
+      "parent_id": 66
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 7,
+      "G0_yes60": 6,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 291,
+          "bit_distance0": 4,
+          "training_distance": 19,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 10,
+          "yes60": 9
+        },
+        "phase0_3": {
+          "attempt": 291,
+          "bit_distance0": 4,
+          "training_distance": 7,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 10,
+          "yes60": 9
+        },
+        "phase0_3_6": {
+          "attempt": 291,
+          "bit_distance0": 4,
+          "training_distance": 11,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 10,
+          "yes60": 9
+        },
+        "phase3_6_12": {
+          "attempt": 291,
+          "bit_distance0": 4,
+          "training_distance": 11,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 10,
+          "yes60": 9
+        },
+        "raw0": {
+          "attempt": 291,
+          "bit_distance0": 4,
+          "training_distance": 4,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 10,
+          "yes60": 9
+        }
+      },
+      "control_candidates": 13,
+      "parent_id": 67
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 712,
+          "bit_distance0": 1,
+          "training_distance": 10,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 712,
+          "bit_distance0": 1,
+          "training_distance": 3,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 712,
+          "bit_distance0": 1,
+          "training_distance": 8,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 712,
+          "bit_distance0": 1,
+          "training_distance": 8,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 712,
+          "bit_distance0": 1,
+          "training_distance": 1,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 11,
+      "parent_id": 68
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 8,
+      "G0_yes60": 7,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 952,
+          "bit_distance0": 3,
+          "training_distance": 18,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 952,
+          "bit_distance0": 3,
+          "training_distance": 8,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 952,
+          "bit_distance0": 3,
+          "training_distance": 11,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 952,
+          "bit_distance0": 3,
+          "training_distance": 11,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 700,
+          "bit_distance0": 3,
+          "training_distance": 3,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 8,
+          "yes60": 7
+        }
+      },
+      "control_candidates": 14,
+      "parent_id": 69
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 7,
+      "G0_yes60": 6,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 900,
+          "bit_distance0": 3,
+          "training_distance": 18,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 900,
+          "bit_distance0": 3,
+          "training_distance": 7,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 900,
+          "bit_distance0": 3,
+          "training_distance": 12,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 900,
+          "bit_distance0": 3,
+          "training_distance": 12,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 900,
+          "bit_distance0": 3,
+          "training_distance": 3,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 6,
+      "parent_id": 70
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 7,
+      "G0_yes60": 4,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 716,
+          "bit_distance0": 3,
+          "training_distance": 21,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 716,
+          "bit_distance0": 3,
+          "training_distance": 10,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 716,
+          "bit_distance0": 3,
+          "training_distance": 13,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 716,
+          "bit_distance0": 3,
+          "training_distance": 13,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 716,
+          "bit_distance0": 3,
+          "training_distance": 3,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 16,
+      "parent_id": 71
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 197,
+          "bit_distance0": 4,
+          "training_distance": 26,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 197,
+          "bit_distance0": 4,
+          "training_distance": 11,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 197,
+          "bit_distance0": 4,
+          "training_distance": 17,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 197,
+          "bit_distance0": 4,
+          "training_distance": 17,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 197,
+          "bit_distance0": 4,
+          "training_distance": 4,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 7,
+      "parent_id": 72
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 30,
+          "bit_distance0": 5,
+          "training_distance": 27,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 12,
+          "yes60": 11
+        },
+        "phase0_3": {
+          "attempt": 30,
+          "bit_distance0": 5,
+          "training_distance": 11,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 12,
+          "yes60": 11
+        },
+        "phase0_3_6": {
+          "attempt": 30,
+          "bit_distance0": 5,
+          "training_distance": 16,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 12,
+          "yes60": 11
+        },
+        "phase3_6_12": {
+          "attempt": 30,
+          "bit_distance0": 5,
+          "training_distance": 16,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 12,
+          "yes60": 11
+        },
+        "raw0": {
+          "attempt": 572,
+          "bit_distance0": 5,
+          "training_distance": 5,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 10,
+      "parent_id": 73
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 8,
+      "G0_yes60": 5,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 490,
+          "bit_distance0": 6,
+          "training_distance": 35,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 4,
+          "yes60": 2
+        },
+        "phase0_3": {
+          "attempt": 490,
+          "bit_distance0": 6,
+          "training_distance": 13,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 4,
+          "yes60": 2
+        },
+        "phase0_3_6": {
+          "attempt": 490,
+          "bit_distance0": 6,
+          "training_distance": 21,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 4,
+          "yes60": 2
+        },
+        "phase3_6_12": {
+          "attempt": 490,
+          "bit_distance0": 6,
+          "training_distance": 21,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 4,
+          "yes60": 2
+        },
+        "raw0": {
+          "attempt": 490,
+          "bit_distance0": 6,
+          "training_distance": 6,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 4,
+          "yes60": 2
+        }
+      },
+      "control_candidates": 10,
+      "parent_id": 75
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 8,
+      "G0_yes60": 8,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 342,
+          "bit_distance0": 6,
+          "training_distance": 34,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 342,
+          "bit_distance0": 6,
+          "training_distance": 12,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 342,
+          "bit_distance0": 6,
+          "training_distance": 20,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 342,
+          "bit_distance0": 6,
+          "training_distance": 20,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 322,
+          "bit_distance0": 6,
+          "training_distance": 6,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 13,
+          "yes60": 7
+        }
+      },
+      "control_candidates": 7,
+      "parent_id": 76
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 443,
+          "bit_distance0": 4,
+          "training_distance": 17,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 443,
+          "bit_distance0": 4,
+          "training_distance": 6,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 443,
+          "bit_distance0": 4,
+          "training_distance": 10,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 443,
+          "bit_distance0": 4,
+          "training_distance": 10,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 100,
+          "bit_distance0": 4,
+          "training_distance": 4,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 15,
+      "parent_id": 77
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 8,
+      "G0_yes60": 7,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 712,
+          "bit_distance0": 2,
+          "training_distance": 10,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 7,
+          "yes60": 6
+        },
+        "phase0_3": {
+          "attempt": 712,
+          "bit_distance0": 2,
+          "training_distance": 4,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 7,
+          "yes60": 6
+        },
+        "phase0_3_6": {
+          "attempt": 712,
+          "bit_distance0": 2,
+          "training_distance": 6,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 7,
+          "yes60": 6
+        },
+        "phase3_6_12": {
+          "attempt": 712,
+          "bit_distance0": 2,
+          "training_distance": 6,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 7,
+          "yes60": 6
+        },
+        "raw0": {
+          "attempt": 712,
+          "bit_distance0": 2,
+          "training_distance": 2,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 7,
+          "yes60": 6
+        }
+      },
+      "control_candidates": 12,
+      "parent_id": 78
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 486,
+          "bit_distance0": 5,
+          "training_distance": 18,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 7,
+          "yes60": 5
+        },
+        "phase0_3": {
+          "attempt": 486,
+          "bit_distance0": 5,
+          "training_distance": 7,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 7,
+          "yes60": 5
+        },
+        "phase0_3_6": {
+          "attempt": 486,
+          "bit_distance0": 5,
+          "training_distance": 11,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 7,
+          "yes60": 5
+        },
+        "phase3_6_12": {
+          "attempt": 486,
+          "bit_distance0": 5,
+          "training_distance": 11,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 7,
+          "yes60": 5
+        },
+        "raw0": {
+          "attempt": 486,
+          "bit_distance0": 5,
+          "training_distance": 5,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 7,
+          "yes60": 5
+        }
+      },
+      "control_candidates": 9,
+      "parent_id": 79
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 759,
+          "bit_distance0": 5,
+          "training_distance": 32,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 6,
+          "yes60": 5
+        },
+        "phase0_3": {
+          "attempt": 759,
+          "bit_distance0": 5,
+          "training_distance": 13,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 6,
+          "yes60": 5
+        },
+        "phase0_3_6": {
+          "attempt": 759,
+          "bit_distance0": 5,
+          "training_distance": 20,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 6,
+          "yes60": 5
+        },
+        "phase3_6_12": {
+          "attempt": 759,
+          "bit_distance0": 5,
+          "training_distance": 20,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 6,
+          "yes60": 5
+        },
+        "raw0": {
+          "attempt": 759,
+          "bit_distance0": 5,
+          "training_distance": 5,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 6,
+          "yes60": 5
+        }
+      },
+      "control_candidates": 6,
+      "parent_id": 80
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 123,
+          "bit_distance0": 3,
+          "training_distance": 15,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 16,
+          "yes60": 11
+        },
+        "phase0_3": {
+          "attempt": 123,
+          "bit_distance0": 3,
+          "training_distance": 6,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 16,
+          "yes60": 11
+        },
+        "phase0_3_6": {
+          "attempt": 123,
+          "bit_distance0": 3,
+          "training_distance": 9,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 16,
+          "yes60": 11
+        },
+        "phase3_6_12": {
+          "attempt": 123,
+          "bit_distance0": 3,
+          "training_distance": 9,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 16,
+          "yes60": 11
+        },
+        "raw0": {
+          "attempt": 123,
+          "bit_distance0": 3,
+          "training_distance": 3,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 16,
+          "yes60": 11
+        }
+      },
+      "control_candidates": 9,
+      "parent_id": 81
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 381,
+          "bit_distance0": 3,
+          "training_distance": 22,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 8,
+          "yes60": 5
+        },
+        "phase0_3": {
+          "attempt": 381,
+          "bit_distance0": 3,
+          "training_distance": 9,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 8,
+          "yes60": 5
+        },
+        "phase0_3_6": {
+          "attempt": 381,
+          "bit_distance0": 3,
+          "training_distance": 14,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 8,
+          "yes60": 5
+        },
+        "phase3_6_12": {
+          "attempt": 381,
+          "bit_distance0": 3,
+          "training_distance": 14,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 8,
+          "yes60": 5
+        },
+        "raw0": {
+          "attempt": 381,
+          "bit_distance0": 3,
+          "training_distance": 3,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 8,
+          "yes60": 5
+        }
+      },
+      "control_candidates": 3,
+      "parent_id": 82
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 872,
+          "bit_distance0": 3,
+          "training_distance": 16,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 872,
+          "bit_distance0": 3,
+          "training_distance": 6,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 872,
+          "bit_distance0": 3,
+          "training_distance": 9,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 872,
+          "bit_distance0": 3,
+          "training_distance": 9,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 872,
+          "bit_distance0": 3,
+          "training_distance": 3,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 17,
+      "parent_id": 83
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 880,
+          "bit_distance0": 4,
+          "training_distance": 23,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 880,
+          "bit_distance0": 4,
+          "training_distance": 7,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 880,
+          "bit_distance0": 4,
+          "training_distance": 14,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 880,
+          "bit_distance0": 4,
+          "training_distance": 14,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 253,
+          "bit_distance0": 4,
+          "training_distance": 4,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 6,
+      "parent_id": 84
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 8,
+      "G0_yes60": 7,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 684,
+          "bit_distance0": 3,
+          "training_distance": 21,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 16,
+          "yes60": 15
+        },
+        "phase0_3": {
+          "attempt": 684,
+          "bit_distance0": 3,
+          "training_distance": 10,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 16,
+          "yes60": 15
+        },
+        "phase0_3_6": {
+          "attempt": 684,
+          "bit_distance0": 3,
+          "training_distance": 13,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 16,
+          "yes60": 15
+        },
+        "phase3_6_12": {
+          "attempt": 684,
+          "bit_distance0": 3,
+          "training_distance": 13,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 16,
+          "yes60": 15
+        },
+        "raw0": {
+          "attempt": 684,
+          "bit_distance0": 3,
+          "training_distance": 3,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 16,
+          "yes60": 15
+        }
+      },
+      "control_candidates": 15,
+      "parent_id": 85
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 704,
+          "bit_distance0": 4,
+          "training_distance": 21,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 704,
+          "bit_distance0": 4,
+          "training_distance": 9,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 704,
+          "bit_distance0": 4,
+          "training_distance": 14,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 704,
+          "bit_distance0": 4,
+          "training_distance": 14,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 704,
+          "bit_distance0": 4,
+          "training_distance": 4,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 7,
+      "parent_id": 86
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 218,
+          "bit_distance0": 6,
+          "training_distance": 31,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 3,
+          "yes60": 3
+        },
+        "phase0_3": {
+          "attempt": 899,
+          "bit_distance0": 6,
+          "training_distance": 12,
+          "unknown60": 0,
+          "window_distance0": 5,
+          "yes10": 8,
+          "yes60": 6
+        },
+        "phase0_3_6": {
+          "attempt": 495,
+          "bit_distance0": 6,
+          "training_distance": 18,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 495,
+          "bit_distance0": 6,
+          "training_distance": 18,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 218,
+          "bit_distance0": 6,
+          "training_distance": 6,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 3,
+          "yes60": 3
+        }
+      },
+      "control_candidates": 7,
+      "parent_id": 87
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 692,
+          "bit_distance0": 2,
+          "training_distance": 16,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 692,
+          "bit_distance0": 2,
+          "training_distance": 8,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 692,
+          "bit_distance0": 2,
+          "training_distance": 12,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 692,
+          "bit_distance0": 2,
+          "training_distance": 12,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 692,
+          "bit_distance0": 2,
+          "training_distance": 2,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 7,
+      "parent_id": 89
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 7,
+      "G0_yes60": 5,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 240,
+          "bit_distance0": 2,
+          "training_distance": 15,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 3,
+          "yes60": 3
+        },
+        "phase0_3": {
+          "attempt": 240,
+          "bit_distance0": 2,
+          "training_distance": 7,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 3,
+          "yes60": 3
+        },
+        "phase0_3_6": {
+          "attempt": 240,
+          "bit_distance0": 2,
+          "training_distance": 9,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 3,
+          "yes60": 3
+        },
+        "phase3_6_12": {
+          "attempt": 240,
+          "bit_distance0": 2,
+          "training_distance": 9,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 3,
+          "yes60": 3
+        },
+        "raw0": {
+          "attempt": 240,
+          "bit_distance0": 2,
+          "training_distance": 2,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 3,
+          "yes60": 3
+        }
+      },
+      "control_candidates": 20,
+      "parent_id": 90
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 783,
+          "bit_distance0": 3,
+          "training_distance": 19,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 10,
+          "yes60": 8
+        },
+        "phase0_3": {
+          "attempt": 783,
+          "bit_distance0": 3,
+          "training_distance": 9,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 10,
+          "yes60": 8
+        },
+        "phase0_3_6": {
+          "attempt": 783,
+          "bit_distance0": 3,
+          "training_distance": 11,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 10,
+          "yes60": 8
+        },
+        "phase3_6_12": {
+          "attempt": 783,
+          "bit_distance0": 3,
+          "training_distance": 11,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 10,
+          "yes60": 8
+        },
+        "raw0": {
+          "attempt": 783,
+          "bit_distance0": 3,
+          "training_distance": 3,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 10,
+          "yes60": 8
+        }
+      },
+      "control_candidates": 7,
+      "parent_id": 91
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 6,
+      "G0_yes60": 5,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 397,
+          "bit_distance0": 6,
+          "training_distance": 33,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 10,
+          "yes60": 6
+        },
+        "phase0_3": {
+          "attempt": 397,
+          "bit_distance0": 6,
+          "training_distance": 12,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 10,
+          "yes60": 6
+        },
+        "phase0_3_6": {
+          "attempt": 397,
+          "bit_distance0": 6,
+          "training_distance": 21,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 10,
+          "yes60": 6
+        },
+        "phase3_6_12": {
+          "attempt": 397,
+          "bit_distance0": 6,
+          "training_distance": 21,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 10,
+          "yes60": 6
+        },
+        "raw0": {
+          "attempt": 397,
+          "bit_distance0": 6,
+          "training_distance": 6,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 10,
+          "yes60": 6
+        }
+      },
+      "control_candidates": 5,
+      "parent_id": 92
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 965,
+          "bit_distance0": 9,
+          "training_distance": 40,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 5,
+          "yes60": 4
+        },
+        "phase0_3": {
+          "attempt": 348,
+          "bit_distance0": 8,
+          "training_distance": 17,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 8,
+          "yes60": 6
+        },
+        "phase0_3_6": {
+          "attempt": 998,
+          "bit_distance0": 8,
+          "training_distance": 25,
+          "unknown60": 0,
+          "window_distance0": 5,
+          "yes10": 2,
+          "yes60": 2
+        },
+        "phase3_6_12": {
+          "attempt": 998,
+          "bit_distance0": 8,
+          "training_distance": 25,
+          "unknown60": 0,
+          "window_distance0": 5,
+          "yes10": 2,
+          "yes60": 2
+        },
+        "raw0": {
+          "attempt": 348,
+          "bit_distance0": 8,
+          "training_distance": 8,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 8,
+          "yes60": 6
+        }
+      },
+      "control_candidates": 4,
+      "parent_id": 93
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 239,
+          "bit_distance0": 4,
+          "training_distance": 24,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 239,
+          "bit_distance0": 4,
+          "training_distance": 10,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 239,
+          "bit_distance0": 4,
+          "training_distance": 14,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 239,
+          "bit_distance0": 4,
+          "training_distance": 14,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 239,
+          "bit_distance0": 4,
+          "training_distance": 4,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 3,
+      "parent_id": 94
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 291,
+          "bit_distance0": 3,
+          "training_distance": 24,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 291,
+          "bit_distance0": 3,
+          "training_distance": 9,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 291,
+          "bit_distance0": 3,
+          "training_distance": 17,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 291,
+          "bit_distance0": 3,
+          "training_distance": 17,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 291,
+          "bit_distance0": 3,
+          "training_distance": 3,
+          "unknown60": 0,
+          "window_distance0": 1,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 6,
+      "parent_id": 98
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 222,
+          "bit_distance0": 5,
+          "training_distance": 31,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 10,
+          "yes60": 8
+        },
+        "phase0_3": {
+          "attempt": 222,
+          "bit_distance0": 5,
+          "training_distance": 12,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 10,
+          "yes60": 8
+        },
+        "phase0_3_6": {
+          "attempt": 222,
+          "bit_distance0": 5,
+          "training_distance": 19,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 10,
+          "yes60": 8
+        },
+        "phase3_6_12": {
+          "attempt": 222,
+          "bit_distance0": 5,
+          "training_distance": 19,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 10,
+          "yes60": 8
+        },
+        "raw0": {
+          "attempt": 222,
+          "bit_distance0": 5,
+          "training_distance": 5,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 10,
+          "yes60": 8
+        }
+      },
+      "control_candidates": 5,
+      "parent_id": 99
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 8,
+      "G0_yes60": 5,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 101,
+          "bit_distance0": 8,
+          "training_distance": 39,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 101,
+          "bit_distance0": 8,
+          "training_distance": 14,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 101,
+          "bit_distance0": 8,
+          "training_distance": 22,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 101,
+          "bit_distance0": 8,
+          "training_distance": 22,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 101,
+          "bit_distance0": 8,
+          "training_distance": 8,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 4,
+      "parent_id": 100
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 8,
+      "G0_yes60": 8,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 670,
+          "bit_distance0": 7,
+          "training_distance": 33,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 670,
+          "bit_distance0": 7,
+          "training_distance": 13,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 670,
+          "bit_distance0": 7,
+          "training_distance": 18,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 670,
+          "bit_distance0": 7,
+          "training_distance": 18,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 181,
+          "bit_distance0": 6,
+          "training_distance": 6,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 3,
+          "yes60": 1
+        }
+      },
+      "control_candidates": 6,
+      "parent_id": 101
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 8,
+      "G0_yes60": 7,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 355,
+          "bit_distance0": 3,
+          "training_distance": 15,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 8,
+          "yes60": 7
+        },
+        "phase0_3": {
+          "attempt": 355,
+          "bit_distance0": 3,
+          "training_distance": 6,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 8,
+          "yes60": 7
+        },
+        "phase0_3_6": {
+          "attempt": 355,
+          "bit_distance0": 3,
+          "training_distance": 9,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 8,
+          "yes60": 7
+        },
+        "phase3_6_12": {
+          "attempt": 355,
+          "bit_distance0": 3,
+          "training_distance": 9,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 8,
+          "yes60": 7
+        },
+        "raw0": {
+          "attempt": 355,
+          "bit_distance0": 3,
+          "training_distance": 3,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 8,
+          "yes60": 7
+        }
+      },
+      "control_candidates": 12,
+      "parent_id": 102
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 7,
+      "G0_yes60": 6,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 695,
+          "bit_distance0": 3,
+          "training_distance": 14,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 695,
+          "bit_distance0": 3,
+          "training_distance": 6,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 695,
+          "bit_distance0": 3,
+          "training_distance": 8,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 695,
+          "bit_distance0": 3,
+          "training_distance": 8,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 695,
+          "bit_distance0": 3,
+          "training_distance": 3,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 6,
+      "parent_id": 103
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 7,
+      "G0_yes60": 4,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 271,
+          "bit_distance0": 4,
+          "training_distance": 20,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 9,
+          "yes60": 7
+        },
+        "phase0_3": {
+          "attempt": 271,
+          "bit_distance0": 4,
+          "training_distance": 7,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 9,
+          "yes60": 7
+        },
+        "phase0_3_6": {
+          "attempt": 271,
+          "bit_distance0": 4,
+          "training_distance": 11,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 9,
+          "yes60": 7
+        },
+        "phase3_6_12": {
+          "attempt": 271,
+          "bit_distance0": 4,
+          "training_distance": 11,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 9,
+          "yes60": 7
+        },
+        "raw0": {
+          "attempt": 271,
+          "bit_distance0": 4,
+          "training_distance": 4,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 9,
+          "yes60": 7
+        }
+      },
+      "control_candidates": 13,
+      "parent_id": 104
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 7,
+      "G0_yes60": 5,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 51,
+          "bit_distance0": 4,
+          "training_distance": 20,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 6,
+          "yes60": 5
+        },
+        "phase0_3": {
+          "attempt": 51,
+          "bit_distance0": 4,
+          "training_distance": 8,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 6,
+          "yes60": 5
+        },
+        "phase0_3_6": {
+          "attempt": 51,
+          "bit_distance0": 4,
+          "training_distance": 12,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 6,
+          "yes60": 5
+        },
+        "phase3_6_12": {
+          "attempt": 51,
+          "bit_distance0": 4,
+          "training_distance": 12,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 6,
+          "yes60": 5
+        },
+        "raw0": {
+          "attempt": 51,
+          "bit_distance0": 4,
+          "training_distance": 4,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 6,
+          "yes60": 5
+        }
+      },
+      "control_candidates": 15,
+      "parent_id": 106
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 6,
+      "G0_yes60": 5,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 945,
+          "bit_distance0": 5,
+          "training_distance": 25,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 7,
+          "yes60": 5
+        },
+        "phase0_3": {
+          "attempt": 945,
+          "bit_distance0": 5,
+          "training_distance": 10,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 7,
+          "yes60": 5
+        },
+        "phase0_3_6": {
+          "attempt": 945,
+          "bit_distance0": 5,
+          "training_distance": 15,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 7,
+          "yes60": 5
+        },
+        "phase3_6_12": {
+          "attempt": 945,
+          "bit_distance0": 5,
+          "training_distance": 15,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 7,
+          "yes60": 5
+        },
+        "raw0": {
+          "attempt": 945,
+          "bit_distance0": 5,
+          "training_distance": 5,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 7,
+          "yes60": 5
+        }
+      },
+      "control_candidates": 5,
+      "parent_id": 107
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 33,
+          "bit_distance0": 8,
+          "training_distance": 37,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 12,
+          "yes60": 10
+        },
+        "phase0_3": {
+          "attempt": 33,
+          "bit_distance0": 8,
+          "training_distance": 16,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 12,
+          "yes60": 10
+        },
+        "phase0_3_6": {
+          "attempt": 583,
+          "bit_distance0": 9,
+          "training_distance": 23,
+          "unknown60": 0,
+          "window_distance0": 5,
+          "yes10": 8,
+          "yes60": 6
+        },
+        "phase3_6_12": {
+          "attempt": 583,
+          "bit_distance0": 9,
+          "training_distance": 23,
+          "unknown60": 0,
+          "window_distance0": 5,
+          "yes10": 8,
+          "yes60": 6
+        },
+        "raw0": {
+          "attempt": 33,
+          "bit_distance0": 8,
+          "training_distance": 8,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 12,
+          "yes60": 10
+        }
+      },
+      "control_candidates": 5,
+      "parent_id": 108
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 779,
+          "bit_distance0": 11,
+          "training_distance": 51,
+          "unknown60": 0,
+          "window_distance0": 5,
+          "yes10": 13,
+          "yes60": 12
+        },
+        "phase0_3": {
+          "attempt": 672,
+          "bit_distance0": 14,
+          "training_distance": 20,
+          "unknown60": 0,
+          "window_distance0": 5,
+          "yes10": 7,
+          "yes60": 7
+        },
+        "phase0_3_6": {
+          "attempt": 779,
+          "bit_distance0": 11,
+          "training_distance": 30,
+          "unknown60": 0,
+          "window_distance0": 5,
+          "yes10": 13,
+          "yes60": 12
+        },
+        "phase3_6_12": {
+          "attempt": 779,
+          "bit_distance0": 11,
+          "training_distance": 30,
+          "unknown60": 0,
+          "window_distance0": 5,
+          "yes10": 13,
+          "yes60": 12
+        },
+        "raw0": {
+          "attempt": 779,
+          "bit_distance0": 11,
+          "training_distance": 11,
+          "unknown60": 0,
+          "window_distance0": 5,
+          "yes10": 13,
+          "yes60": 12
+        }
+      },
+      "control_candidates": 5,
+      "parent_id": 109
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 660,
+          "bit_distance0": 3,
+          "training_distance": 16,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 660,
+          "bit_distance0": 3,
+          "training_distance": 7,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 660,
+          "bit_distance0": 3,
+          "training_distance": 10,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 660,
+          "bit_distance0": 3,
+          "training_distance": 10,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 660,
+          "bit_distance0": 3,
+          "training_distance": 3,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 7,
+      "parent_id": 110
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 665,
+          "bit_distance0": 3,
+          "training_distance": 21,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 665,
+          "bit_distance0": 3,
+          "training_distance": 9,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 665,
+          "bit_distance0": 3,
+          "training_distance": 13,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 665,
+          "bit_distance0": 3,
+          "training_distance": 13,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 665,
+          "bit_distance0": 3,
+          "training_distance": 3,
+          "unknown60": 0,
+          "window_distance0": 2,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 9,
+      "parent_id": 111
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 678,
+          "bit_distance0": 5,
+          "training_distance": 25,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 678,
+          "bit_distance0": 5,
+          "training_distance": 10,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 678,
+          "bit_distance0": 5,
+          "training_distance": 15,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 678,
+          "bit_distance0": 5,
+          "training_distance": 15,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 678,
+          "bit_distance0": 5,
+          "training_distance": 5,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 2,
+      "parent_id": 115
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 571,
+          "bit_distance0": 6,
+          "training_distance": 29,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 15,
+          "yes60": 15
+        },
+        "phase0_3": {
+          "attempt": 571,
+          "bit_distance0": 6,
+          "training_distance": 11,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 15,
+          "yes60": 15
+        },
+        "phase0_3_6": {
+          "attempt": 571,
+          "bit_distance0": 6,
+          "training_distance": 16,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 15,
+          "yes60": 15
+        },
+        "phase3_6_12": {
+          "attempt": 571,
+          "bit_distance0": 6,
+          "training_distance": 16,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 15,
+          "yes60": 15
+        },
+        "raw0": {
+          "attempt": 571,
+          "bit_distance0": 6,
+          "training_distance": 6,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 15,
+          "yes60": 15
+        }
+      },
+      "control_candidates": 7,
+      "parent_id": 116
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 404,
+          "bit_distance0": 4,
+          "training_distance": 26,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 5,
+          "yes60": 5
+        },
+        "phase0_3": {
+          "attempt": 404,
+          "bit_distance0": 4,
+          "training_distance": 10,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 5,
+          "yes60": 5
+        },
+        "phase0_3_6": {
+          "attempt": 404,
+          "bit_distance0": 4,
+          "training_distance": 17,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 5,
+          "yes60": 5
+        },
+        "phase3_6_12": {
+          "attempt": 404,
+          "bit_distance0": 4,
+          "training_distance": 17,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 5,
+          "yes60": 5
+        },
+        "raw0": {
+          "attempt": 404,
+          "bit_distance0": 4,
+          "training_distance": 4,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 5,
+          "yes60": 5
+        }
+      },
+      "control_candidates": 6,
+      "parent_id": 117
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 30,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 625,
+          "bit_distance0": 14,
+          "training_distance": 77,
+          "unknown60": 0,
+          "window_distance0": 9,
+          "yes10": 30,
+          "yes60": 5
+        },
+        "phase0_3": {
+          "attempt": 625,
+          "bit_distance0": 14,
+          "training_distance": 31,
+          "unknown60": 0,
+          "window_distance0": 9,
+          "yes10": 30,
+          "yes60": 5
+        },
+        "phase0_3_6": {
+          "attempt": 625,
+          "bit_distance0": 14,
+          "training_distance": 47,
+          "unknown60": 0,
+          "window_distance0": 9,
+          "yes10": 30,
+          "yes60": 5
+        },
+        "phase3_6_12": {
+          "attempt": 625,
+          "bit_distance0": 14,
+          "training_distance": 47,
+          "unknown60": 0,
+          "window_distance0": 9,
+          "yes10": 30,
+          "yes60": 5
+        },
+        "raw0": {
+          "attempt": 625,
+          "bit_distance0": 14,
+          "training_distance": 14,
+          "unknown60": 0,
+          "window_distance0": 9,
+          "yes10": 30,
+          "yes60": 5
+        }
+      },
+      "control_candidates": 1,
+      "parent_id": 118
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 7,
+      "G0_yes60": 5,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 452,
+          "bit_distance0": 4,
+          "training_distance": 22,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 15,
+          "yes60": 12
+        },
+        "phase0_3": {
+          "attempt": 452,
+          "bit_distance0": 4,
+          "training_distance": 10,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 15,
+          "yes60": 12
+        },
+        "phase0_3_6": {
+          "attempt": 452,
+          "bit_distance0": 4,
+          "training_distance": 14,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 15,
+          "yes60": 12
+        },
+        "phase3_6_12": {
+          "attempt": 452,
+          "bit_distance0": 4,
+          "training_distance": 14,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 15,
+          "yes60": 12
+        },
+        "raw0": {
+          "attempt": 452,
+          "bit_distance0": 4,
+          "training_distance": 4,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 15,
+          "yes60": 12
+        }
+      },
+      "control_candidates": 14,
+      "parent_id": 119
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 6,
+      "G0_yes60": 5,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 117,
+          "bit_distance0": 8,
+          "training_distance": 36,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 6,
+          "yes60": 5
+        },
+        "phase0_3": {
+          "attempt": 117,
+          "bit_distance0": 8,
+          "training_distance": 15,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 6,
+          "yes60": 5
+        },
+        "phase0_3_6": {
+          "attempt": 117,
+          "bit_distance0": 8,
+          "training_distance": 22,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 6,
+          "yes60": 5
+        },
+        "phase3_6_12": {
+          "attempt": 117,
+          "bit_distance0": 8,
+          "training_distance": 22,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 6,
+          "yes60": 5
+        },
+        "raw0": {
+          "attempt": 359,
+          "bit_distance0": 6,
+          "training_distance": 6,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 8,
+      "parent_id": 120
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 588,
+          "bit_distance0": 5,
+          "training_distance": 31,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 11,
+          "yes60": 7
+        },
+        "phase0_3": {
+          "attempt": 588,
+          "bit_distance0": 5,
+          "training_distance": 13,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 11,
+          "yes60": 7
+        },
+        "phase0_3_6": {
+          "attempt": 588,
+          "bit_distance0": 5,
+          "training_distance": 18,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 11,
+          "yes60": 7
+        },
+        "phase3_6_12": {
+          "attempt": 588,
+          "bit_distance0": 5,
+          "training_distance": 18,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 11,
+          "yes60": 7
+        },
+        "raw0": {
+          "attempt": 588,
+          "bit_distance0": 5,
+          "training_distance": 5,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 11,
+          "yes60": 7
+        }
+      },
+      "control_candidates": 3,
+      "parent_id": 121
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 756,
+          "bit_distance0": 7,
+          "training_distance": 34,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 13,
+          "yes60": 6
+        },
+        "phase0_3": {
+          "attempt": 756,
+          "bit_distance0": 7,
+          "training_distance": 12,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 13,
+          "yes60": 6
+        },
+        "phase0_3_6": {
+          "attempt": 756,
+          "bit_distance0": 7,
+          "training_distance": 20,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 13,
+          "yes60": 6
+        },
+        "phase3_6_12": {
+          "attempt": 756,
+          "bit_distance0": 7,
+          "training_distance": 20,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 13,
+          "yes60": 6
+        },
+        "raw0": {
+          "attempt": 756,
+          "bit_distance0": 7,
+          "training_distance": 7,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 13,
+          "yes60": 6
+        }
+      },
+      "control_candidates": 6,
+      "parent_id": 124
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 582,
+          "bit_distance0": 4,
+          "training_distance": 27,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 582,
+          "bit_distance0": 4,
+          "training_distance": 11,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 582,
+          "bit_distance0": 4,
+          "training_distance": 18,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 582,
+          "bit_distance0": 4,
+          "training_distance": 18,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 582,
+          "bit_distance0": 4,
+          "training_distance": 4,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 6,
+      "parent_id": 125
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 553,
+          "bit_distance0": 4,
+          "training_distance": 22,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 553,
+          "bit_distance0": 4,
+          "training_distance": 8,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 553,
+          "bit_distance0": 4,
+          "training_distance": 14,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 553,
+          "bit_distance0": 4,
+          "training_distance": 14,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 553,
+          "bit_distance0": 4,
+          "training_distance": 4,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 8,
+      "parent_id": 126
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 913,
+          "bit_distance0": 10,
+          "training_distance": 50,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 8,
+          "yes60": 8
+        },
+        "phase0_3": {
+          "attempt": 913,
+          "bit_distance0": 10,
+          "training_distance": 22,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 8,
+          "yes60": 8
+        },
+        "phase0_3_6": {
+          "attempt": 913,
+          "bit_distance0": 10,
+          "training_distance": 32,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 8,
+          "yes60": 8
+        },
+        "phase3_6_12": {
+          "attempt": 913,
+          "bit_distance0": 10,
+          "training_distance": 32,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 8,
+          "yes60": 8
+        },
+        "raw0": {
+          "attempt": 913,
+          "bit_distance0": 10,
+          "training_distance": 10,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 8,
+          "yes60": 8
+        }
+      },
+      "control_candidates": 3,
+      "parent_id": 127
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 568,
+          "bit_distance0": 4,
+          "training_distance": 26,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3": {
+          "attempt": 568,
+          "bit_distance0": 4,
+          "training_distance": 10,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase0_3_6": {
+          "attempt": 568,
+          "bit_distance0": 4,
+          "training_distance": 17,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "phase3_6_12": {
+          "attempt": 568,
+          "bit_distance0": 4,
+          "training_distance": 17,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        },
+        "raw0": {
+          "attempt": 568,
+          "bit_distance0": 4,
+          "training_distance": 4,
+          "unknown60": 0,
+          "window_distance0": 3,
+          "yes10": 0,
+          "yes60": 0
+        }
+      },
+      "control_candidates": 3,
+      "parent_id": 128
+    },
+    {
+      "G0_unknown60": 0,
+      "G0_yes10": 0,
+      "G0_yes60": 0,
+      "choice": {
+        "phase0_1_3_6_12": {
+          "attempt": 122,
+          "bit_distance0": 7,
+          "training_distance": 36,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 18,
+          "yes60": 16
+        },
+        "phase0_3": {
+          "attempt": 122,
+          "bit_distance0": 7,
+          "training_distance": 16,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 18,
+          "yes60": 16
+        },
+        "phase0_3_6": {
+          "attempt": 122,
+          "bit_distance0": 7,
+          "training_distance": 23,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 18,
+          "yes60": 16
+        },
+        "phase3_6_12": {
+          "attempt": 122,
+          "bit_distance0": 7,
+          "training_distance": 23,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 18,
+          "yes60": 16
+        },
+        "raw0": {
+          "attempt": 122,
+          "bit_distance0": 7,
+          "training_distance": 7,
+          "unknown60": 0,
+          "window_distance0": 4,
+          "yes10": 18,
+          "yes60": 16
+        }
+      },
+      "control_candidates": 1,
+      "parent_id": 129
+    }
+  ],
+  "summary": {
+    "all113": {
+      "phase0_1_3_6_12": {
+        "changed_vs_raw0": 17,
+        "parents": 113,
+        "selected_control_raw_distance_mean": 4.433628318584071,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 326,
+          "control_unknown": 0,
+          "control_yes": 608,
+          "lower_difference": -0.0831858407079646,
+          "upper_difference": -0.0831858407079646
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 240,
+          "control_unknown": 0,
+          "control_yes": 477,
+          "lower_difference": -0.06991150442477877,
+          "upper_difference": -0.06991150442477877
+        },
+        "training_distance_mean": 23.504424778761063
+      },
+      "phase0_3": {
+        "changed_vs_raw0": 18,
+        "parents": 113,
+        "selected_control_raw_distance_mean": 4.504424778761062,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 326,
+          "control_unknown": 0,
+          "control_yes": 601,
+          "lower_difference": -0.08112094395280237,
+          "upper_difference": -0.08112094395280237
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 240,
+          "control_unknown": 0,
+          "control_yes": 472,
+          "lower_difference": -0.06843657817109144,
+          "upper_difference": -0.06843657817109144
+        },
+        "training_distance_mean": 9.513274336283185
+      },
+      "phase0_3_6": {
+        "changed_vs_raw0": 21,
+        "parents": 113,
+        "selected_control_raw_distance_mean": 4.469026548672566,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 326,
+          "control_unknown": 0,
+          "control_yes": 586,
+          "lower_difference": -0.07669616519174041,
+          "upper_difference": -0.07669616519174041
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 240,
+          "control_unknown": 0,
+          "control_yes": 462,
+          "lower_difference": -0.06548672566371681,
+          "upper_difference": -0.06548672566371681
+        },
+        "training_distance_mean": 14.336283185840708
+      },
+      "phase3_6_12": {
+        "changed_vs_raw0": 21,
+        "parents": 113,
+        "selected_control_raw_distance_mean": 4.469026548672566,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 326,
+          "control_unknown": 0,
+          "control_yes": 586,
+          "lower_difference": -0.07669616519174041,
+          "upper_difference": -0.07669616519174041
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 240,
+          "control_unknown": 0,
+          "control_yes": 462,
+          "lower_difference": -0.06548672566371681,
+          "upper_difference": -0.06548672566371681
+        },
+        "training_distance_mean": 14.336283185840708
+      },
+      "raw0": {
+        "changed_vs_raw0": 0,
+        "parents": 113,
+        "selected_control_raw_distance_mean": 4.371681415929204,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 326,
+          "control_unknown": 0,
+          "control_yes": 615,
+          "lower_difference": -0.08525073746312685,
+          "upper_difference": -0.08525073746312685
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 240,
+          "control_unknown": 0,
+          "control_yes": 476,
+          "lower_difference": -0.0696165191740413,
+          "upper_difference": -0.0696165191740413
+        },
+        "training_distance_mean": 4.371681415929204
+      }
+    },
+    "new58": {
+      "phase0_1_3_6_12": {
+        "changed_vs_raw0": 9,
+        "parents": 58,
+        "selected_control_raw_distance_mean": 4.810344827586207,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 153,
+          "control_unknown": 0,
+          "control_yes": 282,
+          "lower_difference": -0.07413793103448275,
+          "upper_difference": -0.07413793103448275
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 97,
+          "control_unknown": 0,
+          "control_yes": 214,
+          "lower_difference": -0.06724137931034482,
+          "upper_difference": -0.06724137931034482
+        },
+        "training_distance_mean": 25.603448275862068
+      },
+      "phase0_3": {
+        "changed_vs_raw0": 10,
+        "parents": 58,
+        "selected_control_raw_distance_mean": 4.879310344827586,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 153,
+          "control_unknown": 0,
+          "control_yes": 290,
+          "lower_difference": -0.07873563218390804,
+          "upper_difference": -0.07873563218390804
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 97,
+          "control_unknown": 0,
+          "control_yes": 218,
+          "lower_difference": -0.06954022988505747,
+          "upper_difference": -0.06954022988505747
+        },
+        "training_distance_mean": 10.413793103448276
+      },
+      "phase0_3_6": {
+        "changed_vs_raw0": 11,
+        "parents": 58,
+        "selected_control_raw_distance_mean": 4.827586206896552,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 153,
+          "control_unknown": 0,
+          "control_yes": 281,
+          "lower_difference": -0.0735632183908046,
+          "upper_difference": -0.0735632183908046
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 97,
+          "control_unknown": 0,
+          "control_yes": 213,
+          "lower_difference": -0.06666666666666667,
+          "upper_difference": -0.06666666666666667
+        },
+        "training_distance_mean": 15.672413793103448
+      },
+      "phase3_6_12": {
+        "changed_vs_raw0": 11,
+        "parents": 58,
+        "selected_control_raw_distance_mean": 4.827586206896552,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 153,
+          "control_unknown": 0,
+          "control_yes": 281,
+          "lower_difference": -0.0735632183908046,
+          "upper_difference": -0.0735632183908046
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 97,
+          "control_unknown": 0,
+          "control_yes": 213,
+          "lower_difference": -0.06666666666666667,
+          "upper_difference": -0.06666666666666667
+        },
+        "training_distance_mean": 15.672413793103448
+      },
+      "raw0": {
+        "changed_vs_raw0": 0,
+        "parents": 58,
+        "selected_control_raw_distance_mean": 4.741379310344827,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 153,
+          "control_unknown": 0,
+          "control_yes": 286,
+          "lower_difference": -0.0764367816091954,
+          "upper_difference": -0.0764367816091954
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 97,
+          "control_unknown": 0,
+          "control_yes": 215,
+          "lower_difference": -0.067816091954023,
+          "upper_difference": -0.067816091954023
+        },
+        "training_distance_mean": 4.741379310344827
+      }
+    },
+    "old55": {
+      "phase0_1_3_6_12": {
+        "changed_vs_raw0": 8,
+        "parents": 55,
+        "selected_control_raw_distance_mean": 4.036363636363636,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 173,
+          "control_unknown": 0,
+          "control_yes": 326,
+          "lower_difference": -0.09272727272727273,
+          "upper_difference": -0.09272727272727273
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 143,
+          "control_unknown": 0,
+          "control_yes": 263,
+          "lower_difference": -0.07272727272727272,
+          "upper_difference": -0.07272727272727272
+        },
+        "training_distance_mean": 21.29090909090909
+      },
+      "phase0_3": {
+        "changed_vs_raw0": 8,
+        "parents": 55,
+        "selected_control_raw_distance_mean": 4.109090909090909,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 173,
+          "control_unknown": 0,
+          "control_yes": 311,
+          "lower_difference": -0.08363636363636363,
+          "upper_difference": -0.08363636363636363
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 143,
+          "control_unknown": 0,
+          "control_yes": 254,
+          "lower_difference": -0.06727272727272728,
+          "upper_difference": -0.06727272727272728
+        },
+        "training_distance_mean": 8.563636363636364
+      },
+      "phase0_3_6": {
+        "changed_vs_raw0": 10,
+        "parents": 55,
+        "selected_control_raw_distance_mean": 4.090909090909091,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 173,
+          "control_unknown": 0,
+          "control_yes": 305,
+          "lower_difference": -0.08,
+          "upper_difference": -0.08
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 143,
+          "control_unknown": 0,
+          "control_yes": 249,
+          "lower_difference": -0.06424242424242424,
+          "upper_difference": -0.06424242424242424
+        },
+        "training_distance_mean": 12.927272727272728
+      },
+      "phase3_6_12": {
+        "changed_vs_raw0": 10,
+        "parents": 55,
+        "selected_control_raw_distance_mean": 4.090909090909091,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 173,
+          "control_unknown": 0,
+          "control_yes": 305,
+          "lower_difference": -0.08,
+          "upper_difference": -0.08
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 143,
+          "control_unknown": 0,
+          "control_yes": 249,
+          "lower_difference": -0.06424242424242424,
+          "upper_difference": -0.06424242424242424
+        },
+        "training_distance_mean": 12.927272727272728
+      },
+      "raw0": {
+        "changed_vs_raw0": 0,
+        "parents": 55,
+        "selected_control_raw_distance_mean": 3.981818181818182,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 173,
+          "control_unknown": 0,
+          "control_yes": 329,
+          "lower_difference": -0.09454545454545454,
+          "upper_difference": -0.09454545454545454
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 143,
+          "control_unknown": 0,
+          "control_yes": 261,
+          "lower_difference": -0.07151515151515152,
+          "upper_difference": -0.07151515151515152
+        },
+        "training_distance_mean": 3.981818181818182
+      }
+    }
+  }
+}
