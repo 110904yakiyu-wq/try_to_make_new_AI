@@ -1,12 +1,10 @@
 """Finite arbitrary-choice envelope over all 970 pre-response eligible controls.
 Selection extrema are adversarial sensitivity bounds, not an outcome-aware policy.
 """
-import csv,json,sys,statistics
+import csv,json,statistics
 from collections import defaultdict,Counter
 from pathlib import Path
 HERE=Path(__file__).resolve().parent
-sys.path.insert(0,str(HERE.parent/'140_extended_matched_spread'))
-import analyze as a140
 
 def read(path):
  with open(path,newline='') as f:return [{k:int(v) for k,v in q.items()} for q in csv.DictReader(f)]

@@ -1,0 +1,384 @@
+{
+  "by_raw": {
+    "10": {
+      "1": {
+        "G0_unknown": 0,
+        "G0_yes": 3,
+        "control_unknown": 0,
+        "control_yes": 7,
+        "lower_rate": -0.034482758620689655,
+        "n_per_arm": 116,
+        "sign_guaranteed_negative": true,
+        "upper_rate": -0.034482758620689655
+      },
+      "10": {
+        "G0_unknown": 0,
+        "G0_yes": 13,
+        "control_unknown": 0,
+        "control_yes": 18,
+        "lower_rate": -0.04310344827586207,
+        "n_per_arm": 116,
+        "sign_guaranteed_negative": true,
+        "upper_rate": -0.04310344827586207
+      },
+      "11": {
+        "G0_unknown": 0,
+        "G0_yes": 14,
+        "control_unknown": 0,
+        "control_yes": 29,
+        "lower_rate": -0.12931034482758622,
+        "n_per_arm": 116,
+        "sign_guaranteed_negative": true,
+        "upper_rate": -0.12931034482758622
+      },
+      "12": {
+        "G0_unknown": 0,
+        "G0_yes": 11,
+        "control_unknown": 0,
+        "control_yes": 24,
+        "lower_rate": -0.11206896551724138,
+        "n_per_arm": 116,
+        "sign_guaranteed_negative": true,
+        "upper_rate": -0.11206896551724138
+      },
+      "13": {
+        "G0_unknown": 0,
+        "G0_yes": 12,
+        "control_unknown": 0,
+        "control_yes": 30,
+        "lower_rate": -0.15517241379310345,
+        "n_per_arm": 116,
+        "sign_guaranteed_negative": true,
+        "upper_rate": -0.15517241379310345
+      },
+      "14": {
+        "G0_unknown": 0,
+        "G0_yes": 15,
+        "control_unknown": 0,
+        "control_yes": 31,
+        "lower_rate": -0.13793103448275862,
+        "n_per_arm": 116,
+        "sign_guaranteed_negative": true,
+        "upper_rate": -0.13793103448275862
+      },
+      "15": {
+        "G0_unknown": 0,
+        "G0_yes": 17,
+        "control_unknown": 0,
+        "control_yes": 39,
+        "lower_rate": -0.1896551724137931,
+        "n_per_arm": 116,
+        "sign_guaranteed_negative": true,
+        "upper_rate": -0.1896551724137931
+      },
+      "2": {
+        "G0_unknown": 0,
+        "G0_yes": 8,
+        "control_unknown": 0,
+        "control_yes": 12,
+        "lower_rate": -0.034482758620689655,
+        "n_per_arm": 116,
+        "sign_guaranteed_negative": true,
+        "upper_rate": -0.034482758620689655
+      },
+      "3": {
+        "G0_unknown": 0,
+        "G0_yes": 7,
+        "control_unknown": 0,
+        "control_yes": 22,
+        "lower_rate": -0.12931034482758622,
+        "n_per_arm": 116,
+        "sign_guaranteed_negative": true,
+        "upper_rate": -0.12931034482758622
+      },
+      "4": {
+        "G0_unknown": 0,
+        "G0_yes": 7,
+        "control_unknown": 0,
+        "control_yes": 9,
+        "lower_rate": -0.017241379310344827,
+        "n_per_arm": 116,
+        "sign_guaranteed_negative": true,
+        "upper_rate": -0.017241379310344827
+      },
+      "5": {
+        "G0_unknown": 0,
+        "G0_yes": 8,
+        "control_unknown": 0,
+        "control_yes": 10,
+        "lower_rate": -0.017241379310344827,
+        "n_per_arm": 116,
+        "sign_guaranteed_negative": true,
+        "upper_rate": -0.017241379310344827
+      },
+      "6": {
+        "G0_unknown": 0,
+        "G0_yes": 12,
+        "control_unknown": 0,
+        "control_yes": 21,
+        "lower_rate": -0.07758620689655173,
+        "n_per_arm": 116,
+        "sign_guaranteed_negative": true,
+        "upper_rate": -0.07758620689655173
+      },
+      "7": {
+        "G0_unknown": 0,
+        "G0_yes": 11,
+        "control_unknown": 0,
+        "control_yes": 25,
+        "lower_rate": -0.1206896551724138,
+        "n_per_arm": 116,
+        "sign_guaranteed_negative": true,
+        "upper_rate": -0.1206896551724138
+      },
+      "8": {
+        "G0_unknown": 0,
+        "G0_yes": 7,
+        "control_unknown": 0,
+        "control_yes": 15,
+        "lower_rate": -0.06896551724137931,
+        "n_per_arm": 116,
+        "sign_guaranteed_negative": true,
+        "upper_rate": -0.06896551724137931
+      },
+      "9": {
+        "G0_unknown": 0,
+        "G0_yes": 8,
+        "control_unknown": 0,
+        "control_yes": 20,
+        "lower_rate": -0.10344827586206896,
+        "n_per_arm": 116,
+        "sign_guaranteed_negative": true,
+        "upper_rate": -0.10344827586206896
+      }
+    },
+    "60": {
+      "1": {
+        "G0_unknown": 0,
+        "G0_yes": 0,
+        "control_unknown": 0,
+        "control_yes": 5,
+        "lower_rate": -0.04310344827586207,
+        "n_per_arm": 116,
+        "sign_guaranteed_negative": true,
+        "upper_rate": -0.04310344827586207
+      },
+      "10": {
+        "G0_unknown": 0,
+        "G0_yes": 9,
+        "control_unknown": 0,
+        "control_yes": 14,
+        "lower_rate": -0.04310344827586207,
+        "n_per_arm": 116,
+        "sign_guaranteed_negative": true,
+        "upper_rate": -0.04310344827586207
+      },
+      "11": {
+        "G0_unknown": 0,
+        "G0_yes": 9,
+        "control_unknown": 0,
+        "control_yes": 22,
+        "lower_rate": -0.11206896551724138,
+        "n_per_arm": 116,
+        "sign_guaranteed_negative": true,
+        "upper_rate": -0.11206896551724138
+      },
+      "12": {
+        "G0_unknown": 0,
+        "G0_yes": 7,
+        "control_unknown": 0,
+        "control_yes": 16,
+        "lower_rate": -0.07758620689655173,
+        "n_per_arm": 116,
+        "sign_guaranteed_negative": true,
+        "upper_rate": -0.07758620689655173
+      },
+      "13": {
+        "G0_unknown": 0,
+        "G0_yes": 7,
+        "control_unknown": 0,
+        "control_yes": 28,
+        "lower_rate": -0.1810344827586207,
+        "n_per_arm": 116,
+        "sign_guaranteed_negative": true,
+        "upper_rate": -0.1810344827586207
+      },
+      "14": {
+        "G0_unknown": 0,
+        "G0_yes": 11,
+        "control_unknown": 1,
+        "control_yes": 22,
+        "lower_rate": -0.10344827586206896,
+        "n_per_arm": 116,
+        "sign_guaranteed_negative": true,
+        "upper_rate": -0.09482758620689655
+      },
+      "15": {
+        "G0_unknown": 0,
+        "G0_yes": 8,
+        "control_unknown": 0,
+        "control_yes": 29,
+        "lower_rate": -0.1810344827586207,
+        "n_per_arm": 116,
+        "sign_guaranteed_negative": true,
+        "upper_rate": -0.1810344827586207
+      },
+      "2": {
+        "G0_unknown": 0,
+        "G0_yes": 5,
+        "control_unknown": 0,
+        "control_yes": 9,
+        "lower_rate": -0.034482758620689655,
+        "n_per_arm": 116,
+        "sign_guaranteed_negative": true,
+        "upper_rate": -0.034482758620689655
+      },
+      "3": {
+        "G0_unknown": 0,
+        "G0_yes": 5,
+        "control_unknown": 0,
+        "control_yes": 20,
+        "lower_rate": -0.12931034482758622,
+        "n_per_arm": 116,
+        "sign_guaranteed_negative": true,
+        "upper_rate": -0.12931034482758622
+      },
+      "4": {
+        "G0_unknown": 0,
+        "G0_yes": 5,
+        "control_unknown": 0,
+        "control_yes": 7,
+        "lower_rate": -0.017241379310344827,
+        "n_per_arm": 116,
+        "sign_guaranteed_negative": true,
+        "upper_rate": -0.017241379310344827
+      },
+      "5": {
+        "G0_unknown": 0,
+        "G0_yes": 6,
+        "control_unknown": 0,
+        "control_yes": 7,
+        "lower_rate": -0.008620689655172414,
+        "n_per_arm": 116,
+        "sign_guaranteed_negative": true,
+        "upper_rate": -0.008620689655172414
+      },
+      "6": {
+        "G0_unknown": 0,
+        "G0_yes": 10,
+        "control_unknown": 0,
+        "control_yes": 15,
+        "lower_rate": -0.04310344827586207,
+        "n_per_arm": 116,
+        "sign_guaranteed_negative": true,
+        "upper_rate": -0.04310344827586207
+      },
+      "7": {
+        "G0_unknown": 0,
+        "G0_yes": 6,
+        "control_unknown": 0,
+        "control_yes": 23,
+        "lower_rate": -0.14655172413793102,
+        "n_per_arm": 116,
+        "sign_guaranteed_negative": true,
+        "upper_rate": -0.14655172413793102
+      },
+      "8": {
+        "G0_unknown": 0,
+        "G0_yes": 4,
+        "control_unknown": 0,
+        "control_yes": 9,
+        "lower_rate": -0.04310344827586207,
+        "n_per_arm": 116,
+        "sign_guaranteed_negative": true,
+        "upper_rate": -0.04310344827586207
+      },
+      "9": {
+        "G0_unknown": 0,
+        "G0_yes": 5,
+        "control_unknown": 0,
+        "control_yes": 13,
+        "lower_rate": -0.06896551724137931,
+        "n_per_arm": 116,
+        "sign_guaranteed_negative": true,
+        "upper_rate": -0.06896551724137931
+      }
+    }
+  },
+  "by_side": {
+    "10": {
+      "0": {
+        "G0_unknown": 0,
+        "G0_yes": 84,
+        "control_unknown": 0,
+        "control_yes": 147,
+        "lower_rate": -0.07241379310344828,
+        "n_per_arm": 870,
+        "sign_guaranteed_negative": true,
+        "upper_rate": -0.07241379310344828
+      },
+      "1": {
+        "G0_unknown": 0,
+        "G0_yes": 69,
+        "control_unknown": 0,
+        "control_yes": 165,
+        "lower_rate": -0.1103448275862069,
+        "n_per_arm": 870,
+        "sign_guaranteed_negative": true,
+        "upper_rate": -0.1103448275862069
+      }
+    },
+    "60": {
+      "0": {
+        "G0_unknown": 0,
+        "G0_yes": 53,
+        "control_unknown": 1,
+        "control_yes": 109,
+        "lower_rate": -0.06551724137931035,
+        "n_per_arm": 870,
+        "sign_guaranteed_negative": true,
+        "upper_rate": -0.06436781609195402
+      },
+      "1": {
+        "G0_unknown": 0,
+        "G0_yes": 44,
+        "control_unknown": 0,
+        "control_yes": 130,
+        "lower_rate": -0.09885057471264368,
+        "n_per_arm": 870,
+        "sign_guaranteed_negative": true,
+        "upper_rate": -0.09885057471264368
+      }
+    }
+  },
+  "contract": {
+    "cohort": "58 newly eligible G0 parents only",
+    "note": "direction and material slices share trajectories; not independent replications",
+    "outcomes": "Exp140 exact 50000-tick spread traces, repeated per parent",
+    "selection": "first autonomous control within 1000",
+    "stratification": "both sides and raw1..15 were fixed before outcomes"
+  },
+  "experiment": 144,
+  "total": {
+    "10": {
+      "G0_unknown": 0,
+      "G0_yes": 153,
+      "control_unknown": 0,
+      "control_yes": 312,
+      "lower_rate": -0.09137931034482759,
+      "n_per_arm": 1740,
+      "sign_guaranteed_negative": true,
+      "upper_rate": -0.09137931034482759
+    },
+    "60": {
+      "G0_unknown": 0,
+      "G0_yes": 97,
+      "control_unknown": 1,
+      "control_yes": 239,
+      "lower_rate": -0.08218390804597701,
+      "n_per_arm": 1740,
+      "sign_guaranteed_negative": true,
+      "upper_rate": -0.08160919540229886
+    }
+  }
+}

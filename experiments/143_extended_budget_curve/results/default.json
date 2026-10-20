@@ -1,0 +1,387 @@
+{
+  "budgets": {
+    "1": {
+      "parents": 1,
+      "spread10": {
+        "G0_unknown": 0,
+        "G0_yes": 0,
+        "control_unknown": 0,
+        "control_yes": 10,
+        "lower_delta": -10,
+        "lower_rate": -0.3333333333333333,
+        "n_per_arm": 30,
+        "upper_delta": -10,
+        "upper_rate": -0.3333333333333333
+      },
+      "spread60": {
+        "G0_unknown": 0,
+        "G0_yes": 0,
+        "control_unknown": 0,
+        "control_yes": 9,
+        "lower_delta": -9,
+        "lower_rate": -0.3,
+        "n_per_arm": 30,
+        "upper_delta": -9,
+        "upper_rate": -0.3
+      }
+    },
+    "10": {
+      "parents": 10,
+      "spread10": {
+        "G0_unknown": 0,
+        "G0_yes": 30,
+        "control_unknown": 0,
+        "control_yes": 98,
+        "lower_delta": -68,
+        "lower_rate": -0.22666666666666666,
+        "n_per_arm": 300,
+        "upper_delta": -68,
+        "upper_rate": -0.22666666666666666
+      },
+      "spread60": {
+        "G0_unknown": 0,
+        "G0_yes": 24,
+        "control_unknown": 0,
+        "control_yes": 88,
+        "lower_delta": -64,
+        "lower_rate": -0.21333333333333335,
+        "n_per_arm": 300,
+        "upper_delta": -64,
+        "upper_rate": -0.21333333333333335
+      }
+    },
+    "100": {
+      "parents": 55,
+      "spread10": {
+        "G0_unknown": 0,
+        "G0_yes": 173,
+        "control_unknown": 0,
+        "control_yes": 453,
+        "lower_delta": -280,
+        "lower_rate": -0.1696969696969697,
+        "n_per_arm": 1650,
+        "upper_delta": -280,
+        "upper_rate": -0.1696969696969697
+      },
+      "spread60": {
+        "G0_unknown": 0,
+        "G0_yes": 143,
+        "control_unknown": 1,
+        "control_yes": 395,
+        "lower_delta": -253,
+        "lower_rate": -0.15333333333333332,
+        "n_per_arm": 1650,
+        "upper_delta": -252,
+        "upper_rate": -0.15272727272727274
+      }
+    },
+    "1000": {
+      "parents": 113,
+      "spread10": {
+        "G0_unknown": 0,
+        "G0_yes": 326,
+        "control_unknown": 0,
+        "control_yes": 765,
+        "lower_delta": -439,
+        "lower_rate": -0.12949852507374632,
+        "n_per_arm": 3390,
+        "upper_delta": -439,
+        "upper_rate": -0.12949852507374632
+      },
+      "spread60": {
+        "G0_unknown": 0,
+        "G0_yes": 240,
+        "control_unknown": 2,
+        "control_yes": 634,
+        "lower_delta": -396,
+        "lower_rate": -0.1168141592920354,
+        "n_per_arm": 3390,
+        "upper_delta": -394,
+        "upper_rate": -0.11622418879056047
+      }
+    },
+    "150": {
+      "parents": 72,
+      "spread10": {
+        "G0_unknown": 0,
+        "G0_yes": 246,
+        "control_unknown": 0,
+        "control_yes": 557,
+        "lower_delta": -311,
+        "lower_rate": -0.1439814814814815,
+        "n_per_arm": 2160,
+        "upper_delta": -311,
+        "upper_rate": -0.1439814814814815
+      },
+      "spread60": {
+        "G0_unknown": 0,
+        "G0_yes": 200,
+        "control_unknown": 1,
+        "control_yes": 482,
+        "lower_delta": -283,
+        "lower_rate": -0.1310185185185185,
+        "n_per_arm": 2160,
+        "upper_delta": -282,
+        "upper_rate": -0.13055555555555556
+      }
+    },
+    "2": {
+      "parents": 2,
+      "spread10": {
+        "G0_unknown": 0,
+        "G0_yes": 8,
+        "control_unknown": 0,
+        "control_yes": 18,
+        "lower_delta": -10,
+        "lower_rate": -0.16666666666666666,
+        "n_per_arm": 60,
+        "upper_delta": -10,
+        "upper_rate": -0.16666666666666666
+      },
+      "spread60": {
+        "G0_unknown": 0,
+        "G0_yes": 7,
+        "control_unknown": 0,
+        "control_yes": 16,
+        "lower_delta": -9,
+        "lower_rate": -0.15,
+        "n_per_arm": 60,
+        "upper_delta": -9,
+        "upper_rate": -0.15
+      }
+    },
+    "200": {
+      "parents": 83,
+      "spread10": {
+        "G0_unknown": 0,
+        "G0_yes": 268,
+        "control_unknown": 0,
+        "control_yes": 619,
+        "lower_delta": -351,
+        "lower_rate": -0.14096385542168674,
+        "n_per_arm": 2490,
+        "upper_delta": -351,
+        "upper_rate": -0.14096385542168674
+      },
+      "spread60": {
+        "G0_unknown": 0,
+        "G0_yes": 216,
+        "control_unknown": 2,
+        "control_yes": 532,
+        "lower_delta": -318,
+        "lower_rate": -0.12771084337349398,
+        "n_per_arm": 2490,
+        "upper_delta": -316,
+        "upper_rate": -0.12690763052208837
+      }
+    },
+    "25": {
+      "parents": 19,
+      "spread10": {
+        "G0_unknown": 0,
+        "G0_yes": 61,
+        "control_unknown": 0,
+        "control_yes": 170,
+        "lower_delta": -109,
+        "lower_rate": -0.1912280701754386,
+        "n_per_arm": 570,
+        "upper_delta": -109,
+        "upper_rate": -0.1912280701754386
+      },
+      "spread60": {
+        "G0_unknown": 0,
+        "G0_yes": 52,
+        "control_unknown": 0,
+        "control_yes": 149,
+        "lower_delta": -97,
+        "lower_rate": -0.17017543859649123,
+        "n_per_arm": 570,
+        "upper_delta": -97,
+        "upper_rate": -0.17017543859649123
+      }
+    },
+    "300": {
+      "parents": 95,
+      "spread10": {
+        "G0_unknown": 0,
+        "G0_yes": 275,
+        "control_unknown": 0,
+        "control_yes": 655,
+        "lower_delta": -380,
+        "lower_rate": -0.13333333333333333,
+        "n_per_arm": 2850,
+        "upper_delta": -380,
+        "upper_rate": -0.13333333333333333
+      },
+      "spread60": {
+        "G0_unknown": 0,
+        "G0_yes": 222,
+        "control_unknown": 2,
+        "control_yes": 563,
+        "lower_delta": -343,
+        "lower_rate": -0.12035087719298246,
+        "n_per_arm": 2850,
+        "upper_delta": -341,
+        "upper_rate": -0.11964912280701755
+      }
+    },
+    "400": {
+      "parents": 106,
+      "spread10": {
+        "G0_unknown": 0,
+        "G0_yes": 275,
+        "control_unknown": 0,
+        "control_yes": 698,
+        "lower_delta": -423,
+        "lower_rate": -0.1330188679245283,
+        "n_per_arm": 3180,
+        "upper_delta": -423,
+        "upper_rate": -0.1330188679245283
+      },
+      "spread60": {
+        "G0_unknown": 0,
+        "G0_yes": 222,
+        "control_unknown": 2,
+        "control_yes": 596,
+        "lower_delta": -376,
+        "lower_rate": -0.11823899371069183,
+        "n_per_arm": 3180,
+        "upper_delta": -374,
+        "upper_rate": -0.11761006289308176
+      }
+    },
+    "5": {
+      "parents": 5,
+      "spread10": {
+        "G0_unknown": 0,
+        "G0_yes": 23,
+        "control_unknown": 0,
+        "control_yes": 63,
+        "lower_delta": -40,
+        "lower_rate": -0.26666666666666666,
+        "n_per_arm": 150,
+        "upper_delta": -40,
+        "upper_rate": -0.26666666666666666
+      },
+      "spread60": {
+        "G0_unknown": 0,
+        "G0_yes": 19,
+        "control_unknown": 0,
+        "control_yes": 58,
+        "lower_delta": -39,
+        "lower_rate": -0.26,
+        "n_per_arm": 150,
+        "upper_delta": -39,
+        "upper_rate": -0.26
+      }
+    },
+    "50": {
+      "parents": 35,
+      "spread10": {
+        "G0_unknown": 0,
+        "G0_yes": 122,
+        "control_unknown": 0,
+        "control_yes": 293,
+        "lower_delta": -171,
+        "lower_rate": -0.16285714285714287,
+        "n_per_arm": 1050,
+        "upper_delta": -171,
+        "upper_rate": -0.16285714285714287
+      },
+      "spread60": {
+        "G0_unknown": 0,
+        "G0_yes": 106,
+        "control_unknown": 0,
+        "control_yes": 257,
+        "lower_delta": -151,
+        "lower_rate": -0.1438095238095238,
+        "n_per_arm": 1050,
+        "upper_delta": -151,
+        "upper_rate": -0.1438095238095238
+      }
+    },
+    "500": {
+      "parents": 107,
+      "spread10": {
+        "G0_unknown": 0,
+        "G0_yes": 283,
+        "control_unknown": 0,
+        "control_yes": 714,
+        "lower_delta": -431,
+        "lower_rate": -0.13426791277258568,
+        "n_per_arm": 3210,
+        "upper_delta": -431,
+        "upper_rate": -0.13426791277258568
+      },
+      "spread60": {
+        "G0_unknown": 0,
+        "G0_yes": 229,
+        "control_unknown": 2,
+        "control_yes": 609,
+        "lower_delta": -382,
+        "lower_rate": -0.11900311526479751,
+        "n_per_arm": 3210,
+        "upper_delta": -380,
+        "upper_rate": -0.11838006230529595
+      }
+    },
+    "75": {
+      "parents": 48,
+      "spread10": {
+        "G0_unknown": 0,
+        "G0_yes": 158,
+        "control_unknown": 0,
+        "control_yes": 381,
+        "lower_delta": -223,
+        "lower_rate": -0.15486111111111112,
+        "n_per_arm": 1440,
+        "upper_delta": -223,
+        "upper_rate": -0.15486111111111112
+      },
+      "spread60": {
+        "G0_unknown": 0,
+        "G0_yes": 130,
+        "control_unknown": 0,
+        "control_yes": 336,
+        "lower_delta": -206,
+        "lower_rate": -0.14305555555555555,
+        "n_per_arm": 1440,
+        "upper_delta": -206,
+        "upper_rate": -0.14305555555555555
+      }
+    },
+    "750": {
+      "parents": 113,
+      "spread10": {
+        "G0_unknown": 0,
+        "G0_yes": 326,
+        "control_unknown": 0,
+        "control_yes": 765,
+        "lower_delta": -439,
+        "lower_rate": -0.12949852507374632,
+        "n_per_arm": 3390,
+        "upper_delta": -439,
+        "upper_rate": -0.12949852507374632
+      },
+      "spread60": {
+        "G0_unknown": 0,
+        "G0_yes": 240,
+        "control_unknown": 2,
+        "control_yes": 634,
+        "lower_delta": -396,
+        "lower_rate": -0.1168141592920354,
+        "n_per_arm": 3390,
+        "upper_delta": -394,
+        "upper_rate": -0.11622418879056047
+      }
+    }
+  },
+  "contract": {
+    "censor": "unknown if no recurrence and no event by horizon",
+    "limitations": "budget sweep is nested cohorts of correlated parents, not 15 new independent experiments",
+    "outcomes": "exact reused Experiment140 50000-tick spread records; no resimulation",
+    "parent_family": "frozen 130 G0 catalog",
+    "selection": "first acceptable pre-response control under budget B, B<=1000"
+  },
+  "experiment": 143
+}
