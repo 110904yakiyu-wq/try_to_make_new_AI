@@ -1,0 +1,78 @@
+{
+  "experiment": 155,
+  "inventory": {
+    "all_parent_direction_contexts": 260,
+    "eligible_24": 228,
+    "eligible_96": 219,
+    "per_arm_test_records_over_both_times": 1720,
+    "shared_eligible_contexts": 215,
+    "shared_parent_clusters": 127
+  },
+  "protocol": {
+    "censor": "exclusion only on the pretest no-overwrite gate; never treat excluded as negative",
+    "design": "observational repeated-time comparison; not a retention, forgetting or memory mechanism estimator",
+    "fixed_cohort": "same parent and same training direction eligible at both delay24 and delay96",
+    "outcomes": "parent-equal-weight pulse-versus-sham causal-response footprint and reach>=10/30",
+    "source": "Exp151 frozen deterministic response and pretest-eligibility CSV"
+  },
+  "results": {
+    "pulse11": {
+      "reached_10": {
+        "delay24_parent_mean_difference": 0.02066929133858268,
+        "delay96_minus_24": 0.0,
+        "delay96_parent_mean_difference": 0.02066929133858268,
+        "paired_parents": 127,
+        "parents_delta_equal": 127,
+        "parents_delta_greater": 0,
+        "parents_delta_smaller": 0
+      },
+      "reached_30": {
+        "delay24_parent_mean_difference": 0.001968503937007874,
+        "delay96_minus_24": 0.0,
+        "delay96_parent_mean_difference": 0.001968503937007874,
+        "paired_parents": 127,
+        "parents_delta_equal": 127,
+        "parents_delta_greater": 0,
+        "parents_delta_smaller": 0
+      },
+      "union_affected_sites": {
+        "delay24_parent_mean_difference": 0.5177165354330708,
+        "delay96_minus_24": 0.015748031496062992,
+        "delay96_parent_mean_difference": 0.5334645669291339,
+        "paired_parents": 127,
+        "parents_delta_equal": 107,
+        "parents_delta_greater": 10,
+        "parents_delta_smaller": 10
+      }
+    },
+    "pulse7": {
+      "reached_10": {
+        "delay24_parent_mean_difference": 0.021653543307086614,
+        "delay96_minus_24": -0.001968503937007874,
+        "delay96_parent_mean_difference": 0.01968503937007874,
+        "paired_parents": 127,
+        "parents_delta_equal": 126,
+        "parents_delta_greater": 0,
+        "parents_delta_smaller": 1
+      },
+      "reached_30": {
+        "delay24_parent_mean_difference": 0.005905511811023622,
+        "delay96_minus_24": 0.001968503937007874,
+        "delay96_parent_mean_difference": 0.007874015748031496,
+        "paired_parents": 127,
+        "parents_delta_equal": 125,
+        "parents_delta_greater": 1,
+        "parents_delta_smaller": 1
+      },
+      "union_affected_sites": {
+        "delay24_parent_mean_difference": 0.9478346456692913,
+        "delay96_minus_24": -0.05019685039370079,
+        "delay96_parent_mean_difference": 0.8976377952755905,
+        "paired_parents": 127,
+        "parents_delta_equal": 103,
+        "parents_delta_greater": 8,
+        "parents_delta_smaller": 16
+      }
+    }
+  }
+}
