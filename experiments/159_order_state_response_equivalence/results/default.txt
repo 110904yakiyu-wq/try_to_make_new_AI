@@ -1,0 +1,18 @@
+{
+  "inventory": {
+    "both_orders_feasible_parents": 111,
+    "different_current_state_parents": 87,
+    "original_parents": 130,
+    "same_current_state_parents": 24
+  },
+  "summary": {
+    "mean_LR_minus_RL_affected_sites": 0.13288288288288289,
+    "mean_bit_distance_if_unequal": 11.873563218390805,
+    "order_LR_greater": 24,
+    "order_RL_greater": 25,
+    "order_tied": 62,
+    "same_current_state_probe_records": 192,
+    "same_current_state_probes_identical": 24,
+    "unequal_current_state_parents_with_response_difference": 87
+  }
+}
