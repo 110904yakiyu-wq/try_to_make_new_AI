@@ -1,0 +1,18 @@
+{
+  "10": {
+    "full_lower": -0.1696969696969697,
+    "full_upper": -0.1696969696969697,
+    "parent_strict_control_advantage": 37,
+    "parent_strict_g0_advantage": 11,
+    "parent_tied_or_unknown": 7,
+    "smallest_deleted_parents_for_sign_not_guaranteed": 24
+  },
+  "60": {
+    "full_lower": -0.15333333333333332,
+    "full_upper": -0.15272727272727274,
+    "parent_strict_control_advantage": 37,
+    "parent_strict_g0_advantage": 10,
+    "parent_tied_or_unknown": 8,
+    "smallest_deleted_parents_for_sign_not_guaranteed": 26
+  }
+}

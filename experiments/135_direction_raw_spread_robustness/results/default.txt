@@ -1,0 +1,108 @@
+{
+  "10": {
+    "by_side": {
+      "left": {
+        "G0": {
+          "no": 754,
+          "yes": 71
+        },
+        "control": {
+          "no": 592,
+          "yes": 233
+        },
+        "difference_lower": -0.19636363636363635,
+        "difference_upper": -0.19636363636363635,
+        "negative_sign_identified": true,
+        "numerator_lower": -162,
+        "numerator_upper": -162,
+        "paired_conditions": 825
+      },
+      "right": {
+        "G0": {
+          "no": 723,
+          "yes": 102
+        },
+        "control": {
+          "no": 605,
+          "yes": 220
+        },
+        "difference_lower": -0.14303030303030304,
+        "difference_upper": -0.14303030303030304,
+        "negative_sign_identified": true,
+        "numerator_lower": -118,
+        "numerator_upper": -118,
+        "paired_conditions": 825
+      }
+    },
+    "overall": {
+      "G0": {
+        "no": 1477,
+        "yes": 173
+      },
+      "control": {
+        "no": 1197,
+        "yes": 453
+      },
+      "difference_lower": -0.1696969696969697,
+      "difference_upper": -0.1696969696969697,
+      "negative_sign_identified": true,
+      "numerator_lower": -280,
+      "numerator_upper": -280,
+      "paired_conditions": 1650
+    }
+  },
+  "60": {
+    "by_side": {
+      "left": {
+        "G0": {
+          "no": 770,
+          "yes": 55
+        },
+        "control": {
+          "no": 619,
+          "unknown": 1,
+          "yes": 205
+        },
+        "difference_lower": -0.18303030303030304,
+        "difference_upper": -0.18181818181818182,
+        "negative_sign_identified": true,
+        "numerator_lower": -151,
+        "numerator_upper": -150,
+        "paired_conditions": 825
+      },
+      "right": {
+        "G0": {
+          "no": 737,
+          "yes": 88
+        },
+        "control": {
+          "no": 635,
+          "yes": 190
+        },
+        "difference_lower": -0.12363636363636364,
+        "difference_upper": -0.12363636363636364,
+        "negative_sign_identified": true,
+        "numerator_lower": -102,
+        "numerator_upper": -102,
+        "paired_conditions": 825
+      }
+    },
+    "overall": {
+      "G0": {
+        "no": 1507,
+        "yes": 143
+      },
+      "control": {
+        "no": 1254,
+        "unknown": 1,
+        "yes": 395
+      },
+      "difference_lower": -0.15333333333333332,
+      "difference_upper": -0.15272727272727274,
+      "negative_sign_identified": true,
+      "numerator_lower": -253,
+      "numerator_upper": -252,
+      "paired_conditions": 1650
+    }
+  }
+}

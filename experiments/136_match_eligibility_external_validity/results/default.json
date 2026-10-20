@@ -1,0 +1,193 @@
+{
+  "assumptions": "Hypothetically complete 75 pairs with arbitrary binary per-probe outcomes; no finite horizon censor-as-failure assumption.",
+  "eligibility_fraction": 0.4230769230769231,
+  "eligible_count": 55,
+  "experiment": 136,
+  "note": "All130 contrasts are hypothetical arithmetic envelopes only; for 75 unmatched G0 there is no defined selected counterpart under original 100-attempt matching protocol.",
+  "parent_count": 130,
+  "spread_bounds": {
+    "10": {
+      "all130_hypothetical_lower_count": -2530,
+      "all130_hypothetical_lower_fraction": -0.6487179487179487,
+      "all130_hypothetical_upper_count": 1970,
+      "all130_hypothetical_upper_fraction": 0.5051282051282051,
+      "hypothetical_unmatched_parent_probe_rows_per_arm": 2250,
+      "matched_55": {
+        "control_unknown": 0,
+        "control_yes": 453,
+        "g0_unknown": 0,
+        "g0_yes": 173,
+        "lower_count": -280,
+        "n": 1650,
+        "upper_count": -280
+      },
+      "matched_by_period": {
+        "12": {
+          "control_unknown": 0,
+          "control_yes": 287,
+          "g0_unknown": 0,
+          "g0_yes": 59,
+          "lower_count": -228,
+          "n": 870,
+          "upper_count": -228
+        },
+        "6": {
+          "control_unknown": 0,
+          "control_yes": 166,
+          "g0_unknown": 0,
+          "g0_yes": 114,
+          "lower_count": -52,
+          "n": 780,
+          "upper_count": -52
+        }
+      }
+    },
+    "60": {
+      "all130_hypothetical_lower_count": -2503,
+      "all130_hypothetical_lower_fraction": -0.6417948717948718,
+      "all130_hypothetical_upper_count": 1998,
+      "all130_hypothetical_upper_fraction": 0.5123076923076924,
+      "hypothetical_unmatched_parent_probe_rows_per_arm": 2250,
+      "matched_55": {
+        "control_unknown": 1,
+        "control_yes": 395,
+        "g0_unknown": 0,
+        "g0_yes": 143,
+        "lower_count": -253,
+        "n": 1650,
+        "upper_count": -252
+      },
+      "matched_by_period": {
+        "12": {
+          "control_unknown": 1,
+          "control_yes": 253,
+          "g0_unknown": 0,
+          "g0_yes": 50,
+          "lower_count": -204,
+          "n": 870,
+          "upper_count": -203
+        },
+        "6": {
+          "control_unknown": 0,
+          "control_yes": 142,
+          "g0_unknown": 0,
+          "g0_yes": 93,
+          "lower_count": -49,
+          "n": 780,
+          "upper_count": -49
+        }
+      }
+    }
+  },
+  "strata": {
+    "period:12": {
+      "eligibility_rate": 0.3815789473684211,
+      "eligible": 29,
+      "eligible_control_count": 36,
+      "total": 76
+    },
+    "period:168": {
+      "eligibility_rate": 0.0,
+      "eligible": 0,
+      "eligible_control_count": 0,
+      "total": 4
+    },
+    "period:18": {
+      "eligibility_rate": 0.0,
+      "eligible": 0,
+      "eligible_control_count": 0,
+      "total": 4
+    },
+    "period:24": {
+      "eligibility_rate": 0.0,
+      "eligible": 0,
+      "eligible_control_count": 0,
+      "total": 4
+    },
+    "period:3": {
+      "eligibility_rate": 0.0,
+      "eligible": 0,
+      "eligible_control_count": 0,
+      "total": 2
+    },
+    "period:6": {
+      "eligibility_rate": 0.65,
+      "eligible": 26,
+      "eligible_control_count": 51,
+      "total": 40
+    },
+    "seed_bitcount:2": {
+      "eligibility_rate": 0.75,
+      "eligible": 3,
+      "eligible_control_count": 8,
+      "total": 4
+    },
+    "seed_bitcount:3": {
+      "eligibility_rate": 0.625,
+      "eligible": 15,
+      "eligible_control_count": 24,
+      "total": 24
+    },
+    "seed_bitcount:4": {
+      "eligibility_rate": 0.48,
+      "eligible": 24,
+      "eligible_control_count": 40,
+      "total": 50
+    },
+    "seed_bitcount:5": {
+      "eligibility_rate": 0.3611111111111111,
+      "eligible": 13,
+      "eligible_control_count": 15,
+      "total": 36
+    },
+    "seed_bitcount:6": {
+      "eligibility_rate": 0.0,
+      "eligible": 0,
+      "eligible_control_count": 0,
+      "total": 12
+    },
+    "seed_bitcount:7": {
+      "eligibility_rate": 0.0,
+      "eligible": 0,
+      "eligible_control_count": 0,
+      "total": 4
+    },
+    "union_support_size:10": {
+      "eligibility_rate": 0.0,
+      "eligible": 0,
+      "eligible_control_count": 0,
+      "total": 4
+    },
+    "union_support_size:11": {
+      "eligibility_rate": 0.0,
+      "eligible": 0,
+      "eligible_control_count": 0,
+      "total": 4
+    },
+    "union_support_size:13": {
+      "eligibility_rate": 0.0,
+      "eligible": 0,
+      "eligible_control_count": 0,
+      "total": 4
+    },
+    "union_support_size:4": {
+      "eligibility_rate": 0.6842105263157895,
+      "eligible": 26,
+      "eligible_control_count": 51,
+      "total": 38
+    },
+    "union_support_size:5": {
+      "eligibility_rate": 0.3815789473684211,
+      "eligible": 29,
+      "eligible_control_count": 36,
+      "total": 76
+    },
+    "union_support_size:8": {
+      "eligibility_rate": 0.0,
+      "eligible": 0,
+      "eligible_control_count": 0,
+      "total": 4
+    }
+  },
+  "unmatched_at_100_attempts": 75
+}

@@ -1,0 +1,77 @@
+{
+  "eligibility_fraction": 0.4230769230769231,
+  "spread_bounds": {
+    "10": {
+      "all130_hypothetical_lower_count": -2530,
+      "all130_hypothetical_lower_fraction": -0.6487179487179487,
+      "all130_hypothetical_upper_count": 1970,
+      "all130_hypothetical_upper_fraction": 0.5051282051282051,
+      "hypothetical_unmatched_parent_probe_rows_per_arm": 2250,
+      "matched_55": {
+        "control_unknown": 0,
+        "control_yes": 453,
+        "g0_unknown": 0,
+        "g0_yes": 173,
+        "lower_count": -280,
+        "n": 1650,
+        "upper_count": -280
+      },
+      "matched_by_period": {
+        "12": {
+          "control_unknown": 0,
+          "control_yes": 287,
+          "g0_unknown": 0,
+          "g0_yes": 59,
+          "lower_count": -228,
+          "n": 870,
+          "upper_count": -228
+        },
+        "6": {
+          "control_unknown": 0,
+          "control_yes": 166,
+          "g0_unknown": 0,
+          "g0_yes": 114,
+          "lower_count": -52,
+          "n": 780,
+          "upper_count": -52
+        }
+      }
+    },
+    "60": {
+      "all130_hypothetical_lower_count": -2503,
+      "all130_hypothetical_lower_fraction": -0.6417948717948718,
+      "all130_hypothetical_upper_count": 1998,
+      "all130_hypothetical_upper_fraction": 0.5123076923076924,
+      "hypothetical_unmatched_parent_probe_rows_per_arm": 2250,
+      "matched_55": {
+        "control_unknown": 1,
+        "control_yes": 395,
+        "g0_unknown": 0,
+        "g0_yes": 143,
+        "lower_count": -253,
+        "n": 1650,
+        "upper_count": -252
+      },
+      "matched_by_period": {
+        "12": {
+          "control_unknown": 1,
+          "control_yes": 253,
+          "g0_unknown": 0,
+          "g0_yes": 50,
+          "lower_count": -204,
+          "n": 870,
+          "upper_count": -203
+        },
+        "6": {
+          "control_unknown": 0,
+          "control_yes": 142,
+          "g0_unknown": 0,
+          "g0_yes": 93,
+          "lower_count": -49,
+          "n": 780,
+          "upper_count": -49
+        }
+      }
+    }
+  }
+}

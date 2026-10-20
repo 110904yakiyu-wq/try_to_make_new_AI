@@ -1,0 +1,600 @@
+{
+  "data_source": "Experiment 130 unchanged individual probes",
+  "experiment": 135,
+  "input_sha_git_blob": "9ac5ca7e81fddd11d205248d9995f6cc2a8efd5e",
+  "matched_parents": 55,
+  "status": "reanalysis only; not independent experimental evidence",
+  "thresholds": {
+    "10": {
+      "by_raw": {
+        "1": {
+          "G0": {
+            "no": 101,
+            "yes": 9
+          },
+          "control": {
+            "no": 97,
+            "yes": 13
+          },
+          "difference_lower": -0.03636363636363636,
+          "difference_upper": -0.03636363636363636,
+          "negative_sign_identified": true,
+          "numerator_lower": -4,
+          "numerator_upper": -4,
+          "paired_conditions": 110
+        },
+        "10": {
+          "G0": {
+            "no": 101,
+            "yes": 9
+          },
+          "control": {
+            "no": 90,
+            "yes": 20
+          },
+          "difference_lower": -0.1,
+          "difference_upper": -0.1,
+          "negative_sign_identified": true,
+          "numerator_lower": -11,
+          "numerator_upper": -11,
+          "paired_conditions": 110
+        },
+        "11": {
+          "G0": {
+            "no": 95,
+            "yes": 15
+          },
+          "control": {
+            "no": 72,
+            "yes": 38
+          },
+          "difference_lower": -0.20909090909090908,
+          "difference_upper": -0.20909090909090908,
+          "negative_sign_identified": true,
+          "numerator_lower": -23,
+          "numerator_upper": -23,
+          "paired_conditions": 110
+        },
+        "12": {
+          "G0": {
+            "no": 101,
+            "yes": 9
+          },
+          "control": {
+            "no": 75,
+            "yes": 35
+          },
+          "difference_lower": -0.23636363636363636,
+          "difference_upper": -0.23636363636363636,
+          "negative_sign_identified": true,
+          "numerator_lower": -26,
+          "numerator_upper": -26,
+          "paired_conditions": 110
+        },
+        "13": {
+          "G0": {
+            "no": 93,
+            "yes": 17
+          },
+          "control": {
+            "no": 66,
+            "yes": 44
+          },
+          "difference_lower": -0.24545454545454545,
+          "difference_upper": -0.24545454545454545,
+          "negative_sign_identified": true,
+          "numerator_lower": -27,
+          "numerator_upper": -27,
+          "paired_conditions": 110
+        },
+        "14": {
+          "G0": {
+            "no": 96,
+            "yes": 14
+          },
+          "control": {
+            "no": 67,
+            "yes": 43
+          },
+          "difference_lower": -0.2636363636363636,
+          "difference_upper": -0.2636363636363636,
+          "negative_sign_identified": true,
+          "numerator_lower": -29,
+          "numerator_upper": -29,
+          "paired_conditions": 110
+        },
+        "15": {
+          "G0": {
+            "no": 89,
+            "yes": 21
+          },
+          "control": {
+            "no": 55,
+            "yes": 55
+          },
+          "difference_lower": -0.3090909090909091,
+          "difference_upper": -0.3090909090909091,
+          "negative_sign_identified": true,
+          "numerator_lower": -34,
+          "numerator_upper": -34,
+          "paired_conditions": 110
+        },
+        "2": {
+          "G0": {
+            "no": 106,
+            "yes": 4
+          },
+          "control": {
+            "no": 95,
+            "yes": 15
+          },
+          "difference_lower": -0.1,
+          "difference_upper": -0.1,
+          "negative_sign_identified": true,
+          "numerator_lower": -11,
+          "numerator_upper": -11,
+          "paired_conditions": 110
+        },
+        "3": {
+          "G0": {
+            "no": 97,
+            "yes": 13
+          },
+          "control": {
+            "no": 78,
+            "yes": 32
+          },
+          "difference_lower": -0.17272727272727273,
+          "difference_upper": -0.17272727272727273,
+          "negative_sign_identified": true,
+          "numerator_lower": -19,
+          "numerator_upper": -19,
+          "paired_conditions": 110
+        },
+        "4": {
+          "G0": {
+            "no": 105,
+            "yes": 5
+          },
+          "control": {
+            "no": 98,
+            "yes": 12
+          },
+          "difference_lower": -0.06363636363636363,
+          "difference_upper": -0.06363636363636363,
+          "negative_sign_identified": true,
+          "numerator_lower": -7,
+          "numerator_upper": -7,
+          "paired_conditions": 110
+        },
+        "5": {
+          "G0": {
+            "no": 96,
+            "yes": 14
+          },
+          "control": {
+            "no": 88,
+            "yes": 22
+          },
+          "difference_lower": -0.07272727272727272,
+          "difference_upper": -0.07272727272727272,
+          "negative_sign_identified": true,
+          "numerator_lower": -8,
+          "numerator_upper": -8,
+          "paired_conditions": 110
+        },
+        "6": {
+          "G0": {
+            "no": 102,
+            "yes": 8
+          },
+          "control": {
+            "no": 74,
+            "yes": 36
+          },
+          "difference_lower": -0.2545454545454545,
+          "difference_upper": -0.2545454545454545,
+          "negative_sign_identified": true,
+          "numerator_lower": -28,
+          "numerator_upper": -28,
+          "paired_conditions": 110
+        },
+        "7": {
+          "G0": {
+            "no": 92,
+            "yes": 18
+          },
+          "control": {
+            "no": 64,
+            "yes": 46
+          },
+          "difference_lower": -0.2545454545454545,
+          "difference_upper": -0.2545454545454545,
+          "negative_sign_identified": true,
+          "numerator_lower": -28,
+          "numerator_upper": -28,
+          "paired_conditions": 110
+        },
+        "8": {
+          "G0": {
+            "no": 105,
+            "yes": 5
+          },
+          "control": {
+            "no": 95,
+            "yes": 15
+          },
+          "difference_lower": -0.09090909090909091,
+          "difference_upper": -0.09090909090909091,
+          "negative_sign_identified": true,
+          "numerator_lower": -10,
+          "numerator_upper": -10,
+          "paired_conditions": 110
+        },
+        "9": {
+          "G0": {
+            "no": 98,
+            "yes": 12
+          },
+          "control": {
+            "no": 83,
+            "yes": 27
+          },
+          "difference_lower": -0.13636363636363635,
+          "difference_upper": -0.13636363636363635,
+          "negative_sign_identified": true,
+          "numerator_lower": -15,
+          "numerator_upper": -15,
+          "paired_conditions": 110
+        }
+      },
+      "by_side": {
+        "left": {
+          "G0": {
+            "no": 754,
+            "yes": 71
+          },
+          "control": {
+            "no": 592,
+            "yes": 233
+          },
+          "difference_lower": -0.19636363636363635,
+          "difference_upper": -0.19636363636363635,
+          "negative_sign_identified": true,
+          "numerator_lower": -162,
+          "numerator_upper": -162,
+          "paired_conditions": 825
+        },
+        "right": {
+          "G0": {
+            "no": 723,
+            "yes": 102
+          },
+          "control": {
+            "no": 605,
+            "yes": 220
+          },
+          "difference_lower": -0.14303030303030304,
+          "difference_upper": -0.14303030303030304,
+          "negative_sign_identified": true,
+          "numerator_lower": -118,
+          "numerator_upper": -118,
+          "paired_conditions": 825
+        }
+      },
+      "overall": {
+        "G0": {
+          "no": 1477,
+          "yes": 173
+        },
+        "control": {
+          "no": 1197,
+          "yes": 453
+        },
+        "difference_lower": -0.1696969696969697,
+        "difference_upper": -0.1696969696969697,
+        "negative_sign_identified": true,
+        "numerator_lower": -280,
+        "numerator_upper": -280,
+        "paired_conditions": 1650
+      }
+    },
+    "60": {
+      "by_raw": {
+        "1": {
+          "G0": {
+            "no": 102,
+            "yes": 8
+          },
+          "control": {
+            "no": 100,
+            "yes": 10
+          },
+          "difference_lower": -0.01818181818181818,
+          "difference_upper": -0.01818181818181818,
+          "negative_sign_identified": true,
+          "numerator_lower": -2,
+          "numerator_upper": -2,
+          "paired_conditions": 110
+        },
+        "10": {
+          "G0": {
+            "no": 101,
+            "yes": 9
+          },
+          "control": {
+            "no": 95,
+            "yes": 15
+          },
+          "difference_lower": -0.05454545454545454,
+          "difference_upper": -0.05454545454545454,
+          "negative_sign_identified": true,
+          "numerator_lower": -6,
+          "numerator_upper": -6,
+          "paired_conditions": 110
+        },
+        "11": {
+          "G0": {
+            "no": 98,
+            "yes": 12
+          },
+          "control": {
+            "no": 73,
+            "yes": 37
+          },
+          "difference_lower": -0.22727272727272727,
+          "difference_upper": -0.22727272727272727,
+          "negative_sign_identified": true,
+          "numerator_lower": -25,
+          "numerator_upper": -25,
+          "paired_conditions": 110
+        },
+        "12": {
+          "G0": {
+            "no": 101,
+            "yes": 9
+          },
+          "control": {
+            "no": 81,
+            "yes": 29
+          },
+          "difference_lower": -0.18181818181818182,
+          "difference_upper": -0.18181818181818182,
+          "negative_sign_identified": true,
+          "numerator_lower": -20,
+          "numerator_upper": -20,
+          "paired_conditions": 110
+        },
+        "13": {
+          "G0": {
+            "no": 96,
+            "yes": 14
+          },
+          "control": {
+            "no": 74,
+            "yes": 36
+          },
+          "difference_lower": -0.2,
+          "difference_upper": -0.2,
+          "negative_sign_identified": true,
+          "numerator_lower": -22,
+          "numerator_upper": -22,
+          "paired_conditions": 110
+        },
+        "14": {
+          "G0": {
+            "no": 100,
+            "yes": 10
+          },
+          "control": {
+            "no": 72,
+            "yes": 38
+          },
+          "difference_lower": -0.2545454545454545,
+          "difference_upper": -0.2545454545454545,
+          "negative_sign_identified": true,
+          "numerator_lower": -28,
+          "numerator_upper": -28,
+          "paired_conditions": 110
+        },
+        "15": {
+          "G0": {
+            "no": 94,
+            "yes": 16
+          },
+          "control": {
+            "no": 58,
+            "unknown": 1,
+            "yes": 51
+          },
+          "difference_lower": -0.32727272727272727,
+          "difference_upper": -0.3181818181818182,
+          "negative_sign_identified": true,
+          "numerator_lower": -36,
+          "numerator_upper": -35,
+          "paired_conditions": 110
+        },
+        "2": {
+          "G0": {
+            "no": 107,
+            "yes": 3
+          },
+          "control": {
+            "no": 96,
+            "yes": 14
+          },
+          "difference_lower": -0.1,
+          "difference_upper": -0.1,
+          "negative_sign_identified": true,
+          "numerator_lower": -11,
+          "numerator_upper": -11,
+          "paired_conditions": 110
+        },
+        "3": {
+          "G0": {
+            "no": 99,
+            "yes": 11
+          },
+          "control": {
+            "no": 88,
+            "yes": 22
+          },
+          "difference_lower": -0.1,
+          "difference_upper": -0.1,
+          "negative_sign_identified": true,
+          "numerator_lower": -11,
+          "numerator_upper": -11,
+          "paired_conditions": 110
+        },
+        "4": {
+          "G0": {
+            "no": 107,
+            "yes": 3
+          },
+          "control": {
+            "no": 99,
+            "yes": 11
+          },
+          "difference_lower": -0.07272727272727272,
+          "difference_upper": -0.07272727272727272,
+          "negative_sign_identified": true,
+          "numerator_lower": -8,
+          "numerator_upper": -8,
+          "paired_conditions": 110
+        },
+        "5": {
+          "G0": {
+            "no": 98,
+            "yes": 12
+          },
+          "control": {
+            "no": 92,
+            "yes": 18
+          },
+          "difference_lower": -0.05454545454545454,
+          "difference_upper": -0.05454545454545454,
+          "negative_sign_identified": true,
+          "numerator_lower": -6,
+          "numerator_upper": -6,
+          "paired_conditions": 110
+        },
+        "6": {
+          "G0": {
+            "no": 104,
+            "yes": 6
+          },
+          "control": {
+            "no": 78,
+            "yes": 32
+          },
+          "difference_lower": -0.23636363636363636,
+          "difference_upper": -0.23636363636363636,
+          "negative_sign_identified": true,
+          "numerator_lower": -26,
+          "numerator_upper": -26,
+          "paired_conditions": 110
+        },
+        "7": {
+          "G0": {
+            "no": 95,
+            "yes": 15
+          },
+          "control": {
+            "no": 68,
+            "yes": 42
+          },
+          "difference_lower": -0.24545454545454545,
+          "difference_upper": -0.24545454545454545,
+          "negative_sign_identified": true,
+          "numerator_lower": -27,
+          "numerator_upper": -27,
+          "paired_conditions": 110
+        },
+        "8": {
+          "G0": {
+            "no": 106,
+            "yes": 4
+          },
+          "control": {
+            "no": 96,
+            "yes": 14
+          },
+          "difference_lower": -0.09090909090909091,
+          "difference_upper": -0.09090909090909091,
+          "negative_sign_identified": true,
+          "numerator_lower": -10,
+          "numerator_upper": -10,
+          "paired_conditions": 110
+        },
+        "9": {
+          "G0": {
+            "no": 99,
+            "yes": 11
+          },
+          "control": {
+            "no": 84,
+            "yes": 26
+          },
+          "difference_lower": -0.13636363636363635,
+          "difference_upper": -0.13636363636363635,
+          "negative_sign_identified": true,
+          "numerator_lower": -15,
+          "numerator_upper": -15,
+          "paired_conditions": 110
+        }
+      },
+      "by_side": {
+        "left": {
+          "G0": {
+            "no": 770,
+            "yes": 55
+          },
+          "control": {
+            "no": 619,
+            "unknown": 1,
+            "yes": 205
+          },
+          "difference_lower": -0.18303030303030304,
+          "difference_upper": -0.18181818181818182,
+          "negative_sign_identified": true,
+          "numerator_lower": -151,
+          "numerator_upper": -150,
+          "paired_conditions": 825
+        },
+        "right": {
+          "G0": {
+            "no": 737,
+            "yes": 88
+          },
+          "control": {
+            "no": 635,
+            "yes": 190
+          },
+          "difference_lower": -0.12363636363636364,
+          "difference_upper": -0.12363636363636364,
+          "negative_sign_identified": true,
+          "numerator_lower": -102,
+          "numerator_upper": -102,
+          "paired_conditions": 825
+        }
+      },
+      "overall": {
+        "G0": {
+          "no": 1507,
+          "yes": 143
+        },
+        "control": {
+          "no": 1254,
+          "unknown": 1,
+          "yes": 395
+        },
+        "difference_lower": -0.15333333333333332,
+        "difference_upper": -0.15272727272727274,
+        "negative_sign_identified": true,
+        "numerator_lower": -253,
+        "numerator_upper": -252,
+        "paired_conditions": 1650
+      }
+    }
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "budget_results": {
+    "1": {
+      "eligible_parents": 1,
+      "eligible_rate": 0.007692307692307693,
+      "multiple_controls_available_within_100": 0,
+      "spread10": {
+        "ctrl_unknown": 0,
+        "ctrl_yes": 10,
+        "g0_unknown": 0,
+        "g0_yes": 0,
+        "lower_delta": -10,
+        "lower_rate": -0.3333333333333333,
+        "n": 30,
+        "negative_identified": true,
+        "upper_delta": -10,
+        "upper_rate": -0.3333333333333333
+      },
+      "spread60": {
+        "ctrl_unknown": 0,
+        "ctrl_yes": 9,
+        "g0_unknown": 0,
+        "g0_yes": 0,
+        "lower_delta": -9,
+        "lower_rate": -0.3,
+        "n": 30,
+        "negative_identified": true,
+        "upper_delta": -9,
+        "upper_rate": -0.3
+      }
+    },
+    "10": {
+      "eligible_parents": 10,
+      "eligible_rate": 0.07692307692307693,
+      "multiple_controls_available_within_100": 3,
+      "spread10": {
+        "ctrl_unknown": 0,
+        "ctrl_yes": 98,
+        "g0_unknown": 0,
+        "g0_yes": 30,
+        "lower_delta": -68,
+        "lower_rate": -0.22666666666666666,
+        "n": 300,
+        "negative_identified": true,
+        "upper_delta": -68,
+        "upper_rate": -0.22666666666666666
+      },
+      "spread60": {
+        "ctrl_unknown": 0,
+        "ctrl_yes": 88,
+        "g0_unknown": 0,
+        "g0_yes": 24,
+        "lower_delta": -64,
+        "lower_rate": -0.21333333333333335,
+        "n": 300,
+        "negative_identified": true,
+        "upper_delta": -64,
+        "upper_rate": -0.21333333333333335
+      }
+    },
+    "100": {
+      "eligible_parents": 55,
+      "eligible_rate": 0.4230769230769231,
+      "multiple_controls_available_within_100": 22,
+      "spread10": {
+        "ctrl_unknown": 0,
+        "ctrl_yes": 453,
+        "g0_unknown": 0,
+        "g0_yes": 173,
+        "lower_delta": -280,
+        "lower_rate": -0.1696969696969697,
+        "n": 1650,
+        "negative_identified": true,
+        "upper_delta": -280,
+        "upper_rate": -0.1696969696969697
+      },
+      "spread60": {
+        "ctrl_unknown": 1,
+        "ctrl_yes": 395,
+        "g0_unknown": 0,
+        "g0_yes": 143,
+        "lower_delta": -253,
+        "lower_rate": -0.15333333333333332,
+        "n": 1650,
+        "negative_identified": true,
+        "upper_delta": -252,
+        "upper_rate": -0.15272727272727274
+      }
+    },
+    "2": {
+      "eligible_parents": 2,
+      "eligible_rate": 0.015384615384615385,
+      "multiple_controls_available_within_100": 1,
+      "spread10": {
+        "ctrl_unknown": 0,
+        "ctrl_yes": 18,
+        "g0_unknown": 0,
+        "g0_yes": 8,
+        "lower_delta": -10,
+        "lower_rate": -0.16666666666666666,
+        "n": 60,
+        "negative_identified": true,
+        "upper_delta": -10,
+        "upper_rate": -0.16666666666666666
+      },
+      "spread60": {
+        "ctrl_unknown": 0,
+        "ctrl_yes": 16,
+        "g0_unknown": 0,
+        "g0_yes": 7,
+        "lower_delta": -9,
+        "lower_rate": -0.15,
+        "n": 60,
+        "negative_identified": true,
+        "upper_delta": -9,
+        "upper_rate": -0.15
+      }
+    },
+    "25": {
+      "eligible_parents": 19,
+      "eligible_rate": 0.14615384615384616,
+      "multiple_controls_available_within_100": 8,
+      "spread10": {
+        "ctrl_unknown": 0,
+        "ctrl_yes": 170,
+        "g0_unknown": 0,
+        "g0_yes": 61,
+        "lower_delta": -109,
+        "lower_rate": -0.1912280701754386,
+        "n": 570,
+        "negative_identified": true,
+        "upper_delta": -109,
+        "upper_rate": -0.1912280701754386
+      },
+      "spread60": {
+        "ctrl_unknown": 0,
+        "ctrl_yes": 149,
+        "g0_unknown": 0,
+        "g0_yes": 52,
+        "lower_delta": -97,
+        "lower_rate": -0.17017543859649123,
+        "n": 570,
+        "negative_identified": true,
+        "upper_delta": -97,
+        "upper_rate": -0.17017543859649123
+      }
+    },
+    "5": {
+      "eligible_parents": 5,
+      "eligible_rate": 0.038461538461538464,
+      "multiple_controls_available_within_100": 2,
+      "spread10": {
+        "ctrl_unknown": 0,
+        "ctrl_yes": 63,
+        "g0_unknown": 0,
+        "g0_yes": 23,
+        "lower_delta": -40,
+        "lower_rate": -0.26666666666666666,
+        "n": 150,
+        "negative_identified": true,
+        "upper_delta": -40,
+        "upper_rate": -0.26666666666666666
+      },
+      "spread60": {
+        "ctrl_unknown": 0,
+        "ctrl_yes": 58,
+        "g0_unknown": 0,
+        "g0_yes": 19,
+        "lower_delta": -39,
+        "lower_rate": -0.26,
+        "n": 150,
+        "negative_identified": true,
+        "upper_delta": -39,
+        "upper_rate": -0.26
+      }
+    },
+    "50": {
+      "eligible_parents": 35,
+      "eligible_rate": 0.2692307692307692,
+      "multiple_controls_available_within_100": 17,
+      "spread10": {
+        "ctrl_unknown": 0,
+        "ctrl_yes": 293,
+        "g0_unknown": 0,
+        "g0_yes": 122,
+        "lower_delta": -171,
+        "lower_rate": -0.16285714285714287,
+        "n": 1050,
+        "negative_identified": true,
+        "upper_delta": -171,
+        "upper_rate": -0.16285714285714287
+      },
+      "spread60": {
+        "ctrl_unknown": 0,
+        "ctrl_yes": 257,
+        "g0_unknown": 0,
+        "g0_yes": 106,
+        "lower_delta": -151,
+        "lower_rate": -0.1438095238095238,
+        "n": 1050,
+        "negative_identified": true,
+        "upper_delta": -151,
+        "upper_rate": -0.1438095238095238
+      }
+    },
+    "75": {
+      "eligible_parents": 48,
+      "eligible_rate": 0.36923076923076925,
+      "multiple_controls_available_within_100": 21,
+      "spread10": {
+        "ctrl_unknown": 0,
+        "ctrl_yes": 381,
+        "g0_unknown": 0,
+        "g0_yes": 158,
+        "lower_delta": -223,
+        "lower_rate": -0.15486111111111112,
+        "n": 1440,
+        "negative_identified": true,
+        "upper_delta": -223,
+        "upper_rate": -0.15486111111111112
+      },
+      "spread60": {
+        "ctrl_unknown": 0,
+        "ctrl_yes": 336,
+        "g0_unknown": 0,
+        "g0_yes": 130,
+        "lower_delta": -206,
+        "lower_rate": -0.14305555555555555,
+        "n": 1440,
+        "negative_identified": true,
+        "upper_delta": -206,
+        "upper_rate": -0.14305555555555555
+      }
+    }
+  },
+  "experiment": 137,
+  "match_ratio_base": 0.4230769230769231,
+  "nature": "budget sensitivity reanalysis, no new controls or interventions",
+  "protocol": "100 historical attempts per parent are frozen; budgets select first accepted attempt if within budget"
+}
