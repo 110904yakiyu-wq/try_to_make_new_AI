@@ -1,0 +1,9 @@
+# 049 — Five raw-input train panels replicate reduced heldout spread contrast
+
+**Experiment149** reuses frozen 113/130 eligible G0 parents, 970 autonomously period/support/phase0-matched control states, and exact same 50,000-tick spread event archives. Five disjoint raw triples, each applied on left and right boundaries (6 train probes), define selection response masks at ticks 1,3,6 versus each arm's own no-input physical baseline. Each fold's **24 other side/raw probes** are excluded entirely from selection and used only for heldout ever10/ever60 spread evaluation. No new kernel primitive, external learner or encoded object identity.
+
+Under first-accepted control selection, the all-113 heldout G0−control ever10 spread contrasts range from −12.61 to −13.20 pp across the five fold-specific test panels. Preoutcome response-mask matching on that fold's six train probes shrinks ever10 contrasts to −3.36 through −6.16 pp, mean −4.45 pp. Ever60 contrasts under response matching range −2.84 through −4.98 pp, mean −3.81 pp; censored trials are never counted as definitive no-event. The sign remains negative for every tested split, as for Exp148's separate raw triple (1,7,15).
+
+**Strict interpretation:** response-based conditioning is stronger than period/support matching, and is consistent with a material role for ordinary low-level nonlinear physical response patterns. It does not prove that such patterns fully mediate the G0 association, or that any residual difference is an emergent organizational code. Five folds reuse the same 113 parent clusters and 970 controls, hence no independent-replication or binomial-N=565 claim. Exp142's unconstrained eligible-control-choice envelope includes zero; 17/130 parents lack controls in the fixed proposal pool. Neither history-specific knowledge nor learning, goals, reproductive autonomy or SELF is established.
+
+Authority: `experiments/149_fivefold_train_raw_holdout/`, frozen Exp139/140/142, and docs/048.
