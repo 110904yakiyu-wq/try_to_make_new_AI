@@ -1,0 +1,47 @@
+{
+  "summary": {
+    "eligible_controls": 970,
+    "exact_microstate_controls": 1,
+    "far_tie_break_changes_control": 2,
+    "near_tie_break_changes_control": 6,
+    "parents": 113,
+    "parents_with_multiple_raw_distances": 111,
+    "parents_with_same_orbit_control": 1,
+    "same_autonomous_orbit_controls": 1,
+    "spread10": {
+      "far_control_yes": 769,
+      "far_higher_parents": 45,
+      "far_minus_near_parent_mean_rate": 0.03126843657817109,
+      "far_with_window_tie_yes": 740,
+      "near_control_yes": 663,
+      "near_excluding_identity_unknown": 0,
+      "near_excluding_identity_yes": 660,
+      "near_higher_parents": 45,
+      "near_with_window_tie_yes": 615,
+      "negative_distance_response_slopes": 46,
+      "positive_distance_response_slopes": 65,
+      "slope_evaluable_parents": 111,
+      "tied_parents": 23,
+      "zero_distance_response_slopes": 0
+    },
+    "spread60": {
+      "far_control_yes": 607,
+      "far_higher_parents": 49,
+      "far_minus_near_parent_mean_rate": 0.026253687315634218,
+      "far_with_window_tie_yes": 583,
+      "near_control_yes": 518,
+      "near_excluding_identity_unknown": 0,
+      "near_excluding_identity_yes": 518,
+      "near_higher_parents": 43,
+      "near_with_window_tie_yes": 476,
+      "negative_distance_response_slopes": 43,
+      "positive_distance_response_slopes": 68,
+      "slope_evaluable_parents": 111,
+      "tied_parents": 21,
+      "zero_distance_response_slopes": 0
+    },
+    "within_parent_same_distance_differing_yes10": 198,
+    "within_parent_same_distance_differing_yes60": 199,
+    "within_parent_same_distance_groups": 231
+  }
+}
