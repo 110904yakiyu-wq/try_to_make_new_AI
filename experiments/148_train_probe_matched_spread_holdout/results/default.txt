@@ -1,0 +1,356 @@
+{
+  "experiment": 148,
+  "summary": {
+    "all113": {
+      "first": {
+        "changed_choice_vs_first": 0,
+        "exact_training_t1_t3_parents": 0,
+        "heldout_probes_per_arm": 2712,
+        "mean_bitdistance0": 8.265486725663717,
+        "parents": 113,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 247,
+          "control_unknown": 0,
+          "control_yes": 580,
+          "lower_difference": -0.12278761061946902,
+          "upper_difference": -0.12278761061946902
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 187,
+          "control_unknown": 1,
+          "control_yes": 474,
+          "lower_difference": -0.10619469026548672,
+          "upper_difference": -0.10582595870206489
+        }
+      },
+      "raw_nearest": {
+        "changed_choice_vs_first": 91,
+        "exact_training_t1_t3_parents": 4,
+        "heldout_probes_per_arm": 2712,
+        "mean_bitdistance0": 4.371681415929204,
+        "parents": 113,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 247,
+          "control_unknown": 0,
+          "control_yes": 445,
+          "lower_difference": -0.07300884955752213,
+          "upper_difference": -0.07300884955752213
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 187,
+          "control_unknown": 0,
+          "control_yes": 338,
+          "lower_difference": -0.055678466076696166,
+          "upper_difference": -0.055678466076696166
+        }
+      },
+      "train_t1": {
+        "changed_choice_vs_first": 92,
+        "exact_training_t1_t3_parents": 4,
+        "heldout_probes_per_arm": 2712,
+        "mean_bitdistance0": 5.061946902654867,
+        "parents": 113,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 247,
+          "control_unknown": 0,
+          "control_yes": 475,
+          "lower_difference": -0.084070796460177,
+          "upper_difference": -0.084070796460177
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 187,
+          "control_unknown": 0,
+          "control_yes": 369,
+          "lower_difference": -0.06710914454277286,
+          "upper_difference": -0.06710914454277286
+        }
+      },
+      "train_t1_3": {
+        "changed_choice_vs_first": 95,
+        "exact_training_t1_t3_parents": 6,
+        "heldout_probes_per_arm": 2712,
+        "mean_bitdistance0": 6.274336283185841,
+        "parents": 113,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 247,
+          "control_unknown": 0,
+          "control_yes": 447,
+          "lower_difference": -0.07374631268436578,
+          "upper_difference": -0.07374631268436578
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 187,
+          "control_unknown": 0,
+          "control_yes": 348,
+          "lower_difference": -0.05936578171091445,
+          "upper_difference": -0.05936578171091445
+        }
+      },
+      "train_t1_3_6": {
+        "changed_choice_vs_first": 95,
+        "exact_training_t1_t3_parents": 5,
+        "heldout_probes_per_arm": 2712,
+        "mean_bitdistance0": 7.053097345132743,
+        "parents": 113,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 247,
+          "control_unknown": 0,
+          "control_yes": 348,
+          "lower_difference": -0.03724188790560472,
+          "upper_difference": -0.03724188790560472
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 187,
+          "control_unknown": 0,
+          "control_yes": 272,
+          "lower_difference": -0.031342182890855455,
+          "upper_difference": -0.031342182890855455
+        }
+      }
+    },
+    "new58": {
+      "first": {
+        "changed_choice_vs_first": 0,
+        "exact_training_t1_t3_parents": 0,
+        "heldout_probes_per_arm": 1392,
+        "mean_bitdistance0": 8.293103448275861,
+        "parents": 58,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 122,
+          "control_unknown": 0,
+          "control_yes": 241,
+          "lower_difference": -0.08548850574712644,
+          "upper_difference": -0.08548850574712644
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 83,
+          "control_unknown": 1,
+          "control_yes": 182,
+          "lower_difference": -0.07183908045977011,
+          "upper_difference": -0.07112068965517242
+        }
+      },
+      "raw_nearest": {
+        "changed_choice_vs_first": 41,
+        "exact_training_t1_t3_parents": 1,
+        "heldout_probes_per_arm": 1392,
+        "mean_bitdistance0": 4.741379310344827,
+        "parents": 58,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 122,
+          "control_unknown": 0,
+          "control_yes": 210,
+          "lower_difference": -0.06321839080459771,
+          "upper_difference": -0.06321839080459771
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 83,
+          "control_unknown": 0,
+          "control_yes": 156,
+          "lower_difference": -0.05244252873563218,
+          "upper_difference": -0.05244252873563218
+        }
+      },
+      "train_t1": {
+        "changed_choice_vs_first": 41,
+        "exact_training_t1_t3_parents": 1,
+        "heldout_probes_per_arm": 1392,
+        "mean_bitdistance0": 5.603448275862069,
+        "parents": 58,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 122,
+          "control_unknown": 0,
+          "control_yes": 237,
+          "lower_difference": -0.08261494252873564,
+          "upper_difference": -0.08261494252873564
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 83,
+          "control_unknown": 0,
+          "control_yes": 176,
+          "lower_difference": -0.0668103448275862,
+          "upper_difference": -0.0668103448275862
+        }
+      },
+      "train_t1_3": {
+        "changed_choice_vs_first": 45,
+        "exact_training_t1_t3_parents": 1,
+        "heldout_probes_per_arm": 1392,
+        "mean_bitdistance0": 6.568965517241379,
+        "parents": 58,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 122,
+          "control_unknown": 0,
+          "control_yes": 224,
+          "lower_difference": -0.07327586206896551,
+          "upper_difference": -0.07327586206896551
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 83,
+          "control_unknown": 0,
+          "control_yes": 169,
+          "lower_difference": -0.0617816091954023,
+          "upper_difference": -0.0617816091954023
+        }
+      },
+      "train_t1_3_6": {
+        "changed_choice_vs_first": 43,
+        "exact_training_t1_t3_parents": 1,
+        "heldout_probes_per_arm": 1392,
+        "mean_bitdistance0": 7.0344827586206895,
+        "parents": 58,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 122,
+          "control_unknown": 0,
+          "control_yes": 180,
+          "lower_difference": -0.041666666666666664,
+          "upper_difference": -0.041666666666666664
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 83,
+          "control_unknown": 0,
+          "control_yes": 134,
+          "lower_difference": -0.036637931034482756,
+          "upper_difference": -0.036637931034482756
+        }
+      }
+    },
+    "old55": {
+      "first": {
+        "changed_choice_vs_first": 0,
+        "exact_training_t1_t3_parents": 0,
+        "heldout_probes_per_arm": 1320,
+        "mean_bitdistance0": 8.236363636363636,
+        "parents": 55,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 125,
+          "control_unknown": 0,
+          "control_yes": 339,
+          "lower_difference": -0.1621212121212121,
+          "upper_difference": -0.1621212121212121
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 104,
+          "control_unknown": 0,
+          "control_yes": 292,
+          "lower_difference": -0.14242424242424243,
+          "upper_difference": -0.14242424242424243
+        }
+      },
+      "raw_nearest": {
+        "changed_choice_vs_first": 50,
+        "exact_training_t1_t3_parents": 3,
+        "heldout_probes_per_arm": 1320,
+        "mean_bitdistance0": 3.981818181818182,
+        "parents": 55,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 125,
+          "control_unknown": 0,
+          "control_yes": 235,
+          "lower_difference": -0.08333333333333333,
+          "upper_difference": -0.08333333333333333
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 104,
+          "control_unknown": 0,
+          "control_yes": 182,
+          "lower_difference": -0.05909090909090909,
+          "upper_difference": -0.05909090909090909
+        }
+      },
+      "train_t1": {
+        "changed_choice_vs_first": 51,
+        "exact_training_t1_t3_parents": 3,
+        "heldout_probes_per_arm": 1320,
+        "mean_bitdistance0": 4.490909090909091,
+        "parents": 55,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 125,
+          "control_unknown": 0,
+          "control_yes": 238,
+          "lower_difference": -0.0856060606060606,
+          "upper_difference": -0.0856060606060606
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 104,
+          "control_unknown": 0,
+          "control_yes": 193,
+          "lower_difference": -0.06742424242424243,
+          "upper_difference": -0.06742424242424243
+        }
+      },
+      "train_t1_3": {
+        "changed_choice_vs_first": 50,
+        "exact_training_t1_t3_parents": 5,
+        "heldout_probes_per_arm": 1320,
+        "mean_bitdistance0": 5.963636363636364,
+        "parents": 55,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 125,
+          "control_unknown": 0,
+          "control_yes": 223,
+          "lower_difference": -0.07424242424242425,
+          "upper_difference": -0.07424242424242425
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 104,
+          "control_unknown": 0,
+          "control_yes": 179,
+          "lower_difference": -0.056818181818181816,
+          "upper_difference": -0.056818181818181816
+        }
+      },
+      "train_t1_3_6": {
+        "changed_choice_vs_first": 52,
+        "exact_training_t1_t3_parents": 4,
+        "heldout_probes_per_arm": 1320,
+        "mean_bitdistance0": 7.072727272727272,
+        "parents": 55,
+        "spread10": {
+          "G0_unknown": 0,
+          "G0_yes": 125,
+          "control_unknown": 0,
+          "control_yes": 168,
+          "lower_difference": -0.03257575757575758,
+          "upper_difference": -0.03257575757575758
+        },
+        "spread60": {
+          "G0_unknown": 0,
+          "G0_yes": 104,
+          "control_unknown": 0,
+          "control_yes": 138,
+          "lower_difference": -0.025757575757575757,
+          "upper_difference": -0.025757575757575757
+        }
+      }
+    }
+  }
+}
