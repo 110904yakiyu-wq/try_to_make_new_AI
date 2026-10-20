@@ -1,0 +1,121 @@
+{
+  "inventory": {
+    "catalog_parents": 130,
+    "contexts": 260,
+    "processed_parents": 130,
+    "response_records": 6128,
+    "unique_response_microstates": 4528
+  },
+  "summary": {
+    "LR": {
+      "contexts": 128,
+      "eligible_contexts": 128,
+      "full_minus_sham_LR": {
+        "mean": 13.274691358024691,
+        "negative": 0,
+        "positive": 81,
+        "tied": 0
+      },
+      "mean_affected_sites_by_arm": {
+        "L0": 7.726851851851852,
+        "LR": 14.274691358024691,
+        "R24": 7.060185185185185,
+        "sham": 1
+      },
+      "mean_ever10_by_arm": {
+        "L0": 0.345679012345679,
+        "LR": 0.6759259259259259,
+        "R24": 0.28858024691358025,
+        "sham": 0
+      },
+      "parents": 81,
+      "records": 2048,
+      "synergy_LR": {
+        "mean": 0.4876543209876543,
+        "negative": 27,
+        "positive": 52,
+        "tied": 2
+      }
+    },
+    "RL": {
+      "contexts": 129,
+      "eligible_contexts": 129,
+      "full_minus_sham_RL": {
+        "mean": 14.212962962962964,
+        "negative": 0,
+        "positive": 81,
+        "tied": 0
+      },
+      "mean_affected_sites_by_arm": {
+        "L24": 8.20679012345679,
+        "R0": 6.555555555555555,
+        "RL": 15.212962962962964,
+        "sham": 1
+      },
+      "mean_ever10_by_arm": {
+        "L24": 0.37037037037037035,
+        "R0": 0.27314814814814814,
+        "RL": 0.6867283950617284,
+        "sham": 0
+      },
+      "parents": 81,
+      "records": 2064,
+      "synergy_RL": {
+        "mean": 1.4506172839506173,
+        "negative": 17,
+        "positive": 64,
+        "tied": 0
+      }
+    },
+    "common_eight_arm": {
+      "contexts": 102,
+      "eligible_contexts": 102,
+      "full_minus_sham_LR": {
+        "mean": 13.652173913043478,
+        "negative": 0,
+        "positive": 69,
+        "tied": 0
+      },
+      "full_minus_sham_RL": {
+        "mean": 14.471014492753623,
+        "negative": 0,
+        "positive": 69,
+        "tied": 0
+      },
+      "mean_affected_sites_by_arm": {
+        "L0": 8.291666666666666,
+        "L24": 8.356884057971014,
+        "LR": 14.652173913043478,
+        "R0": 6.72463768115942,
+        "R24": 6.806159420289855,
+        "RL": 15.471014492753623,
+        "sham": 1,
+        "simultaneous": 15.634057971014492
+      },
+      "mean_ever10_by_arm": {
+        "L0": 0.38405797101449274,
+        "L24": 0.38768115942028986,
+        "LR": 0.6992753623188406,
+        "R0": 0.2826086956521739,
+        "R24": 0.27898550724637683,
+        "RL": 0.7083333333333334,
+        "sham": 0,
+        "simultaneous": 0.7101449275362319
+      },
+      "parents": 69,
+      "records": 3264,
+      "synergy_LR": {
+        "mean": 0.5543478260869565,
+        "negative": 23,
+        "positive": 45,
+        "tied": 1
+      },
+      "synergy_RL": {
+        "mean": 1.3894927536231885,
+        "negative": 16,
+        "positive": 53,
+        "tied": 0
+      }
+    }
+  }
+}

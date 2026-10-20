@@ -1,0 +1,121 @@
+{
+  "inventory": {
+    "catalog_parents": 130,
+    "contexts": 260,
+    "parents_processed": 130,
+    "response_records": 8168,
+    "unique_test_microstates": 6432
+  },
+  "summary": {
+    "LR": {
+      "contexts": 238,
+      "eligible_contexts": 238,
+      "full_minus_sham_LR": {
+        "mean": 7.017857142857143,
+        "negative": 3,
+        "positive": 114,
+        "tied": 2
+      },
+      "mean_affected_sites_by_arm": {
+        "L0": 5.617647058823529,
+        "LR": 10.54936974789916,
+        "R24": 7.257352941176471,
+        "sham": 3.5315126050420167
+      },
+      "mean_ever10_by_arm": {
+        "L0": 0.07668067226890757,
+        "LR": 0.2111344537815126,
+        "R24": 0.13865546218487396,
+        "sham": 0.038865546218487396
+      },
+      "parents": 119,
+      "records": 3808,
+      "synergy_LR": {
+        "mean": 1.2058823529411764,
+        "negative": 29,
+        "positive": 61,
+        "tied": 29
+      }
+    },
+    "RL": {
+      "contexts": 244,
+      "eligible_contexts": 244,
+      "full_minus_sham_RL": {
+        "mean": 7.745901639344262,
+        "negative": 8,
+        "positive": 113,
+        "tied": 1
+      },
+      "mean_affected_sites_by_arm": {
+        "L24": 7.909836065573771,
+        "R0": 6.028688524590164,
+        "RL": 11.313524590163935,
+        "sham": 3.567622950819672
+      },
+      "mean_ever10_by_arm": {
+        "L24": 0.1444672131147541,
+        "R0": 0.09016393442622951,
+        "RL": 0.24077868852459017,
+        "sham": 0.040983606557377046
+      },
+      "parents": 122,
+      "records": 3904,
+      "synergy_RL": {
+        "mean": 0.9426229508196722,
+        "negative": 35,
+        "positive": 59,
+        "tied": 28
+      }
+    },
+    "common_eight_arm": {
+      "contexts": 222,
+      "eligible_contexts": 222,
+      "full_minus_sham_LR": {
+        "mean": 5.809684684684685,
+        "negative": 3,
+        "positive": 106,
+        "tied": 2
+      },
+      "full_minus_sham_RL": {
+        "mean": 5.676801801801802,
+        "negative": 8,
+        "positive": 102,
+        "tied": 1
+      },
+      "mean_affected_sites_by_arm": {
+        "L0": 5.59009009009009,
+        "L24": 5.54054054054054,
+        "LR": 9.278153153153154,
+        "R0": 5.846846846846847,
+        "R24": 5.826576576576577,
+        "RL": 9.14527027027027,
+        "sham": 3.4684684684684686,
+        "simultaneous": 9.707207207207206
+      },
+      "mean_ever10_by_arm": {
+        "L0": 0.07207207207207207,
+        "L24": 0.07207207207207207,
+        "LR": 0.16103603603603603,
+        "R0": 0.07882882882882883,
+        "R24": 0.08558558558558559,
+        "RL": 0.16554054054054054,
+        "sham": 0.03265765765765766,
+        "simultaneous": 0.16891891891891891
+      },
+      "parents": 111,
+      "records": 7104,
+      "synergy_LR": {
+        "mean": 1.329954954954955,
+        "negative": 25,
+        "positive": 58,
+        "tied": 28
+      },
+      "synergy_RL": {
+        "mean": 1.2263513513513513,
+        "negative": 28,
+        "positive": 55,
+        "tied": 28
+      }
+    }
+  }
+}
