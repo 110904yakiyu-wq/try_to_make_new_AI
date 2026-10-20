@@ -1,0 +1,273 @@
+{
+  "by_period": {
+    "12": {
+      "accepted": 443,
+      "autonomous_static": 534,
+      "parents": 76,
+      "right_censored_500": 54040,
+      "wrong_cycle_union_support": 7642,
+      "wrong_period": 13328,
+      "wrong_phase0_occupancy": 13
+    },
+    "168": {
+      "accepted": 0,
+      "autonomous_static": 0,
+      "parents": 4,
+      "right_censored_500": 3763,
+      "wrong_cycle_union_support": 6,
+      "wrong_period": 231,
+      "wrong_phase0_occupancy": 0
+    },
+    "18": {
+      "accepted": 0,
+      "autonomous_static": 4,
+      "parents": 4,
+      "right_censored_500": 3403,
+      "wrong_cycle_union_support": 13,
+      "wrong_period": 578,
+      "wrong_phase0_occupancy": 2
+    },
+    "24": {
+      "accepted": 1,
+      "autonomous_static": 1,
+      "parents": 4,
+      "right_censored_500": 3669,
+      "wrong_cycle_union_support": 63,
+      "wrong_period": 266,
+      "wrong_phase0_occupancy": 0
+    },
+    "3": {
+      "accepted": 0,
+      "autonomous_static": 9,
+      "parents": 2,
+      "right_censored_500": 1387,
+      "wrong_cycle_union_support": 2,
+      "wrong_period": 602,
+      "wrong_phase0_occupancy": 0
+    },
+    "6": {
+      "accepted": 526,
+      "autonomous_static": 637,
+      "parents": 40,
+      "right_censored_500": 23737,
+      "wrong_cycle_union_support": 1854,
+      "wrong_period": 13221,
+      "wrong_phase0_occupancy": 25
+    }
+  },
+  "gates": {
+    "accepted": 970,
+    "autonomous_static": 1185,
+    "right_censored_500": 89999,
+    "wrong_cycle_union_support": 9580,
+    "wrong_period": 28226,
+    "wrong_phase0_occupancy": 40
+  },
+  "still_unmatched_1000": [
+    {
+      "accepted": 0,
+      "accepted_candidates": 0,
+      "autonomous_static": 1,
+      "parent_id": 20,
+      "period": 18,
+      "right_censored_500": 839,
+      "support_size": 8,
+      "wrong_cycle_union_support": 5,
+      "wrong_period": 155,
+      "wrong_phase0_occupancy": 0
+    },
+    {
+      "accepted": 0,
+      "accepted_candidates": 0,
+      "autonomous_static": 5,
+      "parent_id": 43,
+      "period": 3,
+      "right_censored_500": 685,
+      "support_size": 5,
+      "wrong_cycle_union_support": 2,
+      "wrong_period": 308,
+      "wrong_phase0_occupancy": 0
+    },
+    {
+      "accepted": 0,
+      "accepted_candidates": 0,
+      "autonomous_static": 0,
+      "parent_id": 51,
+      "period": 18,
+      "right_censored_500": 860,
+      "support_size": 8,
+      "wrong_cycle_union_support": 3,
+      "wrong_period": 136,
+      "wrong_phase0_occupancy": 1
+    },
+    {
+      "accepted": 0,
+      "accepted_candidates": 0,
+      "autonomous_static": 0,
+      "parent_id": 56,
+      "period": 12,
+      "right_censored_500": 961,
+      "support_size": 13,
+      "wrong_cycle_union_support": 8,
+      "wrong_period": 31,
+      "wrong_phase0_occupancy": 0
+    },
+    {
+      "accepted": 0,
+      "accepted_candidates": 0,
+      "autonomous_static": 0,
+      "parent_id": 58,
+      "period": 24,
+      "right_censored_500": 920,
+      "support_size": 10,
+      "wrong_cycle_union_support": 16,
+      "wrong_period": 64,
+      "wrong_phase0_occupancy": 0
+    },
+    {
+      "accepted": 0,
+      "accepted_candidates": 0,
+      "autonomous_static": 0,
+      "parent_id": 60,
+      "period": 168,
+      "right_censored_500": 953,
+      "support_size": 11,
+      "wrong_cycle_union_support": 2,
+      "wrong_period": 45,
+      "wrong_phase0_occupancy": 0
+    },
+    {
+      "accepted": 0,
+      "accepted_candidates": 0,
+      "autonomous_static": 0,
+      "parent_id": 74,
+      "period": 18,
+      "right_censored_500": 855,
+      "support_size": 8,
+      "wrong_cycle_union_support": 0,
+      "wrong_period": 144,
+      "wrong_phase0_occupancy": 1
+    },
+    {
+      "accepted": 0,
+      "accepted_candidates": 0,
+      "autonomous_static": 4,
+      "parent_id": 88,
+      "period": 3,
+      "right_censored_500": 702,
+      "support_size": 5,
+      "wrong_cycle_union_support": 0,
+      "wrong_period": 294,
+      "wrong_phase0_occupancy": 0
+    },
+    {
+      "accepted": 0,
+      "accepted_candidates": 0,
+      "autonomous_static": 0,
+      "parent_id": 95,
+      "period": 12,
+      "right_censored_500": 965,
+      "support_size": 13,
+      "wrong_cycle_union_support": 5,
+      "wrong_period": 30,
+      "wrong_phase0_occupancy": 0
+    },
+    {
+      "accepted": 0,
+      "accepted_candidates": 0,
+      "autonomous_static": 0,
+      "parent_id": 96,
+      "period": 24,
+      "right_censored_500": 915,
+      "support_size": 10,
+      "wrong_cycle_union_support": 15,
+      "wrong_period": 70,
+      "wrong_phase0_occupancy": 0
+    },
+    {
+      "accepted": 0,
+      "accepted_candidates": 0,
+      "autonomous_static": 0,
+      "parent_id": 97,
+      "period": 168,
+      "right_censored_500": 938,
+      "support_size": 11,
+      "wrong_cycle_union_support": 1,
+      "wrong_period": 61,
+      "wrong_phase0_occupancy": 0
+    },
+    {
+      "accepted": 0,
+      "accepted_candidates": 0,
+      "autonomous_static": 3,
+      "parent_id": 105,
+      "period": 18,
+      "right_censored_500": 849,
+      "support_size": 8,
+      "wrong_cycle_union_support": 5,
+      "wrong_period": 143,
+      "wrong_phase0_occupancy": 0
+    },
+    {
+      "accepted": 0,
+      "accepted_candidates": 0,
+      "autonomous_static": 0,
+      "parent_id": 112,
+      "period": 12,
+      "right_censored_500": 958,
+      "support_size": 13,
+      "wrong_cycle_union_support": 8,
+      "wrong_period": 34,
+      "wrong_phase0_occupancy": 0
+    },
+    {
+      "accepted": 0,
+      "accepted_candidates": 0,
+      "autonomous_static": 0,
+      "parent_id": 113,
+      "period": 24,
+      "right_censored_500": 933,
+      "support_size": 10,
+      "wrong_cycle_union_support": 10,
+      "wrong_period": 57,
+      "wrong_phase0_occupancy": 0
+    },
+    {
+      "accepted": 0,
+      "accepted_candidates": 0,
+      "autonomous_static": 0,
+      "parent_id": 114,
+      "period": 168,
+      "right_censored_500": 931,
+      "support_size": 11,
+      "wrong_cycle_union_support": 2,
+      "wrong_period": 67,
+      "wrong_phase0_occupancy": 0
+    },
+    {
+      "accepted": 0,
+      "accepted_candidates": 0,
+      "autonomous_static": 0,
+      "parent_id": 122,
+      "period": 12,
+      "right_censored_500": 962,
+      "support_size": 13,
+      "wrong_cycle_union_support": 9,
+      "wrong_period": 29,
+      "wrong_phase0_occupancy": 0
+    },
+    {
+      "accepted": 0,
+      "accepted_candidates": 0,
+      "autonomous_static": 0,
+      "parent_id": 123,
+      "period": 168,
+      "right_censored_500": 941,
+      "support_size": 11,
+      "wrong_cycle_union_support": 1,
+      "wrong_period": 58,
+      "wrong_phase0_occupancy": 0
+    }
+  ],
+  "total_attempts": 130000
+}
