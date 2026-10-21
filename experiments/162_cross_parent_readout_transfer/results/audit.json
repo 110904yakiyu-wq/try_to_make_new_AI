@@ -1,0 +1,88 @@
+{
+  "audit_status": "PASS",
+  "bootstrap_independent_orbit_classes": 126,
+  "caution": "Orbit-class resampling accounts for the four repeated autonomous cycles but still conditions on fixed pooled decoder training, five parent groups and 12 correlated mask splits. Exploratory sensitivity, not a confidence statement for independent populations.",
+  "exp161_exact_within_parent_compared_records": 6240,
+  "orbit_duplicate_groups_not_leaked": [
+    [
+      7,
+      31
+    ],
+    [
+      15,
+      68
+    ],
+    [
+      124,
+      126
+    ],
+    [
+      125,
+      128
+    ]
+  ],
+  "phase_aware_groups": 5,
+  "posthoc_sham_delta_minus_raw_transfer_rbf": {
+    "bootstrap_95pct_descriptive": [
+      0.01644805597471251,
+      0.02350055090769905
+    ],
+    "mean": 0.019952991452991457,
+    "scope": "posthoc orbit-class cluster bootstrap, 126 clusters; conditions on training decoder and mask splits; exploratory after first Exp162 v0 results"
+  },
+  "readout_summary": {
+    "raw_linear": {
+      "fold_means_above_chance": 8,
+      "range_split_mean": [
+        0.49715384615384617,
+        0.5059807692307693
+      ],
+      "transfer_mean_ba": 0.5019102564102564,
+      "transfer_minus_shuffled": 0.0014527777777777783,
+      "transfer_orbit_class_bootstrap_95pct_descriptive": [
+        0.49924197486003447,
+        0.5046080310876537
+      ]
+    },
+    "raw_rbf": {
+      "fold_means_above_chance": 12,
+      "range_split_mean": [
+        0.5024807692307692,
+        0.5734807692307692
+      ],
+      "transfer_mean_ba": 0.5317510683760683,
+      "transfer_minus_shuffled": 0.031455662393162394,
+      "transfer_orbit_class_bootstrap_95pct_descriptive": [
+        0.5270206724510325,
+        0.5365323322214933
+      ]
+    },
+    "sham_delta_linear": {
+      "fold_means_above_chance": 8,
+      "range_split_mean": [
+        0.4945064102564103,
+        0.5102628205128206
+      ],
+      "transfer_mean_ba": 0.5019230769230769,
+      "transfer_minus_shuffled": 0.00030245726495726664,
+      "transfer_orbit_class_bootstrap_95pct_descriptive": [
+        0.49900939798250843,
+        0.5046014241432142
+      ]
+    },
+    "sham_delta_rbf": {
+      "fold_means_above_chance": 12,
+      "range_split_mean": [
+        0.5065512820512821,
+        0.6187628205128205
+      ],
+      "transfer_mean_ba": 0.5517040598290598,
+      "transfer_minus_shuffled": 0.050599786324786324,
+      "transfer_orbit_class_bootstrap_95pct_descriptive": [
+        0.5455073817854112,
+        0.5582243854192297
+      ]
+    }
+  },
+  "unique_phase_aware_orbit_classes": 126
+}

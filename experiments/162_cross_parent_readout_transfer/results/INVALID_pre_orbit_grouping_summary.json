@@ -1,0 +1,24 @@
+{
+  "do_not_use_for_inference": true,
+  "initial_summary": {
+    "raw_linear": {
+      "transfer_ba": 0.5029385683760684,
+      "within_ba": 0.5129893162393162
+    },
+    "raw_rbf": {
+      "transfer_ba": 0.5303386752136752,
+      "within_ba": 0.5641875
+    },
+    "sham_delta_linear": {
+      "transfer_ba": 0.5043445512820512,
+      "within_ba": 0.5129893162393162
+    },
+    "sham_delta_rbf": {
+      "transfer_ba": 0.5559059829059829,
+      "within_ba": 0.5641875
+    }
+  },
+  "invalid_reason": "4 identical phase-aware orbit classes crossed train/evaluation groups (ids [7,31],[15,68],[124,126],[125,128])",
+  "method": "parent_id % 5 groups before phase-aware orbit audit",
+  "status": "INVALID_ORBIT_CLASS_LEAKAGE"
+}
